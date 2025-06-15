@@ -1,0 +1,779 @@
+[
+  {
+    "name": "Azumarill",
+    "number": "1",
+    "rarity": "Rare Holo",
+    "set_name": "Team Rocket Returns",
+    "set_series": "EX"
+  },
+  {
+    "name": "Dark Ampharos",
+    "number": "2",
+    "rarity": "Rare Holo",
+    "set_name": "Team Rocket Returns",
+    "set_series": "EX"
+  },
+  {
+    "name": "Dark Crobat",
+    "number": "3",
+    "rarity": "Rare Holo",
+    "set_name": "Team Rocket Returns",
+    "set_series": "EX"
+  },
+  {
+    "name": "Dark Electrode",
+    "number": "4",
+    "rarity": "Rare Holo",
+    "set_name": "Team Rocket Returns",
+    "set_series": "EX"
+  },
+  {
+    "name": "Dark Houndoom",
+    "number": "5",
+    "rarity": "Rare Holo",
+    "set_name": "Team Rocket Returns",
+    "set_series": "EX"
+  },
+  {
+    "name": "Dark Hypno",
+    "number": "6",
+    "rarity": "Rare Holo",
+    "set_name": "Team Rocket Returns",
+    "set_series": "EX"
+  },
+  {
+    "name": "Dark Marowak",
+    "number": "7",
+    "rarity": "Rare Holo",
+    "set_name": "Team Rocket Returns",
+    "set_series": "EX"
+  },
+  {
+    "name": "Dark Octillery",
+    "number": "8",
+    "rarity": "Rare Holo",
+    "set_name": "Team Rocket Returns",
+    "set_series": "EX"
+  },
+  {
+    "name": "Dark Slowking",
+    "number": "9",
+    "rarity": "Rare Holo",
+    "set_name": "Team Rocket Returns",
+    "set_series": "EX"
+  },
+  {
+    "name": "Dark Steelix",
+    "number": "10",
+    "rarity": "Rare Holo",
+    "set_name": "Team Rocket Returns",
+    "set_series": "EX"
+  },
+  {
+    "name": "Jumpluff",
+    "number": "11",
+    "rarity": "Rare Holo",
+    "set_name": "Team Rocket Returns",
+    "set_series": "EX"
+  },
+  {
+    "name": "Kingdra",
+    "number": "12",
+    "rarity": "Rare Holo",
+    "set_name": "Team Rocket Returns",
+    "set_series": "EX"
+  },
+  {
+    "name": "Piloswine",
+    "number": "13",
+    "rarity": "Rare Holo",
+    "set_name": "Team Rocket Returns",
+    "set_series": "EX"
+  },
+  {
+    "name": "Togetic",
+    "number": "14",
+    "rarity": "Rare Holo",
+    "set_name": "Team Rocket Returns",
+    "set_series": "EX"
+  },
+  {
+    "name": "Dark Dragonite",
+    "number": "15",
+    "rarity": "Rare",
+    "set_name": "Team Rocket Returns",
+    "set_series": "EX"
+  },
+  {
+    "name": "Dark Muk",
+    "number": "16",
+    "rarity": "Rare",
+    "set_name": "Team Rocket Returns",
+    "set_series": "EX"
+  },
+  {
+    "name": "Dark Raticate",
+    "number": "17",
+    "rarity": "Rare",
+    "set_name": "Team Rocket Returns",
+    "set_series": "EX"
+  },
+  {
+    "name": "Dark Sandslash",
+    "number": "18",
+    "rarity": "Rare",
+    "set_name": "Team Rocket Returns",
+    "set_series": "EX"
+  },
+  {
+    "name": "Dark Tyranitar",
+    "number": "19",
+    "rarity": "Rare",
+    "set_name": "Team Rocket Returns",
+    "set_series": "EX"
+  },
+  {
+    "name": "Dark Tyranitar",
+    "number": "20",
+    "rarity": "Rare",
+    "set_name": "Team Rocket Returns",
+    "set_series": "EX"
+  },
+  {
+    "name": "Delibird",
+    "number": "21",
+    "rarity": "Rare",
+    "set_name": "Team Rocket Returns",
+    "set_series": "EX"
+  },
+  {
+    "name": "Furret",
+    "number": "22",
+    "rarity": "Rare",
+    "set_name": "Team Rocket Returns",
+    "set_series": "EX"
+  },
+  {
+    "name": "Ledian",
+    "number": "23",
+    "rarity": "Rare",
+    "set_name": "Team Rocket Returns",
+    "set_series": "EX"
+  },
+  {
+    "name": "Magby",
+    "number": "24",
+    "rarity": "Rare",
+    "set_name": "Team Rocket Returns",
+    "set_series": "EX"
+  },
+  {
+    "name": "Misdreavus",
+    "number": "25",
+    "rarity": "Rare",
+    "set_name": "Team Rocket Returns",
+    "set_series": "EX"
+  },
+  {
+    "name": "Quagsire",
+    "number": "26",
+    "rarity": "Rare",
+    "set_name": "Team Rocket Returns",
+    "set_series": "EX"
+  },
+  {
+    "name": "Qwilfish",
+    "number": "27",
+    "rarity": "Rare",
+    "set_name": "Team Rocket Returns",
+    "set_series": "EX"
+  },
+  {
+    "name": "Yanma",
+    "number": "28",
+    "rarity": "Rare",
+    "set_name": "Team Rocket Returns",
+    "set_series": "EX"
+  },
+  {
+    "name": "Dark Arbok",
+    "number": "29",
+    "rarity": "Uncommon",
+    "set_name": "Team Rocket Returns",
+    "set_series": "EX"
+  },
+  {
+    "name": "Dark Ariados",
+    "number": "30",
+    "rarity": "Uncommon",
+    "set_name": "Team Rocket Returns",
+    "set_series": "EX"
+  },
+  {
+    "name": "Dark Dragonair",
+    "number": "31",
+    "rarity": "Uncommon",
+    "set_name": "Team Rocket Returns",
+    "set_series": "EX"
+  },
+  {
+    "name": "Dark Dragonair",
+    "number": "32",
+    "rarity": "Uncommon",
+    "set_name": "Team Rocket Returns",
+    "set_series": "EX"
+  },
+  {
+    "name": "Dark Flaaffy",
+    "number": "33",
+    "rarity": "Uncommon",
+    "set_name": "Team Rocket Returns",
+    "set_series": "EX"
+  },
+  {
+    "name": "Dark Golbat",
+    "number": "34",
+    "rarity": "Uncommon",
+    "set_name": "Team Rocket Returns",
+    "set_series": "EX"
+  },
+  {
+    "name": "Dark Golduck",
+    "number": "35",
+    "rarity": "Uncommon",
+    "set_name": "Team Rocket Returns",
+    "set_series": "EX"
+  },
+  {
+    "name": "Dark Gyarados",
+    "number": "36",
+    "rarity": "Uncommon",
+    "set_name": "Team Rocket Returns",
+    "set_series": "EX"
+  },
+  {
+    "name": "Dark Houndoom",
+    "number": "37",
+    "rarity": "Uncommon",
+    "set_name": "Team Rocket Returns",
+    "set_series": "EX"
+  },
+  {
+    "name": "Dark Magcargo",
+    "number": "38",
+    "rarity": "Uncommon",
+    "set_name": "Team Rocket Returns",
+    "set_series": "EX"
+  },
+  {
+    "name": "Dark Magneton",
+    "number": "39",
+    "rarity": "Uncommon",
+    "set_name": "Team Rocket Returns",
+    "set_series": "EX"
+  },
+  {
+    "name": "Dark Pupitar",
+    "number": "40",
+    "rarity": "Uncommon",
+    "set_name": "Team Rocket Returns",
+    "set_series": "EX"
+  },
+  {
+    "name": "Dark Pupitar",
+    "number": "41",
+    "rarity": "Uncommon",
+    "set_name": "Team Rocket Returns",
+    "set_series": "EX"
+  },
+  {
+    "name": "Dark Weezing",
+    "number": "42",
+    "rarity": "Uncommon",
+    "set_name": "Team Rocket Returns",
+    "set_series": "EX"
+  },
+  {
+    "name": "Heracross",
+    "number": "43",
+    "rarity": "Uncommon",
+    "set_name": "Team Rocket Returns",
+    "set_series": "EX"
+  },
+  {
+    "name": "Magmar",
+    "number": "44",
+    "rarity": "Uncommon",
+    "set_name": "Team Rocket Returns",
+    "set_series": "EX"
+  },
+  {
+    "name": "Mantine",
+    "number": "45",
+    "rarity": "Uncommon",
+    "set_name": "Team Rocket Returns",
+    "set_series": "EX"
+  },
+  {
+    "name": "Rocket's Meowth",
+    "number": "46",
+    "rarity": "Uncommon",
+    "set_name": "Team Rocket Returns",
+    "set_series": "EX"
+  },
+  {
+    "name": "Rocket's Wobbuffet",
+    "number": "47",
+    "rarity": "Uncommon",
+    "set_name": "Team Rocket Returns",
+    "set_series": "EX"
+  },
+  {
+    "name": "Seadra",
+    "number": "48",
+    "rarity": "Uncommon",
+    "set_name": "Team Rocket Returns",
+    "set_series": "EX"
+  },
+  {
+    "name": "Skiploom",
+    "number": "49",
+    "rarity": "Uncommon",
+    "set_name": "Team Rocket Returns",
+    "set_series": "EX"
+  },
+  {
+    "name": "Togepi",
+    "number": "50",
+    "rarity": "Uncommon",
+    "set_name": "Team Rocket Returns",
+    "set_series": "EX"
+  },
+  {
+    "name": "Cubone",
+    "number": "51",
+    "rarity": "Common",
+    "set_name": "Team Rocket Returns",
+    "set_series": "EX"
+  },
+  {
+    "name": "Dratini",
+    "number": "52",
+    "rarity": "Common",
+    "set_name": "Team Rocket Returns",
+    "set_series": "EX"
+  },
+  {
+    "name": "Dratini",
+    "number": "53",
+    "rarity": "Common",
+    "set_name": "Team Rocket Returns",
+    "set_series": "EX"
+  },
+  {
+    "name": "Drowzee",
+    "number": "54",
+    "rarity": "Common",
+    "set_name": "Team Rocket Returns",
+    "set_series": "EX"
+  },
+  {
+    "name": "Ekans",
+    "number": "55",
+    "rarity": "Common",
+    "set_name": "Team Rocket Returns",
+    "set_series": "EX"
+  },
+  {
+    "name": "Grimer",
+    "number": "56",
+    "rarity": "Common",
+    "set_name": "Team Rocket Returns",
+    "set_series": "EX"
+  },
+  {
+    "name": "Hoppip",
+    "number": "57",
+    "rarity": "Common",
+    "set_name": "Team Rocket Returns",
+    "set_series": "EX"
+  },
+  {
+    "name": "Horsea",
+    "number": "58",
+    "rarity": "Common",
+    "set_name": "Team Rocket Returns",
+    "set_series": "EX"
+  },
+  {
+    "name": "Houndour",
+    "number": "59",
+    "rarity": "Common",
+    "set_name": "Team Rocket Returns",
+    "set_series": "EX"
+  },
+  {
+    "name": "Houndour",
+    "number": "60",
+    "rarity": "Common",
+    "set_name": "Team Rocket Returns",
+    "set_series": "EX"
+  },
+  {
+    "name": "Koffing",
+    "number": "61",
+    "rarity": "Common",
+    "set_name": "Team Rocket Returns",
+    "set_series": "EX"
+  },
+  {
+    "name": "Larvitar",
+    "number": "62",
+    "rarity": "Common",
+    "set_name": "Team Rocket Returns",
+    "set_series": "EX"
+  },
+  {
+    "name": "Larvitar",
+    "number": "63",
+    "rarity": "Common",
+    "set_name": "Team Rocket Returns",
+    "set_series": "EX"
+  },
+  {
+    "name": "Ledyba",
+    "number": "64",
+    "rarity": "Common",
+    "set_name": "Team Rocket Returns",
+    "set_series": "EX"
+  },
+  {
+    "name": "Magikarp",
+    "number": "65",
+    "rarity": "Common",
+    "set_name": "Team Rocket Returns",
+    "set_series": "EX"
+  },
+  {
+    "name": "Magnemite",
+    "number": "66",
+    "rarity": "Common",
+    "set_name": "Team Rocket Returns",
+    "set_series": "EX"
+  },
+  {
+    "name": "Mareep",
+    "number": "67",
+    "rarity": "Common",
+    "set_name": "Team Rocket Returns",
+    "set_series": "EX"
+  },
+  {
+    "name": "Marill",
+    "number": "68",
+    "rarity": "Common",
+    "set_name": "Team Rocket Returns",
+    "set_series": "EX"
+  },
+  {
+    "name": "Onix",
+    "number": "69",
+    "rarity": "Common",
+    "set_name": "Team Rocket Returns",
+    "set_series": "EX"
+  },
+  {
+    "name": "Psyduck",
+    "number": "70",
+    "rarity": "Common",
+    "set_name": "Team Rocket Returns",
+    "set_series": "EX"
+  },
+  {
+    "name": "Rattata",
+    "number": "71",
+    "rarity": "Common",
+    "set_name": "Team Rocket Returns",
+    "set_series": "EX"
+  },
+  {
+    "name": "Rattata",
+    "number": "72",
+    "rarity": "Common",
+    "set_name": "Team Rocket Returns",
+    "set_series": "EX"
+  },
+  {
+    "name": "Remoraid",
+    "number": "73",
+    "rarity": "Common",
+    "set_name": "Team Rocket Returns",
+    "set_series": "EX"
+  },
+  {
+    "name": "Sandshrew",
+    "number": "74",
+    "rarity": "Common",
+    "set_name": "Team Rocket Returns",
+    "set_series": "EX"
+  },
+  {
+    "name": "Sentret",
+    "number": "75",
+    "rarity": "Common",
+    "set_name": "Team Rocket Returns",
+    "set_series": "EX"
+  },
+  {
+    "name": "Slowpoke",
+    "number": "76",
+    "rarity": "Common",
+    "set_name": "Team Rocket Returns",
+    "set_series": "EX"
+  },
+  {
+    "name": "Slugma",
+    "number": "77",
+    "rarity": "Common",
+    "set_name": "Team Rocket Returns",
+    "set_series": "EX"
+  },
+  {
+    "name": "Spinarak",
+    "number": "78",
+    "rarity": "Common",
+    "set_name": "Team Rocket Returns",
+    "set_series": "EX"
+  },
+  {
+    "name": "Swinub",
+    "number": "79",
+    "rarity": "Common",
+    "set_name": "Team Rocket Returns",
+    "set_series": "EX"
+  },
+  {
+    "name": "Voltorb",
+    "number": "80",
+    "rarity": "Common",
+    "set_name": "Team Rocket Returns",
+    "set_series": "EX"
+  },
+  {
+    "name": "Wooper",
+    "number": "81",
+    "rarity": "Common",
+    "set_name": "Team Rocket Returns",
+    "set_series": "EX"
+  },
+  {
+    "name": "Zubat",
+    "number": "82",
+    "rarity": "Common",
+    "set_name": "Team Rocket Returns",
+    "set_series": "EX"
+  },
+  {
+    "name": "Copycat",
+    "number": "83",
+    "rarity": "Uncommon",
+    "set_name": "Team Rocket Returns",
+    "set_series": "EX"
+  },
+  {
+    "name": "Pok\u00e9mon Retriever",
+    "number": "84",
+    "rarity": "Uncommon",
+    "set_name": "Team Rocket Returns",
+    "set_series": "EX"
+  },
+  {
+    "name": "Pow! Hand Extension",
+    "number": "85",
+    "rarity": "Uncommon",
+    "set_name": "Team Rocket Returns",
+    "set_series": "EX"
+  },
+  {
+    "name": "Rocket's Admin.",
+    "number": "86",
+    "rarity": "Uncommon",
+    "set_name": "Team Rocket Returns",
+    "set_series": "EX"
+  },
+  {
+    "name": "Rocket's Hideout",
+    "number": "87",
+    "rarity": "Uncommon",
+    "set_name": "Team Rocket Returns",
+    "set_series": "EX"
+  },
+  {
+    "name": "Rocket's Mission",
+    "number": "88",
+    "rarity": "Uncommon",
+    "set_name": "Team Rocket Returns",
+    "set_series": "EX"
+  },
+  {
+    "name": "Rocket's Pok\u00e9 Ball",
+    "number": "89",
+    "rarity": "Uncommon",
+    "set_name": "Team Rocket Returns",
+    "set_series": "EX"
+  },
+  {
+    "name": "Rocket's Tricky Gym",
+    "number": "90",
+    "rarity": "Uncommon",
+    "set_name": "Team Rocket Returns",
+    "set_series": "EX"
+  },
+  {
+    "name": "Surprise! Time Machine",
+    "number": "91",
+    "rarity": "Uncommon",
+    "set_name": "Team Rocket Returns",
+    "set_series": "EX"
+  },
+  {
+    "name": "Swoop! Teleporter",
+    "number": "92",
+    "rarity": "Uncommon",
+    "set_name": "Team Rocket Returns",
+    "set_series": "EX"
+  },
+  {
+    "name": "Venture Bomb",
+    "number": "93",
+    "rarity": "Uncommon",
+    "set_name": "Team Rocket Returns",
+    "set_series": "EX"
+  },
+  {
+    "name": "Dark Metal Energy",
+    "number": "94",
+    "rarity": "Uncommon",
+    "set_name": "Team Rocket Returns",
+    "set_series": "EX"
+  },
+  {
+    "name": "R Energy",
+    "number": "95",
+    "rarity": "Uncommon",
+    "set_name": "Team Rocket Returns",
+    "set_series": "EX"
+  },
+  {
+    "name": "Rocket's Articuno ex",
+    "number": "96",
+    "rarity": "Rare Holo EX",
+    "set_name": "Team Rocket Returns",
+    "set_series": "EX"
+  },
+  {
+    "name": "Rocket's Entei ex",
+    "number": "97",
+    "rarity": "Rare Holo EX",
+    "set_name": "Team Rocket Returns",
+    "set_series": "EX"
+  },
+  {
+    "name": "Rocket's Hitmonchan ex",
+    "number": "98",
+    "rarity": "Rare Holo EX",
+    "set_name": "Team Rocket Returns",
+    "set_series": "EX"
+  },
+  {
+    "name": "Rocket's Mewtwo ex",
+    "number": "99",
+    "rarity": "Rare Holo EX",
+    "set_name": "Team Rocket Returns",
+    "set_series": "EX"
+  },
+  {
+    "name": "Rocket's Moltres ex",
+    "number": "100",
+    "rarity": "Rare Holo EX",
+    "set_name": "Team Rocket Returns",
+    "set_series": "EX"
+  },
+  {
+    "name": "Rocket's Scizor ex",
+    "number": "101",
+    "rarity": "Rare Holo EX",
+    "set_name": "Team Rocket Returns",
+    "set_series": "EX"
+  },
+  {
+    "name": "Rocket's Scyther ex",
+    "number": "102",
+    "rarity": "Rare Holo EX",
+    "set_name": "Team Rocket Returns",
+    "set_series": "EX"
+  },
+  {
+    "name": "Rocket's Sneasel ex",
+    "number": "103",
+    "rarity": "Rare Holo EX",
+    "set_name": "Team Rocket Returns",
+    "set_series": "EX"
+  },
+  {
+    "name": "Rocket's Snorlax ex",
+    "number": "104",
+    "rarity": "Rare Holo EX",
+    "set_name": "Team Rocket Returns",
+    "set_series": "EX"
+  },
+  {
+    "name": "Rocket's Suicune ex",
+    "number": "105",
+    "rarity": "Rare Holo EX",
+    "set_name": "Team Rocket Returns",
+    "set_series": "EX"
+  },
+  {
+    "name": "Rocket's Zapdos ex",
+    "number": "106",
+    "rarity": "Rare Holo EX",
+    "set_name": "Team Rocket Returns",
+    "set_series": "EX"
+  },
+  {
+    "name": "Mudkip \u2605",
+    "number": "107",
+    "rarity": "Rare Holo Star",
+    "set_name": "Team Rocket Returns",
+    "set_series": "EX"
+  },
+  {
+    "name": "Torchic \u2605",
+    "number": "108",
+    "rarity": "Rare Holo Star",
+    "set_name": "Team Rocket Returns",
+    "set_series": "EX"
+  },
+  {
+    "name": "Treecko \u2605",
+    "number": "109",
+    "rarity": "Rare Holo Star",
+    "set_name": "Team Rocket Returns",
+    "set_series": "EX"
+  },
+  {
+    "name": "Charmeleon",
+    "number": "110",
+    "rarity": "Rare Secret",
+    "set_name": "Team Rocket Returns",
+    "set_series": "EX"
+  },
+  {
+    "name": "Here Comes Team Rocket!",
+    "number": "111",
+    "rarity": "Rare Secret",
+    "set_name": "Team Rocket Returns",
+    "set_series": "EX"
+  }
+]

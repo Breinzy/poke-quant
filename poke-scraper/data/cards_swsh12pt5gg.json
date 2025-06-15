@@ -1,0 +1,492 @@
+[
+  {
+    "name": "Hisuian Voltorb",
+    "number": "GG01",
+    "rarity": "Trainer Gallery Rare Holo",
+    "set_name": "Crown Zenith Galarian Gallery",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Kricketune",
+    "number": "GG02",
+    "rarity": "Trainer Gallery Rare Holo",
+    "set_name": "Crown Zenith Galarian Gallery",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Magmortar",
+    "number": "GG03",
+    "rarity": "Trainer Gallery Rare Holo",
+    "set_name": "Crown Zenith Galarian Gallery",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Oricorio",
+    "number": "GG04",
+    "rarity": "Trainer Gallery Rare Holo",
+    "set_name": "Crown Zenith Galarian Gallery",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Lapras",
+    "number": "GG05",
+    "rarity": "Trainer Gallery Rare Holo",
+    "set_name": "Crown Zenith Galarian Gallery",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Manaphy",
+    "number": "GG06",
+    "rarity": "Trainer Gallery Rare Holo",
+    "set_name": "Crown Zenith Galarian Gallery",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Keldeo",
+    "number": "GG07",
+    "rarity": "Trainer Gallery Rare Holo",
+    "set_name": "Crown Zenith Galarian Gallery",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Electivire",
+    "number": "GG08",
+    "rarity": "Trainer Gallery Rare Holo",
+    "set_name": "Crown Zenith Galarian Gallery",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Toxtricity",
+    "number": "GG09",
+    "rarity": "Trainer Gallery Rare Holo",
+    "set_name": "Crown Zenith Galarian Gallery",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Mew",
+    "number": "GG10",
+    "rarity": "Trainer Gallery Rare Holo",
+    "set_name": "Crown Zenith Galarian Gallery",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Lunatone",
+    "number": "GG11",
+    "rarity": "Trainer Gallery Rare Holo",
+    "set_name": "Crown Zenith Galarian Gallery",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Deoxys",
+    "number": "GG12",
+    "rarity": "Trainer Gallery Rare Holo",
+    "set_name": "Crown Zenith Galarian Gallery",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Diancie",
+    "number": "GG13",
+    "rarity": "Trainer Gallery Rare Holo",
+    "set_name": "Crown Zenith Galarian Gallery",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Comfey",
+    "number": "GG14",
+    "rarity": "Trainer Gallery Rare Holo",
+    "set_name": "Crown Zenith Galarian Gallery",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Solrock",
+    "number": "GG15",
+    "rarity": "Trainer Gallery Rare Holo",
+    "set_name": "Crown Zenith Galarian Gallery",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Absol",
+    "number": "GG16",
+    "rarity": "Trainer Gallery Rare Holo",
+    "set_name": "Crown Zenith Galarian Gallery",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Thievul",
+    "number": "GG17",
+    "rarity": "Trainer Gallery Rare Holo",
+    "set_name": "Crown Zenith Galarian Gallery",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Magnezone",
+    "number": "GG18",
+    "rarity": "Trainer Gallery Rare Holo",
+    "set_name": "Crown Zenith Galarian Gallery",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Altaria",
+    "number": "GG19",
+    "rarity": "Trainer Gallery Rare Holo",
+    "set_name": "Crown Zenith Galarian Gallery",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Latias",
+    "number": "GG20",
+    "rarity": "Trainer Gallery Rare Holo",
+    "set_name": "Crown Zenith Galarian Gallery",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Hisuian Goodra",
+    "number": "GG21",
+    "rarity": "Trainer Gallery Rare Holo",
+    "set_name": "Crown Zenith Galarian Gallery",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Ditto",
+    "number": "GG22",
+    "rarity": "Trainer Gallery Rare Holo",
+    "set_name": "Crown Zenith Galarian Gallery",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Dunsparce",
+    "number": "GG23",
+    "rarity": "Trainer Gallery Rare Holo",
+    "set_name": "Crown Zenith Galarian Gallery",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Miltank",
+    "number": "GG24",
+    "rarity": "Trainer Gallery Rare Holo",
+    "set_name": "Crown Zenith Galarian Gallery",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Bibarel",
+    "number": "GG25",
+    "rarity": "Trainer Gallery Rare Holo",
+    "set_name": "Crown Zenith Galarian Gallery",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Riolu",
+    "number": "GG26",
+    "rarity": "Trainer Gallery Rare Holo",
+    "set_name": "Crown Zenith Galarian Gallery",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Swablu",
+    "number": "GG27",
+    "rarity": "Trainer Gallery Rare Holo",
+    "set_name": "Crown Zenith Galarian Gallery",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Duskull",
+    "number": "GG28",
+    "rarity": "Trainer Gallery Rare Holo",
+    "set_name": "Crown Zenith Galarian Gallery",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Bidoof",
+    "number": "GG29",
+    "rarity": "Trainer Gallery Rare Holo",
+    "set_name": "Crown Zenith Galarian Gallery",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Pikachu",
+    "number": "GG30",
+    "rarity": "Trainer Gallery Rare Holo",
+    "set_name": "Crown Zenith Galarian Gallery",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Turtwig",
+    "number": "GG31",
+    "rarity": "Trainer Gallery Rare Holo",
+    "set_name": "Crown Zenith Galarian Gallery",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Paras",
+    "number": "GG32",
+    "rarity": "Trainer Gallery Rare Holo",
+    "set_name": "Crown Zenith Galarian Gallery",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Poochyena",
+    "number": "GG33",
+    "rarity": "Trainer Gallery Rare Holo",
+    "set_name": "Crown Zenith Galarian Gallery",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Mareep",
+    "number": "GG34",
+    "rarity": "Trainer Gallery Rare Holo",
+    "set_name": "Crown Zenith Galarian Gallery",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Leafeon VSTAR",
+    "number": "GG35",
+    "rarity": "Rare Holo VSTAR",
+    "set_name": "Crown Zenith Galarian Gallery",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Entei V",
+    "number": "GG36",
+    "rarity": "Rare Holo V",
+    "set_name": "Crown Zenith Galarian Gallery",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Simisear VSTAR",
+    "number": "GG37",
+    "rarity": "Rare Holo VSTAR",
+    "set_name": "Crown Zenith Galarian Gallery",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Suicune V",
+    "number": "GG38",
+    "rarity": "Rare Holo V",
+    "set_name": "Crown Zenith Galarian Gallery",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Lumineon V",
+    "number": "GG39",
+    "rarity": "Rare Holo V",
+    "set_name": "Crown Zenith Galarian Gallery",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Glaceon VSTAR",
+    "number": "GG40",
+    "rarity": "Rare Holo VSTAR",
+    "set_name": "Crown Zenith Galarian Gallery",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Raikou V",
+    "number": "GG41",
+    "rarity": "Rare Holo V",
+    "set_name": "Crown Zenith Galarian Gallery",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Zeraora VMAX",
+    "number": "GG42",
+    "rarity": "Rare Holo VMAX",
+    "set_name": "Crown Zenith Galarian Gallery",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Zeraora VSTAR",
+    "number": "GG43",
+    "rarity": "Rare Holo VSTAR",
+    "set_name": "Crown Zenith Galarian Gallery",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Mewtwo VSTAR",
+    "number": "GG44",
+    "rarity": "Rare Holo VSTAR",
+    "set_name": "Crown Zenith Galarian Gallery",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Deoxys VMAX",
+    "number": "GG45",
+    "rarity": "Rare Holo VMAX",
+    "set_name": "Crown Zenith Galarian Gallery",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Deoxys VSTAR",
+    "number": "GG46",
+    "rarity": "Rare Holo VSTAR",
+    "set_name": "Crown Zenith Galarian Gallery",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Hatterene VMAX",
+    "number": "GG47",
+    "rarity": "Rare Holo VMAX",
+    "set_name": "Crown Zenith Galarian Gallery",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Zacian V",
+    "number": "GG48",
+    "rarity": "Rare Holo V",
+    "set_name": "Crown Zenith Galarian Gallery",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Drapion V",
+    "number": "GG49",
+    "rarity": "Rare Holo V",
+    "set_name": "Crown Zenith Galarian Gallery",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Darkrai VSTAR",
+    "number": "GG50",
+    "rarity": "Rare Holo VSTAR",
+    "set_name": "Crown Zenith Galarian Gallery",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Hisuian Samurott V",
+    "number": "GG51",
+    "rarity": "Rare Holo V",
+    "set_name": "Crown Zenith Galarian Gallery",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Hisuian Samurott VSTAR",
+    "number": "GG52",
+    "rarity": "Rare Holo VSTAR",
+    "set_name": "Crown Zenith Galarian Gallery",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Hoopa V",
+    "number": "GG53",
+    "rarity": "Rare Holo V",
+    "set_name": "Crown Zenith Galarian Gallery",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Zamazenta V",
+    "number": "GG54",
+    "rarity": "Rare Holo V",
+    "set_name": "Crown Zenith Galarian Gallery",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Regigigas VSTAR",
+    "number": "GG55",
+    "rarity": "Rare Holo VSTAR",
+    "set_name": "Crown Zenith Galarian Gallery",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Hisuian Zoroark VSTAR",
+    "number": "GG56",
+    "rarity": "Rare Holo VSTAR",
+    "set_name": "Crown Zenith Galarian Gallery",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Adaman",
+    "number": "GG57",
+    "rarity": "Rare Ultra",
+    "set_name": "Crown Zenith Galarian Gallery",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Cheren's Care",
+    "number": "GG58",
+    "rarity": "Rare Ultra",
+    "set_name": "Crown Zenith Galarian Gallery",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Colress's Experiment",
+    "number": "GG59",
+    "rarity": "Rare Ultra",
+    "set_name": "Crown Zenith Galarian Gallery",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Cynthia's Ambition",
+    "number": "GG60",
+    "rarity": "Rare Ultra",
+    "set_name": "Crown Zenith Galarian Gallery",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Gardenia's Vigor",
+    "number": "GG61",
+    "rarity": "Rare Ultra",
+    "set_name": "Crown Zenith Galarian Gallery",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Grant",
+    "number": "GG62",
+    "rarity": "Rare Ultra",
+    "set_name": "Crown Zenith Galarian Gallery",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Irida",
+    "number": "GG63",
+    "rarity": "Rare Ultra",
+    "set_name": "Crown Zenith Galarian Gallery",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Melony",
+    "number": "GG64",
+    "rarity": "Rare Ultra",
+    "set_name": "Crown Zenith Galarian Gallery",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Raihan",
+    "number": "GG65",
+    "rarity": "Rare Ultra",
+    "set_name": "Crown Zenith Galarian Gallery",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Roxanne",
+    "number": "GG66",
+    "rarity": "Rare Ultra",
+    "set_name": "Crown Zenith Galarian Gallery",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Origin Forme Palkia VSTAR",
+    "number": "GG67",
+    "rarity": "Rare Secret",
+    "set_name": "Crown Zenith Galarian Gallery",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Origin Forme Dialga VSTAR",
+    "number": "GG68",
+    "rarity": "Rare Secret",
+    "set_name": "Crown Zenith Galarian Gallery",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Giratina VSTAR",
+    "number": "GG69",
+    "rarity": "Rare Secret",
+    "set_name": "Crown Zenith Galarian Gallery",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Arceus VSTAR",
+    "number": "GG70",
+    "rarity": "Rare Secret",
+    "set_name": "Crown Zenith Galarian Gallery",
+    "set_series": "Sword & Shield"
+  }
+]

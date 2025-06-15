@@ -1,0 +1,765 @@
+[
+  {
+    "name": "Aggron",
+    "number": "1",
+    "rarity": "Rare Holo",
+    "set_name": "Ruby & Sapphire",
+    "set_series": "EX"
+  },
+  {
+    "name": "Beautifly",
+    "number": "2",
+    "rarity": "Rare Holo",
+    "set_name": "Ruby & Sapphire",
+    "set_series": "EX"
+  },
+  {
+    "name": "Blaziken",
+    "number": "3",
+    "rarity": "Rare Holo",
+    "set_name": "Ruby & Sapphire",
+    "set_series": "EX"
+  },
+  {
+    "name": "Camerupt",
+    "number": "4",
+    "rarity": "Rare Holo",
+    "set_name": "Ruby & Sapphire",
+    "set_series": "EX"
+  },
+  {
+    "name": "Delcatty",
+    "number": "5",
+    "rarity": "Rare Holo",
+    "set_name": "Ruby & Sapphire",
+    "set_series": "EX"
+  },
+  {
+    "name": "Dustox",
+    "number": "6",
+    "rarity": "Rare Holo",
+    "set_name": "Ruby & Sapphire",
+    "set_series": "EX"
+  },
+  {
+    "name": "Gardevoir",
+    "number": "7",
+    "rarity": "Rare Holo",
+    "set_name": "Ruby & Sapphire",
+    "set_series": "EX"
+  },
+  {
+    "name": "Hariyama",
+    "number": "8",
+    "rarity": "Rare Holo",
+    "set_name": "Ruby & Sapphire",
+    "set_series": "EX"
+  },
+  {
+    "name": "Manectric",
+    "number": "9",
+    "rarity": "Rare Holo",
+    "set_name": "Ruby & Sapphire",
+    "set_series": "EX"
+  },
+  {
+    "name": "Mightyena",
+    "number": "10",
+    "rarity": "Rare Holo",
+    "set_name": "Ruby & Sapphire",
+    "set_series": "EX"
+  },
+  {
+    "name": "Sceptile",
+    "number": "11",
+    "rarity": "Rare Holo",
+    "set_name": "Ruby & Sapphire",
+    "set_series": "EX"
+  },
+  {
+    "name": "Slaking",
+    "number": "12",
+    "rarity": "Rare Holo",
+    "set_name": "Ruby & Sapphire",
+    "set_series": "EX"
+  },
+  {
+    "name": "Swampert",
+    "number": "13",
+    "rarity": "Rare Holo",
+    "set_name": "Ruby & Sapphire",
+    "set_series": "EX"
+  },
+  {
+    "name": "Wailord",
+    "number": "14",
+    "rarity": "Rare Holo",
+    "set_name": "Ruby & Sapphire",
+    "set_series": "EX"
+  },
+  {
+    "name": "Blaziken",
+    "number": "15",
+    "rarity": "Rare",
+    "set_name": "Ruby & Sapphire",
+    "set_series": "EX"
+  },
+  {
+    "name": "Breloom",
+    "number": "16",
+    "rarity": "Rare",
+    "set_name": "Ruby & Sapphire",
+    "set_series": "EX"
+  },
+  {
+    "name": "Donphan",
+    "number": "17",
+    "rarity": "Rare",
+    "set_name": "Ruby & Sapphire",
+    "set_series": "EX"
+  },
+  {
+    "name": "Nosepass",
+    "number": "18",
+    "rarity": "Rare",
+    "set_name": "Ruby & Sapphire",
+    "set_series": "EX"
+  },
+  {
+    "name": "Pelipper",
+    "number": "19",
+    "rarity": "Rare",
+    "set_name": "Ruby & Sapphire",
+    "set_series": "EX"
+  },
+  {
+    "name": "Sceptile",
+    "number": "20",
+    "rarity": "Rare",
+    "set_name": "Ruby & Sapphire",
+    "set_series": "EX"
+  },
+  {
+    "name": "Seaking",
+    "number": "21",
+    "rarity": "Rare",
+    "set_name": "Ruby & Sapphire",
+    "set_series": "EX"
+  },
+  {
+    "name": "Sharpedo",
+    "number": "22",
+    "rarity": "Rare",
+    "set_name": "Ruby & Sapphire",
+    "set_series": "EX"
+  },
+  {
+    "name": "Swampert",
+    "number": "23",
+    "rarity": "Rare",
+    "set_name": "Ruby & Sapphire",
+    "set_series": "EX"
+  },
+  {
+    "name": "Weezing",
+    "number": "24",
+    "rarity": "Rare",
+    "set_name": "Ruby & Sapphire",
+    "set_series": "EX"
+  },
+  {
+    "name": "Aron",
+    "number": "25",
+    "rarity": "Uncommon",
+    "set_name": "Ruby & Sapphire",
+    "set_series": "EX"
+  },
+  {
+    "name": "Cascoon",
+    "number": "26",
+    "rarity": "Uncommon",
+    "set_name": "Ruby & Sapphire",
+    "set_series": "EX"
+  },
+  {
+    "name": "Combusken",
+    "number": "27",
+    "rarity": "Uncommon",
+    "set_name": "Ruby & Sapphire",
+    "set_series": "EX"
+  },
+  {
+    "name": "Combusken",
+    "number": "28",
+    "rarity": "Uncommon",
+    "set_name": "Ruby & Sapphire",
+    "set_series": "EX"
+  },
+  {
+    "name": "Delcatty",
+    "number": "29",
+    "rarity": "Uncommon",
+    "set_name": "Ruby & Sapphire",
+    "set_series": "EX"
+  },
+  {
+    "name": "Electrike",
+    "number": "30",
+    "rarity": "Uncommon",
+    "set_name": "Ruby & Sapphire",
+    "set_series": "EX"
+  },
+  {
+    "name": "Grovyle",
+    "number": "31",
+    "rarity": "Uncommon",
+    "set_name": "Ruby & Sapphire",
+    "set_series": "EX"
+  },
+  {
+    "name": "Grovyle",
+    "number": "32",
+    "rarity": "Uncommon",
+    "set_name": "Ruby & Sapphire",
+    "set_series": "EX"
+  },
+  {
+    "name": "Hariyama",
+    "number": "33",
+    "rarity": "Uncommon",
+    "set_name": "Ruby & Sapphire",
+    "set_series": "EX"
+  },
+  {
+    "name": "Kirlia",
+    "number": "34",
+    "rarity": "Uncommon",
+    "set_name": "Ruby & Sapphire",
+    "set_series": "EX"
+  },
+  {
+    "name": "Kirlia",
+    "number": "35",
+    "rarity": "Uncommon",
+    "set_name": "Ruby & Sapphire",
+    "set_series": "EX"
+  },
+  {
+    "name": "Lairon",
+    "number": "36",
+    "rarity": "Uncommon",
+    "set_name": "Ruby & Sapphire",
+    "set_series": "EX"
+  },
+  {
+    "name": "Lairon",
+    "number": "37",
+    "rarity": "Uncommon",
+    "set_name": "Ruby & Sapphire",
+    "set_series": "EX"
+  },
+  {
+    "name": "Linoone",
+    "number": "38",
+    "rarity": "Uncommon",
+    "set_name": "Ruby & Sapphire",
+    "set_series": "EX"
+  },
+  {
+    "name": "Manectric",
+    "number": "39",
+    "rarity": "Uncommon",
+    "set_name": "Ruby & Sapphire",
+    "set_series": "EX"
+  },
+  {
+    "name": "Marshtomp",
+    "number": "40",
+    "rarity": "Uncommon",
+    "set_name": "Ruby & Sapphire",
+    "set_series": "EX"
+  },
+  {
+    "name": "Marshtomp",
+    "number": "41",
+    "rarity": "Uncommon",
+    "set_name": "Ruby & Sapphire",
+    "set_series": "EX"
+  },
+  {
+    "name": "Mightyena",
+    "number": "42",
+    "rarity": "Uncommon",
+    "set_name": "Ruby & Sapphire",
+    "set_series": "EX"
+  },
+  {
+    "name": "Silcoon",
+    "number": "43",
+    "rarity": "Uncommon",
+    "set_name": "Ruby & Sapphire",
+    "set_series": "EX"
+  },
+  {
+    "name": "Skitty",
+    "number": "44",
+    "rarity": "Uncommon",
+    "set_name": "Ruby & Sapphire",
+    "set_series": "EX"
+  },
+  {
+    "name": "Slakoth",
+    "number": "45",
+    "rarity": "Uncommon",
+    "set_name": "Ruby & Sapphire",
+    "set_series": "EX"
+  },
+  {
+    "name": "Swellow",
+    "number": "46",
+    "rarity": "Uncommon",
+    "set_name": "Ruby & Sapphire",
+    "set_series": "EX"
+  },
+  {
+    "name": "Vigoroth",
+    "number": "47",
+    "rarity": "Uncommon",
+    "set_name": "Ruby & Sapphire",
+    "set_series": "EX"
+  },
+  {
+    "name": "Wailmer",
+    "number": "48",
+    "rarity": "Uncommon",
+    "set_name": "Ruby & Sapphire",
+    "set_series": "EX"
+  },
+  {
+    "name": "Aron",
+    "number": "49",
+    "rarity": "Common",
+    "set_name": "Ruby & Sapphire",
+    "set_series": "EX"
+  },
+  {
+    "name": "Aron",
+    "number": "50",
+    "rarity": "Common",
+    "set_name": "Ruby & Sapphire",
+    "set_series": "EX"
+  },
+  {
+    "name": "Carvanha",
+    "number": "51",
+    "rarity": "Common",
+    "set_name": "Ruby & Sapphire",
+    "set_series": "EX"
+  },
+  {
+    "name": "Electrike",
+    "number": "52",
+    "rarity": "Common",
+    "set_name": "Ruby & Sapphire",
+    "set_series": "EX"
+  },
+  {
+    "name": "Electrike",
+    "number": "53",
+    "rarity": "Common",
+    "set_name": "Ruby & Sapphire",
+    "set_series": "EX"
+  },
+  {
+    "name": "Koffing",
+    "number": "54",
+    "rarity": "Common",
+    "set_name": "Ruby & Sapphire",
+    "set_series": "EX"
+  },
+  {
+    "name": "Goldeen",
+    "number": "55",
+    "rarity": "Common",
+    "set_name": "Ruby & Sapphire",
+    "set_series": "EX"
+  },
+  {
+    "name": "Makuhita",
+    "number": "56",
+    "rarity": "Common",
+    "set_name": "Ruby & Sapphire",
+    "set_series": "EX"
+  },
+  {
+    "name": "Makuhita",
+    "number": "57",
+    "rarity": "Common",
+    "set_name": "Ruby & Sapphire",
+    "set_series": "EX"
+  },
+  {
+    "name": "Makuhita",
+    "number": "58",
+    "rarity": "Common",
+    "set_name": "Ruby & Sapphire",
+    "set_series": "EX"
+  },
+  {
+    "name": "Mudkip",
+    "number": "59",
+    "rarity": "Common",
+    "set_name": "Ruby & Sapphire",
+    "set_series": "EX"
+  },
+  {
+    "name": "Mudkip",
+    "number": "60",
+    "rarity": "Common",
+    "set_name": "Ruby & Sapphire",
+    "set_series": "EX"
+  },
+  {
+    "name": "Numel",
+    "number": "61",
+    "rarity": "Common",
+    "set_name": "Ruby & Sapphire",
+    "set_series": "EX"
+  },
+  {
+    "name": "Phanpy",
+    "number": "62",
+    "rarity": "Common",
+    "set_name": "Ruby & Sapphire",
+    "set_series": "EX"
+  },
+  {
+    "name": "Poochyena",
+    "number": "63",
+    "rarity": "Common",
+    "set_name": "Ruby & Sapphire",
+    "set_series": "EX"
+  },
+  {
+    "name": "Poochyena",
+    "number": "64",
+    "rarity": "Common",
+    "set_name": "Ruby & Sapphire",
+    "set_series": "EX"
+  },
+  {
+    "name": "Poochyena",
+    "number": "65",
+    "rarity": "Common",
+    "set_name": "Ruby & Sapphire",
+    "set_series": "EX"
+  },
+  {
+    "name": "Ralts",
+    "number": "66",
+    "rarity": "Common",
+    "set_name": "Ruby & Sapphire",
+    "set_series": "EX"
+  },
+  {
+    "name": "Ralts",
+    "number": "67",
+    "rarity": "Common",
+    "set_name": "Ruby & Sapphire",
+    "set_series": "EX"
+  },
+  {
+    "name": "Ralts",
+    "number": "68",
+    "rarity": "Common",
+    "set_name": "Ruby & Sapphire",
+    "set_series": "EX"
+  },
+  {
+    "name": "Shroomish",
+    "number": "69",
+    "rarity": "Common",
+    "set_name": "Ruby & Sapphire",
+    "set_series": "EX"
+  },
+  {
+    "name": "Skitty",
+    "number": "70",
+    "rarity": "Common",
+    "set_name": "Ruby & Sapphire",
+    "set_series": "EX"
+  },
+  {
+    "name": "Skitty",
+    "number": "71",
+    "rarity": "Common",
+    "set_name": "Ruby & Sapphire",
+    "set_series": "EX"
+  },
+  {
+    "name": "Taillow",
+    "number": "72",
+    "rarity": "Common",
+    "set_name": "Ruby & Sapphire",
+    "set_series": "EX"
+  },
+  {
+    "name": "Torchic",
+    "number": "73",
+    "rarity": "Common",
+    "set_name": "Ruby & Sapphire",
+    "set_series": "EX"
+  },
+  {
+    "name": "Torchic",
+    "number": "74",
+    "rarity": "Common",
+    "set_name": "Ruby & Sapphire",
+    "set_series": "EX"
+  },
+  {
+    "name": "Treecko",
+    "number": "75",
+    "rarity": "Common",
+    "set_name": "Ruby & Sapphire",
+    "set_series": "EX"
+  },
+  {
+    "name": "Treecko",
+    "number": "76",
+    "rarity": "Common",
+    "set_name": "Ruby & Sapphire",
+    "set_series": "EX"
+  },
+  {
+    "name": "Wingull",
+    "number": "77",
+    "rarity": "Common",
+    "set_name": "Ruby & Sapphire",
+    "set_series": "EX"
+  },
+  {
+    "name": "Wurmple",
+    "number": "78",
+    "rarity": "Common",
+    "set_name": "Ruby & Sapphire",
+    "set_series": "EX"
+  },
+  {
+    "name": "Zigzagoon",
+    "number": "79",
+    "rarity": "Common",
+    "set_name": "Ruby & Sapphire",
+    "set_series": "EX"
+  },
+  {
+    "name": "Energy Removal 2",
+    "number": "80",
+    "rarity": "Uncommon",
+    "set_name": "Ruby & Sapphire",
+    "set_series": "EX"
+  },
+  {
+    "name": "Energy Restore",
+    "number": "81",
+    "rarity": "Uncommon",
+    "set_name": "Ruby & Sapphire",
+    "set_series": "EX"
+  },
+  {
+    "name": "Energy Switch",
+    "number": "82",
+    "rarity": "Uncommon",
+    "set_name": "Ruby & Sapphire",
+    "set_series": "EX"
+  },
+  {
+    "name": "Lady Outing",
+    "number": "83",
+    "rarity": "Uncommon",
+    "set_name": "Ruby & Sapphire",
+    "set_series": "EX"
+  },
+  {
+    "name": "Lum Berry",
+    "number": "84",
+    "rarity": "Uncommon",
+    "set_name": "Ruby & Sapphire",
+    "set_series": "EX"
+  },
+  {
+    "name": "Oran Berry",
+    "number": "85",
+    "rarity": "Uncommon",
+    "set_name": "Ruby & Sapphire",
+    "set_series": "EX"
+  },
+  {
+    "name": "Pok\u00e9 Ball",
+    "number": "86",
+    "rarity": "Uncommon",
+    "set_name": "Ruby & Sapphire",
+    "set_series": "EX"
+  },
+  {
+    "name": "Pok\u00e9mon Reversal",
+    "number": "87",
+    "rarity": "Uncommon",
+    "set_name": "Ruby & Sapphire",
+    "set_series": "EX"
+  },
+  {
+    "name": "Pok\u00e9Nav",
+    "number": "88",
+    "rarity": "Uncommon",
+    "set_name": "Ruby & Sapphire",
+    "set_series": "EX"
+  },
+  {
+    "name": "Professor Birch",
+    "number": "89",
+    "rarity": "Uncommon",
+    "set_name": "Ruby & Sapphire",
+    "set_series": "EX"
+  },
+  {
+    "name": "Energy Search",
+    "number": "90",
+    "rarity": "Common",
+    "set_name": "Ruby & Sapphire",
+    "set_series": "EX"
+  },
+  {
+    "name": "Potion",
+    "number": "91",
+    "rarity": "Common",
+    "set_name": "Ruby & Sapphire",
+    "set_series": "EX"
+  },
+  {
+    "name": "Switch",
+    "number": "92",
+    "rarity": "Common",
+    "set_name": "Ruby & Sapphire",
+    "set_series": "EX"
+  },
+  {
+    "name": "Darkness Energy",
+    "number": "93",
+    "rarity": "Rare",
+    "set_name": "Ruby & Sapphire",
+    "set_series": "EX"
+  },
+  {
+    "name": "Metal Energy",
+    "number": "94",
+    "rarity": "Rare",
+    "set_name": "Ruby & Sapphire",
+    "set_series": "EX"
+  },
+  {
+    "name": "Rainbow Energy",
+    "number": "95",
+    "rarity": "Rare",
+    "set_name": "Ruby & Sapphire",
+    "set_series": "EX"
+  },
+  {
+    "name": "Chansey ex",
+    "number": "96",
+    "rarity": "Rare Holo EX",
+    "set_name": "Ruby & Sapphire",
+    "set_series": "EX"
+  },
+  {
+    "name": "Electabuzz ex",
+    "number": "97",
+    "rarity": "Rare Holo EX",
+    "set_name": "Ruby & Sapphire",
+    "set_series": "EX"
+  },
+  {
+    "name": "Hitmonchan ex",
+    "number": "98",
+    "rarity": "Rare Holo EX",
+    "set_name": "Ruby & Sapphire",
+    "set_series": "EX"
+  },
+  {
+    "name": "Lapras ex",
+    "number": "99",
+    "rarity": "Rare Holo EX",
+    "set_name": "Ruby & Sapphire",
+    "set_series": "EX"
+  },
+  {
+    "name": "Magmar ex",
+    "number": "100",
+    "rarity": "Rare Holo EX",
+    "set_name": "Ruby & Sapphire",
+    "set_series": "EX"
+  },
+  {
+    "name": "Mewtwo ex",
+    "number": "101",
+    "rarity": "Rare Holo EX",
+    "set_name": "Ruby & Sapphire",
+    "set_series": "EX"
+  },
+  {
+    "name": "Scyther ex",
+    "number": "102",
+    "rarity": "Rare Holo EX",
+    "set_name": "Ruby & Sapphire",
+    "set_series": "EX"
+  },
+  {
+    "name": "Sneasel ex",
+    "number": "103",
+    "rarity": "Rare Holo EX",
+    "set_name": "Ruby & Sapphire",
+    "set_series": "EX"
+  },
+  {
+    "name": "Grass Energy",
+    "number": "104",
+    "rarity": "Common",
+    "set_name": "Ruby & Sapphire",
+    "set_series": "EX"
+  },
+  {
+    "name": "Fighting Energy",
+    "number": "105",
+    "rarity": "Common",
+    "set_name": "Ruby & Sapphire",
+    "set_series": "EX"
+  },
+  {
+    "name": "Water Energy",
+    "number": "106",
+    "rarity": "Common",
+    "set_name": "Ruby & Sapphire",
+    "set_series": "EX"
+  },
+  {
+    "name": "Psychic Energy",
+    "number": "107",
+    "rarity": "Common",
+    "set_name": "Ruby & Sapphire",
+    "set_series": "EX"
+  },
+  {
+    "name": "Fire Energy",
+    "number": "108",
+    "rarity": "Common",
+    "set_name": "Ruby & Sapphire",
+    "set_series": "EX"
+  },
+  {
+    "name": "Lightning Energy",
+    "number": "109",
+    "rarity": "Common",
+    "set_name": "Ruby & Sapphire",
+    "set_series": "EX"
+  }
+]

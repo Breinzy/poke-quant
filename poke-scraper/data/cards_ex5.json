@@ -1,0 +1,716 @@
+[
+  {
+    "name": "Banette",
+    "number": "1",
+    "rarity": "Rare Holo",
+    "set_name": "Hidden Legends",
+    "set_series": "EX"
+  },
+  {
+    "name": "Claydol",
+    "number": "2",
+    "rarity": "Rare Holo",
+    "set_name": "Hidden Legends",
+    "set_series": "EX"
+  },
+  {
+    "name": "Crobat",
+    "number": "3",
+    "rarity": "Rare Holo",
+    "set_name": "Hidden Legends",
+    "set_series": "EX"
+  },
+  {
+    "name": "Dark Celebi",
+    "number": "4",
+    "rarity": "Rare Holo",
+    "set_name": "Hidden Legends",
+    "set_series": "EX"
+  },
+  {
+    "name": "Electrode",
+    "number": "5",
+    "rarity": "Rare Holo",
+    "set_name": "Hidden Legends",
+    "set_series": "EX"
+  },
+  {
+    "name": "Exploud",
+    "number": "6",
+    "rarity": "Rare Holo",
+    "set_name": "Hidden Legends",
+    "set_series": "EX"
+  },
+  {
+    "name": "Heracross",
+    "number": "7",
+    "rarity": "Rare Holo",
+    "set_name": "Hidden Legends",
+    "set_series": "EX"
+  },
+  {
+    "name": "Jirachi",
+    "number": "8",
+    "rarity": "Rare Holo",
+    "set_name": "Hidden Legends",
+    "set_series": "EX"
+  },
+  {
+    "name": "Machamp",
+    "number": "9",
+    "rarity": "Rare Holo",
+    "set_name": "Hidden Legends",
+    "set_series": "EX"
+  },
+  {
+    "name": "Medicham",
+    "number": "10",
+    "rarity": "Rare Holo",
+    "set_name": "Hidden Legends",
+    "set_series": "EX"
+  },
+  {
+    "name": "Metagross",
+    "number": "11",
+    "rarity": "Rare Holo",
+    "set_name": "Hidden Legends",
+    "set_series": "EX"
+  },
+  {
+    "name": "Milotic",
+    "number": "12",
+    "rarity": "Rare Holo",
+    "set_name": "Hidden Legends",
+    "set_series": "EX"
+  },
+  {
+    "name": "Pinsir",
+    "number": "13",
+    "rarity": "Rare Holo",
+    "set_name": "Hidden Legends",
+    "set_series": "EX"
+  },
+  {
+    "name": "Shiftry",
+    "number": "14",
+    "rarity": "Rare Holo",
+    "set_name": "Hidden Legends",
+    "set_series": "EX"
+  },
+  {
+    "name": "Walrein",
+    "number": "15",
+    "rarity": "Rare Holo",
+    "set_name": "Hidden Legends",
+    "set_series": "EX"
+  },
+  {
+    "name": "Bellossom",
+    "number": "16",
+    "rarity": "Rare",
+    "set_name": "Hidden Legends",
+    "set_series": "EX"
+  },
+  {
+    "name": "Chimecho",
+    "number": "17",
+    "rarity": "Rare",
+    "set_name": "Hidden Legends",
+    "set_series": "EX"
+  },
+  {
+    "name": "Gorebyss",
+    "number": "18",
+    "rarity": "Rare",
+    "set_name": "Hidden Legends",
+    "set_series": "EX"
+  },
+  {
+    "name": "Huntail",
+    "number": "19",
+    "rarity": "Rare",
+    "set_name": "Hidden Legends",
+    "set_series": "EX"
+  },
+  {
+    "name": "Masquerain",
+    "number": "20",
+    "rarity": "Rare",
+    "set_name": "Hidden Legends",
+    "set_series": "EX"
+  },
+  {
+    "name": "Metang",
+    "number": "21",
+    "rarity": "Rare",
+    "set_name": "Hidden Legends",
+    "set_series": "EX"
+  },
+  {
+    "name": "Ninetales",
+    "number": "22",
+    "rarity": "Rare",
+    "set_name": "Hidden Legends",
+    "set_series": "EX"
+  },
+  {
+    "name": "Rain Castform",
+    "number": "23",
+    "rarity": "Rare",
+    "set_name": "Hidden Legends",
+    "set_series": "EX"
+  },
+  {
+    "name": "Relicanth",
+    "number": "24",
+    "rarity": "Rare",
+    "set_name": "Hidden Legends",
+    "set_series": "EX"
+  },
+  {
+    "name": "Snow-cloud Castform",
+    "number": "25",
+    "rarity": "Rare",
+    "set_name": "Hidden Legends",
+    "set_series": "EX"
+  },
+  {
+    "name": "Sunny Castform",
+    "number": "26",
+    "rarity": "Rare",
+    "set_name": "Hidden Legends",
+    "set_series": "EX"
+  },
+  {
+    "name": "Tropius",
+    "number": "27",
+    "rarity": "Rare",
+    "set_name": "Hidden Legends",
+    "set_series": "EX"
+  },
+  {
+    "name": "Beldum",
+    "number": "28",
+    "rarity": "Uncommon",
+    "set_name": "Hidden Legends",
+    "set_series": "EX"
+  },
+  {
+    "name": "Beldum",
+    "number": "29",
+    "rarity": "Uncommon",
+    "set_name": "Hidden Legends",
+    "set_series": "EX"
+  },
+  {
+    "name": "Castform",
+    "number": "30",
+    "rarity": "Uncommon",
+    "set_name": "Hidden Legends",
+    "set_series": "EX"
+  },
+  {
+    "name": "Claydol",
+    "number": "31",
+    "rarity": "Uncommon",
+    "set_name": "Hidden Legends",
+    "set_series": "EX"
+  },
+  {
+    "name": "Corsola",
+    "number": "32",
+    "rarity": "Uncommon",
+    "set_name": "Hidden Legends",
+    "set_series": "EX"
+  },
+  {
+    "name": "Dodrio",
+    "number": "33",
+    "rarity": "Uncommon",
+    "set_name": "Hidden Legends",
+    "set_series": "EX"
+  },
+  {
+    "name": "Glalie",
+    "number": "34",
+    "rarity": "Uncommon",
+    "set_name": "Hidden Legends",
+    "set_series": "EX"
+  },
+  {
+    "name": "Gloom",
+    "number": "35",
+    "rarity": "Uncommon",
+    "set_name": "Hidden Legends",
+    "set_series": "EX"
+  },
+  {
+    "name": "Golbat",
+    "number": "36",
+    "rarity": "Uncommon",
+    "set_name": "Hidden Legends",
+    "set_series": "EX"
+  },
+  {
+    "name": "Igglybuff",
+    "number": "37",
+    "rarity": "Uncommon",
+    "set_name": "Hidden Legends",
+    "set_series": "EX"
+  },
+  {
+    "name": "Lanturn",
+    "number": "38",
+    "rarity": "Uncommon",
+    "set_name": "Hidden Legends",
+    "set_series": "EX"
+  },
+  {
+    "name": "Loudred",
+    "number": "39",
+    "rarity": "Uncommon",
+    "set_name": "Hidden Legends",
+    "set_series": "EX"
+  },
+  {
+    "name": "Luvdisc",
+    "number": "40",
+    "rarity": "Uncommon",
+    "set_name": "Hidden Legends",
+    "set_series": "EX"
+  },
+  {
+    "name": "Machoke",
+    "number": "41",
+    "rarity": "Uncommon",
+    "set_name": "Hidden Legends",
+    "set_series": "EX"
+  },
+  {
+    "name": "Medicham",
+    "number": "42",
+    "rarity": "Uncommon",
+    "set_name": "Hidden Legends",
+    "set_series": "EX"
+  },
+  {
+    "name": "Metang",
+    "number": "43",
+    "rarity": "Uncommon",
+    "set_name": "Hidden Legends",
+    "set_series": "EX"
+  },
+  {
+    "name": "Metang",
+    "number": "44",
+    "rarity": "Uncommon",
+    "set_name": "Hidden Legends",
+    "set_series": "EX"
+  },
+  {
+    "name": "Nuzleaf",
+    "number": "45",
+    "rarity": "Uncommon",
+    "set_name": "Hidden Legends",
+    "set_series": "EX"
+  },
+  {
+    "name": "Rhydon",
+    "number": "46",
+    "rarity": "Uncommon",
+    "set_name": "Hidden Legends",
+    "set_series": "EX"
+  },
+  {
+    "name": "Sealeo",
+    "number": "47",
+    "rarity": "Uncommon",
+    "set_name": "Hidden Legends",
+    "set_series": "EX"
+  },
+  {
+    "name": "Spinda",
+    "number": "48",
+    "rarity": "Uncommon",
+    "set_name": "Hidden Legends",
+    "set_series": "EX"
+  },
+  {
+    "name": "Starmie",
+    "number": "49",
+    "rarity": "Uncommon",
+    "set_name": "Hidden Legends",
+    "set_series": "EX"
+  },
+  {
+    "name": "Swalot",
+    "number": "50",
+    "rarity": "Uncommon",
+    "set_name": "Hidden Legends",
+    "set_series": "EX"
+  },
+  {
+    "name": "Tentacruel",
+    "number": "51",
+    "rarity": "Uncommon",
+    "set_name": "Hidden Legends",
+    "set_series": "EX"
+  },
+  {
+    "name": "Baltoy",
+    "number": "52",
+    "rarity": "Common",
+    "set_name": "Hidden Legends",
+    "set_series": "EX"
+  },
+  {
+    "name": "Baltoy",
+    "number": "53",
+    "rarity": "Common",
+    "set_name": "Hidden Legends",
+    "set_series": "EX"
+  },
+  {
+    "name": "Beldum",
+    "number": "54",
+    "rarity": "Common",
+    "set_name": "Hidden Legends",
+    "set_series": "EX"
+  },
+  {
+    "name": "Chikorita",
+    "number": "55",
+    "rarity": "Common",
+    "set_name": "Hidden Legends",
+    "set_series": "EX"
+  },
+  {
+    "name": "Chinchou",
+    "number": "56",
+    "rarity": "Common",
+    "set_name": "Hidden Legends",
+    "set_series": "EX"
+  },
+  {
+    "name": "Chinchou",
+    "number": "57",
+    "rarity": "Common",
+    "set_name": "Hidden Legends",
+    "set_series": "EX"
+  },
+  {
+    "name": "Clamperl",
+    "number": "58",
+    "rarity": "Common",
+    "set_name": "Hidden Legends",
+    "set_series": "EX"
+  },
+  {
+    "name": "Cyndaquil",
+    "number": "59",
+    "rarity": "Common",
+    "set_name": "Hidden Legends",
+    "set_series": "EX"
+  },
+  {
+    "name": "Doduo",
+    "number": "60",
+    "rarity": "Common",
+    "set_name": "Hidden Legends",
+    "set_series": "EX"
+  },
+  {
+    "name": "Feebas",
+    "number": "61",
+    "rarity": "Common",
+    "set_name": "Hidden Legends",
+    "set_series": "EX"
+  },
+  {
+    "name": "Gulpin",
+    "number": "62",
+    "rarity": "Common",
+    "set_name": "Hidden Legends",
+    "set_series": "EX"
+  },
+  {
+    "name": "Jigglypuff",
+    "number": "63",
+    "rarity": "Common",
+    "set_name": "Hidden Legends",
+    "set_series": "EX"
+  },
+  {
+    "name": "Machop",
+    "number": "64",
+    "rarity": "Common",
+    "set_name": "Hidden Legends",
+    "set_series": "EX"
+  },
+  {
+    "name": "Meditite",
+    "number": "65",
+    "rarity": "Common",
+    "set_name": "Hidden Legends",
+    "set_series": "EX"
+  },
+  {
+    "name": "Meditite",
+    "number": "66",
+    "rarity": "Common",
+    "set_name": "Hidden Legends",
+    "set_series": "EX"
+  },
+  {
+    "name": "Minun",
+    "number": "67",
+    "rarity": "Common",
+    "set_name": "Hidden Legends",
+    "set_series": "EX"
+  },
+  {
+    "name": "Oddish",
+    "number": "68",
+    "rarity": "Common",
+    "set_name": "Hidden Legends",
+    "set_series": "EX"
+  },
+  {
+    "name": "Plusle",
+    "number": "69",
+    "rarity": "Common",
+    "set_name": "Hidden Legends",
+    "set_series": "EX"
+  },
+  {
+    "name": "Rhyhorn",
+    "number": "70",
+    "rarity": "Common",
+    "set_name": "Hidden Legends",
+    "set_series": "EX"
+  },
+  {
+    "name": "Seedot",
+    "number": "71",
+    "rarity": "Common",
+    "set_name": "Hidden Legends",
+    "set_series": "EX"
+  },
+  {
+    "name": "Shuppet",
+    "number": "72",
+    "rarity": "Common",
+    "set_name": "Hidden Legends",
+    "set_series": "EX"
+  },
+  {
+    "name": "Snorunt",
+    "number": "73",
+    "rarity": "Common",
+    "set_name": "Hidden Legends",
+    "set_series": "EX"
+  },
+  {
+    "name": "Spheal",
+    "number": "74",
+    "rarity": "Common",
+    "set_name": "Hidden Legends",
+    "set_series": "EX"
+  },
+  {
+    "name": "Staryu",
+    "number": "75",
+    "rarity": "Common",
+    "set_name": "Hidden Legends",
+    "set_series": "EX"
+  },
+  {
+    "name": "Surskit",
+    "number": "76",
+    "rarity": "Common",
+    "set_name": "Hidden Legends",
+    "set_series": "EX"
+  },
+  {
+    "name": "Tentacool",
+    "number": "77",
+    "rarity": "Common",
+    "set_name": "Hidden Legends",
+    "set_series": "EX"
+  },
+  {
+    "name": "Togepi",
+    "number": "78",
+    "rarity": "Common",
+    "set_name": "Hidden Legends",
+    "set_series": "EX"
+  },
+  {
+    "name": "Totodile",
+    "number": "79",
+    "rarity": "Common",
+    "set_name": "Hidden Legends",
+    "set_series": "EX"
+  },
+  {
+    "name": "Voltorb",
+    "number": "80",
+    "rarity": "Common",
+    "set_name": "Hidden Legends",
+    "set_series": "EX"
+  },
+  {
+    "name": "Vulpix",
+    "number": "81",
+    "rarity": "Common",
+    "set_name": "Hidden Legends",
+    "set_series": "EX"
+  },
+  {
+    "name": "Whismur",
+    "number": "82",
+    "rarity": "Common",
+    "set_name": "Hidden Legends",
+    "set_series": "EX"
+  },
+  {
+    "name": "Zubat",
+    "number": "83",
+    "rarity": "Common",
+    "set_name": "Hidden Legends",
+    "set_series": "EX"
+  },
+  {
+    "name": "Ancient Technical Machine [Ice]",
+    "number": "84",
+    "rarity": "Uncommon",
+    "set_name": "Hidden Legends",
+    "set_series": "EX"
+  },
+  {
+    "name": "Ancient Technical Machine [Rock]",
+    "number": "85",
+    "rarity": "Uncommon",
+    "set_name": "Hidden Legends",
+    "set_series": "EX"
+  },
+  {
+    "name": "Ancient Technical Machine [Steel]",
+    "number": "86",
+    "rarity": "Uncommon",
+    "set_name": "Hidden Legends",
+    "set_series": "EX"
+  },
+  {
+    "name": "Ancient Tomb",
+    "number": "87",
+    "rarity": "Uncommon",
+    "set_name": "Hidden Legends",
+    "set_series": "EX"
+  },
+  {
+    "name": "Desert Ruins",
+    "number": "88",
+    "rarity": "Uncommon",
+    "set_name": "Hidden Legends",
+    "set_series": "EX"
+  },
+  {
+    "name": "Island Cave",
+    "number": "89",
+    "rarity": "Uncommon",
+    "set_name": "Hidden Legends",
+    "set_series": "EX"
+  },
+  {
+    "name": "Life Herb",
+    "number": "90",
+    "rarity": "Uncommon",
+    "set_name": "Hidden Legends",
+    "set_series": "EX"
+  },
+  {
+    "name": "Magnetic Storm",
+    "number": "91",
+    "rarity": "Uncommon",
+    "set_name": "Hidden Legends",
+    "set_series": "EX"
+  },
+  {
+    "name": "Steven's Advice",
+    "number": "92",
+    "rarity": "Uncommon",
+    "set_name": "Hidden Legends",
+    "set_series": "EX"
+  },
+  {
+    "name": "Groudon ex",
+    "number": "93",
+    "rarity": "Rare Holo EX",
+    "set_name": "Hidden Legends",
+    "set_series": "EX"
+  },
+  {
+    "name": "Kyogre ex",
+    "number": "94",
+    "rarity": "Rare Holo EX",
+    "set_name": "Hidden Legends",
+    "set_series": "EX"
+  },
+  {
+    "name": "Metagross ex",
+    "number": "95",
+    "rarity": "Rare Holo EX",
+    "set_name": "Hidden Legends",
+    "set_series": "EX"
+  },
+  {
+    "name": "Ninetales ex",
+    "number": "96",
+    "rarity": "Rare Holo EX",
+    "set_name": "Hidden Legends",
+    "set_series": "EX"
+  },
+  {
+    "name": "Regice ex",
+    "number": "97",
+    "rarity": "Rare Holo EX",
+    "set_name": "Hidden Legends",
+    "set_series": "EX"
+  },
+  {
+    "name": "Regirock ex",
+    "number": "98",
+    "rarity": "Rare Holo EX",
+    "set_name": "Hidden Legends",
+    "set_series": "EX"
+  },
+  {
+    "name": "Registeel ex",
+    "number": "99",
+    "rarity": "Rare Holo EX",
+    "set_name": "Hidden Legends",
+    "set_series": "EX"
+  },
+  {
+    "name": "Vileplume ex",
+    "number": "100",
+    "rarity": "Rare Holo EX",
+    "set_name": "Hidden Legends",
+    "set_series": "EX"
+  },
+  {
+    "name": "Wigglytuff ex",
+    "number": "101",
+    "rarity": "Rare Holo EX",
+    "set_name": "Hidden Legends",
+    "set_series": "EX"
+  },
+  {
+    "name": "Groudon",
+    "number": "102",
+    "rarity": "Rare Secret",
+    "set_name": "Hidden Legends",
+    "set_series": "EX"
+  }
+]

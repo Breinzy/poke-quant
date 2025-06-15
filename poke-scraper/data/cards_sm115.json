@@ -1,0 +1,485 @@
+[
+  {
+    "name": "Caterpie",
+    "number": "1",
+    "rarity": "Common",
+    "set_name": "Hidden Fates",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Metapod",
+    "number": "2",
+    "rarity": "Uncommon",
+    "set_name": "Hidden Fates",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Butterfree",
+    "number": "3",
+    "rarity": "Rare",
+    "set_name": "Hidden Fates",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Paras",
+    "number": "4",
+    "rarity": "Common",
+    "set_name": "Hidden Fates",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Scyther",
+    "number": "5",
+    "rarity": "Uncommon",
+    "set_name": "Hidden Fates",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Pinsir-GX",
+    "number": "6",
+    "rarity": "Rare Holo GX",
+    "set_name": "Hidden Fates",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Charmander",
+    "number": "7",
+    "rarity": "Common",
+    "set_name": "Hidden Fates",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Charmeleon",
+    "number": "8",
+    "rarity": "Uncommon",
+    "set_name": "Hidden Fates",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Charizard-GX",
+    "number": "9",
+    "rarity": "Rare Holo GX",
+    "set_name": "Hidden Fates",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Magmar",
+    "number": "10",
+    "rarity": "Uncommon",
+    "set_name": "Hidden Fates",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Psyduck",
+    "number": "11",
+    "rarity": "Common",
+    "set_name": "Hidden Fates",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Slowpoke",
+    "number": "12",
+    "rarity": "Common",
+    "set_name": "Hidden Fates",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Staryu",
+    "number": "13",
+    "rarity": "Common",
+    "set_name": "Hidden Fates",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Starmie-GX",
+    "number": "14",
+    "rarity": "Rare Holo GX",
+    "set_name": "Hidden Fates",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Magikarp",
+    "number": "15",
+    "rarity": "Common",
+    "set_name": "Hidden Fates",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Gyarados-GX",
+    "number": "16",
+    "rarity": "Rare Holo GX",
+    "set_name": "Hidden Fates",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Lapras",
+    "number": "17",
+    "rarity": "Rare",
+    "set_name": "Hidden Fates",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Vaporeon",
+    "number": "18",
+    "rarity": "Rare Holo",
+    "set_name": "Hidden Fates",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Pikachu",
+    "number": "19",
+    "rarity": "Common",
+    "set_name": "Hidden Fates",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Raichu-GX",
+    "number": "20",
+    "rarity": "Rare Holo GX",
+    "set_name": "Hidden Fates",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Voltorb",
+    "number": "21",
+    "rarity": "Common",
+    "set_name": "Hidden Fates",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Electrode",
+    "number": "22",
+    "rarity": "Rare",
+    "set_name": "Hidden Fates",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Jolteon",
+    "number": "23",
+    "rarity": "Rare",
+    "set_name": "Hidden Fates",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Zapdos",
+    "number": "24",
+    "rarity": "Rare Holo",
+    "set_name": "Hidden Fates",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Ekans",
+    "number": "25",
+    "rarity": "Common",
+    "set_name": "Hidden Fates",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Ekans",
+    "number": "26",
+    "rarity": "Common",
+    "set_name": "Hidden Fates",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Arbok",
+    "number": "27",
+    "rarity": "Rare",
+    "set_name": "Hidden Fates",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Koffing",
+    "number": "28",
+    "rarity": "Common",
+    "set_name": "Hidden Fates",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Weezing",
+    "number": "29",
+    "rarity": "Rare",
+    "set_name": "Hidden Fates",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Jynx",
+    "number": "30",
+    "rarity": "Uncommon",
+    "set_name": "Hidden Fates",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Mewtwo-GX",
+    "number": "31",
+    "rarity": "Rare Holo GX",
+    "set_name": "Hidden Fates",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Mew",
+    "number": "32",
+    "rarity": "Rare",
+    "set_name": "Hidden Fates",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Geodude",
+    "number": "33",
+    "rarity": "Common",
+    "set_name": "Hidden Fates",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Graveler",
+    "number": "34",
+    "rarity": "Uncommon",
+    "set_name": "Hidden Fates",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Golem",
+    "number": "35",
+    "rarity": "Rare",
+    "set_name": "Hidden Fates",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Onix-GX",
+    "number": "36",
+    "rarity": "Rare Holo GX",
+    "set_name": "Hidden Fates",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Cubone",
+    "number": "37",
+    "rarity": "Common",
+    "set_name": "Hidden Fates",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Clefairy",
+    "number": "38",
+    "rarity": "Common",
+    "set_name": "Hidden Fates",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Clefairy",
+    "number": "39",
+    "rarity": "Common",
+    "set_name": "Hidden Fates",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Clefable",
+    "number": "40",
+    "rarity": "Rare",
+    "set_name": "Hidden Fates",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Jigglypuff",
+    "number": "41",
+    "rarity": "Common",
+    "set_name": "Hidden Fates",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Wigglytuff-GX",
+    "number": "42",
+    "rarity": "Rare Holo GX",
+    "set_name": "Hidden Fates",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Mr. Mime",
+    "number": "43",
+    "rarity": "Rare",
+    "set_name": "Hidden Fates",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Moltres & Zapdos & Articuno-GX",
+    "number": "44",
+    "rarity": "Rare Holo GX",
+    "set_name": "Hidden Fates",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Farfetch'd",
+    "number": "45",
+    "rarity": "Uncommon",
+    "set_name": "Hidden Fates",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Chansey",
+    "number": "46",
+    "rarity": "Uncommon",
+    "set_name": "Hidden Fates",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Kangaskhan",
+    "number": "47",
+    "rarity": "Rare",
+    "set_name": "Hidden Fates",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Eevee",
+    "number": "48",
+    "rarity": "Rare Holo",
+    "set_name": "Hidden Fates",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Eevee",
+    "number": "49",
+    "rarity": "Common",
+    "set_name": "Hidden Fates",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Snorlax",
+    "number": "50",
+    "rarity": "Rare",
+    "set_name": "Hidden Fates",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Bill's Analysis",
+    "number": "51",
+    "rarity": "Rare",
+    "set_name": "Hidden Fates",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Blaine's Last Stand",
+    "number": "52",
+    "rarity": "Rare",
+    "set_name": "Hidden Fates",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Brock's Grit",
+    "number": "53",
+    "rarity": "Uncommon",
+    "set_name": "Hidden Fates",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Brock's Pewter City Gym",
+    "number": "54",
+    "rarity": "Uncommon",
+    "set_name": "Hidden Fates",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Brock's Training",
+    "number": "55",
+    "rarity": "Rare Holo",
+    "set_name": "Hidden Fates",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Erika's Hospitality",
+    "number": "56",
+    "rarity": "Rare",
+    "set_name": "Hidden Fates",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Giovanni's Exile",
+    "number": "57",
+    "rarity": "Uncommon",
+    "set_name": "Hidden Fates",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Jessie & James",
+    "number": "58",
+    "rarity": "Rare Holo",
+    "set_name": "Hidden Fates",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Koga's Trap",
+    "number": "59",
+    "rarity": "Uncommon",
+    "set_name": "Hidden Fates",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Lt. Surge's Strategy",
+    "number": "60",
+    "rarity": "Uncommon",
+    "set_name": "Hidden Fates",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Misty's Cerulean City Gym",
+    "number": "61",
+    "rarity": "Uncommon",
+    "set_name": "Hidden Fates",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Misty's Determination",
+    "number": "62",
+    "rarity": "Uncommon",
+    "set_name": "Hidden Fates",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Misty's Water Command",
+    "number": "63",
+    "rarity": "Rare Holo",
+    "set_name": "Hidden Fates",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Pok\u00e9mon Center Lady",
+    "number": "64",
+    "rarity": "Uncommon",
+    "set_name": "Hidden Fates",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Sabrina's Suggestion",
+    "number": "65",
+    "rarity": "Uncommon",
+    "set_name": "Hidden Fates",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Moltres & Zapdos & Articuno-GX",
+    "number": "66",
+    "rarity": "Rare Ultra",
+    "set_name": "Hidden Fates",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Giovanni's Exile",
+    "number": "67",
+    "rarity": "Rare Ultra",
+    "set_name": "Hidden Fates",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Jessie & James",
+    "number": "68",
+    "rarity": "Rare Ultra",
+    "set_name": "Hidden Fates",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Moltres & Zapdos & Articuno-GX",
+    "number": "69",
+    "rarity": "Rare Rainbow",
+    "set_name": "Hidden Fates",
+    "set_series": "Sun & Moon"
+  }
+]

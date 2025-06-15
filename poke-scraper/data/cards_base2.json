@@ -1,0 +1,450 @@
+[
+  {
+    "name": "Clefable",
+    "number": "1",
+    "rarity": "Rare Holo",
+    "set_name": "Jungle",
+    "set_series": "Base"
+  },
+  {
+    "name": "Electrode",
+    "number": "2",
+    "rarity": "Rare Holo",
+    "set_name": "Jungle",
+    "set_series": "Base"
+  },
+  {
+    "name": "Flareon",
+    "number": "3",
+    "rarity": "Rare Holo",
+    "set_name": "Jungle",
+    "set_series": "Base"
+  },
+  {
+    "name": "Jolteon",
+    "number": "4",
+    "rarity": "Rare Holo",
+    "set_name": "Jungle",
+    "set_series": "Base"
+  },
+  {
+    "name": "Kangaskhan",
+    "number": "5",
+    "rarity": "Rare Holo",
+    "set_name": "Jungle",
+    "set_series": "Base"
+  },
+  {
+    "name": "Mr. Mime",
+    "number": "6",
+    "rarity": "Rare Holo",
+    "set_name": "Jungle",
+    "set_series": "Base"
+  },
+  {
+    "name": "Nidoqueen",
+    "number": "7",
+    "rarity": "Rare Holo",
+    "set_name": "Jungle",
+    "set_series": "Base"
+  },
+  {
+    "name": "Pidgeot",
+    "number": "8",
+    "rarity": "Rare Holo",
+    "set_name": "Jungle",
+    "set_series": "Base"
+  },
+  {
+    "name": "Pinsir",
+    "number": "9",
+    "rarity": "Rare Holo",
+    "set_name": "Jungle",
+    "set_series": "Base"
+  },
+  {
+    "name": "Scyther",
+    "number": "10",
+    "rarity": "Rare Holo",
+    "set_name": "Jungle",
+    "set_series": "Base"
+  },
+  {
+    "name": "Snorlax",
+    "number": "11",
+    "rarity": "Rare Holo",
+    "set_name": "Jungle",
+    "set_series": "Base"
+  },
+  {
+    "name": "Vaporeon",
+    "number": "12",
+    "rarity": "Rare Holo",
+    "set_name": "Jungle",
+    "set_series": "Base"
+  },
+  {
+    "name": "Venomoth",
+    "number": "13",
+    "rarity": "Rare Holo",
+    "set_name": "Jungle",
+    "set_series": "Base"
+  },
+  {
+    "name": "Victreebel",
+    "number": "14",
+    "rarity": "Rare Holo",
+    "set_name": "Jungle",
+    "set_series": "Base"
+  },
+  {
+    "name": "Vileplume",
+    "number": "15",
+    "rarity": "Rare Holo",
+    "set_name": "Jungle",
+    "set_series": "Base"
+  },
+  {
+    "name": "Wigglytuff",
+    "number": "16",
+    "rarity": "Rare Holo",
+    "set_name": "Jungle",
+    "set_series": "Base"
+  },
+  {
+    "name": "Clefable",
+    "number": "17",
+    "rarity": "Rare",
+    "set_name": "Jungle",
+    "set_series": "Base"
+  },
+  {
+    "name": "Electrode",
+    "number": "18",
+    "rarity": "Rare",
+    "set_name": "Jungle",
+    "set_series": "Base"
+  },
+  {
+    "name": "Flareon",
+    "number": "19",
+    "rarity": "Rare",
+    "set_name": "Jungle",
+    "set_series": "Base"
+  },
+  {
+    "name": "Jolteon",
+    "number": "20",
+    "rarity": "Rare",
+    "set_name": "Jungle",
+    "set_series": "Base"
+  },
+  {
+    "name": "Kangaskhan",
+    "number": "21",
+    "rarity": "Rare",
+    "set_name": "Jungle",
+    "set_series": "Base"
+  },
+  {
+    "name": "Mr. Mime",
+    "number": "22",
+    "rarity": "Rare",
+    "set_name": "Jungle",
+    "set_series": "Base"
+  },
+  {
+    "name": "Nidoqueen",
+    "number": "23",
+    "rarity": "Rare",
+    "set_name": "Jungle",
+    "set_series": "Base"
+  },
+  {
+    "name": "Pidgeot",
+    "number": "24",
+    "rarity": "Rare",
+    "set_name": "Jungle",
+    "set_series": "Base"
+  },
+  {
+    "name": "Pinsir",
+    "number": "25",
+    "rarity": "Rare",
+    "set_name": "Jungle",
+    "set_series": "Base"
+  },
+  {
+    "name": "Scyther",
+    "number": "26",
+    "rarity": "Rare",
+    "set_name": "Jungle",
+    "set_series": "Base"
+  },
+  {
+    "name": "Snorlax",
+    "number": "27",
+    "rarity": "Rare",
+    "set_name": "Jungle",
+    "set_series": "Base"
+  },
+  {
+    "name": "Vaporeon",
+    "number": "28",
+    "rarity": "Rare",
+    "set_name": "Jungle",
+    "set_series": "Base"
+  },
+  {
+    "name": "Venomoth",
+    "number": "29",
+    "rarity": "Rare",
+    "set_name": "Jungle",
+    "set_series": "Base"
+  },
+  {
+    "name": "Victreebel",
+    "number": "30",
+    "rarity": "Rare",
+    "set_name": "Jungle",
+    "set_series": "Base"
+  },
+  {
+    "name": "Vileplume",
+    "number": "31",
+    "rarity": "Rare",
+    "set_name": "Jungle",
+    "set_series": "Base"
+  },
+  {
+    "name": "Wigglytuff",
+    "number": "32",
+    "rarity": "Rare",
+    "set_name": "Jungle",
+    "set_series": "Base"
+  },
+  {
+    "name": "Butterfree",
+    "number": "33",
+    "rarity": "Uncommon",
+    "set_name": "Jungle",
+    "set_series": "Base"
+  },
+  {
+    "name": "Dodrio",
+    "number": "34",
+    "rarity": "Uncommon",
+    "set_name": "Jungle",
+    "set_series": "Base"
+  },
+  {
+    "name": "Exeggutor",
+    "number": "35",
+    "rarity": "Uncommon",
+    "set_name": "Jungle",
+    "set_series": "Base"
+  },
+  {
+    "name": "Fearow",
+    "number": "36",
+    "rarity": "Uncommon",
+    "set_name": "Jungle",
+    "set_series": "Base"
+  },
+  {
+    "name": "Gloom",
+    "number": "37",
+    "rarity": "Uncommon",
+    "set_name": "Jungle",
+    "set_series": "Base"
+  },
+  {
+    "name": "Lickitung",
+    "number": "38",
+    "rarity": "Uncommon",
+    "set_name": "Jungle",
+    "set_series": "Base"
+  },
+  {
+    "name": "Marowak",
+    "number": "39",
+    "rarity": "Uncommon",
+    "set_name": "Jungle",
+    "set_series": "Base"
+  },
+  {
+    "name": "Nidorina",
+    "number": "40",
+    "rarity": "Uncommon",
+    "set_name": "Jungle",
+    "set_series": "Base"
+  },
+  {
+    "name": "Parasect",
+    "number": "41",
+    "rarity": "Uncommon",
+    "set_name": "Jungle",
+    "set_series": "Base"
+  },
+  {
+    "name": "Persian",
+    "number": "42",
+    "rarity": "Uncommon",
+    "set_name": "Jungle",
+    "set_series": "Base"
+  },
+  {
+    "name": "Primeape",
+    "number": "43",
+    "rarity": "Uncommon",
+    "set_name": "Jungle",
+    "set_series": "Base"
+  },
+  {
+    "name": "Rapidash",
+    "number": "44",
+    "rarity": "Uncommon",
+    "set_name": "Jungle",
+    "set_series": "Base"
+  },
+  {
+    "name": "Rhydon",
+    "number": "45",
+    "rarity": "Uncommon",
+    "set_name": "Jungle",
+    "set_series": "Base"
+  },
+  {
+    "name": "Seaking",
+    "number": "46",
+    "rarity": "Uncommon",
+    "set_name": "Jungle",
+    "set_series": "Base"
+  },
+  {
+    "name": "Tauros",
+    "number": "47",
+    "rarity": "Uncommon",
+    "set_name": "Jungle",
+    "set_series": "Base"
+  },
+  {
+    "name": "Weepinbell",
+    "number": "48",
+    "rarity": "Uncommon",
+    "set_name": "Jungle",
+    "set_series": "Base"
+  },
+  {
+    "name": "Bellsprout",
+    "number": "49",
+    "rarity": "Common",
+    "set_name": "Jungle",
+    "set_series": "Base"
+  },
+  {
+    "name": "Cubone",
+    "number": "50",
+    "rarity": "Common",
+    "set_name": "Jungle",
+    "set_series": "Base"
+  },
+  {
+    "name": "Eevee",
+    "number": "51",
+    "rarity": "Common",
+    "set_name": "Jungle",
+    "set_series": "Base"
+  },
+  {
+    "name": "Exeggcute",
+    "number": "52",
+    "rarity": "Common",
+    "set_name": "Jungle",
+    "set_series": "Base"
+  },
+  {
+    "name": "Goldeen",
+    "number": "53",
+    "rarity": "Common",
+    "set_name": "Jungle",
+    "set_series": "Base"
+  },
+  {
+    "name": "Jigglypuff",
+    "number": "54",
+    "rarity": "Common",
+    "set_name": "Jungle",
+    "set_series": "Base"
+  },
+  {
+    "name": "Mankey",
+    "number": "55",
+    "rarity": "Common",
+    "set_name": "Jungle",
+    "set_series": "Base"
+  },
+  {
+    "name": "Meowth",
+    "number": "56",
+    "rarity": "Common",
+    "set_name": "Jungle",
+    "set_series": "Base"
+  },
+  {
+    "name": "Nidoran \u2640",
+    "number": "57",
+    "rarity": "Common",
+    "set_name": "Jungle",
+    "set_series": "Base"
+  },
+  {
+    "name": "Oddish",
+    "number": "58",
+    "rarity": "Common",
+    "set_name": "Jungle",
+    "set_series": "Base"
+  },
+  {
+    "name": "Paras",
+    "number": "59",
+    "rarity": "Common",
+    "set_name": "Jungle",
+    "set_series": "Base"
+  },
+  {
+    "name": "Pikachu",
+    "number": "60",
+    "rarity": "Common",
+    "set_name": "Jungle",
+    "set_series": "Base"
+  },
+  {
+    "name": "Rhyhorn",
+    "number": "61",
+    "rarity": "Common",
+    "set_name": "Jungle",
+    "set_series": "Base"
+  },
+  {
+    "name": "Spearow",
+    "number": "62",
+    "rarity": "Common",
+    "set_name": "Jungle",
+    "set_series": "Base"
+  },
+  {
+    "name": "Venonat",
+    "number": "63",
+    "rarity": "Common",
+    "set_name": "Jungle",
+    "set_series": "Base"
+  },
+  {
+    "name": "Pok\u00e9 Ball",
+    "number": "64",
+    "rarity": "Common",
+    "set_name": "Jungle",
+    "set_series": "Base"
+  }
+]

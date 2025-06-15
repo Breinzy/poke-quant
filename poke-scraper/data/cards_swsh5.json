@@ -1,0 +1,1283 @@
+[
+  {
+    "name": "Bellsprout",
+    "number": "1",
+    "rarity": "Common",
+    "set_name": "Battle Styles",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Weepinbell",
+    "number": "2",
+    "rarity": "Uncommon",
+    "set_name": "Battle Styles",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Victreebel",
+    "number": "3",
+    "rarity": "Rare",
+    "set_name": "Battle Styles",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Cacnea",
+    "number": "4",
+    "rarity": "Common",
+    "set_name": "Battle Styles",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Cacturne",
+    "number": "5",
+    "rarity": "Uncommon",
+    "set_name": "Battle Styles",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Kricketune V",
+    "number": "6",
+    "rarity": "Rare Holo V",
+    "set_name": "Battle Styles",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Cherubi",
+    "number": "7",
+    "rarity": "Common",
+    "set_name": "Battle Styles",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Cherrim",
+    "number": "8",
+    "rarity": "Rare Holo",
+    "set_name": "Battle Styles",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Carnivine",
+    "number": "9",
+    "rarity": "Uncommon",
+    "set_name": "Battle Styles",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Durant",
+    "number": "10",
+    "rarity": "Uncommon",
+    "set_name": "Battle Styles",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Scatterbug",
+    "number": "11",
+    "rarity": "Common",
+    "set_name": "Battle Styles",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Spewpa",
+    "number": "12",
+    "rarity": "Uncommon",
+    "set_name": "Battle Styles",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Vivillon",
+    "number": "13",
+    "rarity": "Rare",
+    "set_name": "Battle Styles",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Fomantis",
+    "number": "14",
+    "rarity": "Common",
+    "set_name": "Battle Styles",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Lurantis",
+    "number": "15",
+    "rarity": "Rare",
+    "set_name": "Battle Styles",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Tapu Bulu",
+    "number": "16",
+    "rarity": "Rare Holo",
+    "set_name": "Battle Styles",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Blipbug",
+    "number": "17",
+    "rarity": "Common",
+    "set_name": "Battle Styles",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Flapple V",
+    "number": "18",
+    "rarity": "Rare Holo V",
+    "set_name": "Battle Styles",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Flapple VMAX",
+    "number": "19",
+    "rarity": "Rare Holo VMAX",
+    "set_name": "Battle Styles",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Entei",
+    "number": "20",
+    "rarity": "Rare Holo",
+    "set_name": "Battle Styles",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Victini V",
+    "number": "21",
+    "rarity": "Rare Holo V",
+    "set_name": "Battle Styles",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Victini VMAX",
+    "number": "22",
+    "rarity": "Rare Holo VMAX",
+    "set_name": "Battle Styles",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Tepig",
+    "number": "23",
+    "rarity": "Common",
+    "set_name": "Battle Styles",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Pignite",
+    "number": "24",
+    "rarity": "Uncommon",
+    "set_name": "Battle Styles",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Emboar",
+    "number": "25",
+    "rarity": "Rare Holo",
+    "set_name": "Battle Styles",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Heatmor",
+    "number": "26",
+    "rarity": "Uncommon",
+    "set_name": "Battle Styles",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Salandit",
+    "number": "27",
+    "rarity": "Common",
+    "set_name": "Battle Styles",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Salazzle",
+    "number": "28",
+    "rarity": "Rare",
+    "set_name": "Battle Styles",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Sizzlipede",
+    "number": "29",
+    "rarity": "Common",
+    "set_name": "Battle Styles",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Centiskorch",
+    "number": "30",
+    "rarity": "Rare",
+    "set_name": "Battle Styles",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Horsea",
+    "number": "31",
+    "rarity": "Common",
+    "set_name": "Battle Styles",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Seadra",
+    "number": "32",
+    "rarity": "Uncommon",
+    "set_name": "Battle Styles",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Kingdra",
+    "number": "33",
+    "rarity": "Rare Holo",
+    "set_name": "Battle Styles",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Galarian Mr. Mime",
+    "number": "34",
+    "rarity": "Common",
+    "set_name": "Battle Styles",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Galarian Mr. Rime",
+    "number": "35",
+    "rarity": "Rare",
+    "set_name": "Battle Styles",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Remoraid",
+    "number": "36",
+    "rarity": "Common",
+    "set_name": "Battle Styles",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Octillery",
+    "number": "37",
+    "rarity": "Rare Holo",
+    "set_name": "Battle Styles",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Corphish",
+    "number": "38",
+    "rarity": "Common",
+    "set_name": "Battle Styles",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Crawdaunt",
+    "number": "39",
+    "rarity": "Uncommon",
+    "set_name": "Battle Styles",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Empoleon V",
+    "number": "40",
+    "rarity": "Rare Holo V",
+    "set_name": "Battle Styles",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Frillish",
+    "number": "41",
+    "rarity": "Common",
+    "set_name": "Battle Styles",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Jellicent",
+    "number": "42",
+    "rarity": "Rare",
+    "set_name": "Battle Styles",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Bruxish",
+    "number": "43",
+    "rarity": "Uncommon",
+    "set_name": "Battle Styles",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Electabuzz",
+    "number": "44",
+    "rarity": "Common",
+    "set_name": "Battle Styles",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Electivire",
+    "number": "45",
+    "rarity": "Rare",
+    "set_name": "Battle Styles",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Shinx",
+    "number": "46",
+    "rarity": "Common",
+    "set_name": "Battle Styles",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Luxio",
+    "number": "47",
+    "rarity": "Uncommon",
+    "set_name": "Battle Styles",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Luxray",
+    "number": "48",
+    "rarity": "Rare Holo",
+    "set_name": "Battle Styles",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Pachirisu",
+    "number": "49",
+    "rarity": "Common",
+    "set_name": "Battle Styles",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Tapu Koko V",
+    "number": "50",
+    "rarity": "Rare Holo V",
+    "set_name": "Battle Styles",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Tapu Koko VMAX",
+    "number": "51",
+    "rarity": "Rare Holo VMAX",
+    "set_name": "Battle Styles",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Yamper",
+    "number": "52",
+    "rarity": "Common",
+    "set_name": "Battle Styles",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Boltund",
+    "number": "53",
+    "rarity": "Rare",
+    "set_name": "Battle Styles",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Galarian Slowpoke",
+    "number": "54",
+    "rarity": "Common",
+    "set_name": "Battle Styles",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Spoink",
+    "number": "55",
+    "rarity": "Common",
+    "set_name": "Battle Styles",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Grumpig",
+    "number": "56",
+    "rarity": "Uncommon",
+    "set_name": "Battle Styles",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Baltoy",
+    "number": "57",
+    "rarity": "Common",
+    "set_name": "Battle Styles",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Claydol",
+    "number": "58",
+    "rarity": "Rare",
+    "set_name": "Battle Styles",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Chimecho",
+    "number": "59",
+    "rarity": "Common",
+    "set_name": "Battle Styles",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Espurr",
+    "number": "60",
+    "rarity": "Common",
+    "set_name": "Battle Styles",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Meowstic",
+    "number": "61",
+    "rarity": "Rare Holo",
+    "set_name": "Battle Styles",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Mimikyu V",
+    "number": "62",
+    "rarity": "Rare Holo V",
+    "set_name": "Battle Styles",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Necrozma V",
+    "number": "63",
+    "rarity": "Rare Holo V",
+    "set_name": "Battle Styles",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Dottler",
+    "number": "64",
+    "rarity": "Uncommon",
+    "set_name": "Battle Styles",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Orbeetle",
+    "number": "65",
+    "rarity": "Rare Holo",
+    "set_name": "Battle Styles",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Mankey",
+    "number": "66",
+    "rarity": "Common",
+    "set_name": "Battle Styles",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Primeape",
+    "number": "67",
+    "rarity": "Rare",
+    "set_name": "Battle Styles",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Onix",
+    "number": "68",
+    "rarity": "Common",
+    "set_name": "Battle Styles",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Cubone",
+    "number": "69",
+    "rarity": "Common",
+    "set_name": "Battle Styles",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Marowak",
+    "number": "70",
+    "rarity": "Rare",
+    "set_name": "Battle Styles",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Gligar",
+    "number": "71",
+    "rarity": "Common",
+    "set_name": "Battle Styles",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Gliscor",
+    "number": "72",
+    "rarity": "Uncommon",
+    "set_name": "Battle Styles",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Timburr",
+    "number": "73",
+    "rarity": "Common",
+    "set_name": "Battle Styles",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Gurdurr",
+    "number": "74",
+    "rarity": "Uncommon",
+    "set_name": "Battle Styles",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Conkeldurr",
+    "number": "75",
+    "rarity": "Rare",
+    "set_name": "Battle Styles",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Mienfoo",
+    "number": "76",
+    "rarity": "Common",
+    "set_name": "Battle Styles",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Mienshao",
+    "number": "77",
+    "rarity": "Rare",
+    "set_name": "Battle Styles",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Rolycoly",
+    "number": "78",
+    "rarity": "Common",
+    "set_name": "Battle Styles",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Carkol",
+    "number": "79",
+    "rarity": "Uncommon",
+    "set_name": "Battle Styles",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Coalossal",
+    "number": "80",
+    "rarity": "Rare Holo",
+    "set_name": "Battle Styles",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Silicobra",
+    "number": "81",
+    "rarity": "Common",
+    "set_name": "Battle Styles",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Sandaconda",
+    "number": "82",
+    "rarity": "Rare Holo",
+    "set_name": "Battle Styles",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Falinks",
+    "number": "83",
+    "rarity": "Rare",
+    "set_name": "Battle Styles",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Stonjourner",
+    "number": "84",
+    "rarity": "Rare",
+    "set_name": "Battle Styles",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Single Strike Urshifu V",
+    "number": "85",
+    "rarity": "Rare Holo V",
+    "set_name": "Battle Styles",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Single Strike Urshifu VMAX",
+    "number": "86",
+    "rarity": "Rare Holo VMAX",
+    "set_name": "Battle Styles",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Rapid Strike Urshifu V",
+    "number": "87",
+    "rarity": "Rare Holo V",
+    "set_name": "Battle Styles",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Rapid Strike Urshifu VMAX",
+    "number": "88",
+    "rarity": "Rare Holo VMAX",
+    "set_name": "Battle Styles",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Zubat",
+    "number": "89",
+    "rarity": "Common",
+    "set_name": "Battle Styles",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Golbat",
+    "number": "90",
+    "rarity": "Uncommon",
+    "set_name": "Battle Styles",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Crobat",
+    "number": "91",
+    "rarity": "Rare Holo",
+    "set_name": "Battle Styles",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Galarian Slowbro",
+    "number": "92",
+    "rarity": "Rare",
+    "set_name": "Battle Styles",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Murkrow",
+    "number": "93",
+    "rarity": "Common",
+    "set_name": "Battle Styles",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Honchkrow",
+    "number": "94",
+    "rarity": "Uncommon",
+    "set_name": "Battle Styles",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Houndour",
+    "number": "95",
+    "rarity": "Common",
+    "set_name": "Battle Styles",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Houndoom",
+    "number": "96",
+    "rarity": "Rare Holo",
+    "set_name": "Battle Styles",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Tyranitar V",
+    "number": "97",
+    "rarity": "Rare Holo V",
+    "set_name": "Battle Styles",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Morpeko",
+    "number": "98",
+    "rarity": "Uncommon",
+    "set_name": "Battle Styles",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Steelix",
+    "number": "99",
+    "rarity": "Rare Holo",
+    "set_name": "Battle Styles",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Mawile",
+    "number": "100",
+    "rarity": "Common",
+    "set_name": "Battle Styles",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Bronzor",
+    "number": "101",
+    "rarity": "Common",
+    "set_name": "Battle Styles",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Bronzong",
+    "number": "102",
+    "rarity": "Rare Holo",
+    "set_name": "Battle Styles",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Pawniard",
+    "number": "103",
+    "rarity": "Common",
+    "set_name": "Battle Styles",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Bisharp",
+    "number": "104",
+    "rarity": "Uncommon",
+    "set_name": "Battle Styles",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Honedge",
+    "number": "105",
+    "rarity": "Common",
+    "set_name": "Battle Styles",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Doublade",
+    "number": "106",
+    "rarity": "Uncommon",
+    "set_name": "Battle Styles",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Aegislash",
+    "number": "107",
+    "rarity": "Rare Holo",
+    "set_name": "Battle Styles",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Aegislash",
+    "number": "108",
+    "rarity": "Rare",
+    "set_name": "Battle Styles",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Corviknight V",
+    "number": "109",
+    "rarity": "Rare Holo V",
+    "set_name": "Battle Styles",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Corviknight VMAX",
+    "number": "110",
+    "rarity": "Rare Holo VMAX",
+    "set_name": "Battle Styles",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Spearow",
+    "number": "111",
+    "rarity": "Common",
+    "set_name": "Battle Styles",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Fearow",
+    "number": "112",
+    "rarity": "Uncommon",
+    "set_name": "Battle Styles",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Lickitung",
+    "number": "113",
+    "rarity": "Common",
+    "set_name": "Battle Styles",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Lickilicky",
+    "number": "114",
+    "rarity": "Rare",
+    "set_name": "Battle Styles",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Glameow",
+    "number": "115",
+    "rarity": "Common",
+    "set_name": "Battle Styles",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Purugly",
+    "number": "116",
+    "rarity": "Uncommon",
+    "set_name": "Battle Styles",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Stoutland V",
+    "number": "117",
+    "rarity": "Rare Holo V",
+    "set_name": "Battle Styles",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Bouffalant",
+    "number": "118",
+    "rarity": "Uncommon",
+    "set_name": "Battle Styles",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Drampa",
+    "number": "119",
+    "rarity": "Rare",
+    "set_name": "Battle Styles",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Indeedee",
+    "number": "120",
+    "rarity": "Uncommon",
+    "set_name": "Battle Styles",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Bruno",
+    "number": "121",
+    "rarity": "Uncommon",
+    "set_name": "Battle Styles",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Camping Gear",
+    "number": "122",
+    "rarity": "Uncommon",
+    "set_name": "Battle Styles",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Cheryl",
+    "number": "123",
+    "rarity": "Uncommon",
+    "set_name": "Battle Styles",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Energy Recycler",
+    "number": "124",
+    "rarity": "Uncommon",
+    "set_name": "Battle Styles",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Escape Rope",
+    "number": "125",
+    "rarity": "Uncommon",
+    "set_name": "Battle Styles",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Exp. Share",
+    "number": "126",
+    "rarity": "Uncommon",
+    "set_name": "Battle Styles",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Fan of Waves",
+    "number": "127",
+    "rarity": "Uncommon",
+    "set_name": "Battle Styles",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Korrina's Focus",
+    "number": "128",
+    "rarity": "Uncommon",
+    "set_name": "Battle Styles",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Level Ball",
+    "number": "129",
+    "rarity": "Uncommon",
+    "set_name": "Battle Styles",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Phoebe",
+    "number": "130",
+    "rarity": "Uncommon",
+    "set_name": "Battle Styles",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Rapid Strike Scroll of Swirls",
+    "number": "131",
+    "rarity": "Uncommon",
+    "set_name": "Battle Styles",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Rapid Strike Style Mustard",
+    "number": "132",
+    "rarity": "Uncommon",
+    "set_name": "Battle Styles",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Single Strike Scroll of Scorn",
+    "number": "133",
+    "rarity": "Uncommon",
+    "set_name": "Battle Styles",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Single Strike Style Mustard",
+    "number": "134",
+    "rarity": "Uncommon",
+    "set_name": "Battle Styles",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Sordward & Shielbert",
+    "number": "135",
+    "rarity": "Uncommon",
+    "set_name": "Battle Styles",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Tool Jammer",
+    "number": "136",
+    "rarity": "Uncommon",
+    "set_name": "Battle Styles",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Tower of Darkness",
+    "number": "137",
+    "rarity": "Uncommon",
+    "set_name": "Battle Styles",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Tower of Waters",
+    "number": "138",
+    "rarity": "Uncommon",
+    "set_name": "Battle Styles",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Urn of Vitality",
+    "number": "139",
+    "rarity": "Uncommon",
+    "set_name": "Battle Styles",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Rapid Strike Energy",
+    "number": "140",
+    "rarity": "Uncommon",
+    "set_name": "Battle Styles",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Single Strike Energy",
+    "number": "141",
+    "rarity": "Uncommon",
+    "set_name": "Battle Styles",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Kricketune V",
+    "number": "142",
+    "rarity": "Rare Ultra",
+    "set_name": "Battle Styles",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Flapple V",
+    "number": "143",
+    "rarity": "Rare Ultra",
+    "set_name": "Battle Styles",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Victini V",
+    "number": "144",
+    "rarity": "Rare Ultra",
+    "set_name": "Battle Styles",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Empoleon V",
+    "number": "145",
+    "rarity": "Rare Ultra",
+    "set_name": "Battle Styles",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Empoleon V",
+    "number": "146",
+    "rarity": "Rare Ultra",
+    "set_name": "Battle Styles",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Tapu Koko V",
+    "number": "147",
+    "rarity": "Rare Ultra",
+    "set_name": "Battle Styles",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Mimikyu V",
+    "number": "148",
+    "rarity": "Rare Ultra",
+    "set_name": "Battle Styles",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Necrozma V",
+    "number": "149",
+    "rarity": "Rare Ultra",
+    "set_name": "Battle Styles",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Single Strike Urshifu V",
+    "number": "150",
+    "rarity": "Rare Ultra",
+    "set_name": "Battle Styles",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Single Strike Urshifu V",
+    "number": "151",
+    "rarity": "Rare Ultra",
+    "set_name": "Battle Styles",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Rapid Strike Urshifu V",
+    "number": "152",
+    "rarity": "Rare Ultra",
+    "set_name": "Battle Styles",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Rapid Strike Urshifu V",
+    "number": "153",
+    "rarity": "Rare Ultra",
+    "set_name": "Battle Styles",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Tyranitar V",
+    "number": "154",
+    "rarity": "Rare Ultra",
+    "set_name": "Battle Styles",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Tyranitar V",
+    "number": "155",
+    "rarity": "Rare Ultra",
+    "set_name": "Battle Styles",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Corviknight V",
+    "number": "156",
+    "rarity": "Rare Ultra",
+    "set_name": "Battle Styles",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Stoutland V",
+    "number": "157",
+    "rarity": "Rare Ultra",
+    "set_name": "Battle Styles",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Bruno",
+    "number": "158",
+    "rarity": "Rare Ultra",
+    "set_name": "Battle Styles",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Cheryl",
+    "number": "159",
+    "rarity": "Rare Ultra",
+    "set_name": "Battle Styles",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Korrina's Focus",
+    "number": "160",
+    "rarity": "Rare Ultra",
+    "set_name": "Battle Styles",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Phoebe",
+    "number": "161",
+    "rarity": "Rare Ultra",
+    "set_name": "Battle Styles",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Rapid Strike Style Mustard",
+    "number": "162",
+    "rarity": "Rare Ultra",
+    "set_name": "Battle Styles",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Single Strike Style Mustard",
+    "number": "163",
+    "rarity": "Rare Ultra",
+    "set_name": "Battle Styles",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Single Strike Urshifu VMAX",
+    "number": "168",
+    "rarity": "Rare Rainbow",
+    "set_name": "Battle Styles",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Rapid Strike Urshifu VMAX",
+    "number": "170",
+    "rarity": "Rare Rainbow",
+    "set_name": "Battle Styles",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Flapple VMAX",
+    "number": "164",
+    "rarity": "Rare Rainbow",
+    "set_name": "Battle Styles",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Victini VMAX",
+    "number": "165",
+    "rarity": "Rare Rainbow",
+    "set_name": "Battle Styles",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Tapu Koko VMAX",
+    "number": "166",
+    "rarity": "Rare Rainbow",
+    "set_name": "Battle Styles",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Single Strike Urshifu VMAX",
+    "number": "167",
+    "rarity": "Rare Rainbow",
+    "set_name": "Battle Styles",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Rapid Strike Urshifu VMAX",
+    "number": "169",
+    "rarity": "Rare Rainbow",
+    "set_name": "Battle Styles",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Corviknight VMAX",
+    "number": "171",
+    "rarity": "Rare Rainbow",
+    "set_name": "Battle Styles",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Bruno",
+    "number": "172",
+    "rarity": "Rare Rainbow",
+    "set_name": "Battle Styles",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Cheryl",
+    "number": "173",
+    "rarity": "Rare Rainbow",
+    "set_name": "Battle Styles",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Korrina's Focus",
+    "number": "174",
+    "rarity": "Rare Rainbow",
+    "set_name": "Battle Styles",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Phoebe",
+    "number": "175",
+    "rarity": "Rare Rainbow",
+    "set_name": "Battle Styles",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Rapid Strike Style Mustard",
+    "number": "176",
+    "rarity": "Rare Rainbow",
+    "set_name": "Battle Styles",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Single Strike Style Mustard",
+    "number": "177",
+    "rarity": "Rare Rainbow",
+    "set_name": "Battle Styles",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Octillery",
+    "number": "178",
+    "rarity": "Rare Secret",
+    "set_name": "Battle Styles",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Houndoom",
+    "number": "179",
+    "rarity": "Rare Secret",
+    "set_name": "Battle Styles",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Exp. Share",
+    "number": "180",
+    "rarity": "Rare Secret",
+    "set_name": "Battle Styles",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Level Ball",
+    "number": "181",
+    "rarity": "Rare Secret",
+    "set_name": "Battle Styles",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Rapid Strike Energy",
+    "number": "182",
+    "rarity": "Rare Secret",
+    "set_name": "Battle Styles",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Single Strike Energy",
+    "number": "183",
+    "rarity": "Rare Secret",
+    "set_name": "Battle Styles",
+    "set_series": "Sword & Shield"
+  }
+]

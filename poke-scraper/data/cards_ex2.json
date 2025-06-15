@@ -1,0 +1,702 @@
+[
+  {
+    "name": "Armaldo",
+    "number": "1",
+    "rarity": "Rare Holo",
+    "set_name": "Sandstorm",
+    "set_series": "EX"
+  },
+  {
+    "name": "Cacturne",
+    "number": "2",
+    "rarity": "Rare Holo",
+    "set_name": "Sandstorm",
+    "set_series": "EX"
+  },
+  {
+    "name": "Cradily",
+    "number": "3",
+    "rarity": "Rare Holo",
+    "set_name": "Sandstorm",
+    "set_series": "EX"
+  },
+  {
+    "name": "Dusclops",
+    "number": "4",
+    "rarity": "Rare Holo",
+    "set_name": "Sandstorm",
+    "set_series": "EX"
+  },
+  {
+    "name": "Flareon",
+    "number": "5",
+    "rarity": "Rare Holo",
+    "set_name": "Sandstorm",
+    "set_series": "EX"
+  },
+  {
+    "name": "Jolteon",
+    "number": "6",
+    "rarity": "Rare Holo",
+    "set_name": "Sandstorm",
+    "set_series": "EX"
+  },
+  {
+    "name": "Ludicolo",
+    "number": "7",
+    "rarity": "Rare Holo",
+    "set_name": "Sandstorm",
+    "set_series": "EX"
+  },
+  {
+    "name": "Lunatone",
+    "number": "8",
+    "rarity": "Rare Holo",
+    "set_name": "Sandstorm",
+    "set_series": "EX"
+  },
+  {
+    "name": "Mawile",
+    "number": "9",
+    "rarity": "Rare Holo",
+    "set_name": "Sandstorm",
+    "set_series": "EX"
+  },
+  {
+    "name": "Sableye",
+    "number": "10",
+    "rarity": "Rare Holo",
+    "set_name": "Sandstorm",
+    "set_series": "EX"
+  },
+  {
+    "name": "Seviper",
+    "number": "11",
+    "rarity": "Rare Holo",
+    "set_name": "Sandstorm",
+    "set_series": "EX"
+  },
+  {
+    "name": "Shiftry",
+    "number": "12",
+    "rarity": "Rare Holo",
+    "set_name": "Sandstorm",
+    "set_series": "EX"
+  },
+  {
+    "name": "Solrock",
+    "number": "13",
+    "rarity": "Rare Holo",
+    "set_name": "Sandstorm",
+    "set_series": "EX"
+  },
+  {
+    "name": "Zangoose",
+    "number": "14",
+    "rarity": "Rare Holo",
+    "set_name": "Sandstorm",
+    "set_series": "EX"
+  },
+  {
+    "name": "Arcanine",
+    "number": "15",
+    "rarity": "Rare",
+    "set_name": "Sandstorm",
+    "set_series": "EX"
+  },
+  {
+    "name": "Espeon",
+    "number": "16",
+    "rarity": "Rare",
+    "set_name": "Sandstorm",
+    "set_series": "EX"
+  },
+  {
+    "name": "Golduck",
+    "number": "17",
+    "rarity": "Rare",
+    "set_name": "Sandstorm",
+    "set_series": "EX"
+  },
+  {
+    "name": "Kecleon",
+    "number": "18",
+    "rarity": "Rare",
+    "set_name": "Sandstorm",
+    "set_series": "EX"
+  },
+  {
+    "name": "Omastar",
+    "number": "19",
+    "rarity": "Rare",
+    "set_name": "Sandstorm",
+    "set_series": "EX"
+  },
+  {
+    "name": "Pichu",
+    "number": "20",
+    "rarity": "Rare",
+    "set_name": "Sandstorm",
+    "set_series": "EX"
+  },
+  {
+    "name": "Sandslash",
+    "number": "21",
+    "rarity": "Rare",
+    "set_name": "Sandstorm",
+    "set_series": "EX"
+  },
+  {
+    "name": "Shiftry",
+    "number": "22",
+    "rarity": "Rare",
+    "set_name": "Sandstorm",
+    "set_series": "EX"
+  },
+  {
+    "name": "Steelix",
+    "number": "23",
+    "rarity": "Rare",
+    "set_name": "Sandstorm",
+    "set_series": "EX"
+  },
+  {
+    "name": "Umbreon",
+    "number": "24",
+    "rarity": "Rare",
+    "set_name": "Sandstorm",
+    "set_series": "EX"
+  },
+  {
+    "name": "Vaporeon",
+    "number": "25",
+    "rarity": "Rare",
+    "set_name": "Sandstorm",
+    "set_series": "EX"
+  },
+  {
+    "name": "Wobbuffet",
+    "number": "26",
+    "rarity": "Rare",
+    "set_name": "Sandstorm",
+    "set_series": "EX"
+  },
+  {
+    "name": "Anorith",
+    "number": "27",
+    "rarity": "Uncommon",
+    "set_name": "Sandstorm",
+    "set_series": "EX"
+  },
+  {
+    "name": "Anorith",
+    "number": "28",
+    "rarity": "Uncommon",
+    "set_name": "Sandstorm",
+    "set_series": "EX"
+  },
+  {
+    "name": "Arbok",
+    "number": "29",
+    "rarity": "Uncommon",
+    "set_name": "Sandstorm",
+    "set_series": "EX"
+  },
+  {
+    "name": "Azumarill",
+    "number": "30",
+    "rarity": "Uncommon",
+    "set_name": "Sandstorm",
+    "set_series": "EX"
+  },
+  {
+    "name": "Azurill",
+    "number": "31",
+    "rarity": "Uncommon",
+    "set_name": "Sandstorm",
+    "set_series": "EX"
+  },
+  {
+    "name": "Baltoy",
+    "number": "32",
+    "rarity": "Uncommon",
+    "set_name": "Sandstorm",
+    "set_series": "EX"
+  },
+  {
+    "name": "Breloom",
+    "number": "33",
+    "rarity": "Uncommon",
+    "set_name": "Sandstorm",
+    "set_series": "EX"
+  },
+  {
+    "name": "Delcatty",
+    "number": "34",
+    "rarity": "Uncommon",
+    "set_name": "Sandstorm",
+    "set_series": "EX"
+  },
+  {
+    "name": "Electabuzz",
+    "number": "35",
+    "rarity": "Uncommon",
+    "set_name": "Sandstorm",
+    "set_series": "EX"
+  },
+  {
+    "name": "Elekid",
+    "number": "36",
+    "rarity": "Uncommon",
+    "set_name": "Sandstorm",
+    "set_series": "EX"
+  },
+  {
+    "name": "Fearow",
+    "number": "37",
+    "rarity": "Uncommon",
+    "set_name": "Sandstorm",
+    "set_series": "EX"
+  },
+  {
+    "name": "Illumise",
+    "number": "38",
+    "rarity": "Uncommon",
+    "set_name": "Sandstorm",
+    "set_series": "EX"
+  },
+  {
+    "name": "Kabuto",
+    "number": "39",
+    "rarity": "Uncommon",
+    "set_name": "Sandstorm",
+    "set_series": "EX"
+  },
+  {
+    "name": "Kirlia",
+    "number": "40",
+    "rarity": "Uncommon",
+    "set_name": "Sandstorm",
+    "set_series": "EX"
+  },
+  {
+    "name": "Lairon",
+    "number": "41",
+    "rarity": "Uncommon",
+    "set_name": "Sandstorm",
+    "set_series": "EX"
+  },
+  {
+    "name": "Lileep",
+    "number": "42",
+    "rarity": "Uncommon",
+    "set_name": "Sandstorm",
+    "set_series": "EX"
+  },
+  {
+    "name": "Lileep",
+    "number": "43",
+    "rarity": "Uncommon",
+    "set_name": "Sandstorm",
+    "set_series": "EX"
+  },
+  {
+    "name": "Linoone",
+    "number": "44",
+    "rarity": "Uncommon",
+    "set_name": "Sandstorm",
+    "set_series": "EX"
+  },
+  {
+    "name": "Lombre",
+    "number": "45",
+    "rarity": "Uncommon",
+    "set_name": "Sandstorm",
+    "set_series": "EX"
+  },
+  {
+    "name": "Lombre",
+    "number": "46",
+    "rarity": "Uncommon",
+    "set_name": "Sandstorm",
+    "set_series": "EX"
+  },
+  {
+    "name": "Murkrow",
+    "number": "47",
+    "rarity": "Uncommon",
+    "set_name": "Sandstorm",
+    "set_series": "EX"
+  },
+  {
+    "name": "Nuzleaf",
+    "number": "48",
+    "rarity": "Uncommon",
+    "set_name": "Sandstorm",
+    "set_series": "EX"
+  },
+  {
+    "name": "Nuzleaf",
+    "number": "49",
+    "rarity": "Uncommon",
+    "set_name": "Sandstorm",
+    "set_series": "EX"
+  },
+  {
+    "name": "Pelipper",
+    "number": "50",
+    "rarity": "Uncommon",
+    "set_name": "Sandstorm",
+    "set_series": "EX"
+  },
+  {
+    "name": "Quilava",
+    "number": "51",
+    "rarity": "Uncommon",
+    "set_name": "Sandstorm",
+    "set_series": "EX"
+  },
+  {
+    "name": "Vigoroth",
+    "number": "52",
+    "rarity": "Uncommon",
+    "set_name": "Sandstorm",
+    "set_series": "EX"
+  },
+  {
+    "name": "Volbeat",
+    "number": "53",
+    "rarity": "Uncommon",
+    "set_name": "Sandstorm",
+    "set_series": "EX"
+  },
+  {
+    "name": "Wynaut",
+    "number": "54",
+    "rarity": "Uncommon",
+    "set_name": "Sandstorm",
+    "set_series": "EX"
+  },
+  {
+    "name": "Xatu",
+    "number": "55",
+    "rarity": "Uncommon",
+    "set_name": "Sandstorm",
+    "set_series": "EX"
+  },
+  {
+    "name": "Aron",
+    "number": "56",
+    "rarity": "Common",
+    "set_name": "Sandstorm",
+    "set_series": "EX"
+  },
+  {
+    "name": "Cacnea",
+    "number": "57",
+    "rarity": "Common",
+    "set_name": "Sandstorm",
+    "set_series": "EX"
+  },
+  {
+    "name": "Cacnea",
+    "number": "58",
+    "rarity": "Common",
+    "set_name": "Sandstorm",
+    "set_series": "EX"
+  },
+  {
+    "name": "Cyndaquil",
+    "number": "59",
+    "rarity": "Common",
+    "set_name": "Sandstorm",
+    "set_series": "EX"
+  },
+  {
+    "name": "Dunsparce",
+    "number": "60",
+    "rarity": "Common",
+    "set_name": "Sandstorm",
+    "set_series": "EX"
+  },
+  {
+    "name": "Duskull",
+    "number": "61",
+    "rarity": "Common",
+    "set_name": "Sandstorm",
+    "set_series": "EX"
+  },
+  {
+    "name": "Duskull",
+    "number": "62",
+    "rarity": "Common",
+    "set_name": "Sandstorm",
+    "set_series": "EX"
+  },
+  {
+    "name": "Eevee",
+    "number": "63",
+    "rarity": "Common",
+    "set_name": "Sandstorm",
+    "set_series": "EX"
+  },
+  {
+    "name": "Ekans",
+    "number": "64",
+    "rarity": "Common",
+    "set_name": "Sandstorm",
+    "set_series": "EX"
+  },
+  {
+    "name": "Growlithe",
+    "number": "65",
+    "rarity": "Common",
+    "set_name": "Sandstorm",
+    "set_series": "EX"
+  },
+  {
+    "name": "Lotad",
+    "number": "66",
+    "rarity": "Common",
+    "set_name": "Sandstorm",
+    "set_series": "EX"
+  },
+  {
+    "name": "Lotad",
+    "number": "67",
+    "rarity": "Common",
+    "set_name": "Sandstorm",
+    "set_series": "EX"
+  },
+  {
+    "name": "Marill",
+    "number": "68",
+    "rarity": "Common",
+    "set_name": "Sandstorm",
+    "set_series": "EX"
+  },
+  {
+    "name": "Natu",
+    "number": "69",
+    "rarity": "Common",
+    "set_name": "Sandstorm",
+    "set_series": "EX"
+  },
+  {
+    "name": "Omanyte",
+    "number": "70",
+    "rarity": "Common",
+    "set_name": "Sandstorm",
+    "set_series": "EX"
+  },
+  {
+    "name": "Onix",
+    "number": "71",
+    "rarity": "Common",
+    "set_name": "Sandstorm",
+    "set_series": "EX"
+  },
+  {
+    "name": "Pikachu",
+    "number": "72",
+    "rarity": "Common",
+    "set_name": "Sandstorm",
+    "set_series": "EX"
+  },
+  {
+    "name": "Psyduck",
+    "number": "73",
+    "rarity": "Common",
+    "set_name": "Sandstorm",
+    "set_series": "EX"
+  },
+  {
+    "name": "Ralts",
+    "number": "74",
+    "rarity": "Common",
+    "set_name": "Sandstorm",
+    "set_series": "EX"
+  },
+  {
+    "name": "Sandshrew",
+    "number": "75",
+    "rarity": "Common",
+    "set_name": "Sandstorm",
+    "set_series": "EX"
+  },
+  {
+    "name": "Seedot",
+    "number": "76",
+    "rarity": "Common",
+    "set_name": "Sandstorm",
+    "set_series": "EX"
+  },
+  {
+    "name": "Seedot",
+    "number": "77",
+    "rarity": "Common",
+    "set_name": "Sandstorm",
+    "set_series": "EX"
+  },
+  {
+    "name": "Shroomish",
+    "number": "78",
+    "rarity": "Common",
+    "set_name": "Sandstorm",
+    "set_series": "EX"
+  },
+  {
+    "name": "Skitty",
+    "number": "79",
+    "rarity": "Common",
+    "set_name": "Sandstorm",
+    "set_series": "EX"
+  },
+  {
+    "name": "Slakoth",
+    "number": "80",
+    "rarity": "Common",
+    "set_name": "Sandstorm",
+    "set_series": "EX"
+  },
+  {
+    "name": "Spearow",
+    "number": "81",
+    "rarity": "Common",
+    "set_name": "Sandstorm",
+    "set_series": "EX"
+  },
+  {
+    "name": "Trapinch",
+    "number": "82",
+    "rarity": "Common",
+    "set_name": "Sandstorm",
+    "set_series": "EX"
+  },
+  {
+    "name": "Wailmer",
+    "number": "83",
+    "rarity": "Common",
+    "set_name": "Sandstorm",
+    "set_series": "EX"
+  },
+  {
+    "name": "Wingull",
+    "number": "84",
+    "rarity": "Common",
+    "set_name": "Sandstorm",
+    "set_series": "EX"
+  },
+  {
+    "name": "Zigzagoon",
+    "number": "85",
+    "rarity": "Common",
+    "set_name": "Sandstorm",
+    "set_series": "EX"
+  },
+  {
+    "name": "Double Full Heal",
+    "number": "86",
+    "rarity": "Uncommon",
+    "set_name": "Sandstorm",
+    "set_series": "EX"
+  },
+  {
+    "name": "Lanette's Net Search",
+    "number": "87",
+    "rarity": "Uncommon",
+    "set_name": "Sandstorm",
+    "set_series": "EX"
+  },
+  {
+    "name": "Rare Candy",
+    "number": "88",
+    "rarity": "Uncommon",
+    "set_name": "Sandstorm",
+    "set_series": "EX"
+  },
+  {
+    "name": "Wally's Training",
+    "number": "89",
+    "rarity": "Uncommon",
+    "set_name": "Sandstorm",
+    "set_series": "EX"
+  },
+  {
+    "name": "Claw Fossil",
+    "number": "90",
+    "rarity": "Common",
+    "set_name": "Sandstorm",
+    "set_series": "EX"
+  },
+  {
+    "name": "Mysterious Fossil",
+    "number": "91",
+    "rarity": "Common",
+    "set_name": "Sandstorm",
+    "set_series": "EX"
+  },
+  {
+    "name": "Root Fossil",
+    "number": "92",
+    "rarity": "Common",
+    "set_name": "Sandstorm",
+    "set_series": "EX"
+  },
+  {
+    "name": "Multi Energy",
+    "number": "93",
+    "rarity": "Rare",
+    "set_name": "Sandstorm",
+    "set_series": "EX"
+  },
+  {
+    "name": "Aerodactyl ex",
+    "number": "94",
+    "rarity": "Rare Holo EX",
+    "set_name": "Sandstorm",
+    "set_series": "EX"
+  },
+  {
+    "name": "Aggron ex",
+    "number": "95",
+    "rarity": "Rare Holo EX",
+    "set_name": "Sandstorm",
+    "set_series": "EX"
+  },
+  {
+    "name": "Gardevoir ex",
+    "number": "96",
+    "rarity": "Rare Holo EX",
+    "set_name": "Sandstorm",
+    "set_series": "EX"
+  },
+  {
+    "name": "Kabutops ex",
+    "number": "97",
+    "rarity": "Rare Holo EX",
+    "set_name": "Sandstorm",
+    "set_series": "EX"
+  },
+  {
+    "name": "Raichu ex",
+    "number": "98",
+    "rarity": "Rare Holo EX",
+    "set_name": "Sandstorm",
+    "set_series": "EX"
+  },
+  {
+    "name": "Typhlosion ex",
+    "number": "99",
+    "rarity": "Rare Holo EX",
+    "set_name": "Sandstorm",
+    "set_series": "EX"
+  },
+  {
+    "name": "Wailord ex",
+    "number": "100",
+    "rarity": "Rare Holo EX",
+    "set_name": "Sandstorm",
+    "set_series": "EX"
+  }
+]

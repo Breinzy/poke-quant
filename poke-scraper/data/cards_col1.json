@@ -1,0 +1,744 @@
+[
+  {
+    "name": "Clefable",
+    "number": "1",
+    "rarity": "Rare Holo",
+    "set_name": "Call of Legends",
+    "set_series": "HeartGold & SoulSilver"
+  },
+  {
+    "name": "Deoxys",
+    "number": "2",
+    "rarity": "Rare Holo",
+    "set_name": "Call of Legends",
+    "set_series": "HeartGold & SoulSilver"
+  },
+  {
+    "name": "Dialga",
+    "number": "3",
+    "rarity": "Rare Holo",
+    "set_name": "Call of Legends",
+    "set_series": "HeartGold & SoulSilver"
+  },
+  {
+    "name": "Espeon",
+    "number": "4",
+    "rarity": "Rare Holo",
+    "set_name": "Call of Legends",
+    "set_series": "HeartGold & SoulSilver"
+  },
+  {
+    "name": "Forretress",
+    "number": "5",
+    "rarity": "Rare Holo",
+    "set_name": "Call of Legends",
+    "set_series": "HeartGold & SoulSilver"
+  },
+  {
+    "name": "Groudon",
+    "number": "6",
+    "rarity": "Rare Holo",
+    "set_name": "Call of Legends",
+    "set_series": "HeartGold & SoulSilver"
+  },
+  {
+    "name": "Gyarados",
+    "number": "7",
+    "rarity": "Rare Holo",
+    "set_name": "Call of Legends",
+    "set_series": "HeartGold & SoulSilver"
+  },
+  {
+    "name": "Hitmontop",
+    "number": "8",
+    "rarity": "Rare Holo",
+    "set_name": "Call of Legends",
+    "set_series": "HeartGold & SoulSilver"
+  },
+  {
+    "name": "Ho-Oh",
+    "number": "9",
+    "rarity": "Rare Holo",
+    "set_name": "Call of Legends",
+    "set_series": "HeartGold & SoulSilver"
+  },
+  {
+    "name": "Houndoom",
+    "number": "10",
+    "rarity": "Rare Holo",
+    "set_name": "Call of Legends",
+    "set_series": "HeartGold & SoulSilver"
+  },
+  {
+    "name": "Jirachi",
+    "number": "11",
+    "rarity": "Rare Holo",
+    "set_name": "Call of Legends",
+    "set_series": "HeartGold & SoulSilver"
+  },
+  {
+    "name": "Kyogre",
+    "number": "12",
+    "rarity": "Rare Holo",
+    "set_name": "Call of Legends",
+    "set_series": "HeartGold & SoulSilver"
+  },
+  {
+    "name": "Leafeon",
+    "number": "13",
+    "rarity": "Rare Holo",
+    "set_name": "Call of Legends",
+    "set_series": "HeartGold & SoulSilver"
+  },
+  {
+    "name": "Lucario",
+    "number": "14",
+    "rarity": "Rare Holo",
+    "set_name": "Call of Legends",
+    "set_series": "HeartGold & SoulSilver"
+  },
+  {
+    "name": "Lugia",
+    "number": "15",
+    "rarity": "Rare Holo",
+    "set_name": "Call of Legends",
+    "set_series": "HeartGold & SoulSilver"
+  },
+  {
+    "name": "Magmortar",
+    "number": "16",
+    "rarity": "Rare Holo",
+    "set_name": "Call of Legends",
+    "set_series": "HeartGold & SoulSilver"
+  },
+  {
+    "name": "Ninetales",
+    "number": "17",
+    "rarity": "Rare Holo",
+    "set_name": "Call of Legends",
+    "set_series": "HeartGold & SoulSilver"
+  },
+  {
+    "name": "Pachirisu",
+    "number": "18",
+    "rarity": "Rare Holo",
+    "set_name": "Call of Legends",
+    "set_series": "HeartGold & SoulSilver"
+  },
+  {
+    "name": "Palkia",
+    "number": "19",
+    "rarity": "Rare Holo",
+    "set_name": "Call of Legends",
+    "set_series": "HeartGold & SoulSilver"
+  },
+  {
+    "name": "Rayquaza",
+    "number": "20",
+    "rarity": "Rare Holo",
+    "set_name": "Call of Legends",
+    "set_series": "HeartGold & SoulSilver"
+  },
+  {
+    "name": "Smeargle",
+    "number": "21",
+    "rarity": "Rare Holo",
+    "set_name": "Call of Legends",
+    "set_series": "HeartGold & SoulSilver"
+  },
+  {
+    "name": "Umbreon",
+    "number": "22",
+    "rarity": "Rare Holo",
+    "set_name": "Call of Legends",
+    "set_series": "HeartGold & SoulSilver"
+  },
+  {
+    "name": "Ampharos",
+    "number": "23",
+    "rarity": "Rare",
+    "set_name": "Call of Legends",
+    "set_series": "HeartGold & SoulSilver"
+  },
+  {
+    "name": "Cleffa",
+    "number": "24",
+    "rarity": "Rare",
+    "set_name": "Call of Legends",
+    "set_series": "HeartGold & SoulSilver"
+  },
+  {
+    "name": "Feraligatr",
+    "number": "25",
+    "rarity": "Rare",
+    "set_name": "Call of Legends",
+    "set_series": "HeartGold & SoulSilver"
+  },
+  {
+    "name": "Granbull",
+    "number": "26",
+    "rarity": "Rare",
+    "set_name": "Call of Legends",
+    "set_series": "HeartGold & SoulSilver"
+  },
+  {
+    "name": "Meganium",
+    "number": "27",
+    "rarity": "Rare",
+    "set_name": "Call of Legends",
+    "set_series": "HeartGold & SoulSilver"
+  },
+  {
+    "name": "Mismagius",
+    "number": "28",
+    "rarity": "Rare",
+    "set_name": "Call of Legends",
+    "set_series": "HeartGold & SoulSilver"
+  },
+  {
+    "name": "Mr. Mime",
+    "number": "29",
+    "rarity": "Rare",
+    "set_name": "Call of Legends",
+    "set_series": "HeartGold & SoulSilver"
+  },
+  {
+    "name": "Pidgeot",
+    "number": "30",
+    "rarity": "Rare",
+    "set_name": "Call of Legends",
+    "set_series": "HeartGold & SoulSilver"
+  },
+  {
+    "name": "Skarmory",
+    "number": "31",
+    "rarity": "Rare",
+    "set_name": "Call of Legends",
+    "set_series": "HeartGold & SoulSilver"
+  },
+  {
+    "name": "Slowking",
+    "number": "32",
+    "rarity": "Rare",
+    "set_name": "Call of Legends",
+    "set_series": "HeartGold & SoulSilver"
+  },
+  {
+    "name": "Snorlax",
+    "number": "33",
+    "rarity": "Rare",
+    "set_name": "Call of Legends",
+    "set_series": "HeartGold & SoulSilver"
+  },
+  {
+    "name": "Tangrowth",
+    "number": "34",
+    "rarity": "Rare",
+    "set_name": "Call of Legends",
+    "set_series": "HeartGold & SoulSilver"
+  },
+  {
+    "name": "Typhlosion",
+    "number": "35",
+    "rarity": "Rare",
+    "set_name": "Call of Legends",
+    "set_series": "HeartGold & SoulSilver"
+  },
+  {
+    "name": "Tyrogue",
+    "number": "36",
+    "rarity": "Rare",
+    "set_name": "Call of Legends",
+    "set_series": "HeartGold & SoulSilver"
+  },
+  {
+    "name": "Ursaring",
+    "number": "37",
+    "rarity": "Rare",
+    "set_name": "Call of Legends",
+    "set_series": "HeartGold & SoulSilver"
+  },
+  {
+    "name": "Weezing",
+    "number": "38",
+    "rarity": "Rare",
+    "set_name": "Call of Legends",
+    "set_series": "HeartGold & SoulSilver"
+  },
+  {
+    "name": "Zangoose",
+    "number": "39",
+    "rarity": "Rare",
+    "set_name": "Call of Legends",
+    "set_series": "HeartGold & SoulSilver"
+  },
+  {
+    "name": "Bayleef",
+    "number": "40",
+    "rarity": "Uncommon",
+    "set_name": "Call of Legends",
+    "set_series": "HeartGold & SoulSilver"
+  },
+  {
+    "name": "Croconaw",
+    "number": "41",
+    "rarity": "Uncommon",
+    "set_name": "Call of Legends",
+    "set_series": "HeartGold & SoulSilver"
+  },
+  {
+    "name": "Donphan",
+    "number": "42",
+    "rarity": "Uncommon",
+    "set_name": "Call of Legends",
+    "set_series": "HeartGold & SoulSilver"
+  },
+  {
+    "name": "Flaaffy",
+    "number": "43",
+    "rarity": "Uncommon",
+    "set_name": "Call of Legends",
+    "set_series": "HeartGold & SoulSilver"
+  },
+  {
+    "name": "Flareon",
+    "number": "44",
+    "rarity": "Uncommon",
+    "set_name": "Call of Legends",
+    "set_series": "HeartGold & SoulSilver"
+  },
+  {
+    "name": "Jolteon",
+    "number": "45",
+    "rarity": "Uncommon",
+    "set_name": "Call of Legends",
+    "set_series": "HeartGold & SoulSilver"
+  },
+  {
+    "name": "Magby",
+    "number": "46",
+    "rarity": "Uncommon",
+    "set_name": "Call of Legends",
+    "set_series": "HeartGold & SoulSilver"
+  },
+  {
+    "name": "Mime Jr.",
+    "number": "47",
+    "rarity": "Uncommon",
+    "set_name": "Call of Legends",
+    "set_series": "HeartGold & SoulSilver"
+  },
+  {
+    "name": "Pidgeotto",
+    "number": "48",
+    "rarity": "Uncommon",
+    "set_name": "Call of Legends",
+    "set_series": "HeartGold & SoulSilver"
+  },
+  {
+    "name": "Quilava",
+    "number": "49",
+    "rarity": "Uncommon",
+    "set_name": "Call of Legends",
+    "set_series": "HeartGold & SoulSilver"
+  },
+  {
+    "name": "Riolu",
+    "number": "50",
+    "rarity": "Uncommon",
+    "set_name": "Call of Legends",
+    "set_series": "HeartGold & SoulSilver"
+  },
+  {
+    "name": "Seviper",
+    "number": "51",
+    "rarity": "Uncommon",
+    "set_name": "Call of Legends",
+    "set_series": "HeartGold & SoulSilver"
+  },
+  {
+    "name": "Vaporeon",
+    "number": "52",
+    "rarity": "Uncommon",
+    "set_name": "Call of Legends",
+    "set_series": "HeartGold & SoulSilver"
+  },
+  {
+    "name": "Chikorita",
+    "number": "53",
+    "rarity": "Common",
+    "set_name": "Call of Legends",
+    "set_series": "HeartGold & SoulSilver"
+  },
+  {
+    "name": "Clefairy",
+    "number": "54",
+    "rarity": "Common",
+    "set_name": "Call of Legends",
+    "set_series": "HeartGold & SoulSilver"
+  },
+  {
+    "name": "Cyndaquil",
+    "number": "55",
+    "rarity": "Common",
+    "set_name": "Call of Legends",
+    "set_series": "HeartGold & SoulSilver"
+  },
+  {
+    "name": "Eevee",
+    "number": "56",
+    "rarity": "Common",
+    "set_name": "Call of Legends",
+    "set_series": "HeartGold & SoulSilver"
+  },
+  {
+    "name": "Hitmonchan",
+    "number": "57",
+    "rarity": "Common",
+    "set_name": "Call of Legends",
+    "set_series": "HeartGold & SoulSilver"
+  },
+  {
+    "name": "Hitmonlee",
+    "number": "58",
+    "rarity": "Common",
+    "set_name": "Call of Legends",
+    "set_series": "HeartGold & SoulSilver"
+  },
+  {
+    "name": "Houndour",
+    "number": "59",
+    "rarity": "Common",
+    "set_name": "Call of Legends",
+    "set_series": "HeartGold & SoulSilver"
+  },
+  {
+    "name": "Koffing",
+    "number": "60",
+    "rarity": "Common",
+    "set_name": "Call of Legends",
+    "set_series": "HeartGold & SoulSilver"
+  },
+  {
+    "name": "Magikarp",
+    "number": "61",
+    "rarity": "Common",
+    "set_name": "Call of Legends",
+    "set_series": "HeartGold & SoulSilver"
+  },
+  {
+    "name": "Magmar",
+    "number": "62",
+    "rarity": "Common",
+    "set_name": "Call of Legends",
+    "set_series": "HeartGold & SoulSilver"
+  },
+  {
+    "name": "Mareep",
+    "number": "63",
+    "rarity": "Common",
+    "set_name": "Call of Legends",
+    "set_series": "HeartGold & SoulSilver"
+  },
+  {
+    "name": "Mawile",
+    "number": "64",
+    "rarity": "Common",
+    "set_name": "Call of Legends",
+    "set_series": "HeartGold & SoulSilver"
+  },
+  {
+    "name": "Misdreavus",
+    "number": "65",
+    "rarity": "Common",
+    "set_name": "Call of Legends",
+    "set_series": "HeartGold & SoulSilver"
+  },
+  {
+    "name": "Phanpy",
+    "number": "66",
+    "rarity": "Common",
+    "set_name": "Call of Legends",
+    "set_series": "HeartGold & SoulSilver"
+  },
+  {
+    "name": "Pidgey",
+    "number": "67",
+    "rarity": "Common",
+    "set_name": "Call of Legends",
+    "set_series": "HeartGold & SoulSilver"
+  },
+  {
+    "name": "Pineco",
+    "number": "68",
+    "rarity": "Common",
+    "set_name": "Call of Legends",
+    "set_series": "HeartGold & SoulSilver"
+  },
+  {
+    "name": "Relicanth",
+    "number": "69",
+    "rarity": "Common",
+    "set_name": "Call of Legends",
+    "set_series": "HeartGold & SoulSilver"
+  },
+  {
+    "name": "Slowpoke",
+    "number": "70",
+    "rarity": "Common",
+    "set_name": "Call of Legends",
+    "set_series": "HeartGold & SoulSilver"
+  },
+  {
+    "name": "Snubbull",
+    "number": "71",
+    "rarity": "Common",
+    "set_name": "Call of Legends",
+    "set_series": "HeartGold & SoulSilver"
+  },
+  {
+    "name": "Tangela",
+    "number": "72",
+    "rarity": "Common",
+    "set_name": "Call of Legends",
+    "set_series": "HeartGold & SoulSilver"
+  },
+  {
+    "name": "Teddiursa",
+    "number": "73",
+    "rarity": "Common",
+    "set_name": "Call of Legends",
+    "set_series": "HeartGold & SoulSilver"
+  },
+  {
+    "name": "Totodile",
+    "number": "74",
+    "rarity": "Common",
+    "set_name": "Call of Legends",
+    "set_series": "HeartGold & SoulSilver"
+  },
+  {
+    "name": "Vulpix",
+    "number": "75",
+    "rarity": "Common",
+    "set_name": "Call of Legends",
+    "set_series": "HeartGold & SoulSilver"
+  },
+  {
+    "name": "Cheerleader's Cheer",
+    "number": "76",
+    "rarity": "Uncommon",
+    "set_name": "Call of Legends",
+    "set_series": "HeartGold & SoulSilver"
+  },
+  {
+    "name": "Copycat",
+    "number": "77",
+    "rarity": "Uncommon",
+    "set_name": "Call of Legends",
+    "set_series": "HeartGold & SoulSilver"
+  },
+  {
+    "name": "Dual Ball",
+    "number": "78",
+    "rarity": "Uncommon",
+    "set_name": "Call of Legends",
+    "set_series": "HeartGold & SoulSilver"
+  },
+  {
+    "name": "Interviewer's Questions",
+    "number": "79",
+    "rarity": "Uncommon",
+    "set_name": "Call of Legends",
+    "set_series": "HeartGold & SoulSilver"
+  },
+  {
+    "name": "Lost Remover",
+    "number": "80",
+    "rarity": "Uncommon",
+    "set_name": "Call of Legends",
+    "set_series": "HeartGold & SoulSilver"
+  },
+  {
+    "name": "Lost World",
+    "number": "81",
+    "rarity": "Uncommon",
+    "set_name": "Call of Legends",
+    "set_series": "HeartGold & SoulSilver"
+  },
+  {
+    "name": "Professor Elm's Training Method",
+    "number": "82",
+    "rarity": "Uncommon",
+    "set_name": "Call of Legends",
+    "set_series": "HeartGold & SoulSilver"
+  },
+  {
+    "name": "Professor Oak's New Theory",
+    "number": "83",
+    "rarity": "Uncommon",
+    "set_name": "Call of Legends",
+    "set_series": "HeartGold & SoulSilver"
+  },
+  {
+    "name": "Research Record",
+    "number": "84",
+    "rarity": "Uncommon",
+    "set_name": "Call of Legends",
+    "set_series": "HeartGold & SoulSilver"
+  },
+  {
+    "name": "Sage's Training",
+    "number": "85",
+    "rarity": "Uncommon",
+    "set_name": "Call of Legends",
+    "set_series": "HeartGold & SoulSilver"
+  },
+  {
+    "name": "Darkness Energy",
+    "number": "86",
+    "rarity": "Uncommon",
+    "set_name": "Call of Legends",
+    "set_series": "HeartGold & SoulSilver"
+  },
+  {
+    "name": "Metal Energy",
+    "number": "87",
+    "rarity": "Uncommon",
+    "set_name": "Call of Legends",
+    "set_series": "HeartGold & SoulSilver"
+  },
+  {
+    "name": "Grass Energy",
+    "number": "88",
+    "rarity": "Common",
+    "set_name": "Call of Legends",
+    "set_series": "HeartGold & SoulSilver"
+  },
+  {
+    "name": "Fire Energy",
+    "number": "89",
+    "rarity": "Common",
+    "set_name": "Call of Legends",
+    "set_series": "HeartGold & SoulSilver"
+  },
+  {
+    "name": "Water Energy",
+    "number": "90",
+    "rarity": "Common",
+    "set_name": "Call of Legends",
+    "set_series": "HeartGold & SoulSilver"
+  },
+  {
+    "name": "Lightning Energy",
+    "number": "91",
+    "rarity": "Common",
+    "set_name": "Call of Legends",
+    "set_series": "HeartGold & SoulSilver"
+  },
+  {
+    "name": "Psychic Energy",
+    "number": "92",
+    "rarity": "Common",
+    "set_name": "Call of Legends",
+    "set_series": "HeartGold & SoulSilver"
+  },
+  {
+    "name": "Fighting Energy",
+    "number": "93",
+    "rarity": "Common",
+    "set_name": "Call of Legends",
+    "set_series": "HeartGold & SoulSilver"
+  },
+  {
+    "name": "Darkness Energy",
+    "number": "94",
+    "rarity": "Common",
+    "set_name": "Call of Legends",
+    "set_series": "HeartGold & SoulSilver"
+  },
+  {
+    "name": "Metal Energy",
+    "number": "95",
+    "rarity": "Common",
+    "set_name": "Call of Legends",
+    "set_series": "HeartGold & SoulSilver"
+  },
+  {
+    "name": "Deoxys",
+    "number": "SL1",
+    "rarity": "Rare Holo",
+    "set_name": "Call of Legends",
+    "set_series": "HeartGold & SoulSilver"
+  },
+  {
+    "name": "Dialga",
+    "number": "SL2",
+    "rarity": "Rare Holo",
+    "set_name": "Call of Legends",
+    "set_series": "HeartGold & SoulSilver"
+  },
+  {
+    "name": "Entei",
+    "number": "SL3",
+    "rarity": "Rare Holo",
+    "set_name": "Call of Legends",
+    "set_series": "HeartGold & SoulSilver"
+  },
+  {
+    "name": "Groudon",
+    "number": "SL4",
+    "rarity": "Rare Holo",
+    "set_name": "Call of Legends",
+    "set_series": "HeartGold & SoulSilver"
+  },
+  {
+    "name": "Ho-Oh",
+    "number": "SL5",
+    "rarity": "Rare Holo",
+    "set_name": "Call of Legends",
+    "set_series": "HeartGold & SoulSilver"
+  },
+  {
+    "name": "Kyogre",
+    "number": "SL6",
+    "rarity": "Rare Holo",
+    "set_name": "Call of Legends",
+    "set_series": "HeartGold & SoulSilver"
+  },
+  {
+    "name": "Lugia",
+    "number": "SL7",
+    "rarity": "Rare Holo",
+    "set_name": "Call of Legends",
+    "set_series": "HeartGold & SoulSilver"
+  },
+  {
+    "name": "Palkia",
+    "number": "SL8",
+    "rarity": "Rare Holo",
+    "set_name": "Call of Legends",
+    "set_series": "HeartGold & SoulSilver"
+  },
+  {
+    "name": "Raikou",
+    "number": "SL9",
+    "rarity": "Rare Holo",
+    "set_name": "Call of Legends",
+    "set_series": "HeartGold & SoulSilver"
+  },
+  {
+    "name": "Rayquaza",
+    "number": "SL10",
+    "rarity": "Rare Holo",
+    "set_name": "Call of Legends",
+    "set_series": "HeartGold & SoulSilver"
+  },
+  {
+    "name": "Suicune",
+    "number": "SL11",
+    "rarity": "Rare Holo",
+    "set_name": "Call of Legends",
+    "set_series": "HeartGold & SoulSilver"
+  }
+]

@@ -1,0 +1,1024 @@
+[
+  {
+    "name": "Venusaur-EX",
+    "number": "1",
+    "rarity": "Rare Holo EX",
+    "set_name": "XY",
+    "set_series": "XY"
+  },
+  {
+    "name": "M Venusaur-EX",
+    "number": "2",
+    "rarity": "Rare Holo EX",
+    "set_name": "XY",
+    "set_series": "XY"
+  },
+  {
+    "name": "Weedle",
+    "number": "3",
+    "rarity": "Common",
+    "set_name": "XY",
+    "set_series": "XY"
+  },
+  {
+    "name": "Kakuna",
+    "number": "4",
+    "rarity": "Uncommon",
+    "set_name": "XY",
+    "set_series": "XY"
+  },
+  {
+    "name": "Beedrill",
+    "number": "5",
+    "rarity": "Rare",
+    "set_name": "XY",
+    "set_series": "XY"
+  },
+  {
+    "name": "Ledyba",
+    "number": "6",
+    "rarity": "Common",
+    "set_name": "XY",
+    "set_series": "XY"
+  },
+  {
+    "name": "Ledian",
+    "number": "7",
+    "rarity": "Uncommon",
+    "set_name": "XY",
+    "set_series": "XY"
+  },
+  {
+    "name": "Volbeat",
+    "number": "8",
+    "rarity": "Uncommon",
+    "set_name": "XY",
+    "set_series": "XY"
+  },
+  {
+    "name": "Illumise",
+    "number": "9",
+    "rarity": "Uncommon",
+    "set_name": "XY",
+    "set_series": "XY"
+  },
+  {
+    "name": "Pansage",
+    "number": "10",
+    "rarity": "Common",
+    "set_name": "XY",
+    "set_series": "XY"
+  },
+  {
+    "name": "Simisage",
+    "number": "11",
+    "rarity": "Rare",
+    "set_name": "XY",
+    "set_series": "XY"
+  },
+  {
+    "name": "Chespin",
+    "number": "12",
+    "rarity": "Common",
+    "set_name": "XY",
+    "set_series": "XY"
+  },
+  {
+    "name": "Quilladin",
+    "number": "13",
+    "rarity": "Uncommon",
+    "set_name": "XY",
+    "set_series": "XY"
+  },
+  {
+    "name": "Chesnaught",
+    "number": "14",
+    "rarity": "Rare Holo",
+    "set_name": "XY",
+    "set_series": "XY"
+  },
+  {
+    "name": "Scatterbug",
+    "number": "15",
+    "rarity": "Common",
+    "set_name": "XY",
+    "set_series": "XY"
+  },
+  {
+    "name": "Spewpa",
+    "number": "16",
+    "rarity": "Uncommon",
+    "set_name": "XY",
+    "set_series": "XY"
+  },
+  {
+    "name": "Vivillon",
+    "number": "17",
+    "rarity": "Rare Holo",
+    "set_name": "XY",
+    "set_series": "XY"
+  },
+  {
+    "name": "Skiddo",
+    "number": "18",
+    "rarity": "Common",
+    "set_name": "XY",
+    "set_series": "XY"
+  },
+  {
+    "name": "Gogoat",
+    "number": "19",
+    "rarity": "Rare Holo",
+    "set_name": "XY",
+    "set_series": "XY"
+  },
+  {
+    "name": "Slugma",
+    "number": "20",
+    "rarity": "Common",
+    "set_name": "XY",
+    "set_series": "XY"
+  },
+  {
+    "name": "Magcargo",
+    "number": "21",
+    "rarity": "Rare",
+    "set_name": "XY",
+    "set_series": "XY"
+  },
+  {
+    "name": "Pansear",
+    "number": "22",
+    "rarity": "Common",
+    "set_name": "XY",
+    "set_series": "XY"
+  },
+  {
+    "name": "Simisear",
+    "number": "23",
+    "rarity": "Rare",
+    "set_name": "XY",
+    "set_series": "XY"
+  },
+  {
+    "name": "Fennekin",
+    "number": "24",
+    "rarity": "Common",
+    "set_name": "XY",
+    "set_series": "XY"
+  },
+  {
+    "name": "Braixen",
+    "number": "25",
+    "rarity": "Uncommon",
+    "set_name": "XY",
+    "set_series": "XY"
+  },
+  {
+    "name": "Delphox",
+    "number": "26",
+    "rarity": "Rare Holo",
+    "set_name": "XY",
+    "set_series": "XY"
+  },
+  {
+    "name": "Fletchinder",
+    "number": "27",
+    "rarity": "Uncommon",
+    "set_name": "XY",
+    "set_series": "XY"
+  },
+  {
+    "name": "Talonflame",
+    "number": "28",
+    "rarity": "Rare Holo",
+    "set_name": "XY",
+    "set_series": "XY"
+  },
+  {
+    "name": "Blastoise-EX",
+    "number": "29",
+    "rarity": "Rare Holo EX",
+    "set_name": "XY",
+    "set_series": "XY"
+  },
+  {
+    "name": "M Blastoise-EX",
+    "number": "30",
+    "rarity": "Rare Holo EX",
+    "set_name": "XY",
+    "set_series": "XY"
+  },
+  {
+    "name": "Shellder",
+    "number": "31",
+    "rarity": "Common",
+    "set_name": "XY",
+    "set_series": "XY"
+  },
+  {
+    "name": "Cloyster",
+    "number": "32",
+    "rarity": "Rare",
+    "set_name": "XY",
+    "set_series": "XY"
+  },
+  {
+    "name": "Staryu",
+    "number": "33",
+    "rarity": "Common",
+    "set_name": "XY",
+    "set_series": "XY"
+  },
+  {
+    "name": "Starmie",
+    "number": "34",
+    "rarity": "Rare",
+    "set_name": "XY",
+    "set_series": "XY"
+  },
+  {
+    "name": "Lapras",
+    "number": "35",
+    "rarity": "Rare Holo",
+    "set_name": "XY",
+    "set_series": "XY"
+  },
+  {
+    "name": "Corsola",
+    "number": "36",
+    "rarity": "Uncommon",
+    "set_name": "XY",
+    "set_series": "XY"
+  },
+  {
+    "name": "Panpour",
+    "number": "37",
+    "rarity": "Common",
+    "set_name": "XY",
+    "set_series": "XY"
+  },
+  {
+    "name": "Simipour",
+    "number": "38",
+    "rarity": "Rare",
+    "set_name": "XY",
+    "set_series": "XY"
+  },
+  {
+    "name": "Froakie",
+    "number": "39",
+    "rarity": "Common",
+    "set_name": "XY",
+    "set_series": "XY"
+  },
+  {
+    "name": "Frogadier",
+    "number": "40",
+    "rarity": "Uncommon",
+    "set_name": "XY",
+    "set_series": "XY"
+  },
+  {
+    "name": "Greninja",
+    "number": "41",
+    "rarity": "Rare Holo",
+    "set_name": "XY",
+    "set_series": "XY"
+  },
+  {
+    "name": "Pikachu",
+    "number": "42",
+    "rarity": "Common",
+    "set_name": "XY",
+    "set_series": "XY"
+  },
+  {
+    "name": "Raichu",
+    "number": "43",
+    "rarity": "Rare Holo",
+    "set_name": "XY",
+    "set_series": "XY"
+  },
+  {
+    "name": "Voltorb",
+    "number": "44",
+    "rarity": "Common",
+    "set_name": "XY",
+    "set_series": "XY"
+  },
+  {
+    "name": "Electrode",
+    "number": "45",
+    "rarity": "Uncommon",
+    "set_name": "XY",
+    "set_series": "XY"
+  },
+  {
+    "name": "Emolga-EX",
+    "number": "46",
+    "rarity": "Rare Holo EX",
+    "set_name": "XY",
+    "set_series": "XY"
+  },
+  {
+    "name": "Ekans",
+    "number": "47",
+    "rarity": "Common",
+    "set_name": "XY",
+    "set_series": "XY"
+  },
+  {
+    "name": "Arbok",
+    "number": "48",
+    "rarity": "Rare",
+    "set_name": "XY",
+    "set_series": "XY"
+  },
+  {
+    "name": "Spoink",
+    "number": "49",
+    "rarity": "Common",
+    "set_name": "XY",
+    "set_series": "XY"
+  },
+  {
+    "name": "Grumpig",
+    "number": "50",
+    "rarity": "Rare",
+    "set_name": "XY",
+    "set_series": "XY"
+  },
+  {
+    "name": "Venipede",
+    "number": "51",
+    "rarity": "Common",
+    "set_name": "XY",
+    "set_series": "XY"
+  },
+  {
+    "name": "Whirlipede",
+    "number": "52",
+    "rarity": "Uncommon",
+    "set_name": "XY",
+    "set_series": "XY"
+  },
+  {
+    "name": "Scolipede",
+    "number": "53",
+    "rarity": "Rare",
+    "set_name": "XY",
+    "set_series": "XY"
+  },
+  {
+    "name": "Phantump",
+    "number": "54",
+    "rarity": "Common",
+    "set_name": "XY",
+    "set_series": "XY"
+  },
+  {
+    "name": "Trevenant",
+    "number": "55",
+    "rarity": "Rare Holo",
+    "set_name": "XY",
+    "set_series": "XY"
+  },
+  {
+    "name": "Pumpkaboo",
+    "number": "56",
+    "rarity": "Common",
+    "set_name": "XY",
+    "set_series": "XY"
+  },
+  {
+    "name": "Gourgeist",
+    "number": "57",
+    "rarity": "Rare Holo",
+    "set_name": "XY",
+    "set_series": "XY"
+  },
+  {
+    "name": "Diglett",
+    "number": "58",
+    "rarity": "Common",
+    "set_name": "XY",
+    "set_series": "XY"
+  },
+  {
+    "name": "Dugtrio",
+    "number": "59",
+    "rarity": "Rare",
+    "set_name": "XY",
+    "set_series": "XY"
+  },
+  {
+    "name": "Rhyhorn",
+    "number": "60",
+    "rarity": "Common",
+    "set_name": "XY",
+    "set_series": "XY"
+  },
+  {
+    "name": "Rhydon",
+    "number": "61",
+    "rarity": "Rare",
+    "set_name": "XY",
+    "set_series": "XY"
+  },
+  {
+    "name": "Rhyperior",
+    "number": "62",
+    "rarity": "Rare Holo",
+    "set_name": "XY",
+    "set_series": "XY"
+  },
+  {
+    "name": "Lunatone",
+    "number": "63",
+    "rarity": "Uncommon",
+    "set_name": "XY",
+    "set_series": "XY"
+  },
+  {
+    "name": "Solrock",
+    "number": "64",
+    "rarity": "Uncommon",
+    "set_name": "XY",
+    "set_series": "XY"
+  },
+  {
+    "name": "Timburr",
+    "number": "65",
+    "rarity": "Common",
+    "set_name": "XY",
+    "set_series": "XY"
+  },
+  {
+    "name": "Gurdurr",
+    "number": "66",
+    "rarity": "Uncommon",
+    "set_name": "XY",
+    "set_series": "XY"
+  },
+  {
+    "name": "Conkeldurr",
+    "number": "67",
+    "rarity": "Rare",
+    "set_name": "XY",
+    "set_series": "XY"
+  },
+  {
+    "name": "Sableye",
+    "number": "68",
+    "rarity": "Uncommon",
+    "set_name": "XY",
+    "set_series": "XY"
+  },
+  {
+    "name": "Sandile",
+    "number": "69",
+    "rarity": "Common",
+    "set_name": "XY",
+    "set_series": "XY"
+  },
+  {
+    "name": "Krokorok",
+    "number": "70",
+    "rarity": "Uncommon",
+    "set_name": "XY",
+    "set_series": "XY"
+  },
+  {
+    "name": "Krookodile",
+    "number": "71",
+    "rarity": "Rare",
+    "set_name": "XY",
+    "set_series": "XY"
+  },
+  {
+    "name": "Zorua",
+    "number": "72",
+    "rarity": "Common",
+    "set_name": "XY",
+    "set_series": "XY"
+  },
+  {
+    "name": "Zoroark",
+    "number": "73",
+    "rarity": "Rare Holo",
+    "set_name": "XY",
+    "set_series": "XY"
+  },
+  {
+    "name": "Inkay",
+    "number": "74",
+    "rarity": "Uncommon",
+    "set_name": "XY",
+    "set_series": "XY"
+  },
+  {
+    "name": "Inkay",
+    "number": "75",
+    "rarity": "Common",
+    "set_name": "XY",
+    "set_series": "XY"
+  },
+  {
+    "name": "Malamar",
+    "number": "76",
+    "rarity": "Rare",
+    "set_name": "XY",
+    "set_series": "XY"
+  },
+  {
+    "name": "Malamar",
+    "number": "77",
+    "rarity": "Rare",
+    "set_name": "XY",
+    "set_series": "XY"
+  },
+  {
+    "name": "Yveltal",
+    "number": "78",
+    "rarity": "Rare",
+    "set_name": "XY",
+    "set_series": "XY"
+  },
+  {
+    "name": "Yveltal-EX",
+    "number": "79",
+    "rarity": "Rare Holo EX",
+    "set_name": "XY",
+    "set_series": "XY"
+  },
+  {
+    "name": "Skarmory-EX",
+    "number": "80",
+    "rarity": "Rare Holo EX",
+    "set_name": "XY",
+    "set_series": "XY"
+  },
+  {
+    "name": "Pawniard",
+    "number": "81",
+    "rarity": "Common",
+    "set_name": "XY",
+    "set_series": "XY"
+  },
+  {
+    "name": "Bisharp",
+    "number": "82",
+    "rarity": "Rare",
+    "set_name": "XY",
+    "set_series": "XY"
+  },
+  {
+    "name": "Honedge",
+    "number": "83",
+    "rarity": "Common",
+    "set_name": "XY",
+    "set_series": "XY"
+  },
+  {
+    "name": "Doublade",
+    "number": "84",
+    "rarity": "Uncommon",
+    "set_name": "XY",
+    "set_series": "XY"
+  },
+  {
+    "name": "Aegislash",
+    "number": "85",
+    "rarity": "Rare",
+    "set_name": "XY",
+    "set_series": "XY"
+  },
+  {
+    "name": "Aegislash",
+    "number": "86",
+    "rarity": "Rare Holo",
+    "set_name": "XY",
+    "set_series": "XY"
+  },
+  {
+    "name": "Jigglypuff",
+    "number": "87",
+    "rarity": "Common",
+    "set_name": "XY",
+    "set_series": "XY"
+  },
+  {
+    "name": "Jigglypuff",
+    "number": "88",
+    "rarity": "Common",
+    "set_name": "XY",
+    "set_series": "XY"
+  },
+  {
+    "name": "Wigglytuff",
+    "number": "89",
+    "rarity": "Rare",
+    "set_name": "XY",
+    "set_series": "XY"
+  },
+  {
+    "name": "Wigglytuff",
+    "number": "90",
+    "rarity": "Rare",
+    "set_name": "XY",
+    "set_series": "XY"
+  },
+  {
+    "name": "Mr. Mime",
+    "number": "91",
+    "rarity": "Uncommon",
+    "set_name": "XY",
+    "set_series": "XY"
+  },
+  {
+    "name": "Spritzee",
+    "number": "92",
+    "rarity": "Common",
+    "set_name": "XY",
+    "set_series": "XY"
+  },
+  {
+    "name": "Aromatisse",
+    "number": "93",
+    "rarity": "Rare Holo",
+    "set_name": "XY",
+    "set_series": "XY"
+  },
+  {
+    "name": "Swirlix",
+    "number": "94",
+    "rarity": "Common",
+    "set_name": "XY",
+    "set_series": "XY"
+  },
+  {
+    "name": "Slurpuff",
+    "number": "95",
+    "rarity": "Rare Holo",
+    "set_name": "XY",
+    "set_series": "XY"
+  },
+  {
+    "name": "Xerneas",
+    "number": "96",
+    "rarity": "Rare",
+    "set_name": "XY",
+    "set_series": "XY"
+  },
+  {
+    "name": "Xerneas-EX",
+    "number": "97",
+    "rarity": "Rare Holo EX",
+    "set_name": "XY",
+    "set_series": "XY"
+  },
+  {
+    "name": "Doduo",
+    "number": "98",
+    "rarity": "Common",
+    "set_name": "XY",
+    "set_series": "XY"
+  },
+  {
+    "name": "Dodrio",
+    "number": "99",
+    "rarity": "Uncommon",
+    "set_name": "XY",
+    "set_series": "XY"
+  },
+  {
+    "name": "Tauros",
+    "number": "100",
+    "rarity": "Rare",
+    "set_name": "XY",
+    "set_series": "XY"
+  },
+  {
+    "name": "Dunsparce",
+    "number": "101",
+    "rarity": "Uncommon",
+    "set_name": "XY",
+    "set_series": "XY"
+  },
+  {
+    "name": "Taillow",
+    "number": "102",
+    "rarity": "Common",
+    "set_name": "XY",
+    "set_series": "XY"
+  },
+  {
+    "name": "Swellow",
+    "number": "103",
+    "rarity": "Rare",
+    "set_name": "XY",
+    "set_series": "XY"
+  },
+  {
+    "name": "Skitty",
+    "number": "104",
+    "rarity": "Common",
+    "set_name": "XY",
+    "set_series": "XY"
+  },
+  {
+    "name": "Delcatty",
+    "number": "105",
+    "rarity": "Uncommon",
+    "set_name": "XY",
+    "set_series": "XY"
+  },
+  {
+    "name": "Bidoof",
+    "number": "106",
+    "rarity": "Common",
+    "set_name": "XY",
+    "set_series": "XY"
+  },
+  {
+    "name": "Bibarel",
+    "number": "107",
+    "rarity": "Rare",
+    "set_name": "XY",
+    "set_series": "XY"
+  },
+  {
+    "name": "Lillipup",
+    "number": "108",
+    "rarity": "Common",
+    "set_name": "XY",
+    "set_series": "XY"
+  },
+  {
+    "name": "Herdier",
+    "number": "109",
+    "rarity": "Uncommon",
+    "set_name": "XY",
+    "set_series": "XY"
+  },
+  {
+    "name": "Stoutland",
+    "number": "110",
+    "rarity": "Rare",
+    "set_name": "XY",
+    "set_series": "XY"
+  },
+  {
+    "name": "Bunnelby",
+    "number": "111",
+    "rarity": "Common",
+    "set_name": "XY",
+    "set_series": "XY"
+  },
+  {
+    "name": "Diggersby",
+    "number": "112",
+    "rarity": "Uncommon",
+    "set_name": "XY",
+    "set_series": "XY"
+  },
+  {
+    "name": "Fletchling",
+    "number": "113",
+    "rarity": "Common",
+    "set_name": "XY",
+    "set_series": "XY"
+  },
+  {
+    "name": "Furfrou",
+    "number": "114",
+    "rarity": "Rare Holo",
+    "set_name": "XY",
+    "set_series": "XY"
+  },
+  {
+    "name": "Cassius",
+    "number": "115",
+    "rarity": "Uncommon",
+    "set_name": "XY",
+    "set_series": "XY"
+  },
+  {
+    "name": "Evosoda",
+    "number": "116",
+    "rarity": "Uncommon",
+    "set_name": "XY",
+    "set_series": "XY"
+  },
+  {
+    "name": "Fairy Garden",
+    "number": "117",
+    "rarity": "Uncommon",
+    "set_name": "XY",
+    "set_series": "XY"
+  },
+  {
+    "name": "Great Ball",
+    "number": "118",
+    "rarity": "Uncommon",
+    "set_name": "XY",
+    "set_series": "XY"
+  },
+  {
+    "name": "Hard Charm",
+    "number": "119",
+    "rarity": "Uncommon",
+    "set_name": "XY",
+    "set_series": "XY"
+  },
+  {
+    "name": "Max Revive",
+    "number": "120",
+    "rarity": "Uncommon",
+    "set_name": "XY",
+    "set_series": "XY"
+  },
+  {
+    "name": "Muscle Band",
+    "number": "121",
+    "rarity": "Uncommon",
+    "set_name": "XY",
+    "set_series": "XY"
+  },
+  {
+    "name": "Professor Sycamore",
+    "number": "122",
+    "rarity": "Uncommon",
+    "set_name": "XY",
+    "set_series": "XY"
+  },
+  {
+    "name": "Professor's Letter",
+    "number": "123",
+    "rarity": "Uncommon",
+    "set_name": "XY",
+    "set_series": "XY"
+  },
+  {
+    "name": "Red Card",
+    "number": "124",
+    "rarity": "Uncommon",
+    "set_name": "XY",
+    "set_series": "XY"
+  },
+  {
+    "name": "Roller Skates",
+    "number": "125",
+    "rarity": "Uncommon",
+    "set_name": "XY",
+    "set_series": "XY"
+  },
+  {
+    "name": "Shadow Circle",
+    "number": "126",
+    "rarity": "Uncommon",
+    "set_name": "XY",
+    "set_series": "XY"
+  },
+  {
+    "name": "Shauna",
+    "number": "127",
+    "rarity": "Uncommon",
+    "set_name": "XY",
+    "set_series": "XY"
+  },
+  {
+    "name": "Super Potion",
+    "number": "128",
+    "rarity": "Uncommon",
+    "set_name": "XY",
+    "set_series": "XY"
+  },
+  {
+    "name": "Team Flare Grunt",
+    "number": "129",
+    "rarity": "Uncommon",
+    "set_name": "XY",
+    "set_series": "XY"
+  },
+  {
+    "name": "Double Colorless Energy",
+    "number": "130",
+    "rarity": "Uncommon",
+    "set_name": "XY",
+    "set_series": "XY"
+  },
+  {
+    "name": "Rainbow Energy",
+    "number": "131",
+    "rarity": "Uncommon",
+    "set_name": "XY",
+    "set_series": "XY"
+  },
+  {
+    "name": "Grass Energy",
+    "number": "132",
+    "rarity": "Common",
+    "set_name": "XY",
+    "set_series": "XY"
+  },
+  {
+    "name": "Fire Energy",
+    "number": "133",
+    "rarity": "Common",
+    "set_name": "XY",
+    "set_series": "XY"
+  },
+  {
+    "name": "Water Energy",
+    "number": "134",
+    "rarity": "Common",
+    "set_name": "XY",
+    "set_series": "XY"
+  },
+  {
+    "name": "Lightning Energy",
+    "number": "135",
+    "rarity": "Common",
+    "set_name": "XY",
+    "set_series": "XY"
+  },
+  {
+    "name": "Psychic Energy",
+    "number": "136",
+    "rarity": "Common",
+    "set_name": "XY",
+    "set_series": "XY"
+  },
+  {
+    "name": "Fighting Energy",
+    "number": "137",
+    "rarity": "Common",
+    "set_name": "XY",
+    "set_series": "XY"
+  },
+  {
+    "name": "Darkness Energy",
+    "number": "138",
+    "rarity": "Common",
+    "set_name": "XY",
+    "set_series": "XY"
+  },
+  {
+    "name": "Metal Energy",
+    "number": "139",
+    "rarity": "Common",
+    "set_name": "XY",
+    "set_series": "XY"
+  },
+  {
+    "name": "Fairy Energy",
+    "number": "140",
+    "rarity": "Common",
+    "set_name": "XY",
+    "set_series": "XY"
+  },
+  {
+    "name": "Venusaur-EX",
+    "number": "141",
+    "rarity": "Rare Ultra",
+    "set_name": "XY",
+    "set_series": "XY"
+  },
+  {
+    "name": "Blastoise-EX",
+    "number": "142",
+    "rarity": "Rare Ultra",
+    "set_name": "XY",
+    "set_series": "XY"
+  },
+  {
+    "name": "Emolga-EX",
+    "number": "143",
+    "rarity": "Rare Ultra",
+    "set_name": "XY",
+    "set_series": "XY"
+  },
+  {
+    "name": "Yveltal-EX",
+    "number": "144",
+    "rarity": "Rare Ultra",
+    "set_name": "XY",
+    "set_series": "XY"
+  },
+  {
+    "name": "Skarmory-EX",
+    "number": "145",
+    "rarity": "Rare Ultra",
+    "set_name": "XY",
+    "set_series": "XY"
+  },
+  {
+    "name": "Xerneas-EX",
+    "number": "146",
+    "rarity": "Rare Ultra",
+    "set_name": "XY",
+    "set_series": "XY"
+  }
+]

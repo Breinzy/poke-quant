@@ -1,0 +1,800 @@
+[
+  {
+    "name": "Beedrill \u03b4",
+    "number": "1",
+    "rarity": "Rare Holo",
+    "set_name": "Delta Species",
+    "set_series": "EX"
+  },
+  {
+    "name": "Crobat \u03b4",
+    "number": "2",
+    "rarity": "Rare Holo",
+    "set_name": "Delta Species",
+    "set_series": "EX"
+  },
+  {
+    "name": "Dragonite \u03b4",
+    "number": "3",
+    "rarity": "Rare Holo",
+    "set_name": "Delta Species",
+    "set_series": "EX"
+  },
+  {
+    "name": "Espeon \u03b4",
+    "number": "4",
+    "rarity": "Rare Holo",
+    "set_name": "Delta Species",
+    "set_series": "EX"
+  },
+  {
+    "name": "Flareon \u03b4",
+    "number": "5",
+    "rarity": "Rare Holo",
+    "set_name": "Delta Species",
+    "set_series": "EX"
+  },
+  {
+    "name": "Gardevoir \u03b4",
+    "number": "6",
+    "rarity": "Rare Holo",
+    "set_name": "Delta Species",
+    "set_series": "EX"
+  },
+  {
+    "name": "Jolteon \u03b4",
+    "number": "7",
+    "rarity": "Rare Holo",
+    "set_name": "Delta Species",
+    "set_series": "EX"
+  },
+  {
+    "name": "Latias \u03b4",
+    "number": "8",
+    "rarity": "Rare Holo",
+    "set_name": "Delta Species",
+    "set_series": "EX"
+  },
+  {
+    "name": "Latios \u03b4",
+    "number": "9",
+    "rarity": "Rare Holo",
+    "set_name": "Delta Species",
+    "set_series": "EX"
+  },
+  {
+    "name": "Marowak \u03b4",
+    "number": "10",
+    "rarity": "Rare Holo",
+    "set_name": "Delta Species",
+    "set_series": "EX"
+  },
+  {
+    "name": "Metagross \u03b4",
+    "number": "11",
+    "rarity": "Rare Holo",
+    "set_name": "Delta Species",
+    "set_series": "EX"
+  },
+  {
+    "name": "Mewtwo \u03b4",
+    "number": "12",
+    "rarity": "Rare Holo",
+    "set_name": "Delta Species",
+    "set_series": "EX"
+  },
+  {
+    "name": "Rayquaza \u03b4",
+    "number": "13",
+    "rarity": "Rare Holo",
+    "set_name": "Delta Species",
+    "set_series": "EX"
+  },
+  {
+    "name": "Salamence \u03b4",
+    "number": "14",
+    "rarity": "Rare Holo",
+    "set_name": "Delta Species",
+    "set_series": "EX"
+  },
+  {
+    "name": "Starmie \u03b4",
+    "number": "15",
+    "rarity": "Rare Holo",
+    "set_name": "Delta Species",
+    "set_series": "EX"
+  },
+  {
+    "name": "Tyranitar \u03b4",
+    "number": "16",
+    "rarity": "Rare Holo",
+    "set_name": "Delta Species",
+    "set_series": "EX"
+  },
+  {
+    "name": "Umbreon \u03b4",
+    "number": "17",
+    "rarity": "Rare Holo",
+    "set_name": "Delta Species",
+    "set_series": "EX"
+  },
+  {
+    "name": "Vaporeon \u03b4",
+    "number": "18",
+    "rarity": "Rare Holo",
+    "set_name": "Delta Species",
+    "set_series": "EX"
+  },
+  {
+    "name": "Azumarill \u03b4",
+    "number": "19",
+    "rarity": "Rare",
+    "set_name": "Delta Species",
+    "set_series": "EX"
+  },
+  {
+    "name": "Azurill",
+    "number": "20",
+    "rarity": "Rare",
+    "set_name": "Delta Species",
+    "set_series": "EX"
+  },
+  {
+    "name": "Holon's Electrode",
+    "number": "21",
+    "rarity": "Rare",
+    "set_name": "Delta Species",
+    "set_series": "EX"
+  },
+  {
+    "name": "Holon's Magneton",
+    "number": "22",
+    "rarity": "Rare",
+    "set_name": "Delta Species",
+    "set_series": "EX"
+  },
+  {
+    "name": "Hypno",
+    "number": "23",
+    "rarity": "Rare",
+    "set_name": "Delta Species",
+    "set_series": "EX"
+  },
+  {
+    "name": "Mightyena \u03b4",
+    "number": "24",
+    "rarity": "Rare",
+    "set_name": "Delta Species",
+    "set_series": "EX"
+  },
+  {
+    "name": "Porygon2",
+    "number": "25",
+    "rarity": "Rare",
+    "set_name": "Delta Species",
+    "set_series": "EX"
+  },
+  {
+    "name": "Rain Castform",
+    "number": "26",
+    "rarity": "Rare",
+    "set_name": "Delta Species",
+    "set_series": "EX"
+  },
+  {
+    "name": "Sandslash \u03b4",
+    "number": "27",
+    "rarity": "Rare",
+    "set_name": "Delta Species",
+    "set_series": "EX"
+  },
+  {
+    "name": "Slowking",
+    "number": "28",
+    "rarity": "Rare",
+    "set_name": "Delta Species",
+    "set_series": "EX"
+  },
+  {
+    "name": "Snow-cloud Castform",
+    "number": "29",
+    "rarity": "Rare",
+    "set_name": "Delta Species",
+    "set_series": "EX"
+  },
+  {
+    "name": "Starmie \u03b4",
+    "number": "30",
+    "rarity": "Rare",
+    "set_name": "Delta Species",
+    "set_series": "EX"
+  },
+  {
+    "name": "Sunny Castform",
+    "number": "31",
+    "rarity": "Rare",
+    "set_name": "Delta Species",
+    "set_series": "EX"
+  },
+  {
+    "name": "Swellow",
+    "number": "32",
+    "rarity": "Rare",
+    "set_name": "Delta Species",
+    "set_series": "EX"
+  },
+  {
+    "name": "Weezing",
+    "number": "33",
+    "rarity": "Rare",
+    "set_name": "Delta Species",
+    "set_series": "EX"
+  },
+  {
+    "name": "Castform",
+    "number": "34",
+    "rarity": "Uncommon",
+    "set_name": "Delta Species",
+    "set_series": "EX"
+  },
+  {
+    "name": "Ditto",
+    "number": "35",
+    "rarity": "Uncommon",
+    "set_name": "Delta Species",
+    "set_series": "EX"
+  },
+  {
+    "name": "Ditto",
+    "number": "36",
+    "rarity": "Uncommon",
+    "set_name": "Delta Species",
+    "set_series": "EX"
+  },
+  {
+    "name": "Ditto",
+    "number": "37",
+    "rarity": "Uncommon",
+    "set_name": "Delta Species",
+    "set_series": "EX"
+  },
+  {
+    "name": "Ditto",
+    "number": "38",
+    "rarity": "Uncommon",
+    "set_name": "Delta Species",
+    "set_series": "EX"
+  },
+  {
+    "name": "Ditto",
+    "number": "39",
+    "rarity": "Uncommon",
+    "set_name": "Delta Species",
+    "set_series": "EX"
+  },
+  {
+    "name": "Ditto",
+    "number": "40",
+    "rarity": "Uncommon",
+    "set_name": "Delta Species",
+    "set_series": "EX"
+  },
+  {
+    "name": "Dragonair \u03b4",
+    "number": "41",
+    "rarity": "Uncommon",
+    "set_name": "Delta Species",
+    "set_series": "EX"
+  },
+  {
+    "name": "Dragonair \u03b4",
+    "number": "42",
+    "rarity": "Uncommon",
+    "set_name": "Delta Species",
+    "set_series": "EX"
+  },
+  {
+    "name": "Golbat",
+    "number": "43",
+    "rarity": "Uncommon",
+    "set_name": "Delta Species",
+    "set_series": "EX"
+  },
+  {
+    "name": "Hariyama",
+    "number": "44",
+    "rarity": "Uncommon",
+    "set_name": "Delta Species",
+    "set_series": "EX"
+  },
+  {
+    "name": "Illumise",
+    "number": "45",
+    "rarity": "Uncommon",
+    "set_name": "Delta Species",
+    "set_series": "EX"
+  },
+  {
+    "name": "Kakuna",
+    "number": "46",
+    "rarity": "Uncommon",
+    "set_name": "Delta Species",
+    "set_series": "EX"
+  },
+  {
+    "name": "Kirlia",
+    "number": "47",
+    "rarity": "Uncommon",
+    "set_name": "Delta Species",
+    "set_series": "EX"
+  },
+  {
+    "name": "Magneton",
+    "number": "48",
+    "rarity": "Uncommon",
+    "set_name": "Delta Species",
+    "set_series": "EX"
+  },
+  {
+    "name": "Metang \u03b4",
+    "number": "49",
+    "rarity": "Uncommon",
+    "set_name": "Delta Species",
+    "set_series": "EX"
+  },
+  {
+    "name": "Persian",
+    "number": "50",
+    "rarity": "Uncommon",
+    "set_name": "Delta Species",
+    "set_series": "EX"
+  },
+  {
+    "name": "Pupitar \u03b4",
+    "number": "51",
+    "rarity": "Uncommon",
+    "set_name": "Delta Species",
+    "set_series": "EX"
+  },
+  {
+    "name": "Rapidash",
+    "number": "52",
+    "rarity": "Uncommon",
+    "set_name": "Delta Species",
+    "set_series": "EX"
+  },
+  {
+    "name": "Shelgon \u03b4",
+    "number": "53",
+    "rarity": "Uncommon",
+    "set_name": "Delta Species",
+    "set_series": "EX"
+  },
+  {
+    "name": "Shelgon \u03b4",
+    "number": "54",
+    "rarity": "Uncommon",
+    "set_name": "Delta Species",
+    "set_series": "EX"
+  },
+  {
+    "name": "Skarmory",
+    "number": "55",
+    "rarity": "Uncommon",
+    "set_name": "Delta Species",
+    "set_series": "EX"
+  },
+  {
+    "name": "Volbeat",
+    "number": "56",
+    "rarity": "Uncommon",
+    "set_name": "Delta Species",
+    "set_series": "EX"
+  },
+  {
+    "name": "Bagon \u03b4",
+    "number": "57",
+    "rarity": "Common",
+    "set_name": "Delta Species",
+    "set_series": "EX"
+  },
+  {
+    "name": "Bagon \u03b4",
+    "number": "58",
+    "rarity": "Common",
+    "set_name": "Delta Species",
+    "set_series": "EX"
+  },
+  {
+    "name": "Beldum \u03b4",
+    "number": "59",
+    "rarity": "Common",
+    "set_name": "Delta Species",
+    "set_series": "EX"
+  },
+  {
+    "name": "Cubone",
+    "number": "60",
+    "rarity": "Common",
+    "set_name": "Delta Species",
+    "set_series": "EX"
+  },
+  {
+    "name": "Ditto",
+    "number": "61",
+    "rarity": "Common",
+    "set_name": "Delta Species",
+    "set_series": "EX"
+  },
+  {
+    "name": "Ditto",
+    "number": "62",
+    "rarity": "Common",
+    "set_name": "Delta Species",
+    "set_series": "EX"
+  },
+  {
+    "name": "Ditto",
+    "number": "63",
+    "rarity": "Common",
+    "set_name": "Delta Species",
+    "set_series": "EX"
+  },
+  {
+    "name": "Ditto",
+    "number": "64",
+    "rarity": "Common",
+    "set_name": "Delta Species",
+    "set_series": "EX"
+  },
+  {
+    "name": "Dratini \u03b4",
+    "number": "65",
+    "rarity": "Common",
+    "set_name": "Delta Species",
+    "set_series": "EX"
+  },
+  {
+    "name": "Dratini \u03b4",
+    "number": "66",
+    "rarity": "Common",
+    "set_name": "Delta Species",
+    "set_series": "EX"
+  },
+  {
+    "name": "Drowzee",
+    "number": "67",
+    "rarity": "Common",
+    "set_name": "Delta Species",
+    "set_series": "EX"
+  },
+  {
+    "name": "Eevee \u03b4",
+    "number": "68",
+    "rarity": "Common",
+    "set_name": "Delta Species",
+    "set_series": "EX"
+  },
+  {
+    "name": "Eevee",
+    "number": "69",
+    "rarity": "Common",
+    "set_name": "Delta Species",
+    "set_series": "EX"
+  },
+  {
+    "name": "Holon's Magnemite",
+    "number": "70",
+    "rarity": "Common",
+    "set_name": "Delta Species",
+    "set_series": "EX"
+  },
+  {
+    "name": "Holon's Voltorb",
+    "number": "71",
+    "rarity": "Common",
+    "set_name": "Delta Species",
+    "set_series": "EX"
+  },
+  {
+    "name": "Koffing",
+    "number": "72",
+    "rarity": "Common",
+    "set_name": "Delta Species",
+    "set_series": "EX"
+  },
+  {
+    "name": "Larvitar \u03b4",
+    "number": "73",
+    "rarity": "Common",
+    "set_name": "Delta Species",
+    "set_series": "EX"
+  },
+  {
+    "name": "Magnemite",
+    "number": "74",
+    "rarity": "Common",
+    "set_name": "Delta Species",
+    "set_series": "EX"
+  },
+  {
+    "name": "Makuhita",
+    "number": "75",
+    "rarity": "Common",
+    "set_name": "Delta Species",
+    "set_series": "EX"
+  },
+  {
+    "name": "Marill",
+    "number": "76",
+    "rarity": "Common",
+    "set_name": "Delta Species",
+    "set_series": "EX"
+  },
+  {
+    "name": "Meowth",
+    "number": "77",
+    "rarity": "Common",
+    "set_name": "Delta Species",
+    "set_series": "EX"
+  },
+  {
+    "name": "Ponyta",
+    "number": "78",
+    "rarity": "Common",
+    "set_name": "Delta Species",
+    "set_series": "EX"
+  },
+  {
+    "name": "Poochyena",
+    "number": "79",
+    "rarity": "Common",
+    "set_name": "Delta Species",
+    "set_series": "EX"
+  },
+  {
+    "name": "Porygon",
+    "number": "80",
+    "rarity": "Common",
+    "set_name": "Delta Species",
+    "set_series": "EX"
+  },
+  {
+    "name": "Ralts",
+    "number": "81",
+    "rarity": "Common",
+    "set_name": "Delta Species",
+    "set_series": "EX"
+  },
+  {
+    "name": "Sandshrew",
+    "number": "82",
+    "rarity": "Common",
+    "set_name": "Delta Species",
+    "set_series": "EX"
+  },
+  {
+    "name": "Slowpoke",
+    "number": "83",
+    "rarity": "Common",
+    "set_name": "Delta Species",
+    "set_series": "EX"
+  },
+  {
+    "name": "Staryu",
+    "number": "84",
+    "rarity": "Common",
+    "set_name": "Delta Species",
+    "set_series": "EX"
+  },
+  {
+    "name": "Staryu",
+    "number": "85",
+    "rarity": "Common",
+    "set_name": "Delta Species",
+    "set_series": "EX"
+  },
+  {
+    "name": "Taillow",
+    "number": "86",
+    "rarity": "Common",
+    "set_name": "Delta Species",
+    "set_series": "EX"
+  },
+  {
+    "name": "Weedle",
+    "number": "87",
+    "rarity": "Common",
+    "set_name": "Delta Species",
+    "set_series": "EX"
+  },
+  {
+    "name": "Zubat",
+    "number": "88",
+    "rarity": "Common",
+    "set_name": "Delta Species",
+    "set_series": "EX"
+  },
+  {
+    "name": "Dual Ball",
+    "number": "89",
+    "rarity": "Uncommon",
+    "set_name": "Delta Species",
+    "set_series": "EX"
+  },
+  {
+    "name": "Great Ball",
+    "number": "90",
+    "rarity": "Uncommon",
+    "set_name": "Delta Species",
+    "set_series": "EX"
+  },
+  {
+    "name": "Holon Farmer",
+    "number": "91",
+    "rarity": "Uncommon",
+    "set_name": "Delta Species",
+    "set_series": "EX"
+  },
+  {
+    "name": "Holon Lass",
+    "number": "92",
+    "rarity": "Uncommon",
+    "set_name": "Delta Species",
+    "set_series": "EX"
+  },
+  {
+    "name": "Holon Mentor",
+    "number": "93",
+    "rarity": "Uncommon",
+    "set_name": "Delta Species",
+    "set_series": "EX"
+  },
+  {
+    "name": "Holon Research Tower",
+    "number": "94",
+    "rarity": "Uncommon",
+    "set_name": "Delta Species",
+    "set_series": "EX"
+  },
+  {
+    "name": "Holon Researcher",
+    "number": "95",
+    "rarity": "Uncommon",
+    "set_name": "Delta Species",
+    "set_series": "EX"
+  },
+  {
+    "name": "Holon Ruins",
+    "number": "96",
+    "rarity": "Uncommon",
+    "set_name": "Delta Species",
+    "set_series": "EX"
+  },
+  {
+    "name": "Holon Scientist",
+    "number": "97",
+    "rarity": "Uncommon",
+    "set_name": "Delta Species",
+    "set_series": "EX"
+  },
+  {
+    "name": "Holon Transceiver",
+    "number": "98",
+    "rarity": "Uncommon",
+    "set_name": "Delta Species",
+    "set_series": "EX"
+  },
+  {
+    "name": "Master Ball",
+    "number": "99",
+    "rarity": "Uncommon",
+    "set_name": "Delta Species",
+    "set_series": "EX"
+  },
+  {
+    "name": "Super Scoop Up",
+    "number": "100",
+    "rarity": "Uncommon",
+    "set_name": "Delta Species",
+    "set_series": "EX"
+  },
+  {
+    "name": "Potion",
+    "number": "101",
+    "rarity": "Common",
+    "set_name": "Delta Species",
+    "set_series": "EX"
+  },
+  {
+    "name": "Switch",
+    "number": "102",
+    "rarity": "Common",
+    "set_name": "Delta Species",
+    "set_series": "EX"
+  },
+  {
+    "name": "Darkness Energy",
+    "number": "103",
+    "rarity": "Rare",
+    "set_name": "Delta Species",
+    "set_series": "EX"
+  },
+  {
+    "name": "Holon Energy FF",
+    "number": "104",
+    "rarity": "Rare",
+    "set_name": "Delta Species",
+    "set_series": "EX"
+  },
+  {
+    "name": "Holon Energy GL",
+    "number": "105",
+    "rarity": "Rare",
+    "set_name": "Delta Species",
+    "set_series": "EX"
+  },
+  {
+    "name": "Holon Energy WP",
+    "number": "106",
+    "rarity": "Rare",
+    "set_name": "Delta Species",
+    "set_series": "EX"
+  },
+  {
+    "name": "Metal Energy",
+    "number": "107",
+    "rarity": "Rare",
+    "set_name": "Delta Species",
+    "set_series": "EX"
+  },
+  {
+    "name": "Flareon ex",
+    "number": "108",
+    "rarity": "Rare Holo EX",
+    "set_name": "Delta Species",
+    "set_series": "EX"
+  },
+  {
+    "name": "Jolteon ex",
+    "number": "109",
+    "rarity": "Rare Holo EX",
+    "set_name": "Delta Species",
+    "set_series": "EX"
+  },
+  {
+    "name": "Vaporeon ex",
+    "number": "110",
+    "rarity": "Rare Holo EX",
+    "set_name": "Delta Species",
+    "set_series": "EX"
+  },
+  {
+    "name": "Groudon \u2605",
+    "number": "111",
+    "rarity": "Rare Holo Star",
+    "set_name": "Delta Species",
+    "set_series": "EX"
+  },
+  {
+    "name": "Kyogre \u2605",
+    "number": "112",
+    "rarity": "Rare Holo Star",
+    "set_name": "Delta Species",
+    "set_series": "EX"
+  },
+  {
+    "name": "Metagross \u2605",
+    "number": "113",
+    "rarity": "Rare Holo Star",
+    "set_name": "Delta Species",
+    "set_series": "EX"
+  },
+  {
+    "name": "Azumarill",
+    "number": "114",
+    "rarity": "Rare Secret",
+    "set_name": "Delta Species",
+    "set_series": "EX"
+  }
+]

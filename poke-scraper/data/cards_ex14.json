@@ -1,0 +1,702 @@
+[
+  {
+    "name": "Banette",
+    "number": "1",
+    "rarity": "Rare Holo",
+    "set_name": "Crystal Guardians",
+    "set_series": "EX"
+  },
+  {
+    "name": "Blastoise \u03b4",
+    "number": "2",
+    "rarity": "Rare Holo",
+    "set_name": "Crystal Guardians",
+    "set_series": "EX"
+  },
+  {
+    "name": "Camerupt",
+    "number": "3",
+    "rarity": "Rare Holo",
+    "set_name": "Crystal Guardians",
+    "set_series": "EX"
+  },
+  {
+    "name": "Charizard \u03b4",
+    "number": "4",
+    "rarity": "Rare Holo",
+    "set_name": "Crystal Guardians",
+    "set_series": "EX"
+  },
+  {
+    "name": "Dugtrio",
+    "number": "5",
+    "rarity": "Rare Holo",
+    "set_name": "Crystal Guardians",
+    "set_series": "EX"
+  },
+  {
+    "name": "Ludicolo \u03b4",
+    "number": "6",
+    "rarity": "Rare Holo",
+    "set_name": "Crystal Guardians",
+    "set_series": "EX"
+  },
+  {
+    "name": "Luvdisc",
+    "number": "7",
+    "rarity": "Rare Holo",
+    "set_name": "Crystal Guardians",
+    "set_series": "EX"
+  },
+  {
+    "name": "Manectric",
+    "number": "8",
+    "rarity": "Rare Holo",
+    "set_name": "Crystal Guardians",
+    "set_series": "EX"
+  },
+  {
+    "name": "Mawile",
+    "number": "9",
+    "rarity": "Rare Holo",
+    "set_name": "Crystal Guardians",
+    "set_series": "EX"
+  },
+  {
+    "name": "Sableye",
+    "number": "10",
+    "rarity": "Rare Holo",
+    "set_name": "Crystal Guardians",
+    "set_series": "EX"
+  },
+  {
+    "name": "Swalot",
+    "number": "11",
+    "rarity": "Rare Holo",
+    "set_name": "Crystal Guardians",
+    "set_series": "EX"
+  },
+  {
+    "name": "Tauros",
+    "number": "12",
+    "rarity": "Rare Holo",
+    "set_name": "Crystal Guardians",
+    "set_series": "EX"
+  },
+  {
+    "name": "Wigglytuff",
+    "number": "13",
+    "rarity": "Rare Holo",
+    "set_name": "Crystal Guardians",
+    "set_series": "EX"
+  },
+  {
+    "name": "Blastoise",
+    "number": "14",
+    "rarity": "Rare",
+    "set_name": "Crystal Guardians",
+    "set_series": "EX"
+  },
+  {
+    "name": "Cacturne \u03b4",
+    "number": "15",
+    "rarity": "Rare",
+    "set_name": "Crystal Guardians",
+    "set_series": "EX"
+  },
+  {
+    "name": "Combusken",
+    "number": "16",
+    "rarity": "Rare",
+    "set_name": "Crystal Guardians",
+    "set_series": "EX"
+  },
+  {
+    "name": "Dusclops",
+    "number": "17",
+    "rarity": "Rare",
+    "set_name": "Crystal Guardians",
+    "set_series": "EX"
+  },
+  {
+    "name": "Fearow \u03b4",
+    "number": "18",
+    "rarity": "Rare",
+    "set_name": "Crystal Guardians",
+    "set_series": "EX"
+  },
+  {
+    "name": "Grovyle \u03b4",
+    "number": "19",
+    "rarity": "Rare",
+    "set_name": "Crystal Guardians",
+    "set_series": "EX"
+  },
+  {
+    "name": "Grumpig",
+    "number": "20",
+    "rarity": "Rare",
+    "set_name": "Crystal Guardians",
+    "set_series": "EX"
+  },
+  {
+    "name": "Igglybuff",
+    "number": "21",
+    "rarity": "Rare",
+    "set_name": "Crystal Guardians",
+    "set_series": "EX"
+  },
+  {
+    "name": "Kingler \u03b4",
+    "number": "22",
+    "rarity": "Rare",
+    "set_name": "Crystal Guardians",
+    "set_series": "EX"
+  },
+  {
+    "name": "Loudred",
+    "number": "23",
+    "rarity": "Rare",
+    "set_name": "Crystal Guardians",
+    "set_series": "EX"
+  },
+  {
+    "name": "Marshtomp",
+    "number": "24",
+    "rarity": "Rare",
+    "set_name": "Crystal Guardians",
+    "set_series": "EX"
+  },
+  {
+    "name": "Medicham",
+    "number": "25",
+    "rarity": "Rare",
+    "set_name": "Crystal Guardians",
+    "set_series": "EX"
+  },
+  {
+    "name": "Pelipper \u03b4",
+    "number": "26",
+    "rarity": "Rare",
+    "set_name": "Crystal Guardians",
+    "set_series": "EX"
+  },
+  {
+    "name": "Swampert",
+    "number": "27",
+    "rarity": "Rare",
+    "set_name": "Crystal Guardians",
+    "set_series": "EX"
+  },
+  {
+    "name": "Venusaur",
+    "number": "28",
+    "rarity": "Rare",
+    "set_name": "Crystal Guardians",
+    "set_series": "EX"
+  },
+  {
+    "name": "Charmeleon",
+    "number": "29",
+    "rarity": "Uncommon",
+    "set_name": "Crystal Guardians",
+    "set_series": "EX"
+  },
+  {
+    "name": "Charmeleon \u03b4",
+    "number": "30",
+    "rarity": "Uncommon",
+    "set_name": "Crystal Guardians",
+    "set_series": "EX"
+  },
+  {
+    "name": "Combusken",
+    "number": "31",
+    "rarity": "Uncommon",
+    "set_name": "Crystal Guardians",
+    "set_series": "EX"
+  },
+  {
+    "name": "Grovyle",
+    "number": "32",
+    "rarity": "Uncommon",
+    "set_name": "Crystal Guardians",
+    "set_series": "EX"
+  },
+  {
+    "name": "Gulpin",
+    "number": "33",
+    "rarity": "Uncommon",
+    "set_name": "Crystal Guardians",
+    "set_series": "EX"
+  },
+  {
+    "name": "Ivysaur",
+    "number": "34",
+    "rarity": "Uncommon",
+    "set_name": "Crystal Guardians",
+    "set_series": "EX"
+  },
+  {
+    "name": "Ivysaur",
+    "number": "35",
+    "rarity": "Uncommon",
+    "set_name": "Crystal Guardians",
+    "set_series": "EX"
+  },
+  {
+    "name": "Lairon",
+    "number": "36",
+    "rarity": "Uncommon",
+    "set_name": "Crystal Guardians",
+    "set_series": "EX"
+  },
+  {
+    "name": "Lombre",
+    "number": "37",
+    "rarity": "Uncommon",
+    "set_name": "Crystal Guardians",
+    "set_series": "EX"
+  },
+  {
+    "name": "Marshtomp",
+    "number": "38",
+    "rarity": "Uncommon",
+    "set_name": "Crystal Guardians",
+    "set_series": "EX"
+  },
+  {
+    "name": "Nuzleaf",
+    "number": "39",
+    "rarity": "Uncommon",
+    "set_name": "Crystal Guardians",
+    "set_series": "EX"
+  },
+  {
+    "name": "Shuppet",
+    "number": "40",
+    "rarity": "Uncommon",
+    "set_name": "Crystal Guardians",
+    "set_series": "EX"
+  },
+  {
+    "name": "Skitty",
+    "number": "41",
+    "rarity": "Uncommon",
+    "set_name": "Crystal Guardians",
+    "set_series": "EX"
+  },
+  {
+    "name": "Wartortle",
+    "number": "42",
+    "rarity": "Uncommon",
+    "set_name": "Crystal Guardians",
+    "set_series": "EX"
+  },
+  {
+    "name": "Wartortle",
+    "number": "43",
+    "rarity": "Uncommon",
+    "set_name": "Crystal Guardians",
+    "set_series": "EX"
+  },
+  {
+    "name": "Aron",
+    "number": "44",
+    "rarity": "Common",
+    "set_name": "Crystal Guardians",
+    "set_series": "EX"
+  },
+  {
+    "name": "Bulbasaur",
+    "number": "45",
+    "rarity": "Common",
+    "set_name": "Crystal Guardians",
+    "set_series": "EX"
+  },
+  {
+    "name": "Bulbasaur",
+    "number": "46",
+    "rarity": "Common",
+    "set_name": "Crystal Guardians",
+    "set_series": "EX"
+  },
+  {
+    "name": "Cacnea",
+    "number": "47",
+    "rarity": "Common",
+    "set_name": "Crystal Guardians",
+    "set_series": "EX"
+  },
+  {
+    "name": "Charmander",
+    "number": "48",
+    "rarity": "Common",
+    "set_name": "Crystal Guardians",
+    "set_series": "EX"
+  },
+  {
+    "name": "Charmander \u03b4",
+    "number": "49",
+    "rarity": "Common",
+    "set_name": "Crystal Guardians",
+    "set_series": "EX"
+  },
+  {
+    "name": "Diglett",
+    "number": "50",
+    "rarity": "Common",
+    "set_name": "Crystal Guardians",
+    "set_series": "EX"
+  },
+  {
+    "name": "Duskull",
+    "number": "51",
+    "rarity": "Common",
+    "set_name": "Crystal Guardians",
+    "set_series": "EX"
+  },
+  {
+    "name": "Electrike",
+    "number": "52",
+    "rarity": "Common",
+    "set_name": "Crystal Guardians",
+    "set_series": "EX"
+  },
+  {
+    "name": "Jigglypuff",
+    "number": "53",
+    "rarity": "Common",
+    "set_name": "Crystal Guardians",
+    "set_series": "EX"
+  },
+  {
+    "name": "Krabby",
+    "number": "54",
+    "rarity": "Common",
+    "set_name": "Crystal Guardians",
+    "set_series": "EX"
+  },
+  {
+    "name": "Lotad",
+    "number": "55",
+    "rarity": "Common",
+    "set_name": "Crystal Guardians",
+    "set_series": "EX"
+  },
+  {
+    "name": "Meditite",
+    "number": "56",
+    "rarity": "Common",
+    "set_name": "Crystal Guardians",
+    "set_series": "EX"
+  },
+  {
+    "name": "Mudkip",
+    "number": "57",
+    "rarity": "Common",
+    "set_name": "Crystal Guardians",
+    "set_series": "EX"
+  },
+  {
+    "name": "Mudkip",
+    "number": "58",
+    "rarity": "Common",
+    "set_name": "Crystal Guardians",
+    "set_series": "EX"
+  },
+  {
+    "name": "Numel",
+    "number": "59",
+    "rarity": "Common",
+    "set_name": "Crystal Guardians",
+    "set_series": "EX"
+  },
+  {
+    "name": "Seedot",
+    "number": "60",
+    "rarity": "Common",
+    "set_name": "Crystal Guardians",
+    "set_series": "EX"
+  },
+  {
+    "name": "Spearow",
+    "number": "61",
+    "rarity": "Common",
+    "set_name": "Crystal Guardians",
+    "set_series": "EX"
+  },
+  {
+    "name": "Spoink",
+    "number": "62",
+    "rarity": "Common",
+    "set_name": "Crystal Guardians",
+    "set_series": "EX"
+  },
+  {
+    "name": "Squirtle",
+    "number": "63",
+    "rarity": "Common",
+    "set_name": "Crystal Guardians",
+    "set_series": "EX"
+  },
+  {
+    "name": "Squirtle",
+    "number": "64",
+    "rarity": "Common",
+    "set_name": "Crystal Guardians",
+    "set_series": "EX"
+  },
+  {
+    "name": "Torchic",
+    "number": "65",
+    "rarity": "Common",
+    "set_name": "Crystal Guardians",
+    "set_series": "EX"
+  },
+  {
+    "name": "Torchic",
+    "number": "66",
+    "rarity": "Common",
+    "set_name": "Crystal Guardians",
+    "set_series": "EX"
+  },
+  {
+    "name": "Treecko",
+    "number": "67",
+    "rarity": "Common",
+    "set_name": "Crystal Guardians",
+    "set_series": "EX"
+  },
+  {
+    "name": "Treecko \u03b4",
+    "number": "68",
+    "rarity": "Common",
+    "set_name": "Crystal Guardians",
+    "set_series": "EX"
+  },
+  {
+    "name": "Whismur",
+    "number": "69",
+    "rarity": "Common",
+    "set_name": "Crystal Guardians",
+    "set_series": "EX"
+  },
+  {
+    "name": "Wingull",
+    "number": "70",
+    "rarity": "Common",
+    "set_name": "Crystal Guardians",
+    "set_series": "EX"
+  },
+  {
+    "name": "Bill's Maintenance",
+    "number": "71",
+    "rarity": "Uncommon",
+    "set_name": "Crystal Guardians",
+    "set_series": "EX"
+  },
+  {
+    "name": "Castaway",
+    "number": "72",
+    "rarity": "Uncommon",
+    "set_name": "Crystal Guardians",
+    "set_series": "EX"
+  },
+  {
+    "name": "Celio's Network",
+    "number": "73",
+    "rarity": "Uncommon",
+    "set_name": "Crystal Guardians",
+    "set_series": "EX"
+  },
+  {
+    "name": "Cessation Crystal",
+    "number": "74",
+    "rarity": "Uncommon",
+    "set_name": "Crystal Guardians",
+    "set_series": "EX"
+  },
+  {
+    "name": "Crystal Beach",
+    "number": "75",
+    "rarity": "Uncommon",
+    "set_name": "Crystal Guardians",
+    "set_series": "EX"
+  },
+  {
+    "name": "Crystal Shard",
+    "number": "76",
+    "rarity": "Uncommon",
+    "set_name": "Crystal Guardians",
+    "set_series": "EX"
+  },
+  {
+    "name": "Double Full Heal",
+    "number": "77",
+    "rarity": "Uncommon",
+    "set_name": "Crystal Guardians",
+    "set_series": "EX"
+  },
+  {
+    "name": "Dual Ball",
+    "number": "78",
+    "rarity": "Uncommon",
+    "set_name": "Crystal Guardians",
+    "set_series": "EX"
+  },
+  {
+    "name": "Holon Circle",
+    "number": "79",
+    "rarity": "Uncommon",
+    "set_name": "Crystal Guardians",
+    "set_series": "EX"
+  },
+  {
+    "name": "Memory Berry",
+    "number": "80",
+    "rarity": "Uncommon",
+    "set_name": "Crystal Guardians",
+    "set_series": "EX"
+  },
+  {
+    "name": "Mysterious Shard",
+    "number": "81",
+    "rarity": "Uncommon",
+    "set_name": "Crystal Guardians",
+    "set_series": "EX"
+  },
+  {
+    "name": "Pok\u00e9 Ball",
+    "number": "82",
+    "rarity": "Uncommon",
+    "set_name": "Crystal Guardians",
+    "set_series": "EX"
+  },
+  {
+    "name": "Pok\u00e9Nav",
+    "number": "83",
+    "rarity": "Uncommon",
+    "set_name": "Crystal Guardians",
+    "set_series": "EX"
+  },
+  {
+    "name": "Warp Point",
+    "number": "84",
+    "rarity": "Uncommon",
+    "set_name": "Crystal Guardians",
+    "set_series": "EX"
+  },
+  {
+    "name": "Windstorm",
+    "number": "85",
+    "rarity": "Uncommon",
+    "set_name": "Crystal Guardians",
+    "set_series": "EX"
+  },
+  {
+    "name": "Energy Search",
+    "number": "86",
+    "rarity": "Common",
+    "set_name": "Crystal Guardians",
+    "set_series": "EX"
+  },
+  {
+    "name": "Potion",
+    "number": "87",
+    "rarity": "Common",
+    "set_name": "Crystal Guardians",
+    "set_series": "EX"
+  },
+  {
+    "name": "Double Rainbow Energy",
+    "number": "88",
+    "rarity": "Rare",
+    "set_name": "Crystal Guardians",
+    "set_series": "EX"
+  },
+  {
+    "name": "Aggron ex",
+    "number": "89",
+    "rarity": "Rare Holo EX",
+    "set_name": "Crystal Guardians",
+    "set_series": "EX"
+  },
+  {
+    "name": "Blaziken ex",
+    "number": "90",
+    "rarity": "Rare Holo EX",
+    "set_name": "Crystal Guardians",
+    "set_series": "EX"
+  },
+  {
+    "name": "Delcatty ex",
+    "number": "91",
+    "rarity": "Rare Holo EX",
+    "set_name": "Crystal Guardians",
+    "set_series": "EX"
+  },
+  {
+    "name": "Exploud ex",
+    "number": "92",
+    "rarity": "Rare Holo EX",
+    "set_name": "Crystal Guardians",
+    "set_series": "EX"
+  },
+  {
+    "name": "Groudon ex",
+    "number": "93",
+    "rarity": "Rare Holo EX",
+    "set_name": "Crystal Guardians",
+    "set_series": "EX"
+  },
+  {
+    "name": "Jirachi ex",
+    "number": "94",
+    "rarity": "Rare Holo EX",
+    "set_name": "Crystal Guardians",
+    "set_series": "EX"
+  },
+  {
+    "name": "Kyogre ex",
+    "number": "95",
+    "rarity": "Rare Holo EX",
+    "set_name": "Crystal Guardians",
+    "set_series": "EX"
+  },
+  {
+    "name": "Sceptile ex \u03b4",
+    "number": "96",
+    "rarity": "Rare Holo EX",
+    "set_name": "Crystal Guardians",
+    "set_series": "EX"
+  },
+  {
+    "name": "Shiftry ex",
+    "number": "97",
+    "rarity": "Rare Holo EX",
+    "set_name": "Crystal Guardians",
+    "set_series": "EX"
+  },
+  {
+    "name": "Swampert ex",
+    "number": "98",
+    "rarity": "Rare Holo EX",
+    "set_name": "Crystal Guardians",
+    "set_series": "EX"
+  },
+  {
+    "name": "Alakazam \u2605",
+    "number": "99",
+    "rarity": "Rare Holo Star",
+    "set_name": "Crystal Guardians",
+    "set_series": "EX"
+  },
+  {
+    "name": "Celebi \u2605",
+    "number": "100",
+    "rarity": "Rare Holo Star",
+    "set_name": "Crystal Guardians",
+    "set_series": "EX"
+  }
+]

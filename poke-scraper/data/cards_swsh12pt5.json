@@ -1,0 +1,1122 @@
+[
+  {
+    "name": "Oddish",
+    "number": "1",
+    "rarity": "Common",
+    "set_name": "Crown Zenith",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Gloom",
+    "number": "2",
+    "rarity": "Uncommon",
+    "set_name": "Crown Zenith",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Bellossom",
+    "number": "3",
+    "rarity": "Rare",
+    "set_name": "Crown Zenith",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Tangela",
+    "number": "4",
+    "rarity": "Common",
+    "set_name": "Crown Zenith",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Tangrowth",
+    "number": "5",
+    "rarity": "Rare",
+    "set_name": "Crown Zenith",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Scyther",
+    "number": "6",
+    "rarity": "Common",
+    "set_name": "Crown Zenith",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Sunkern",
+    "number": "7",
+    "rarity": "Common",
+    "set_name": "Crown Zenith",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Yanma",
+    "number": "8",
+    "rarity": "Common",
+    "set_name": "Crown Zenith",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Yanmega",
+    "number": "9",
+    "rarity": "Rare",
+    "set_name": "Crown Zenith",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Kricketot",
+    "number": "10",
+    "rarity": "Common",
+    "set_name": "Crown Zenith",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Cherubi",
+    "number": "11",
+    "rarity": "Common",
+    "set_name": "Crown Zenith",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Carnivine",
+    "number": "12",
+    "rarity": "Uncommon",
+    "set_name": "Crown Zenith",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Leafeon V",
+    "number": "13",
+    "rarity": "Rare Holo V",
+    "set_name": "Crown Zenith",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Leafeon VSTAR",
+    "number": "14",
+    "rarity": "Rare Holo VSTAR",
+    "set_name": "Crown Zenith",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Grubbin",
+    "number": "15",
+    "rarity": "Common",
+    "set_name": "Crown Zenith",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Zarude",
+    "number": "16",
+    "rarity": "Rare Holo",
+    "set_name": "Crown Zenith",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Calyrex",
+    "number": "17",
+    "rarity": "Rare Holo",
+    "set_name": "Crown Zenith",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Charizard V",
+    "number": "18",
+    "rarity": "Rare Holo V",
+    "set_name": "Crown Zenith",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Charizard VSTAR",
+    "number": "19",
+    "rarity": "Rare Holo VSTAR",
+    "set_name": "Crown Zenith",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Radiant Charizard",
+    "number": "20",
+    "rarity": "Radiant Rare",
+    "set_name": "Crown Zenith",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Entei",
+    "number": "21",
+    "rarity": "Rare Holo",
+    "set_name": "Crown Zenith",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Simisear V",
+    "number": "22",
+    "rarity": "Rare Holo V",
+    "set_name": "Crown Zenith",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Simisear VSTAR",
+    "number": "23",
+    "rarity": "Rare Holo VSTAR",
+    "set_name": "Crown Zenith",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Larvesta",
+    "number": "24",
+    "rarity": "Common",
+    "set_name": "Crown Zenith",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Volcarona",
+    "number": "25",
+    "rarity": "Rare",
+    "set_name": "Crown Zenith",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Volcanion",
+    "number": "26",
+    "rarity": "Rare Holo",
+    "set_name": "Crown Zenith",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Salandit",
+    "number": "27",
+    "rarity": "Common",
+    "set_name": "Crown Zenith",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Salazzle",
+    "number": "28",
+    "rarity": "Uncommon",
+    "set_name": "Crown Zenith",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Seel",
+    "number": "29",
+    "rarity": "Common",
+    "set_name": "Crown Zenith",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Galarian Mr. Mime",
+    "number": "30",
+    "rarity": "Common",
+    "set_name": "Crown Zenith",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Wailmer",
+    "number": "31",
+    "rarity": "Common",
+    "set_name": "Crown Zenith",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Wailord",
+    "number": "32",
+    "rarity": "Rare",
+    "set_name": "Crown Zenith",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Corphish",
+    "number": "33",
+    "rarity": "Common",
+    "set_name": "Crown Zenith",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Snorunt",
+    "number": "34",
+    "rarity": "Common",
+    "set_name": "Crown Zenith",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Luvdisc",
+    "number": "35",
+    "rarity": "Common",
+    "set_name": "Crown Zenith",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Kyogre",
+    "number": "36",
+    "rarity": "Rare Holo",
+    "set_name": "Crown Zenith",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Kyogre V",
+    "number": "37",
+    "rarity": "Rare Holo V",
+    "set_name": "Crown Zenith",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Glaceon V",
+    "number": "38",
+    "rarity": "Rare Holo V",
+    "set_name": "Crown Zenith",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Shinx",
+    "number": "39",
+    "rarity": "Common",
+    "set_name": "Crown Zenith",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Shinx",
+    "number": "40",
+    "rarity": "Common",
+    "set_name": "Crown Zenith",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Luxio",
+    "number": "41",
+    "rarity": "Uncommon",
+    "set_name": "Crown Zenith",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Luxio",
+    "number": "42",
+    "rarity": "Uncommon",
+    "set_name": "Crown Zenith",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Luxray",
+    "number": "43",
+    "rarity": "Rare",
+    "set_name": "Crown Zenith",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Luxray",
+    "number": "44",
+    "rarity": "Rare",
+    "set_name": "Crown Zenith",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Rotom V",
+    "number": "45",
+    "rarity": "Rare Holo V",
+    "set_name": "Crown Zenith",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Rotom VSTAR",
+    "number": "46",
+    "rarity": "Rare Holo VSTAR",
+    "set_name": "Crown Zenith",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Emolga",
+    "number": "47",
+    "rarity": "Common",
+    "set_name": "Crown Zenith",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Eelektrik",
+    "number": "48",
+    "rarity": "Uncommon",
+    "set_name": "Crown Zenith",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Helioptile",
+    "number": "49",
+    "rarity": "Common",
+    "set_name": "Crown Zenith",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Heliolisk",
+    "number": "50",
+    "rarity": "Rare",
+    "set_name": "Crown Zenith",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Radiant Charjabug",
+    "number": "51",
+    "rarity": "Radiant Rare",
+    "set_name": "Crown Zenith",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Zeraora",
+    "number": "52",
+    "rarity": "Rare",
+    "set_name": "Crown Zenith",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Zeraora V",
+    "number": "53",
+    "rarity": "Rare Holo V",
+    "set_name": "Crown Zenith",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Zeraora VMAX",
+    "number": "54",
+    "rarity": "Rare Holo VMAX",
+    "set_name": "Crown Zenith",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Zeraora VSTAR",
+    "number": "55",
+    "rarity": "Rare Holo VSTAR",
+    "set_name": "Crown Zenith",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Pincurchin",
+    "number": "56",
+    "rarity": "Uncommon",
+    "set_name": "Crown Zenith",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Exeggcute",
+    "number": "57",
+    "rarity": "Common",
+    "set_name": "Crown Zenith",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Exeggutor",
+    "number": "58",
+    "rarity": "Rare",
+    "set_name": "Crown Zenith",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Mewtwo",
+    "number": "59",
+    "rarity": "Rare Holo",
+    "set_name": "Crown Zenith",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Mew V",
+    "number": "60",
+    "rarity": "Rare Holo V",
+    "set_name": "Crown Zenith",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Girafarig",
+    "number": "61",
+    "rarity": "Uncommon",
+    "set_name": "Crown Zenith",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Lunatone",
+    "number": "62",
+    "rarity": "Uncommon",
+    "set_name": "Crown Zenith",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Dusclops",
+    "number": "63",
+    "rarity": "Uncommon",
+    "set_name": "Crown Zenith",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Tapu Lele",
+    "number": "64",
+    "rarity": "Rare Holo",
+    "set_name": "Crown Zenith",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Hatterene V",
+    "number": "65",
+    "rarity": "Rare Holo V",
+    "set_name": "Crown Zenith",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Hatterene VMAX",
+    "number": "66",
+    "rarity": "Rare Holo VMAX",
+    "set_name": "Crown Zenith",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Enamorus",
+    "number": "67",
+    "rarity": "Rare",
+    "set_name": "Crown Zenith",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Graveler",
+    "number": "68",
+    "rarity": "Uncommon",
+    "set_name": "Crown Zenith",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Solrock",
+    "number": "69",
+    "rarity": "Uncommon",
+    "set_name": "Crown Zenith",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Baltoy",
+    "number": "70",
+    "rarity": "Common",
+    "set_name": "Crown Zenith",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Riolu",
+    "number": "71",
+    "rarity": "Common",
+    "set_name": "Crown Zenith",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Pancham",
+    "number": "72",
+    "rarity": "Common",
+    "set_name": "Crown Zenith",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Rockruff",
+    "number": "73",
+    "rarity": "Common",
+    "set_name": "Crown Zenith",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Lycanroc",
+    "number": "74",
+    "rarity": "Rare",
+    "set_name": "Crown Zenith",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Koffing",
+    "number": "75",
+    "rarity": "Common",
+    "set_name": "Crown Zenith",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Absol",
+    "number": "76",
+    "rarity": "Rare Holo",
+    "set_name": "Crown Zenith",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Purrloin",
+    "number": "77",
+    "rarity": "Common",
+    "set_name": "Crown Zenith",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Liepard",
+    "number": "78",
+    "rarity": "Rare",
+    "set_name": "Crown Zenith",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Krokorok",
+    "number": "79",
+    "rarity": "Uncommon",
+    "set_name": "Crown Zenith",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Pangoro",
+    "number": "80",
+    "rarity": "Rare",
+    "set_name": "Crown Zenith",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Skrelp",
+    "number": "81",
+    "rarity": "Common",
+    "set_name": "Crown Zenith",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Dragalge",
+    "number": "82",
+    "rarity": "Rare",
+    "set_name": "Crown Zenith",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Hoopa",
+    "number": "83",
+    "rarity": "Rare Holo",
+    "set_name": "Crown Zenith",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Galarian Meowth",
+    "number": "84",
+    "rarity": "Common",
+    "set_name": "Crown Zenith",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Galarian Perrserker",
+    "number": "85",
+    "rarity": "Rare",
+    "set_name": "Crown Zenith",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Scizor",
+    "number": "86",
+    "rarity": "Rare",
+    "set_name": "Crown Zenith",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Aron",
+    "number": "87",
+    "rarity": "Common",
+    "set_name": "Crown Zenith",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Lairon",
+    "number": "88",
+    "rarity": "Uncommon",
+    "set_name": "Crown Zenith",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Aggron",
+    "number": "89",
+    "rarity": "Rare Holo",
+    "set_name": "Crown Zenith",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Metang",
+    "number": "90",
+    "rarity": "Uncommon",
+    "set_name": "Crown Zenith",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Pawniard",
+    "number": "91",
+    "rarity": "Common",
+    "set_name": "Crown Zenith",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Pawniard",
+    "number": "92",
+    "rarity": "Common",
+    "set_name": "Crown Zenith",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Bisharp",
+    "number": "93",
+    "rarity": "Uncommon",
+    "set_name": "Crown Zenith",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Zacian",
+    "number": "94",
+    "rarity": "Rare Holo",
+    "set_name": "Crown Zenith",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Zacian V",
+    "number": "95",
+    "rarity": "Rare Holo V",
+    "set_name": "Crown Zenith",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Zacian VSTAR",
+    "number": "96",
+    "rarity": "Rare Holo VSTAR",
+    "set_name": "Crown Zenith",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Zamazenta",
+    "number": "97",
+    "rarity": "Rare Holo",
+    "set_name": "Crown Zenith",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Zamazenta V",
+    "number": "98",
+    "rarity": "Rare Holo V",
+    "set_name": "Crown Zenith",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Zamazenta VSTAR",
+    "number": "99",
+    "rarity": "Rare Holo VSTAR",
+    "set_name": "Crown Zenith",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Rayquaza V",
+    "number": "100",
+    "rarity": "Rare Holo V",
+    "set_name": "Crown Zenith",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Rayquaza VMAX",
+    "number": "101",
+    "rarity": "Rare Holo VMAX",
+    "set_name": "Crown Zenith",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Rayquaza VMAX",
+    "number": "102",
+    "rarity": "Rare Holo VMAX",
+    "set_name": "Crown Zenith",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Duraludon V",
+    "number": "103",
+    "rarity": "Rare Holo V",
+    "set_name": "Crown Zenith",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Duraludon VMAX",
+    "number": "104",
+    "rarity": "Rare Holo VMAX",
+    "set_name": "Crown Zenith",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Radiant Eternatus",
+    "number": "105",
+    "rarity": "Radiant Rare",
+    "set_name": "Crown Zenith",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Tauros",
+    "number": "106",
+    "rarity": "Rare",
+    "set_name": "Crown Zenith",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Ditto",
+    "number": "107",
+    "rarity": "Rare Holo",
+    "set_name": "Crown Zenith",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Eevee V",
+    "number": "108",
+    "rarity": "Rare Holo V",
+    "set_name": "Crown Zenith",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Snorlax",
+    "number": "109",
+    "rarity": "Rare",
+    "set_name": "Crown Zenith",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Starly",
+    "number": "110",
+    "rarity": "Common",
+    "set_name": "Crown Zenith",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Bidoof",
+    "number": "111",
+    "rarity": "Common",
+    "set_name": "Crown Zenith",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Chatot",
+    "number": "112",
+    "rarity": "Common",
+    "set_name": "Crown Zenith",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Regigigas V",
+    "number": "113",
+    "rarity": "Rare Holo V",
+    "set_name": "Crown Zenith",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Regigigas VSTAR",
+    "number": "114",
+    "rarity": "Rare Holo VSTAR",
+    "set_name": "Crown Zenith",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Shaymin",
+    "number": "115",
+    "rarity": "Uncommon",
+    "set_name": "Crown Zenith",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Stoutland V",
+    "number": "116",
+    "rarity": "Rare Holo V",
+    "set_name": "Crown Zenith",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Yungoos",
+    "number": "117",
+    "rarity": "Common",
+    "set_name": "Crown Zenith",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Gumshoos",
+    "number": "118",
+    "rarity": "Rare",
+    "set_name": "Crown Zenith",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Oranguru",
+    "number": "119",
+    "rarity": "Rare",
+    "set_name": "Crown Zenith",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Greedent V",
+    "number": "120",
+    "rarity": "Rare Holo V",
+    "set_name": "Crown Zenith",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Wooloo",
+    "number": "121",
+    "rarity": "Common",
+    "set_name": "Crown Zenith",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Dubwool",
+    "number": "122",
+    "rarity": "Rare",
+    "set_name": "Crown Zenith",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Bea",
+    "number": "123",
+    "rarity": "Rare Holo",
+    "set_name": "Crown Zenith",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Bede",
+    "number": "124",
+    "rarity": "Rare Holo",
+    "set_name": "Crown Zenith",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Crushing Hammer",
+    "number": "125",
+    "rarity": "Uncommon",
+    "set_name": "Crown Zenith",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Digging Duo",
+    "number": "126",
+    "rarity": "Uncommon",
+    "set_name": "Crown Zenith",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Energy Retrieval",
+    "number": "127",
+    "rarity": "Common",
+    "set_name": "Crown Zenith",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Energy Search",
+    "number": "128",
+    "rarity": "Common",
+    "set_name": "Crown Zenith",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Energy Switch",
+    "number": "129",
+    "rarity": "Uncommon",
+    "set_name": "Crown Zenith",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Friends in Hisui",
+    "number": "130",
+    "rarity": "Uncommon",
+    "set_name": "Crown Zenith",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Friends in Sinnoh",
+    "number": "131",
+    "rarity": "Uncommon",
+    "set_name": "Crown Zenith",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Great Ball",
+    "number": "132",
+    "rarity": "Uncommon",
+    "set_name": "Crown Zenith",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Hop",
+    "number": "133",
+    "rarity": "Rare Holo",
+    "set_name": "Crown Zenith",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Leon",
+    "number": "134",
+    "rarity": "Rare Holo",
+    "set_name": "Crown Zenith",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Lost Vacuum",
+    "number": "135",
+    "rarity": "Uncommon",
+    "set_name": "Crown Zenith",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Nessa",
+    "number": "136",
+    "rarity": "Rare Holo",
+    "set_name": "Crown Zenith",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Pok\u00e9 Ball",
+    "number": "137",
+    "rarity": "Common",
+    "set_name": "Crown Zenith",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Pok\u00e9mon Catcher",
+    "number": "138",
+    "rarity": "Uncommon",
+    "set_name": "Crown Zenith",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Potion",
+    "number": "139",
+    "rarity": "Common",
+    "set_name": "Crown Zenith",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Raihan",
+    "number": "140",
+    "rarity": "Rare Holo",
+    "set_name": "Crown Zenith",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Rare Candy",
+    "number": "141",
+    "rarity": "Uncommon",
+    "set_name": "Crown Zenith",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Rescue Carrier",
+    "number": "142",
+    "rarity": "Uncommon",
+    "set_name": "Crown Zenith",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Sky Seal Stone",
+    "number": "143",
+    "rarity": "Rare Holo",
+    "set_name": "Crown Zenith",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Switch",
+    "number": "144",
+    "rarity": "Common",
+    "set_name": "Crown Zenith",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Trekking Shoes",
+    "number": "145",
+    "rarity": "Uncommon",
+    "set_name": "Crown Zenith",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Ultra Ball",
+    "number": "146",
+    "rarity": "Uncommon",
+    "set_name": "Crown Zenith",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Elesa's Sparkle",
+    "number": "147",
+    "rarity": "Rare Ultra",
+    "set_name": "Crown Zenith",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Friends in Hisui",
+    "number": "148",
+    "rarity": "Rare Ultra",
+    "set_name": "Crown Zenith",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Friends in Sinnoh",
+    "number": "149",
+    "rarity": "Rare Ultra",
+    "set_name": "Crown Zenith",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Professor's Research",
+    "number": "150",
+    "rarity": "Rare Ultra",
+    "set_name": "Crown Zenith",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Volo",
+    "number": "151",
+    "rarity": "Rare Ultra",
+    "set_name": "Crown Zenith",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Grass Energy",
+    "number": "152",
+    "rarity": "Rare Ultra",
+    "set_name": "Crown Zenith",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Fire Energy",
+    "number": "153",
+    "rarity": "Rare Ultra",
+    "set_name": "Crown Zenith",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Water Energy",
+    "number": "154",
+    "rarity": "Rare Ultra",
+    "set_name": "Crown Zenith",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Lightning Energy",
+    "number": "155",
+    "rarity": "Rare Ultra",
+    "set_name": "Crown Zenith",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Psychic Energy",
+    "number": "156",
+    "rarity": "Rare Ultra",
+    "set_name": "Crown Zenith",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Fighting Energy",
+    "number": "157",
+    "rarity": "Rare Ultra",
+    "set_name": "Crown Zenith",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Darkness Energy",
+    "number": "158",
+    "rarity": "Rare Ultra",
+    "set_name": "Crown Zenith",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Metal Energy",
+    "number": "159",
+    "rarity": "Rare Ultra",
+    "set_name": "Crown Zenith",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Pikachu",
+    "number": "160",
+    "rarity": "Rare Secret",
+    "set_name": "Crown Zenith",
+    "set_series": "Sword & Shield"
+  }
+]

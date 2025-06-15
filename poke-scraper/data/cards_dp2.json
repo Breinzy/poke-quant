@@ -1,0 +1,870 @@
+[
+  {
+    "name": "Aggron",
+    "number": "1",
+    "rarity": "Rare Holo",
+    "set_name": "Mysterious Treasures",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Alakazam",
+    "number": "2",
+    "rarity": "Rare Holo",
+    "set_name": "Mysterious Treasures",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Ambipom",
+    "number": "3",
+    "rarity": "Rare Holo",
+    "set_name": "Mysterious Treasures",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Azelf",
+    "number": "4",
+    "rarity": "Rare Holo",
+    "set_name": "Mysterious Treasures",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Blissey",
+    "number": "5",
+    "rarity": "Rare Holo",
+    "set_name": "Mysterious Treasures",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Bronzong",
+    "number": "6",
+    "rarity": "Rare Holo",
+    "set_name": "Mysterious Treasures",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Celebi",
+    "number": "7",
+    "rarity": "Rare Holo",
+    "set_name": "Mysterious Treasures",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Feraligatr",
+    "number": "8",
+    "rarity": "Rare Holo",
+    "set_name": "Mysterious Treasures",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Garchomp",
+    "number": "9",
+    "rarity": "Rare Holo",
+    "set_name": "Mysterious Treasures",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Honchkrow",
+    "number": "10",
+    "rarity": "Rare Holo",
+    "set_name": "Mysterious Treasures",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Lumineon",
+    "number": "11",
+    "rarity": "Rare Holo",
+    "set_name": "Mysterious Treasures",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Magmortar",
+    "number": "12",
+    "rarity": "Rare Holo",
+    "set_name": "Mysterious Treasures",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Meganium",
+    "number": "13",
+    "rarity": "Rare Holo",
+    "set_name": "Mysterious Treasures",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Mesprit",
+    "number": "14",
+    "rarity": "Rare Holo",
+    "set_name": "Mysterious Treasures",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Raichu",
+    "number": "15",
+    "rarity": "Rare Holo",
+    "set_name": "Mysterious Treasures",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Typhlosion",
+    "number": "16",
+    "rarity": "Rare Holo",
+    "set_name": "Mysterious Treasures",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Tyranitar",
+    "number": "17",
+    "rarity": "Rare Holo",
+    "set_name": "Mysterious Treasures",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Uxie",
+    "number": "18",
+    "rarity": "Rare Holo",
+    "set_name": "Mysterious Treasures",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Abomasnow",
+    "number": "19",
+    "rarity": "Rare",
+    "set_name": "Mysterious Treasures",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Ariados",
+    "number": "20",
+    "rarity": "Rare",
+    "set_name": "Mysterious Treasures",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Bastiodon",
+    "number": "21",
+    "rarity": "Rare",
+    "set_name": "Mysterious Treasures",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Chimecho",
+    "number": "22",
+    "rarity": "Rare",
+    "set_name": "Mysterious Treasures",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Crobat",
+    "number": "23",
+    "rarity": "Rare",
+    "set_name": "Mysterious Treasures",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Exeggutor",
+    "number": "24",
+    "rarity": "Rare",
+    "set_name": "Mysterious Treasures",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Glalie",
+    "number": "25",
+    "rarity": "Rare",
+    "set_name": "Mysterious Treasures",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Gyarados",
+    "number": "26",
+    "rarity": "Rare",
+    "set_name": "Mysterious Treasures",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Kricketune",
+    "number": "27",
+    "rarity": "Rare",
+    "set_name": "Mysterious Treasures",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Manectric",
+    "number": "28",
+    "rarity": "Rare",
+    "set_name": "Mysterious Treasures",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Mantine",
+    "number": "29",
+    "rarity": "Rare",
+    "set_name": "Mysterious Treasures",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Mr. Mime",
+    "number": "30",
+    "rarity": "Rare",
+    "set_name": "Mysterious Treasures",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Nidoqueen",
+    "number": "31",
+    "rarity": "Rare",
+    "set_name": "Mysterious Treasures",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Ninetales",
+    "number": "32",
+    "rarity": "Rare",
+    "set_name": "Mysterious Treasures",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Rampardos",
+    "number": "33",
+    "rarity": "Rare",
+    "set_name": "Mysterious Treasures",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Slaking",
+    "number": "34",
+    "rarity": "Rare",
+    "set_name": "Mysterious Treasures",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Sudowoodo",
+    "number": "35",
+    "rarity": "Rare",
+    "set_name": "Mysterious Treasures",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Toxicroak",
+    "number": "36",
+    "rarity": "Rare",
+    "set_name": "Mysterious Treasures",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Unown [I]",
+    "number": "37",
+    "rarity": "Rare",
+    "set_name": "Mysterious Treasures",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Ursaring",
+    "number": "38",
+    "rarity": "Rare",
+    "set_name": "Mysterious Treasures",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Walrein",
+    "number": "39",
+    "rarity": "Rare",
+    "set_name": "Mysterious Treasures",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Whiscash",
+    "number": "40",
+    "rarity": "Rare",
+    "set_name": "Mysterious Treasures",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Bayleef",
+    "number": "41",
+    "rarity": "Uncommon",
+    "set_name": "Mysterious Treasures",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Chingling",
+    "number": "42",
+    "rarity": "Uncommon",
+    "set_name": "Mysterious Treasures",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Cranidos",
+    "number": "43",
+    "rarity": "Uncommon",
+    "set_name": "Mysterious Treasures",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Croconaw",
+    "number": "44",
+    "rarity": "Uncommon",
+    "set_name": "Mysterious Treasures",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Dewgong",
+    "number": "45",
+    "rarity": "Uncommon",
+    "set_name": "Mysterious Treasures",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Dodrio",
+    "number": "46",
+    "rarity": "Uncommon",
+    "set_name": "Mysterious Treasures",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Dunsparce",
+    "number": "47",
+    "rarity": "Uncommon",
+    "set_name": "Mysterious Treasures",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Gabite",
+    "number": "48",
+    "rarity": "Uncommon",
+    "set_name": "Mysterious Treasures",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Girafarig",
+    "number": "49",
+    "rarity": "Uncommon",
+    "set_name": "Mysterious Treasures",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Golbat",
+    "number": "50",
+    "rarity": "Uncommon",
+    "set_name": "Mysterious Treasures",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Graveler",
+    "number": "51",
+    "rarity": "Uncommon",
+    "set_name": "Mysterious Treasures",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Happiny",
+    "number": "52",
+    "rarity": "Uncommon",
+    "set_name": "Mysterious Treasures",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Lairon",
+    "number": "53",
+    "rarity": "Uncommon",
+    "set_name": "Mysterious Treasures",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Magmar",
+    "number": "54",
+    "rarity": "Uncommon",
+    "set_name": "Mysterious Treasures",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Masquerain",
+    "number": "55",
+    "rarity": "Uncommon",
+    "set_name": "Mysterious Treasures",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Nidorina",
+    "number": "56",
+    "rarity": "Uncommon",
+    "set_name": "Mysterious Treasures",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Octillery",
+    "number": "57",
+    "rarity": "Uncommon",
+    "set_name": "Mysterious Treasures",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Parasect",
+    "number": "58",
+    "rarity": "Uncommon",
+    "set_name": "Mysterious Treasures",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Pupitar",
+    "number": "59",
+    "rarity": "Uncommon",
+    "set_name": "Mysterious Treasures",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Quilava",
+    "number": "60",
+    "rarity": "Uncommon",
+    "set_name": "Mysterious Treasures",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Sandslash",
+    "number": "61",
+    "rarity": "Uncommon",
+    "set_name": "Mysterious Treasures",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Sealeo",
+    "number": "62",
+    "rarity": "Uncommon",
+    "set_name": "Mysterious Treasures",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Shieldon",
+    "number": "63",
+    "rarity": "Uncommon",
+    "set_name": "Mysterious Treasures",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Tropius",
+    "number": "64",
+    "rarity": "Uncommon",
+    "set_name": "Mysterious Treasures",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Unown [E]",
+    "number": "65",
+    "rarity": "Uncommon",
+    "set_name": "Mysterious Treasures",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Unown [M]",
+    "number": "66",
+    "rarity": "Uncommon",
+    "set_name": "Mysterious Treasures",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Unown [T]",
+    "number": "67",
+    "rarity": "Uncommon",
+    "set_name": "Mysterious Treasures",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Vigoroth",
+    "number": "68",
+    "rarity": "Uncommon",
+    "set_name": "Mysterious Treasures",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Abra",
+    "number": "69",
+    "rarity": "Common",
+    "set_name": "Mysterious Treasures",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Aipom",
+    "number": "70",
+    "rarity": "Common",
+    "set_name": "Mysterious Treasures",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Aron",
+    "number": "71",
+    "rarity": "Common",
+    "set_name": "Mysterious Treasures",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Barboach",
+    "number": "72",
+    "rarity": "Common",
+    "set_name": "Mysterious Treasures",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Bidoof",
+    "number": "73",
+    "rarity": "Common",
+    "set_name": "Mysterious Treasures",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Bronzor",
+    "number": "74",
+    "rarity": "Common",
+    "set_name": "Mysterious Treasures",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Buizel",
+    "number": "75",
+    "rarity": "Common",
+    "set_name": "Mysterious Treasures",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Chansey",
+    "number": "76",
+    "rarity": "Common",
+    "set_name": "Mysterious Treasures",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Chikorita",
+    "number": "77",
+    "rarity": "Common",
+    "set_name": "Mysterious Treasures",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Croagunk",
+    "number": "78",
+    "rarity": "Common",
+    "set_name": "Mysterious Treasures",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Cyndaquil",
+    "number": "79",
+    "rarity": "Common",
+    "set_name": "Mysterious Treasures",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Doduo",
+    "number": "80",
+    "rarity": "Common",
+    "set_name": "Mysterious Treasures",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Electrike",
+    "number": "81",
+    "rarity": "Common",
+    "set_name": "Mysterious Treasures",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Exeggcute",
+    "number": "82",
+    "rarity": "Common",
+    "set_name": "Mysterious Treasures",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Finneon",
+    "number": "83",
+    "rarity": "Common",
+    "set_name": "Mysterious Treasures",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Geodude",
+    "number": "84",
+    "rarity": "Common",
+    "set_name": "Mysterious Treasures",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Gible",
+    "number": "85",
+    "rarity": "Common",
+    "set_name": "Mysterious Treasures",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Kricketot",
+    "number": "86",
+    "rarity": "Common",
+    "set_name": "Mysterious Treasures",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Larvitar",
+    "number": "87",
+    "rarity": "Common",
+    "set_name": "Mysterious Treasures",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Magby",
+    "number": "88",
+    "rarity": "Common",
+    "set_name": "Mysterious Treasures",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Magikarp",
+    "number": "89",
+    "rarity": "Common",
+    "set_name": "Mysterious Treasures",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Murkrow",
+    "number": "90",
+    "rarity": "Common",
+    "set_name": "Mysterious Treasures",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Nidoran \u2640",
+    "number": "91",
+    "rarity": "Common",
+    "set_name": "Mysterious Treasures",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Paras",
+    "number": "92",
+    "rarity": "Common",
+    "set_name": "Mysterious Treasures",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Pichu",
+    "number": "93",
+    "rarity": "Common",
+    "set_name": "Mysterious Treasures",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Pikachu",
+    "number": "94",
+    "rarity": "Common",
+    "set_name": "Mysterious Treasures",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Remoraid",
+    "number": "95",
+    "rarity": "Common",
+    "set_name": "Mysterious Treasures",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Sandshrew",
+    "number": "96",
+    "rarity": "Common",
+    "set_name": "Mysterious Treasures",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Seel",
+    "number": "97",
+    "rarity": "Common",
+    "set_name": "Mysterious Treasures",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Shinx",
+    "number": "98",
+    "rarity": "Common",
+    "set_name": "Mysterious Treasures",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Slakoth",
+    "number": "99",
+    "rarity": "Common",
+    "set_name": "Mysterious Treasures",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Snorunt",
+    "number": "100",
+    "rarity": "Common",
+    "set_name": "Mysterious Treasures",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Snover",
+    "number": "101",
+    "rarity": "Common",
+    "set_name": "Mysterious Treasures",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Spheal",
+    "number": "102",
+    "rarity": "Common",
+    "set_name": "Mysterious Treasures",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Spinarak",
+    "number": "103",
+    "rarity": "Common",
+    "set_name": "Mysterious Treasures",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Surskit",
+    "number": "104",
+    "rarity": "Common",
+    "set_name": "Mysterious Treasures",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Teddiursa",
+    "number": "105",
+    "rarity": "Common",
+    "set_name": "Mysterious Treasures",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Totodile",
+    "number": "106",
+    "rarity": "Common",
+    "set_name": "Mysterious Treasures",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Vulpix",
+    "number": "107",
+    "rarity": "Common",
+    "set_name": "Mysterious Treasures",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Zubat",
+    "number": "108",
+    "rarity": "Common",
+    "set_name": "Mysterious Treasures",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Bebe's Search",
+    "number": "109",
+    "rarity": "Uncommon",
+    "set_name": "Mysterious Treasures",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Dusk Ball",
+    "number": "110",
+    "rarity": "Uncommon",
+    "set_name": "Mysterious Treasures",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Fossil Excavator",
+    "number": "111",
+    "rarity": "Uncommon",
+    "set_name": "Mysterious Treasures",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Lake Boundary",
+    "number": "112",
+    "rarity": "Uncommon",
+    "set_name": "Mysterious Treasures",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Night Maintenance",
+    "number": "113",
+    "rarity": "Uncommon",
+    "set_name": "Mysterious Treasures",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Quick Ball",
+    "number": "114",
+    "rarity": "Uncommon",
+    "set_name": "Mysterious Treasures",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Team Galactic's Wager",
+    "number": "115",
+    "rarity": "Uncommon",
+    "set_name": "Mysterious Treasures",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Armor Fossil",
+    "number": "116",
+    "rarity": "Common",
+    "set_name": "Mysterious Treasures",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Skull Fossil",
+    "number": "117",
+    "rarity": "Common",
+    "set_name": "Mysterious Treasures",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Multi Energy",
+    "number": "118",
+    "rarity": "Rare",
+    "set_name": "Mysterious Treasures",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Darkness Energy",
+    "number": "119",
+    "rarity": "Uncommon",
+    "set_name": "Mysterious Treasures",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Metal Energy",
+    "number": "120",
+    "rarity": "Uncommon",
+    "set_name": "Mysterious Treasures",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Electivire LV.X",
+    "number": "121",
+    "rarity": "Rare Holo LV.X",
+    "set_name": "Mysterious Treasures",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Lucario LV.X",
+    "number": "122",
+    "rarity": "Rare Holo LV.X",
+    "set_name": "Mysterious Treasures",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Magmortar LV.X",
+    "number": "123",
+    "rarity": "Rare Holo LV.X",
+    "set_name": "Mysterious Treasures",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Time-Space Distortion",
+    "number": "124",
+    "rarity": "Rare Secret",
+    "set_name": "Mysterious Treasures",
+    "set_series": "Diamond & Pearl"
+  }
+]

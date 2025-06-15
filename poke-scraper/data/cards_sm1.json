@@ -1,0 +1,1213 @@
+[
+  {
+    "name": "Caterpie",
+    "number": "1",
+    "rarity": "Common",
+    "set_name": "Sun & Moon",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Metapod",
+    "number": "2",
+    "rarity": "Uncommon",
+    "set_name": "Sun & Moon",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Butterfree",
+    "number": "3",
+    "rarity": "Rare",
+    "set_name": "Sun & Moon",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Paras",
+    "number": "4",
+    "rarity": "Common",
+    "set_name": "Sun & Moon",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Parasect",
+    "number": "5",
+    "rarity": "Rare",
+    "set_name": "Sun & Moon",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Pinsir",
+    "number": "6",
+    "rarity": "Uncommon",
+    "set_name": "Sun & Moon",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Surskit",
+    "number": "7",
+    "rarity": "Common",
+    "set_name": "Sun & Moon",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Masquerain",
+    "number": "8",
+    "rarity": "Rare",
+    "set_name": "Sun & Moon",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Rowlet",
+    "number": "9",
+    "rarity": "Common",
+    "set_name": "Sun & Moon",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Dartrix",
+    "number": "10",
+    "rarity": "Uncommon",
+    "set_name": "Sun & Moon",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Decidueye",
+    "number": "11",
+    "rarity": "Rare",
+    "set_name": "Sun & Moon",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Decidueye-GX",
+    "number": "12",
+    "rarity": "Rare Holo GX",
+    "set_name": "Sun & Moon",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Grubbin",
+    "number": "13",
+    "rarity": "Common",
+    "set_name": "Sun & Moon",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Fomantis",
+    "number": "14",
+    "rarity": "Common",
+    "set_name": "Sun & Moon",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Lurantis-GX",
+    "number": "15",
+    "rarity": "Rare Holo GX",
+    "set_name": "Sun & Moon",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Morelull",
+    "number": "16",
+    "rarity": "Common",
+    "set_name": "Sun & Moon",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Shiinotic",
+    "number": "17",
+    "rarity": "Rare Holo",
+    "set_name": "Sun & Moon",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Bounsweet",
+    "number": "18",
+    "rarity": "Common",
+    "set_name": "Sun & Moon",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Steenee",
+    "number": "19",
+    "rarity": "Uncommon",
+    "set_name": "Sun & Moon",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Tsareena",
+    "number": "20",
+    "rarity": "Rare Holo",
+    "set_name": "Sun & Moon",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Growlithe",
+    "number": "21",
+    "rarity": "Common",
+    "set_name": "Sun & Moon",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Arcanine",
+    "number": "22",
+    "rarity": "Rare Holo",
+    "set_name": "Sun & Moon",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Torkoal",
+    "number": "23",
+    "rarity": "Common",
+    "set_name": "Sun & Moon",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Litten",
+    "number": "24",
+    "rarity": "Common",
+    "set_name": "Sun & Moon",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Torracat",
+    "number": "25",
+    "rarity": "Uncommon",
+    "set_name": "Sun & Moon",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Incineroar",
+    "number": "26",
+    "rarity": "Rare",
+    "set_name": "Sun & Moon",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Incineroar-GX",
+    "number": "27",
+    "rarity": "Rare Holo GX",
+    "set_name": "Sun & Moon",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Psyduck",
+    "number": "28",
+    "rarity": "Common",
+    "set_name": "Sun & Moon",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Golduck",
+    "number": "29",
+    "rarity": "Rare",
+    "set_name": "Sun & Moon",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Poliwag",
+    "number": "30",
+    "rarity": "Common",
+    "set_name": "Sun & Moon",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Poliwhirl",
+    "number": "31",
+    "rarity": "Uncommon",
+    "set_name": "Sun & Moon",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Poliwrath",
+    "number": "32",
+    "rarity": "Rare Holo",
+    "set_name": "Sun & Moon",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Shellder",
+    "number": "33",
+    "rarity": "Common",
+    "set_name": "Sun & Moon",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Cloyster",
+    "number": "34",
+    "rarity": "Rare",
+    "set_name": "Sun & Moon",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Lapras-GX",
+    "number": "35",
+    "rarity": "Rare Holo GX",
+    "set_name": "Sun & Moon",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Corsola",
+    "number": "36",
+    "rarity": "Uncommon",
+    "set_name": "Sun & Moon",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Wingull",
+    "number": "37",
+    "rarity": "Common",
+    "set_name": "Sun & Moon",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Pelipper",
+    "number": "38",
+    "rarity": "Uncommon",
+    "set_name": "Sun & Moon",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Popplio",
+    "number": "39",
+    "rarity": "Common",
+    "set_name": "Sun & Moon",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Brionne",
+    "number": "40",
+    "rarity": "Uncommon",
+    "set_name": "Sun & Moon",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Primarina",
+    "number": "41",
+    "rarity": "Rare",
+    "set_name": "Sun & Moon",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Primarina-GX",
+    "number": "42",
+    "rarity": "Rare Holo GX",
+    "set_name": "Sun & Moon",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Crabominable",
+    "number": "43",
+    "rarity": "Rare",
+    "set_name": "Sun & Moon",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Wishiwashi",
+    "number": "44",
+    "rarity": "Uncommon",
+    "set_name": "Sun & Moon",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Dewpider",
+    "number": "45",
+    "rarity": "Common",
+    "set_name": "Sun & Moon",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Araquanid",
+    "number": "46",
+    "rarity": "Uncommon",
+    "set_name": "Sun & Moon",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Pyukumuku",
+    "number": "47",
+    "rarity": "Uncommon",
+    "set_name": "Sun & Moon",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Bruxish",
+    "number": "48",
+    "rarity": "Rare",
+    "set_name": "Sun & Moon",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Chinchou",
+    "number": "49",
+    "rarity": "Common",
+    "set_name": "Sun & Moon",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Lanturn",
+    "number": "50",
+    "rarity": "Rare",
+    "set_name": "Sun & Moon",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Charjabug",
+    "number": "51",
+    "rarity": "Uncommon",
+    "set_name": "Sun & Moon",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Vikavolt",
+    "number": "52",
+    "rarity": "Rare Holo",
+    "set_name": "Sun & Moon",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Togedemaru",
+    "number": "53",
+    "rarity": "Common",
+    "set_name": "Sun & Moon",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Zubat",
+    "number": "54",
+    "rarity": "Common",
+    "set_name": "Sun & Moon",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Golbat",
+    "number": "55",
+    "rarity": "Uncommon",
+    "set_name": "Sun & Moon",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Crobat",
+    "number": "56",
+    "rarity": "Rare Holo",
+    "set_name": "Sun & Moon",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Alolan Grimer",
+    "number": "57",
+    "rarity": "Common",
+    "set_name": "Sun & Moon",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Alolan Muk",
+    "number": "58",
+    "rarity": "Rare Holo",
+    "set_name": "Sun & Moon",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Drowzee",
+    "number": "59",
+    "rarity": "Common",
+    "set_name": "Sun & Moon",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Hypno",
+    "number": "60",
+    "rarity": "Uncommon",
+    "set_name": "Sun & Moon",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Espeon-GX",
+    "number": "61",
+    "rarity": "Rare Holo GX",
+    "set_name": "Sun & Moon",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Mareanie",
+    "number": "62",
+    "rarity": "Common",
+    "set_name": "Sun & Moon",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Toxapex",
+    "number": "63",
+    "rarity": "Rare Holo",
+    "set_name": "Sun & Moon",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Cosmog",
+    "number": "64",
+    "rarity": "Common",
+    "set_name": "Sun & Moon",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Cosmoem",
+    "number": "65",
+    "rarity": "Rare",
+    "set_name": "Sun & Moon",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Lunala-GX",
+    "number": "66",
+    "rarity": "Rare Holo GX",
+    "set_name": "Sun & Moon",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Makuhita",
+    "number": "67",
+    "rarity": "Common",
+    "set_name": "Sun & Moon",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Hariyama",
+    "number": "68",
+    "rarity": "Rare",
+    "set_name": "Sun & Moon",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Roggenrola",
+    "number": "69",
+    "rarity": "Common",
+    "set_name": "Sun & Moon",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Boldore",
+    "number": "70",
+    "rarity": "Uncommon",
+    "set_name": "Sun & Moon",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Gigalith",
+    "number": "71",
+    "rarity": "Rare Holo",
+    "set_name": "Sun & Moon",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Crabrawler",
+    "number": "72",
+    "rarity": "Common",
+    "set_name": "Sun & Moon",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Passimian",
+    "number": "73",
+    "rarity": "Uncommon",
+    "set_name": "Sun & Moon",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Sandygast",
+    "number": "74",
+    "rarity": "Common",
+    "set_name": "Sun & Moon",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Palossand",
+    "number": "75",
+    "rarity": "Rare",
+    "set_name": "Sun & Moon",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Alolan Rattata",
+    "number": "76",
+    "rarity": "Common",
+    "set_name": "Sun & Moon",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Alolan Raticate",
+    "number": "77",
+    "rarity": "Uncommon",
+    "set_name": "Sun & Moon",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Alolan Meowth",
+    "number": "78",
+    "rarity": "Common",
+    "set_name": "Sun & Moon",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Alolan Persian",
+    "number": "79",
+    "rarity": "Uncommon",
+    "set_name": "Sun & Moon",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Umbreon-GX",
+    "number": "80",
+    "rarity": "Rare Holo GX",
+    "set_name": "Sun & Moon",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Carvanha",
+    "number": "81",
+    "rarity": "Common",
+    "set_name": "Sun & Moon",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Sharpedo",
+    "number": "82",
+    "rarity": "Rare Holo",
+    "set_name": "Sun & Moon",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Sandile",
+    "number": "83",
+    "rarity": "Common",
+    "set_name": "Sun & Moon",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Krokorok",
+    "number": "84",
+    "rarity": "Uncommon",
+    "set_name": "Sun & Moon",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Krookodile",
+    "number": "85",
+    "rarity": "Rare Holo",
+    "set_name": "Sun & Moon",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Alolan Diglett",
+    "number": "86",
+    "rarity": "Common",
+    "set_name": "Sun & Moon",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Alolan Dugtrio",
+    "number": "87",
+    "rarity": "Rare Holo",
+    "set_name": "Sun & Moon",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Skarmory",
+    "number": "88",
+    "rarity": "Common",
+    "set_name": "Sun & Moon",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Solgaleo-GX",
+    "number": "89",
+    "rarity": "Rare Holo GX",
+    "set_name": "Sun & Moon",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Snubbull",
+    "number": "90",
+    "rarity": "Common",
+    "set_name": "Sun & Moon",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Granbull",
+    "number": "91",
+    "rarity": "Uncommon",
+    "set_name": "Sun & Moon",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Cutiefly",
+    "number": "92",
+    "rarity": "Common",
+    "set_name": "Sun & Moon",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Ribombee",
+    "number": "93",
+    "rarity": "Rare Holo",
+    "set_name": "Sun & Moon",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Dratini",
+    "number": "94",
+    "rarity": "Common",
+    "set_name": "Sun & Moon",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Dragonair",
+    "number": "95",
+    "rarity": "Uncommon",
+    "set_name": "Sun & Moon",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Dragonite",
+    "number": "96",
+    "rarity": "Rare Holo",
+    "set_name": "Sun & Moon",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Spearow",
+    "number": "97",
+    "rarity": "Common",
+    "set_name": "Sun & Moon",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Fearow",
+    "number": "98",
+    "rarity": "Common",
+    "set_name": "Sun & Moon",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Kangaskhan",
+    "number": "99",
+    "rarity": "Rare Holo",
+    "set_name": "Sun & Moon",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Tauros-GX",
+    "number": "100",
+    "rarity": "Rare Holo GX",
+    "set_name": "Sun & Moon",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Eevee",
+    "number": "101",
+    "rarity": "Common",
+    "set_name": "Sun & Moon",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Eevee",
+    "number": "101a",
+    "rarity": "Common",
+    "set_name": "Sun & Moon",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Spinda",
+    "number": "102",
+    "rarity": "Uncommon",
+    "set_name": "Sun & Moon",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Lillipup",
+    "number": "103",
+    "rarity": "Common",
+    "set_name": "Sun & Moon",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Herdier",
+    "number": "104",
+    "rarity": "Uncommon",
+    "set_name": "Sun & Moon",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Stoutland",
+    "number": "105",
+    "rarity": "Rare",
+    "set_name": "Sun & Moon",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Pikipek",
+    "number": "106",
+    "rarity": "Common",
+    "set_name": "Sun & Moon",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Trumbeak",
+    "number": "107",
+    "rarity": "Uncommon",
+    "set_name": "Sun & Moon",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Toucannon",
+    "number": "108",
+    "rarity": "Rare",
+    "set_name": "Sun & Moon",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Yungoos",
+    "number": "109",
+    "rarity": "Common",
+    "set_name": "Sun & Moon",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Gumshoos-GX",
+    "number": "110",
+    "rarity": "Rare Holo GX",
+    "set_name": "Sun & Moon",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Stufful",
+    "number": "111",
+    "rarity": "Common",
+    "set_name": "Sun & Moon",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Bewear",
+    "number": "112",
+    "rarity": "Rare",
+    "set_name": "Sun & Moon",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Oranguru",
+    "number": "113",
+    "rarity": "Rare Holo",
+    "set_name": "Sun & Moon",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Big Malasada",
+    "number": "114",
+    "rarity": "Uncommon",
+    "set_name": "Sun & Moon",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Crushing Hammer",
+    "number": "115",
+    "rarity": "Uncommon",
+    "set_name": "Sun & Moon",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Energy Retrieval",
+    "number": "116",
+    "rarity": "Uncommon",
+    "set_name": "Sun & Moon",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Energy Switch",
+    "number": "117",
+    "rarity": "Uncommon",
+    "set_name": "Sun & Moon",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Exp. Share",
+    "number": "118",
+    "rarity": "Uncommon",
+    "set_name": "Sun & Moon",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Great Ball",
+    "number": "119",
+    "rarity": "Uncommon",
+    "set_name": "Sun & Moon",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Hau",
+    "number": "120",
+    "rarity": "Uncommon",
+    "set_name": "Sun & Moon",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Ilima",
+    "number": "121",
+    "rarity": "Uncommon",
+    "set_name": "Sun & Moon",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Lillie",
+    "number": "122",
+    "rarity": "Uncommon",
+    "set_name": "Sun & Moon",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Nest Ball",
+    "number": "123",
+    "rarity": "Uncommon",
+    "set_name": "Sun & Moon",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Poison Barb",
+    "number": "124",
+    "rarity": "Uncommon",
+    "set_name": "Sun & Moon",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Pok\u00e9 Ball",
+    "number": "125",
+    "rarity": "Uncommon",
+    "set_name": "Sun & Moon",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Pok\u00e9mon Catcher",
+    "number": "126",
+    "rarity": "Uncommon",
+    "set_name": "Sun & Moon",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Potion",
+    "number": "127",
+    "rarity": "Uncommon",
+    "set_name": "Sun & Moon",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Professor Kukui",
+    "number": "128",
+    "rarity": "Uncommon",
+    "set_name": "Sun & Moon",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Rare Candy",
+    "number": "129",
+    "rarity": "Uncommon",
+    "set_name": "Sun & Moon",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Repel",
+    "number": "130",
+    "rarity": "Uncommon",
+    "set_name": "Sun & Moon",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Rotom Dex",
+    "number": "131",
+    "rarity": "Uncommon",
+    "set_name": "Sun & Moon",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Switch",
+    "number": "132",
+    "rarity": "Uncommon",
+    "set_name": "Sun & Moon",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Team Skull Grunt",
+    "number": "133",
+    "rarity": "Uncommon",
+    "set_name": "Sun & Moon",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Timer Ball",
+    "number": "134",
+    "rarity": "Uncommon",
+    "set_name": "Sun & Moon",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Ultra Ball",
+    "number": "135",
+    "rarity": "Uncommon",
+    "set_name": "Sun & Moon",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Double Colorless Energy",
+    "number": "136",
+    "rarity": "Uncommon",
+    "set_name": "Sun & Moon",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Rainbow Energy",
+    "number": "137",
+    "rarity": "Uncommon",
+    "set_name": "Sun & Moon",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Lurantis-GX",
+    "number": "138",
+    "rarity": "Rare Ultra",
+    "set_name": "Sun & Moon",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Lapras-GX",
+    "number": "139",
+    "rarity": "Rare Ultra",
+    "set_name": "Sun & Moon",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Espeon-GX",
+    "number": "140",
+    "rarity": "Rare Ultra",
+    "set_name": "Sun & Moon",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Lunala-GX",
+    "number": "141",
+    "rarity": "Rare Ultra",
+    "set_name": "Sun & Moon",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Umbreon-GX",
+    "number": "142",
+    "rarity": "Rare Ultra",
+    "set_name": "Sun & Moon",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Solgaleo-GX",
+    "number": "143",
+    "rarity": "Rare Ultra",
+    "set_name": "Sun & Moon",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Tauros-GX",
+    "number": "144",
+    "rarity": "Rare Ultra",
+    "set_name": "Sun & Moon",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Gumshoos-GX",
+    "number": "145",
+    "rarity": "Rare Ultra",
+    "set_name": "Sun & Moon",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Ilima",
+    "number": "146",
+    "rarity": "Rare Ultra",
+    "set_name": "Sun & Moon",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Lillie",
+    "number": "147",
+    "rarity": "Rare Ultra",
+    "set_name": "Sun & Moon",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Professor Kukui",
+    "number": "148",
+    "rarity": "Rare Ultra",
+    "set_name": "Sun & Moon",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Team Skull Grunt",
+    "number": "149",
+    "rarity": "Rare Ultra",
+    "set_name": "Sun & Moon",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Lurantis-GX",
+    "number": "150",
+    "rarity": "Rare Rainbow",
+    "set_name": "Sun & Moon",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Lapras-GX",
+    "number": "151",
+    "rarity": "Rare Rainbow",
+    "set_name": "Sun & Moon",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Espeon-GX",
+    "number": "152",
+    "rarity": "Rare Rainbow",
+    "set_name": "Sun & Moon",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Lunala-GX",
+    "number": "153",
+    "rarity": "Rare Rainbow",
+    "set_name": "Sun & Moon",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Umbreon-GX",
+    "number": "154",
+    "rarity": "Rare Rainbow",
+    "set_name": "Sun & Moon",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Solgaleo-GX",
+    "number": "155",
+    "rarity": "Rare Rainbow",
+    "set_name": "Sun & Moon",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Tauros-GX",
+    "number": "156",
+    "rarity": "Rare Rainbow",
+    "set_name": "Sun & Moon",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Gumshoos-GX",
+    "number": "157",
+    "rarity": "Rare Rainbow",
+    "set_name": "Sun & Moon",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Nest Ball",
+    "number": "158",
+    "rarity": "Rare Secret",
+    "set_name": "Sun & Moon",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Rotom Dex",
+    "number": "159",
+    "rarity": "Rare Secret",
+    "set_name": "Sun & Moon",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Switch",
+    "number": "160",
+    "rarity": "Rare Secret",
+    "set_name": "Sun & Moon",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Ultra Ball",
+    "number": "161",
+    "rarity": "Rare Secret",
+    "set_name": "Sun & Moon",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Psychic Energy",
+    "number": "162",
+    "rarity": "Rare Secret",
+    "set_name": "Sun & Moon",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Metal Energy",
+    "number": "163",
+    "rarity": "Rare Secret",
+    "set_name": "Sun & Moon",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Grass Energy",
+    "number": "164",
+    "rarity": "Common",
+    "set_name": "Sun & Moon",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Fire Energy",
+    "number": "165",
+    "rarity": "Common",
+    "set_name": "Sun & Moon",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Water Energy",
+    "number": "166",
+    "rarity": "Common",
+    "set_name": "Sun & Moon",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Lightning Energy",
+    "number": "167",
+    "rarity": "Common",
+    "set_name": "Sun & Moon",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Psychic Energy",
+    "number": "168",
+    "rarity": "Common",
+    "set_name": "Sun & Moon",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Fighting Energy",
+    "number": "169",
+    "rarity": "Common",
+    "set_name": "Sun & Moon",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Darkness Energy",
+    "number": "170",
+    "rarity": "Common",
+    "set_name": "Sun & Moon",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Metal Energy",
+    "number": "171",
+    "rarity": "Common",
+    "set_name": "Sun & Moon",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Fairy Energy",
+    "number": "172",
+    "rarity": "Common",
+    "set_name": "Sun & Moon",
+    "set_series": "Sun & Moon"
+  }
+]

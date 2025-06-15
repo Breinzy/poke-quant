@@ -1,0 +1,1507 @@
+[
+  {
+    "name": "Venonat",
+    "number": "1",
+    "rarity": "Common",
+    "set_name": "Silver Tempest",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Venomoth",
+    "number": "2",
+    "rarity": "Uncommon",
+    "set_name": "Silver Tempest",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Spinarak",
+    "number": "3",
+    "rarity": "Common",
+    "set_name": "Silver Tempest",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Ariados",
+    "number": "4",
+    "rarity": "Rare Holo",
+    "set_name": "Silver Tempest",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Sunkern",
+    "number": "5",
+    "rarity": "Common",
+    "set_name": "Silver Tempest",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Sunflora",
+    "number": "6",
+    "rarity": "Uncommon",
+    "set_name": "Silver Tempest",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Serperior V",
+    "number": "7",
+    "rarity": "Rare Holo V",
+    "set_name": "Silver Tempest",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Serperior VSTAR",
+    "number": "8",
+    "rarity": "Rare Holo VSTAR",
+    "set_name": "Silver Tempest",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Petilil",
+    "number": "9",
+    "rarity": "Common",
+    "set_name": "Silver Tempest",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Hisuian Lilligant",
+    "number": "10",
+    "rarity": "Rare",
+    "set_name": "Silver Tempest",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Foongus",
+    "number": "11",
+    "rarity": "Common",
+    "set_name": "Silver Tempest",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Amoonguss",
+    "number": "12",
+    "rarity": "Rare",
+    "set_name": "Silver Tempest",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Durant",
+    "number": "13",
+    "rarity": "Common",
+    "set_name": "Silver Tempest",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Virizion",
+    "number": "14",
+    "rarity": "Rare",
+    "set_name": "Silver Tempest",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Chesnaught V",
+    "number": "15",
+    "rarity": "Rare Holo V",
+    "set_name": "Silver Tempest",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Radiant Tsareena",
+    "number": "16",
+    "rarity": "Radiant Rare",
+    "set_name": "Silver Tempest",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Vulpix",
+    "number": "17",
+    "rarity": "Common",
+    "set_name": "Silver Tempest",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Ninetales",
+    "number": "18",
+    "rarity": "Uncommon",
+    "set_name": "Silver Tempest",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Growlithe",
+    "number": "19",
+    "rarity": "Common",
+    "set_name": "Silver Tempest",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Arcanine",
+    "number": "20",
+    "rarity": "Rare",
+    "set_name": "Silver Tempest",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Ponyta",
+    "number": "21",
+    "rarity": "Common",
+    "set_name": "Silver Tempest",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Rapidash",
+    "number": "22",
+    "rarity": "Rare Holo",
+    "set_name": "Silver Tempest",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Victini",
+    "number": "23",
+    "rarity": "Rare",
+    "set_name": "Silver Tempest",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Reshiram V",
+    "number": "24",
+    "rarity": "Rare Holo V",
+    "set_name": "Silver Tempest",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Fennekin",
+    "number": "25",
+    "rarity": "Common",
+    "set_name": "Silver Tempest",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Braixen",
+    "number": "26",
+    "rarity": "Uncommon",
+    "set_name": "Silver Tempest",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Delphox",
+    "number": "27",
+    "rarity": "Rare",
+    "set_name": "Silver Tempest",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Fletchinder",
+    "number": "28",
+    "rarity": "Uncommon",
+    "set_name": "Silver Tempest",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Talonflame",
+    "number": "29",
+    "rarity": "Rare",
+    "set_name": "Silver Tempest",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Litten",
+    "number": "30",
+    "rarity": "Common",
+    "set_name": "Silver Tempest",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Torracat",
+    "number": "31",
+    "rarity": "Uncommon",
+    "set_name": "Silver Tempest",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Incineroar",
+    "number": "32",
+    "rarity": "Rare",
+    "set_name": "Silver Tempest",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Alolan Vulpix V",
+    "number": "33",
+    "rarity": "Rare Holo V",
+    "set_name": "Silver Tempest",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Alolan Vulpix VSTAR",
+    "number": "34",
+    "rarity": "Rare Holo VSTAR",
+    "set_name": "Silver Tempest",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Omastar V",
+    "number": "35",
+    "rarity": "Rare Holo V",
+    "set_name": "Silver Tempest",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Articuno",
+    "number": "36",
+    "rarity": "Rare Holo",
+    "set_name": "Silver Tempest",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Wailmer",
+    "number": "37",
+    "rarity": "Common",
+    "set_name": "Silver Tempest",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Wailord",
+    "number": "38",
+    "rarity": "Uncommon",
+    "set_name": "Silver Tempest",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Feebas",
+    "number": "39",
+    "rarity": "Common",
+    "set_name": "Silver Tempest",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Milotic",
+    "number": "40",
+    "rarity": "Rare",
+    "set_name": "Silver Tempest",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Snorunt",
+    "number": "41",
+    "rarity": "Common",
+    "set_name": "Silver Tempest",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Glalie",
+    "number": "42",
+    "rarity": "Uncommon",
+    "set_name": "Silver Tempest",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Froslass",
+    "number": "43",
+    "rarity": "Rare",
+    "set_name": "Silver Tempest",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Relicanth",
+    "number": "44",
+    "rarity": "Common",
+    "set_name": "Silver Tempest",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Phione",
+    "number": "45",
+    "rarity": "Rare",
+    "set_name": "Silver Tempest",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Keldeo",
+    "number": "46",
+    "rarity": "Rare",
+    "set_name": "Silver Tempest",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Dewpider",
+    "number": "47",
+    "rarity": "Common",
+    "set_name": "Silver Tempest",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Araquanid",
+    "number": "48",
+    "rarity": "Uncommon",
+    "set_name": "Silver Tempest",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Pikachu",
+    "number": "49",
+    "rarity": "Common",
+    "set_name": "Silver Tempest",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Raichu",
+    "number": "50",
+    "rarity": "Uncommon",
+    "set_name": "Silver Tempest",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Chinchou",
+    "number": "51",
+    "rarity": "Common",
+    "set_name": "Silver Tempest",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Lanturn",
+    "number": "52",
+    "rarity": "Uncommon",
+    "set_name": "Silver Tempest",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Rotom",
+    "number": "53",
+    "rarity": "Common",
+    "set_name": "Silver Tempest",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Emolga",
+    "number": "54",
+    "rarity": "Common",
+    "set_name": "Silver Tempest",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Stunfisk",
+    "number": "55",
+    "rarity": "Common",
+    "set_name": "Silver Tempest",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Zeraora",
+    "number": "56",
+    "rarity": "Rare",
+    "set_name": "Silver Tempest",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Regieleki V",
+    "number": "57",
+    "rarity": "Rare Holo V",
+    "set_name": "Silver Tempest",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Regieleki VMAX",
+    "number": "58",
+    "rarity": "Rare Holo VMAX",
+    "set_name": "Silver Tempest",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Radiant Alakazam",
+    "number": "59",
+    "rarity": "Radiant Rare",
+    "set_name": "Silver Tempest",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Drowzee",
+    "number": "60",
+    "rarity": "Common",
+    "set_name": "Silver Tempest",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Hypno",
+    "number": "61",
+    "rarity": "Uncommon",
+    "set_name": "Silver Tempest",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Jynx",
+    "number": "62",
+    "rarity": "Uncommon",
+    "set_name": "Silver Tempest",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Misdreavus",
+    "number": "63",
+    "rarity": "Common",
+    "set_name": "Silver Tempest",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Mismagius",
+    "number": "64",
+    "rarity": "Rare",
+    "set_name": "Silver Tempest",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Unown V",
+    "number": "65",
+    "rarity": "Rare Holo V",
+    "set_name": "Silver Tempest",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Unown VSTAR",
+    "number": "66",
+    "rarity": "Rare Holo VSTAR",
+    "set_name": "Silver Tempest",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Ralts",
+    "number": "67",
+    "rarity": "Common",
+    "set_name": "Silver Tempest",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Kirlia",
+    "number": "68",
+    "rarity": "Uncommon",
+    "set_name": "Silver Tempest",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Gardevoir",
+    "number": "69",
+    "rarity": "Rare",
+    "set_name": "Silver Tempest",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Mawile V",
+    "number": "70",
+    "rarity": "Rare Holo V",
+    "set_name": "Silver Tempest",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Mawile VSTAR",
+    "number": "71",
+    "rarity": "Rare Holo VSTAR",
+    "set_name": "Silver Tempest",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Meditite",
+    "number": "72",
+    "rarity": "Common",
+    "set_name": "Silver Tempest",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Medicham",
+    "number": "73",
+    "rarity": "Rare Holo",
+    "set_name": "Silver Tempest",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Chimecho",
+    "number": "74",
+    "rarity": "Common",
+    "set_name": "Silver Tempest",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Sigilyph",
+    "number": "75",
+    "rarity": "Uncommon",
+    "set_name": "Silver Tempest",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Solosis",
+    "number": "76",
+    "rarity": "Common",
+    "set_name": "Silver Tempest",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Duosion",
+    "number": "77",
+    "rarity": "Uncommon",
+    "set_name": "Silver Tempest",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Reuniclus",
+    "number": "78",
+    "rarity": "Rare Holo",
+    "set_name": "Silver Tempest",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Elgyem",
+    "number": "79",
+    "rarity": "Common",
+    "set_name": "Silver Tempest",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Beheeyem",
+    "number": "80",
+    "rarity": "Uncommon",
+    "set_name": "Silver Tempest",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Espurr",
+    "number": "81",
+    "rarity": "Common",
+    "set_name": "Silver Tempest",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Meowstic",
+    "number": "82",
+    "rarity": "Uncommon",
+    "set_name": "Silver Tempest",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Swirlix",
+    "number": "83",
+    "rarity": "Common",
+    "set_name": "Silver Tempest",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Slurpuff",
+    "number": "84",
+    "rarity": "Uncommon",
+    "set_name": "Silver Tempest",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Dedenne",
+    "number": "85",
+    "rarity": "Uncommon",
+    "set_name": "Silver Tempest",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Indeedee",
+    "number": "86",
+    "rarity": "Common",
+    "set_name": "Silver Tempest",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Dreepy",
+    "number": "87",
+    "rarity": "Common",
+    "set_name": "Silver Tempest",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Drakloak",
+    "number": "88",
+    "rarity": "Uncommon",
+    "set_name": "Silver Tempest",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Dragapult",
+    "number": "89",
+    "rarity": "Rare Holo",
+    "set_name": "Silver Tempest",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Hisuian Arcanine V",
+    "number": "90",
+    "rarity": "Rare Holo V",
+    "set_name": "Silver Tempest",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Phanpy",
+    "number": "91",
+    "rarity": "Common",
+    "set_name": "Silver Tempest",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Donphan",
+    "number": "92",
+    "rarity": "Uncommon",
+    "set_name": "Silver Tempest",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Baltoy",
+    "number": "93",
+    "rarity": "Common",
+    "set_name": "Silver Tempest",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Claydol",
+    "number": "94",
+    "rarity": "Uncommon",
+    "set_name": "Silver Tempest",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Anorith",
+    "number": "95",
+    "rarity": "Uncommon",
+    "set_name": "Silver Tempest",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Armaldo",
+    "number": "96",
+    "rarity": "Rare",
+    "set_name": "Silver Tempest",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Terrakion",
+    "number": "97",
+    "rarity": "Rare Holo",
+    "set_name": "Silver Tempest",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Hawlucha",
+    "number": "98",
+    "rarity": "Common",
+    "set_name": "Silver Tempest",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Sandygast",
+    "number": "99",
+    "rarity": "Common",
+    "set_name": "Silver Tempest",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Palossand",
+    "number": "100",
+    "rarity": "Uncommon",
+    "set_name": "Silver Tempest",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Stonjourner",
+    "number": "101",
+    "rarity": "Uncommon",
+    "set_name": "Silver Tempest",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Ursaluna V",
+    "number": "102",
+    "rarity": "Rare Holo V",
+    "set_name": "Silver Tempest",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Zubat",
+    "number": "103",
+    "rarity": "Common",
+    "set_name": "Silver Tempest",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Golbat",
+    "number": "104",
+    "rarity": "Uncommon",
+    "set_name": "Silver Tempest",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Crobat",
+    "number": "105",
+    "rarity": "Rare Holo",
+    "set_name": "Silver Tempest",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Murkrow",
+    "number": "106",
+    "rarity": "Common",
+    "set_name": "Silver Tempest",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Honchkrow",
+    "number": "107",
+    "rarity": "Uncommon",
+    "set_name": "Silver Tempest",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Skuntank V",
+    "number": "108",
+    "rarity": "Rare Holo V",
+    "set_name": "Silver Tempest",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Croagunk",
+    "number": "109",
+    "rarity": "Common",
+    "set_name": "Silver Tempest",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Toxicroak",
+    "number": "110",
+    "rarity": "Uncommon",
+    "set_name": "Silver Tempest",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Sandile",
+    "number": "111",
+    "rarity": "Common",
+    "set_name": "Silver Tempest",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Krokorok",
+    "number": "112",
+    "rarity": "Uncommon",
+    "set_name": "Silver Tempest",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Krookodile",
+    "number": "113",
+    "rarity": "Rare Holo",
+    "set_name": "Silver Tempest",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Mareanie",
+    "number": "114",
+    "rarity": "Common",
+    "set_name": "Silver Tempest",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Toxapex",
+    "number": "115",
+    "rarity": "Uncommon",
+    "set_name": "Silver Tempest",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Morpeko",
+    "number": "116",
+    "rarity": "Uncommon",
+    "set_name": "Silver Tempest",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Beldum",
+    "number": "117",
+    "rarity": "Common",
+    "set_name": "Silver Tempest",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Metang",
+    "number": "118",
+    "rarity": "Uncommon",
+    "set_name": "Silver Tempest",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Metagross",
+    "number": "119",
+    "rarity": "Rare Holo",
+    "set_name": "Silver Tempest",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Radiant Jirachi",
+    "number": "120",
+    "rarity": "Radiant Rare",
+    "set_name": "Silver Tempest",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Ferroseed",
+    "number": "121",
+    "rarity": "Common",
+    "set_name": "Silver Tempest",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Ferrothorn",
+    "number": "122",
+    "rarity": "Uncommon",
+    "set_name": "Silver Tempest",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Klink",
+    "number": "123",
+    "rarity": "Common",
+    "set_name": "Silver Tempest",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Klang",
+    "number": "124",
+    "rarity": "Uncommon",
+    "set_name": "Silver Tempest",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Klinklang",
+    "number": "125",
+    "rarity": "Rare",
+    "set_name": "Silver Tempest",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Cobalion",
+    "number": "126",
+    "rarity": "Rare",
+    "set_name": "Silver Tempest",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Togedemaru",
+    "number": "127",
+    "rarity": "Common",
+    "set_name": "Silver Tempest",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Magearna V",
+    "number": "128",
+    "rarity": "Rare Holo V",
+    "set_name": "Silver Tempest",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Dratini",
+    "number": "129",
+    "rarity": "Common",
+    "set_name": "Silver Tempest",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Dragonair",
+    "number": "130",
+    "rarity": "Uncommon",
+    "set_name": "Silver Tempest",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Dragonite",
+    "number": "131",
+    "rarity": "Rare Holo",
+    "set_name": "Silver Tempest",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Noibat",
+    "number": "132",
+    "rarity": "Common",
+    "set_name": "Silver Tempest",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Noivern",
+    "number": "133",
+    "rarity": "Rare",
+    "set_name": "Silver Tempest",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Zygarde",
+    "number": "134",
+    "rarity": "Rare",
+    "set_name": "Silver Tempest",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Regidrago V",
+    "number": "135",
+    "rarity": "Rare Holo V",
+    "set_name": "Silver Tempest",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Regidrago VSTAR",
+    "number": "136",
+    "rarity": "Rare Holo VSTAR",
+    "set_name": "Silver Tempest",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Smeargle",
+    "number": "137",
+    "rarity": "Common",
+    "set_name": "Silver Tempest",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Lugia V",
+    "number": "138",
+    "rarity": "Rare Holo V",
+    "set_name": "Silver Tempest",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Lugia VSTAR",
+    "number": "139",
+    "rarity": "Rare Holo VSTAR",
+    "set_name": "Silver Tempest",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Ho-Oh V",
+    "number": "140",
+    "rarity": "Rare Holo V",
+    "set_name": "Silver Tempest",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Spinda",
+    "number": "141",
+    "rarity": "Common",
+    "set_name": "Silver Tempest",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Swablu",
+    "number": "142",
+    "rarity": "Common",
+    "set_name": "Silver Tempest",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Altaria",
+    "number": "143",
+    "rarity": "Uncommon",
+    "set_name": "Silver Tempest",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Buneary",
+    "number": "144",
+    "rarity": "Common",
+    "set_name": "Silver Tempest",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Lopunny",
+    "number": "145",
+    "rarity": "Uncommon",
+    "set_name": "Silver Tempest",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Archen",
+    "number": "146",
+    "rarity": "Uncommon",
+    "set_name": "Silver Tempest",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Archeops",
+    "number": "147",
+    "rarity": "Rare Holo",
+    "set_name": "Silver Tempest",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Rufflet",
+    "number": "148",
+    "rarity": "Common",
+    "set_name": "Silver Tempest",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Hisuian Braviary",
+    "number": "149",
+    "rarity": "Rare",
+    "set_name": "Silver Tempest",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Fletchling",
+    "number": "150",
+    "rarity": "Common",
+    "set_name": "Silver Tempest",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Brandon",
+    "number": "151",
+    "rarity": "Uncommon",
+    "set_name": "Silver Tempest",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Candice",
+    "number": "152",
+    "rarity": "Uncommon",
+    "set_name": "Silver Tempest",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Capturing Aroma",
+    "number": "153",
+    "rarity": "Uncommon",
+    "set_name": "Silver Tempest",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Earthen Seal Stone",
+    "number": "154",
+    "rarity": "Rare Holo",
+    "set_name": "Silver Tempest",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Emergency Jelly",
+    "number": "155",
+    "rarity": "Uncommon",
+    "set_name": "Silver Tempest",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Forest Seal Stone",
+    "number": "156",
+    "rarity": "Rare Holo",
+    "set_name": "Silver Tempest",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Furisode Girl",
+    "number": "157",
+    "rarity": "Uncommon",
+    "set_name": "Silver Tempest",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Gym Trainer",
+    "number": "158",
+    "rarity": "Uncommon",
+    "set_name": "Silver Tempest",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Lance",
+    "number": "159",
+    "rarity": "Uncommon",
+    "set_name": "Silver Tempest",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Leafy Camo Poncho",
+    "number": "160",
+    "rarity": "Uncommon",
+    "set_name": "Silver Tempest",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Primordial Altar",
+    "number": "161",
+    "rarity": "Uncommon",
+    "set_name": "Silver Tempest",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Professor Laventon",
+    "number": "162",
+    "rarity": "Uncommon",
+    "set_name": "Silver Tempest",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Quad Stone",
+    "number": "163",
+    "rarity": "Uncommon",
+    "set_name": "Silver Tempest",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Serena",
+    "number": "164",
+    "rarity": "Uncommon",
+    "set_name": "Silver Tempest",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Unidentified Fossil",
+    "number": "165",
+    "rarity": "Uncommon",
+    "set_name": "Silver Tempest",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Wallace",
+    "number": "166",
+    "rarity": "Uncommon",
+    "set_name": "Silver Tempest",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Worker",
+    "number": "167",
+    "rarity": "Uncommon",
+    "set_name": "Silver Tempest",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Regenerative Energy",
+    "number": "168",
+    "rarity": "Uncommon",
+    "set_name": "Silver Tempest",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "V Guard Energy",
+    "number": "169",
+    "rarity": "Uncommon",
+    "set_name": "Silver Tempest",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Serperior V",
+    "number": "170",
+    "rarity": "Rare Ultra",
+    "set_name": "Silver Tempest",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Chesnaught V",
+    "number": "171",
+    "rarity": "Rare Ultra",
+    "set_name": "Silver Tempest",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Reshiram V",
+    "number": "172",
+    "rarity": "Rare Ultra",
+    "set_name": "Silver Tempest",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Alolan Vulpix V",
+    "number": "173",
+    "rarity": "Rare Ultra",
+    "set_name": "Silver Tempest",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Omastar V",
+    "number": "174",
+    "rarity": "Rare Ultra",
+    "set_name": "Silver Tempest",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Regieleki V",
+    "number": "175",
+    "rarity": "Rare Ultra",
+    "set_name": "Silver Tempest",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Unown V",
+    "number": "176",
+    "rarity": "Rare Ultra",
+    "set_name": "Silver Tempest",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Unown V",
+    "number": "177",
+    "rarity": "Rare Ultra",
+    "set_name": "Silver Tempest",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Mawile V",
+    "number": "178",
+    "rarity": "Rare Ultra",
+    "set_name": "Silver Tempest",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Hisuian Arcanine V",
+    "number": "179",
+    "rarity": "Rare Ultra",
+    "set_name": "Silver Tempest",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Skuntank V",
+    "number": "180",
+    "rarity": "Rare Ultra",
+    "set_name": "Silver Tempest",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Skuntank V",
+    "number": "181",
+    "rarity": "Rare Ultra",
+    "set_name": "Silver Tempest",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Magearna V",
+    "number": "182",
+    "rarity": "Rare Ultra",
+    "set_name": "Silver Tempest",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Regidrago V",
+    "number": "183",
+    "rarity": "Rare Ultra",
+    "set_name": "Silver Tempest",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Regidrago V",
+    "number": "184",
+    "rarity": "Rare Ultra",
+    "set_name": "Silver Tempest",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Lugia V",
+    "number": "185",
+    "rarity": "Rare Ultra",
+    "set_name": "Silver Tempest",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Lugia V",
+    "number": "186",
+    "rarity": "Rare Ultra",
+    "set_name": "Silver Tempest",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Ho-Oh V",
+    "number": "187",
+    "rarity": "Rare Ultra",
+    "set_name": "Silver Tempest",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Brandon",
+    "number": "188",
+    "rarity": "Rare Ultra",
+    "set_name": "Silver Tempest",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Candice",
+    "number": "189",
+    "rarity": "Rare Ultra",
+    "set_name": "Silver Tempest",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Furisode Girl",
+    "number": "190",
+    "rarity": "Rare Ultra",
+    "set_name": "Silver Tempest",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Gym Trainer",
+    "number": "191",
+    "rarity": "Rare Ultra",
+    "set_name": "Silver Tempest",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Lance",
+    "number": "192",
+    "rarity": "Rare Ultra",
+    "set_name": "Silver Tempest",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Serena",
+    "number": "193",
+    "rarity": "Rare Ultra",
+    "set_name": "Silver Tempest",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Wallace",
+    "number": "194",
+    "rarity": "Rare Ultra",
+    "set_name": "Silver Tempest",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Worker",
+    "number": "195",
+    "rarity": "Rare Ultra",
+    "set_name": "Silver Tempest",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Serperior VSTAR",
+    "number": "196",
+    "rarity": "Rare Rainbow",
+    "set_name": "Silver Tempest",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Alolan Vulpix VSTAR",
+    "number": "197",
+    "rarity": "Rare Rainbow",
+    "set_name": "Silver Tempest",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Regieleki VMAX",
+    "number": "198",
+    "rarity": "Rare Rainbow",
+    "set_name": "Silver Tempest",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Unown VSTAR",
+    "number": "199",
+    "rarity": "Rare Rainbow",
+    "set_name": "Silver Tempest",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Mawile VSTAR",
+    "number": "200",
+    "rarity": "Rare Rainbow",
+    "set_name": "Silver Tempest",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Regidrago VSTAR",
+    "number": "201",
+    "rarity": "Rare Rainbow",
+    "set_name": "Silver Tempest",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Lugia VSTAR",
+    "number": "202",
+    "rarity": "Rare Rainbow",
+    "set_name": "Silver Tempest",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Brandon",
+    "number": "203",
+    "rarity": "Rare Rainbow",
+    "set_name": "Silver Tempest",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Candice",
+    "number": "204",
+    "rarity": "Rare Rainbow",
+    "set_name": "Silver Tempest",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Furisode Girl",
+    "number": "205",
+    "rarity": "Rare Rainbow",
+    "set_name": "Silver Tempest",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Lance",
+    "number": "206",
+    "rarity": "Rare Rainbow",
+    "set_name": "Silver Tempest",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Serena",
+    "number": "207",
+    "rarity": "Rare Rainbow",
+    "set_name": "Silver Tempest",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Wallace",
+    "number": "208",
+    "rarity": "Rare Rainbow",
+    "set_name": "Silver Tempest",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Worker",
+    "number": "209",
+    "rarity": "Rare Rainbow",
+    "set_name": "Silver Tempest",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Serperior VSTAR",
+    "number": "210",
+    "rarity": "Rare Secret",
+    "set_name": "Silver Tempest",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Lugia VSTAR",
+    "number": "211",
+    "rarity": "Rare Secret",
+    "set_name": "Silver Tempest",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Energy Switch",
+    "number": "212",
+    "rarity": "Rare Secret",
+    "set_name": "Silver Tempest",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Gapejaw Bog",
+    "number": "213",
+    "rarity": "Rare Secret",
+    "set_name": "Silver Tempest",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Leafy Camo Poncho",
+    "number": "214",
+    "rarity": "Rare Secret",
+    "set_name": "Silver Tempest",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "V Guard Energy",
+    "number": "215",
+    "rarity": "Rare Secret",
+    "set_name": "Silver Tempest",
+    "set_series": "Sword & Shield"
+  }
+]

@@ -1,0 +1,1409 @@
+[
+  {
+    "name": "Butterfree V",
+    "number": "1",
+    "rarity": "Rare Holo V",
+    "set_name": "Darkness Ablaze",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Butterfree VMAX",
+    "number": "2",
+    "rarity": "Rare Holo VMAX",
+    "set_name": "Darkness Ablaze",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Paras",
+    "number": "3",
+    "rarity": "Common",
+    "set_name": "Darkness Ablaze",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Parasect",
+    "number": "4",
+    "rarity": "Uncommon",
+    "set_name": "Darkness Ablaze",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Carnivine",
+    "number": "5",
+    "rarity": "Uncommon",
+    "set_name": "Darkness Ablaze",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Pansage",
+    "number": "6",
+    "rarity": "Common",
+    "set_name": "Darkness Ablaze",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Simisage",
+    "number": "7",
+    "rarity": "Uncommon",
+    "set_name": "Darkness Ablaze",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Karrablast",
+    "number": "8",
+    "rarity": "Common",
+    "set_name": "Darkness Ablaze",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Shelmet",
+    "number": "9",
+    "rarity": "Common",
+    "set_name": "Darkness Ablaze",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Accelgor",
+    "number": "10",
+    "rarity": "Rare",
+    "set_name": "Darkness Ablaze",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Rowlet",
+    "number": "11",
+    "rarity": "Common",
+    "set_name": "Darkness Ablaze",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Dartrix",
+    "number": "12",
+    "rarity": "Uncommon",
+    "set_name": "Darkness Ablaze",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Decidueye",
+    "number": "13",
+    "rarity": "Rare Holo",
+    "set_name": "Darkness Ablaze",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Bounsweet",
+    "number": "14",
+    "rarity": "Common",
+    "set_name": "Darkness Ablaze",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Steenee",
+    "number": "15",
+    "rarity": "Uncommon",
+    "set_name": "Darkness Ablaze",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Tsareena",
+    "number": "16",
+    "rarity": "Rare",
+    "set_name": "Darkness Ablaze",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Wimpod",
+    "number": "17",
+    "rarity": "Common",
+    "set_name": "Darkness Ablaze",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Golisopod",
+    "number": "18",
+    "rarity": "Rare Holo",
+    "set_name": "Darkness Ablaze",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Charizard V",
+    "number": "19",
+    "rarity": "Rare Holo V",
+    "set_name": "Darkness Ablaze",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Charizard VMAX",
+    "number": "20",
+    "rarity": "Rare Holo VMAX",
+    "set_name": "Darkness Ablaze",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Houndoom V",
+    "number": "21",
+    "rarity": "Rare Holo V",
+    "set_name": "Darkness Ablaze",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Torchic",
+    "number": "22",
+    "rarity": "Common",
+    "set_name": "Darkness Ablaze",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Combusken",
+    "number": "23",
+    "rarity": "Uncommon",
+    "set_name": "Darkness Ablaze",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Blaziken",
+    "number": "24",
+    "rarity": "Rare Holo",
+    "set_name": "Darkness Ablaze",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Heatran",
+    "number": "25",
+    "rarity": "Rare Holo",
+    "set_name": "Darkness Ablaze",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Pansear",
+    "number": "26",
+    "rarity": "Common",
+    "set_name": "Darkness Ablaze",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Simisear",
+    "number": "27",
+    "rarity": "Uncommon",
+    "set_name": "Darkness Ablaze",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Galarian Darmanitan",
+    "number": "28",
+    "rarity": "Rare",
+    "set_name": "Darkness Ablaze",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Larvesta",
+    "number": "29",
+    "rarity": "Common",
+    "set_name": "Darkness Ablaze",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Volcarona",
+    "number": "30",
+    "rarity": "Rare",
+    "set_name": "Darkness Ablaze",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Fletchinder",
+    "number": "31",
+    "rarity": "Uncommon",
+    "set_name": "Darkness Ablaze",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Talonflame",
+    "number": "32",
+    "rarity": "Rare",
+    "set_name": "Darkness Ablaze",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Centiskorch V",
+    "number": "33",
+    "rarity": "Rare Holo V",
+    "set_name": "Darkness Ablaze",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Centiskorch VMAX",
+    "number": "34",
+    "rarity": "Rare Holo VMAX",
+    "set_name": "Darkness Ablaze",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Galarian Mr. Mime",
+    "number": "35",
+    "rarity": "Common",
+    "set_name": "Darkness Ablaze",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Galarian Mr. Rime",
+    "number": "36",
+    "rarity": "Rare",
+    "set_name": "Darkness Ablaze",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Suicune",
+    "number": "37",
+    "rarity": "Rare Holo",
+    "set_name": "Darkness Ablaze",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Feebas",
+    "number": "38",
+    "rarity": "Common",
+    "set_name": "Darkness Ablaze",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Milotic",
+    "number": "39",
+    "rarity": "Rare Holo",
+    "set_name": "Darkness Ablaze",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Relicanth",
+    "number": "40",
+    "rarity": "Uncommon",
+    "set_name": "Darkness Ablaze",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Panpour",
+    "number": "41",
+    "rarity": "Common",
+    "set_name": "Darkness Ablaze",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Simipour",
+    "number": "42",
+    "rarity": "Uncommon",
+    "set_name": "Darkness Ablaze",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Galarian Darumaka",
+    "number": "43",
+    "rarity": "Common",
+    "set_name": "Darkness Ablaze",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Galarian Darmanitan",
+    "number": "44",
+    "rarity": "Rare",
+    "set_name": "Darkness Ablaze",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Vanillite",
+    "number": "45",
+    "rarity": "Common",
+    "set_name": "Darkness Ablaze",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Vanillish",
+    "number": "46",
+    "rarity": "Uncommon",
+    "set_name": "Darkness Ablaze",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Vanilluxe",
+    "number": "47",
+    "rarity": "Rare",
+    "set_name": "Darkness Ablaze",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Cubchoo",
+    "number": "48",
+    "rarity": "Common",
+    "set_name": "Darkness Ablaze",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Beartic",
+    "number": "49",
+    "rarity": "Rare",
+    "set_name": "Darkness Ablaze",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Wishiwashi",
+    "number": "50",
+    "rarity": "Common",
+    "set_name": "Darkness Ablaze",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Mareanie",
+    "number": "51",
+    "rarity": "Common",
+    "set_name": "Darkness Ablaze",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Toxapex",
+    "number": "52",
+    "rarity": "Uncommon",
+    "set_name": "Darkness Ablaze",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Dracovish",
+    "number": "53",
+    "rarity": "Rare Holo",
+    "set_name": "Darkness Ablaze",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Arctovish",
+    "number": "54",
+    "rarity": "Rare",
+    "set_name": "Darkness Ablaze",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Mareep",
+    "number": "55",
+    "rarity": "Common",
+    "set_name": "Darkness Ablaze",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Flaaffy",
+    "number": "56",
+    "rarity": "Uncommon",
+    "set_name": "Darkness Ablaze",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Ampharos",
+    "number": "57",
+    "rarity": "Rare",
+    "set_name": "Darkness Ablaze",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Electrike",
+    "number": "58",
+    "rarity": "Common",
+    "set_name": "Darkness Ablaze",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Manectric",
+    "number": "59",
+    "rarity": "Rare",
+    "set_name": "Darkness Ablaze",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Vikavolt V",
+    "number": "60",
+    "rarity": "Rare Holo V",
+    "set_name": "Darkness Ablaze",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Tapu Koko",
+    "number": "61",
+    "rarity": "Rare Holo",
+    "set_name": "Darkness Ablaze",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Toxel",
+    "number": "62",
+    "rarity": "Common",
+    "set_name": "Darkness Ablaze",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Toxtricity",
+    "number": "63",
+    "rarity": "Rare Holo",
+    "set_name": "Darkness Ablaze",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Pincurchin",
+    "number": "64",
+    "rarity": "Rare Holo",
+    "set_name": "Darkness Ablaze",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Dracozolt",
+    "number": "65",
+    "rarity": "Rare",
+    "set_name": "Darkness Ablaze",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Arctozolt",
+    "number": "66",
+    "rarity": "Rare Holo",
+    "set_name": "Darkness Ablaze",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Jigglypuff",
+    "number": "67",
+    "rarity": "Common",
+    "set_name": "Darkness Ablaze",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Wigglytuff",
+    "number": "68",
+    "rarity": "Rare",
+    "set_name": "Darkness Ablaze",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Mew V",
+    "number": "69",
+    "rarity": "Rare Holo V",
+    "set_name": "Darkness Ablaze",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Snubbull",
+    "number": "70",
+    "rarity": "Common",
+    "set_name": "Darkness Ablaze",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Granbull",
+    "number": "71",
+    "rarity": "Rare",
+    "set_name": "Darkness Ablaze",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Lunatone",
+    "number": "72",
+    "rarity": "Uncommon",
+    "set_name": "Darkness Ablaze",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Gothita",
+    "number": "73",
+    "rarity": "Common",
+    "set_name": "Darkness Ablaze",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Gothorita",
+    "number": "74",
+    "rarity": "Uncommon",
+    "set_name": "Darkness Ablaze",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Gothitelle",
+    "number": "75",
+    "rarity": "Rare",
+    "set_name": "Darkness Ablaze",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Golett",
+    "number": "76",
+    "rarity": "Common",
+    "set_name": "Darkness Ablaze",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Golurk",
+    "number": "77",
+    "rarity": "Rare",
+    "set_name": "Darkness Ablaze",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Dedenne",
+    "number": "78",
+    "rarity": "Uncommon",
+    "set_name": "Darkness Ablaze",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Morelull",
+    "number": "79",
+    "rarity": "Common",
+    "set_name": "Darkness Ablaze",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Shiinotic",
+    "number": "80",
+    "rarity": "Uncommon",
+    "set_name": "Darkness Ablaze",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Mimikyu",
+    "number": "81",
+    "rarity": "Rare",
+    "set_name": "Darkness Ablaze",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Sinistea",
+    "number": "82",
+    "rarity": "Common",
+    "set_name": "Darkness Ablaze",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Polteageist",
+    "number": "83",
+    "rarity": "Uncommon",
+    "set_name": "Darkness Ablaze",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Diglett",
+    "number": "84",
+    "rarity": "Common",
+    "set_name": "Darkness Ablaze",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Dugtrio",
+    "number": "85",
+    "rarity": "Uncommon",
+    "set_name": "Darkness Ablaze",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Larvitar",
+    "number": "86",
+    "rarity": "Common",
+    "set_name": "Darkness Ablaze",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Pupitar",
+    "number": "87",
+    "rarity": "Uncommon",
+    "set_name": "Darkness Ablaze",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Tyranitar",
+    "number": "88",
+    "rarity": "Rare Holo",
+    "set_name": "Darkness Ablaze",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Trapinch",
+    "number": "89",
+    "rarity": "Common",
+    "set_name": "Darkness Ablaze",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Vibrava",
+    "number": "90",
+    "rarity": "Uncommon",
+    "set_name": "Darkness Ablaze",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Flygon",
+    "number": "91",
+    "rarity": "Rare",
+    "set_name": "Darkness Ablaze",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Solrock",
+    "number": "92",
+    "rarity": "Uncommon",
+    "set_name": "Darkness Ablaze",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Hippopotas",
+    "number": "93",
+    "rarity": "Common",
+    "set_name": "Darkness Ablaze",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Hippowdon",
+    "number": "94",
+    "rarity": "Rare",
+    "set_name": "Darkness Ablaze",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Rhyperior V",
+    "number": "95",
+    "rarity": "Rare Holo V",
+    "set_name": "Darkness Ablaze",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Diggersby",
+    "number": "96",
+    "rarity": "Rare",
+    "set_name": "Darkness Ablaze",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Passimian",
+    "number": "97",
+    "rarity": "Common",
+    "set_name": "Darkness Ablaze",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Galarian Sirfetch'd",
+    "number": "98",
+    "rarity": "Rare",
+    "set_name": "Darkness Ablaze",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Galarian Slowbro V",
+    "number": "99",
+    "rarity": "Rare Holo V",
+    "set_name": "Darkness Ablaze",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Grimer",
+    "number": "100",
+    "rarity": "Common",
+    "set_name": "Darkness Ablaze",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Muk",
+    "number": "101",
+    "rarity": "Rare",
+    "set_name": "Darkness Ablaze",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Spinarak",
+    "number": "102",
+    "rarity": "Common",
+    "set_name": "Darkness Ablaze",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Ariados",
+    "number": "103",
+    "rarity": "Uncommon",
+    "set_name": "Darkness Ablaze",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Crobat V",
+    "number": "104",
+    "rarity": "Rare Holo V",
+    "set_name": "Darkness Ablaze",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Darkrai",
+    "number": "105",
+    "rarity": "Rare Holo",
+    "set_name": "Darkness Ablaze",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Purrloin",
+    "number": "106",
+    "rarity": "Common",
+    "set_name": "Darkness Ablaze",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Liepard",
+    "number": "107",
+    "rarity": "Rare",
+    "set_name": "Darkness Ablaze",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Deino",
+    "number": "108",
+    "rarity": "Common",
+    "set_name": "Darkness Ablaze",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Zweilous",
+    "number": "109",
+    "rarity": "Uncommon",
+    "set_name": "Darkness Ablaze",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Hydreigon",
+    "number": "110",
+    "rarity": "Rare",
+    "set_name": "Darkness Ablaze",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Hoopa",
+    "number": "111",
+    "rarity": "Rare Holo",
+    "set_name": "Darkness Ablaze",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Nickit",
+    "number": "112",
+    "rarity": "Common",
+    "set_name": "Darkness Ablaze",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Thievul",
+    "number": "113",
+    "rarity": "Rare",
+    "set_name": "Darkness Ablaze",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Grimmsnarl V",
+    "number": "114",
+    "rarity": "Rare Holo V",
+    "set_name": "Darkness Ablaze",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Grimmsnarl VMAX",
+    "number": "115",
+    "rarity": "Rare Holo VMAX",
+    "set_name": "Darkness Ablaze",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Eternatus V",
+    "number": "116",
+    "rarity": "Rare Holo V",
+    "set_name": "Darkness Ablaze",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Eternatus VMAX",
+    "number": "117",
+    "rarity": "Rare Holo VMAX",
+    "set_name": "Darkness Ablaze",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Scizor V",
+    "number": "118",
+    "rarity": "Rare Holo V",
+    "set_name": "Darkness Ablaze",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Scizor VMAX",
+    "number": "119",
+    "rarity": "Rare Holo VMAX",
+    "set_name": "Darkness Ablaze",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Skarmory",
+    "number": "120",
+    "rarity": "Common",
+    "set_name": "Darkness Ablaze",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Aron",
+    "number": "121",
+    "rarity": "Common",
+    "set_name": "Darkness Ablaze",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Lairon",
+    "number": "122",
+    "rarity": "Uncommon",
+    "set_name": "Darkness Ablaze",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Aggron",
+    "number": "123",
+    "rarity": "Rare Holo",
+    "set_name": "Darkness Ablaze",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Escavalier",
+    "number": "124",
+    "rarity": "Rare",
+    "set_name": "Darkness Ablaze",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Klink",
+    "number": "125",
+    "rarity": "Common",
+    "set_name": "Darkness Ablaze",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Klang",
+    "number": "126",
+    "rarity": "Uncommon",
+    "set_name": "Darkness Ablaze",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Klinklang",
+    "number": "127",
+    "rarity": "Rare",
+    "set_name": "Darkness Ablaze",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Galarian Stunfisk V",
+    "number": "128",
+    "rarity": "Rare Holo V",
+    "set_name": "Darkness Ablaze",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Meltan",
+    "number": "129",
+    "rarity": "Common",
+    "set_name": "Darkness Ablaze",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Melmetal",
+    "number": "130",
+    "rarity": "Rare",
+    "set_name": "Darkness Ablaze",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Cufant",
+    "number": "131",
+    "rarity": "Common",
+    "set_name": "Darkness Ablaze",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Copperajah",
+    "number": "132",
+    "rarity": "Rare Holo",
+    "set_name": "Darkness Ablaze",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Kangaskhan",
+    "number": "133",
+    "rarity": "Rare Holo",
+    "set_name": "Darkness Ablaze",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Tauros",
+    "number": "134",
+    "rarity": "Common",
+    "set_name": "Darkness Ablaze",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Sentret",
+    "number": "135",
+    "rarity": "Common",
+    "set_name": "Darkness Ablaze",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Furret",
+    "number": "136",
+    "rarity": "Uncommon",
+    "set_name": "Darkness Ablaze",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Dunsparce",
+    "number": "137",
+    "rarity": "Common",
+    "set_name": "Darkness Ablaze",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Teddiursa",
+    "number": "138",
+    "rarity": "Common",
+    "set_name": "Darkness Ablaze",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Ursaring",
+    "number": "139",
+    "rarity": "Uncommon",
+    "set_name": "Darkness Ablaze",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Lugia",
+    "number": "140",
+    "rarity": "Rare",
+    "set_name": "Darkness Ablaze",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Skitty",
+    "number": "141",
+    "rarity": "Common",
+    "set_name": "Darkness Ablaze",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Delcatty",
+    "number": "142",
+    "rarity": "Rare",
+    "set_name": "Darkness Ablaze",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Salamence V",
+    "number": "143",
+    "rarity": "Rare Holo V",
+    "set_name": "Darkness Ablaze",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Salamence VMAX",
+    "number": "144",
+    "rarity": "Rare Holo VMAX",
+    "set_name": "Darkness Ablaze",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Starly",
+    "number": "145",
+    "rarity": "Common",
+    "set_name": "Darkness Ablaze",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Staravia",
+    "number": "146",
+    "rarity": "Uncommon",
+    "set_name": "Darkness Ablaze",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Staraptor",
+    "number": "147",
+    "rarity": "Rare",
+    "set_name": "Darkness Ablaze",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Ducklett",
+    "number": "148",
+    "rarity": "Common",
+    "set_name": "Darkness Ablaze",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Swanna",
+    "number": "149",
+    "rarity": "Rare",
+    "set_name": "Darkness Ablaze",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Bunnelby",
+    "number": "150",
+    "rarity": "Common",
+    "set_name": "Darkness Ablaze",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Fletchling",
+    "number": "151",
+    "rarity": "Common",
+    "set_name": "Darkness Ablaze",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Skwovet",
+    "number": "152",
+    "rarity": "Common",
+    "set_name": "Darkness Ablaze",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Greedent",
+    "number": "153",
+    "rarity": "Rare",
+    "set_name": "Darkness Ablaze",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Rookidee",
+    "number": "154",
+    "rarity": "Common",
+    "set_name": "Darkness Ablaze",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Corvisquire",
+    "number": "155",
+    "rarity": "Uncommon",
+    "set_name": "Darkness Ablaze",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Corviknight",
+    "number": "156",
+    "rarity": "Rare Holo",
+    "set_name": "Darkness Ablaze",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Big Parasol",
+    "number": "157",
+    "rarity": "Uncommon",
+    "set_name": "Darkness Ablaze",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Billowing Smoke",
+    "number": "158",
+    "rarity": "Uncommon",
+    "set_name": "Darkness Ablaze",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Bird Keeper",
+    "number": "159",
+    "rarity": "Uncommon",
+    "set_name": "Darkness Ablaze",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Cape of Toughness",
+    "number": "160",
+    "rarity": "Uncommon",
+    "set_name": "Darkness Ablaze",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Familiar Bell",
+    "number": "161",
+    "rarity": "Uncommon",
+    "set_name": "Darkness Ablaze",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Glimwood Tangle",
+    "number": "162",
+    "rarity": "Uncommon",
+    "set_name": "Darkness Ablaze",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Kabu",
+    "number": "163",
+    "rarity": "Uncommon",
+    "set_name": "Darkness Ablaze",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Old PC",
+    "number": "164",
+    "rarity": "Uncommon",
+    "set_name": "Darkness Ablaze",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Piers",
+    "number": "165",
+    "rarity": "Uncommon",
+    "set_name": "Darkness Ablaze",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Pok\u00e9mon Breeder's Nurturing",
+    "number": "166",
+    "rarity": "Uncommon",
+    "set_name": "Darkness Ablaze",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Rare Fossil",
+    "number": "167",
+    "rarity": "Uncommon",
+    "set_name": "Darkness Ablaze",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Rose",
+    "number": "168",
+    "rarity": "Uncommon",
+    "set_name": "Darkness Ablaze",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Rose Tower",
+    "number": "169",
+    "rarity": "Uncommon",
+    "set_name": "Darkness Ablaze",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Spikemuth",
+    "number": "170",
+    "rarity": "Uncommon",
+    "set_name": "Darkness Ablaze",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Struggle Gloves",
+    "number": "171",
+    "rarity": "Uncommon",
+    "set_name": "Darkness Ablaze",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Turbo Patch",
+    "number": "172",
+    "rarity": "Uncommon",
+    "set_name": "Darkness Ablaze",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Yell Horn",
+    "number": "173",
+    "rarity": "Uncommon",
+    "set_name": "Darkness Ablaze",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Heat Fire Energy",
+    "number": "174",
+    "rarity": "Uncommon",
+    "set_name": "Darkness Ablaze",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Hiding Darkness Energy",
+    "number": "175",
+    "rarity": "Uncommon",
+    "set_name": "Darkness Ablaze",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Powerful Colorless Energy",
+    "number": "176",
+    "rarity": "Uncommon",
+    "set_name": "Darkness Ablaze",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Butterfree V",
+    "number": "177",
+    "rarity": "Rare Ultra",
+    "set_name": "Darkness Ablaze",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Houndoom V",
+    "number": "178",
+    "rarity": "Rare Ultra",
+    "set_name": "Darkness Ablaze",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Centiskorch V",
+    "number": "179",
+    "rarity": "Rare Ultra",
+    "set_name": "Darkness Ablaze",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Vikavolt V",
+    "number": "180",
+    "rarity": "Rare Ultra",
+    "set_name": "Darkness Ablaze",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Rhyperior V",
+    "number": "181",
+    "rarity": "Rare Ultra",
+    "set_name": "Darkness Ablaze",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Crobat V",
+    "number": "182",
+    "rarity": "Rare Ultra",
+    "set_name": "Darkness Ablaze",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Scizor V",
+    "number": "183",
+    "rarity": "Rare Ultra",
+    "set_name": "Darkness Ablaze",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Galarian Stunfisk V",
+    "number": "184",
+    "rarity": "Rare Ultra",
+    "set_name": "Darkness Ablaze",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Salamence V",
+    "number": "185",
+    "rarity": "Rare Ultra",
+    "set_name": "Darkness Ablaze",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Kabu",
+    "number": "186",
+    "rarity": "Rare Ultra",
+    "set_name": "Darkness Ablaze",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Piers",
+    "number": "187",
+    "rarity": "Rare Ultra",
+    "set_name": "Darkness Ablaze",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Pok\u00e9mon Breeder's Nurturing",
+    "number": "188",
+    "rarity": "Rare Ultra",
+    "set_name": "Darkness Ablaze",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Rose",
+    "number": "189",
+    "rarity": "Rare Ultra",
+    "set_name": "Darkness Ablaze",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Butterfree VMAX",
+    "number": "190",
+    "rarity": "Rare Rainbow",
+    "set_name": "Darkness Ablaze",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Centiskorch VMAX",
+    "number": "191",
+    "rarity": "Rare Rainbow",
+    "set_name": "Darkness Ablaze",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Eternatus VMAX",
+    "number": "192",
+    "rarity": "Rare Rainbow",
+    "set_name": "Darkness Ablaze",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Scizor VMAX",
+    "number": "193",
+    "rarity": "Rare Rainbow",
+    "set_name": "Darkness Ablaze",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Salamence VMAX",
+    "number": "194",
+    "rarity": "Rare Rainbow",
+    "set_name": "Darkness Ablaze",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Pok\u00e9mon Breeder's Nurturing",
+    "number": "195",
+    "rarity": "Rare Rainbow",
+    "set_name": "Darkness Ablaze",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Rose",
+    "number": "196",
+    "rarity": "Rare Rainbow",
+    "set_name": "Darkness Ablaze",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Rillaboom",
+    "number": "197",
+    "rarity": "Rare Secret",
+    "set_name": "Darkness Ablaze",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Coalossal",
+    "number": "198",
+    "rarity": "Rare Secret",
+    "set_name": "Darkness Ablaze",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Big Parasol",
+    "number": "199",
+    "rarity": "Rare Secret",
+    "set_name": "Darkness Ablaze",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Turbo Patch",
+    "number": "200",
+    "rarity": "Rare Secret",
+    "set_name": "Darkness Ablaze",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Capture Energy",
+    "number": "201",
+    "rarity": "Rare Secret",
+    "set_name": "Darkness Ablaze",
+    "set_series": "Sword & Shield"
+  }
+]

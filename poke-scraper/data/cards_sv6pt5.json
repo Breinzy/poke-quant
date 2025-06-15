@@ -1,0 +1,695 @@
+[
+  {
+    "name": "Joltik",
+    "number": "1",
+    "rarity": "Common",
+    "set_name": "Shrouded Fable",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Galvantula",
+    "number": "2",
+    "rarity": "Uncommon",
+    "set_name": "Shrouded Fable",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Rowlet",
+    "number": "3",
+    "rarity": "Common",
+    "set_name": "Shrouded Fable",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Dartrix",
+    "number": "4",
+    "rarity": "Common",
+    "set_name": "Shrouded Fable",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Decidueye",
+    "number": "5",
+    "rarity": "Uncommon",
+    "set_name": "Shrouded Fable",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Tapu Bulu",
+    "number": "6",
+    "rarity": "Rare",
+    "set_name": "Shrouded Fable",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Houndour",
+    "number": "7",
+    "rarity": "Common",
+    "set_name": "Shrouded Fable",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Houndoom",
+    "number": "8",
+    "rarity": "Common",
+    "set_name": "Shrouded Fable",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Iron Moth",
+    "number": "9",
+    "rarity": "Uncommon",
+    "set_name": "Shrouded Fable",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Horsea",
+    "number": "10",
+    "rarity": "Common",
+    "set_name": "Shrouded Fable",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Seadra",
+    "number": "11",
+    "rarity": "Common",
+    "set_name": "Shrouded Fable",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Kingdra ex",
+    "number": "12",
+    "rarity": "Double Rare",
+    "set_name": "Shrouded Fable",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Sneasel",
+    "number": "13",
+    "rarity": "Common",
+    "set_name": "Shrouded Fable",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Weavile",
+    "number": "14",
+    "rarity": "Uncommon",
+    "set_name": "Shrouded Fable",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Revavroom ex",
+    "number": "15",
+    "rarity": "Double Rare",
+    "set_name": "Shrouded Fable",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Drowzee",
+    "number": "16",
+    "rarity": "Common",
+    "set_name": "Shrouded Fable",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Hypno",
+    "number": "17",
+    "rarity": "Uncommon",
+    "set_name": "Shrouded Fable",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Duskull",
+    "number": "18",
+    "rarity": "Common",
+    "set_name": "Shrouded Fable",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Dusclops",
+    "number": "19",
+    "rarity": "Common",
+    "set_name": "Shrouded Fable",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Dusknoir",
+    "number": "20",
+    "rarity": "Rare",
+    "set_name": "Shrouded Fable",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Cresselia",
+    "number": "21",
+    "rarity": "Rare",
+    "set_name": "Shrouded Fable",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Sylveon",
+    "number": "22",
+    "rarity": "Uncommon",
+    "set_name": "Shrouded Fable",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Croagunk",
+    "number": "23",
+    "rarity": "Common",
+    "set_name": "Shrouded Fable",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Toxicroak",
+    "number": "24",
+    "rarity": "Common",
+    "set_name": "Shrouded Fable",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Bloodmoon Ursaluna",
+    "number": "25",
+    "rarity": "Rare",
+    "set_name": "Shrouded Fable",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Slither Wing",
+    "number": "26",
+    "rarity": "Uncommon",
+    "set_name": "Shrouded Fable",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Zubat",
+    "number": "27",
+    "rarity": "Common",
+    "set_name": "Shrouded Fable",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Golbat",
+    "number": "28",
+    "rarity": "Common",
+    "set_name": "Shrouded Fable",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Crobat",
+    "number": "29",
+    "rarity": "Uncommon",
+    "set_name": "Shrouded Fable",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Absol",
+    "number": "30",
+    "rarity": "Common",
+    "set_name": "Shrouded Fable",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Zorua",
+    "number": "31",
+    "rarity": "Common",
+    "set_name": "Shrouded Fable",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Zoroark",
+    "number": "32",
+    "rarity": "Rare",
+    "set_name": "Shrouded Fable",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Inkay",
+    "number": "33",
+    "rarity": "Common",
+    "set_name": "Shrouded Fable",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Malamar",
+    "number": "34",
+    "rarity": "Uncommon",
+    "set_name": "Shrouded Fable",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Yveltal",
+    "number": "35",
+    "rarity": "Uncommon",
+    "set_name": "Shrouded Fable",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Okidogi ex",
+    "number": "36",
+    "rarity": "Double Rare",
+    "set_name": "Shrouded Fable",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Munkidori ex",
+    "number": "37",
+    "rarity": "Double Rare",
+    "set_name": "Shrouded Fable",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Fezandipiti ex",
+    "number": "38",
+    "rarity": "Double Rare",
+    "set_name": "Shrouded Fable",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Pecharunt ex",
+    "number": "39",
+    "rarity": "Double Rare",
+    "set_name": "Shrouded Fable",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Genesect",
+    "number": "40",
+    "rarity": "Uncommon",
+    "set_name": "Shrouded Fable",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Cufant",
+    "number": "41",
+    "rarity": "Common",
+    "set_name": "Shrouded Fable",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Copperajah",
+    "number": "42",
+    "rarity": "Rare",
+    "set_name": "Shrouded Fable",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Varoom",
+    "number": "43",
+    "rarity": "Common",
+    "set_name": "Shrouded Fable",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Axew",
+    "number": "44",
+    "rarity": "Common",
+    "set_name": "Shrouded Fable",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Fraxure",
+    "number": "45",
+    "rarity": "Common",
+    "set_name": "Shrouded Fable",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Haxorus",
+    "number": "46",
+    "rarity": "Rare",
+    "set_name": "Shrouded Fable",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Kyurem",
+    "number": "47",
+    "rarity": "Uncommon",
+    "set_name": "Shrouded Fable",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Meowth",
+    "number": "48",
+    "rarity": "Common",
+    "set_name": "Shrouded Fable",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Persian",
+    "number": "49",
+    "rarity": "Common",
+    "set_name": "Shrouded Fable",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Eevee",
+    "number": "50",
+    "rarity": "Common",
+    "set_name": "Shrouded Fable",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Furfrou",
+    "number": "51",
+    "rarity": "Common",
+    "set_name": "Shrouded Fable",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Stufful",
+    "number": "52",
+    "rarity": "Common",
+    "set_name": "Shrouded Fable",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Bewear",
+    "number": "53",
+    "rarity": "Common",
+    "set_name": "Shrouded Fable",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Academy at Night",
+    "number": "54",
+    "rarity": "Uncommon",
+    "set_name": "Shrouded Fable",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Binding Mochi",
+    "number": "55",
+    "rarity": "Uncommon",
+    "set_name": "Shrouded Fable",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Cassiopeia",
+    "number": "56",
+    "rarity": "Uncommon",
+    "set_name": "Shrouded Fable",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Colress's Tenacity",
+    "number": "57",
+    "rarity": "Uncommon",
+    "set_name": "Shrouded Fable",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Dangerous Laser",
+    "number": "58",
+    "rarity": "ACE SPEC Rare",
+    "set_name": "Shrouded Fable",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Janine's Secret Art",
+    "number": "59",
+    "rarity": "Uncommon",
+    "set_name": "Shrouded Fable",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Neutralization Zone",
+    "number": "60",
+    "rarity": "ACE SPEC Rare",
+    "set_name": "Shrouded Fable",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Night Stretcher",
+    "number": "61",
+    "rarity": "Uncommon",
+    "set_name": "Shrouded Fable",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Pok\u00e9 Vital A",
+    "number": "62",
+    "rarity": "ACE SPEC Rare",
+    "set_name": "Shrouded Fable",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Powerglass",
+    "number": "63",
+    "rarity": "Uncommon",
+    "set_name": "Shrouded Fable",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Xerosic's Machinations",
+    "number": "64",
+    "rarity": "Uncommon",
+    "set_name": "Shrouded Fable",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Tapu Bulu",
+    "number": "65",
+    "rarity": "Illustration Rare",
+    "set_name": "Shrouded Fable",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Houndoom",
+    "number": "66",
+    "rarity": "Illustration Rare",
+    "set_name": "Shrouded Fable",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Horsea",
+    "number": "67",
+    "rarity": "Illustration Rare",
+    "set_name": "Shrouded Fable",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Duskull",
+    "number": "68",
+    "rarity": "Illustration Rare",
+    "set_name": "Shrouded Fable",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Dusclops",
+    "number": "69",
+    "rarity": "Illustration Rare",
+    "set_name": "Shrouded Fable",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Dusknoir",
+    "number": "70",
+    "rarity": "Illustration Rare",
+    "set_name": "Shrouded Fable",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Cresselia",
+    "number": "71",
+    "rarity": "Illustration Rare",
+    "set_name": "Shrouded Fable",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Munkidori",
+    "number": "72",
+    "rarity": "Illustration Rare",
+    "set_name": "Shrouded Fable",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Fezandipiti",
+    "number": "73",
+    "rarity": "Illustration Rare",
+    "set_name": "Shrouded Fable",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Okidogi",
+    "number": "74",
+    "rarity": "Illustration Rare",
+    "set_name": "Shrouded Fable",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Zorua",
+    "number": "75",
+    "rarity": "Illustration Rare",
+    "set_name": "Shrouded Fable",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Cufant",
+    "number": "76",
+    "rarity": "Illustration Rare",
+    "set_name": "Shrouded Fable",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Fraxure",
+    "number": "77",
+    "rarity": "Illustration Rare",
+    "set_name": "Shrouded Fable",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Persian",
+    "number": "78",
+    "rarity": "Illustration Rare",
+    "set_name": "Shrouded Fable",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Bewear",
+    "number": "79",
+    "rarity": "Illustration Rare",
+    "set_name": "Shrouded Fable",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Kingdra ex",
+    "number": "80",
+    "rarity": "Ultra Rare",
+    "set_name": "Shrouded Fable",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Revavroom ex",
+    "number": "81",
+    "rarity": "Ultra Rare",
+    "set_name": "Shrouded Fable",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Okidogi ex",
+    "number": "82",
+    "rarity": "Ultra Rare",
+    "set_name": "Shrouded Fable",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Munkidori ex",
+    "number": "83",
+    "rarity": "Ultra Rare",
+    "set_name": "Shrouded Fable",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Fezandipiti ex",
+    "number": "84",
+    "rarity": "Ultra Rare",
+    "set_name": "Shrouded Fable",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Pecharunt ex",
+    "number": "85",
+    "rarity": "Ultra Rare",
+    "set_name": "Shrouded Fable",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Cassiopeia",
+    "number": "86",
+    "rarity": "Ultra Rare",
+    "set_name": "Shrouded Fable",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Colress's Tenacity",
+    "number": "87",
+    "rarity": "Ultra Rare",
+    "set_name": "Shrouded Fable",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Janine's Secret Art",
+    "number": "88",
+    "rarity": "Ultra Rare",
+    "set_name": "Shrouded Fable",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Xerosic's Machinations",
+    "number": "89",
+    "rarity": "Ultra Rare",
+    "set_name": "Shrouded Fable",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Okidogi ex",
+    "number": "90",
+    "rarity": "Special Illustration Rare",
+    "set_name": "Shrouded Fable",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Munkidori ex",
+    "number": "91",
+    "rarity": "Special Illustration Rare",
+    "set_name": "Shrouded Fable",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Fezandipiti ex",
+    "number": "92",
+    "rarity": "Special Illustration Rare",
+    "set_name": "Shrouded Fable",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Pecharunt ex",
+    "number": "93",
+    "rarity": "Special Illustration Rare",
+    "set_name": "Shrouded Fable",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Cassiopeia",
+    "number": "94",
+    "rarity": "Special Illustration Rare",
+    "set_name": "Shrouded Fable",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Pecharunt ex",
+    "number": "95",
+    "rarity": "Hyper Rare",
+    "set_name": "Shrouded Fable",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Earthen Vessel",
+    "number": "96",
+    "rarity": "Hyper Rare",
+    "set_name": "Shrouded Fable",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Powerglass",
+    "number": "97",
+    "rarity": "Hyper Rare",
+    "set_name": "Shrouded Fable",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Basic Darkness Energy",
+    "number": "98",
+    "rarity": "Hyper Rare",
+    "set_name": "Shrouded Fable",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Basic Metal Energy",
+    "number": "99",
+    "rarity": "Hyper Rare",
+    "set_name": "Shrouded Fable",
+    "set_series": "Scarlet & Violet"
+  }
+]

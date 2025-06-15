@@ -1,0 +1,772 @@
+[
+  {
+    "name": "Caterpie",
+    "number": "1",
+    "rarity": "Common",
+    "set_name": "Flashfire",
+    "set_series": "XY"
+  },
+  {
+    "name": "Metapod",
+    "number": "2",
+    "rarity": "Uncommon",
+    "set_name": "Flashfire",
+    "set_series": "XY"
+  },
+  {
+    "name": "Butterfree",
+    "number": "3",
+    "rarity": "Rare",
+    "set_name": "Flashfire",
+    "set_series": "XY"
+  },
+  {
+    "name": "Pineco",
+    "number": "4",
+    "rarity": "Common",
+    "set_name": "Flashfire",
+    "set_series": "XY"
+  },
+  {
+    "name": "Seedot",
+    "number": "5",
+    "rarity": "Common",
+    "set_name": "Flashfire",
+    "set_series": "XY"
+  },
+  {
+    "name": "Nuzleaf",
+    "number": "6",
+    "rarity": "Uncommon",
+    "set_name": "Flashfire",
+    "set_series": "XY"
+  },
+  {
+    "name": "Shiftry",
+    "number": "7",
+    "rarity": "Rare Holo",
+    "set_name": "Flashfire",
+    "set_series": "XY"
+  },
+  {
+    "name": "Roselia",
+    "number": "8",
+    "rarity": "Common",
+    "set_name": "Flashfire",
+    "set_series": "XY"
+  },
+  {
+    "name": "Roserade",
+    "number": "9",
+    "rarity": "Uncommon",
+    "set_name": "Flashfire",
+    "set_series": "XY"
+  },
+  {
+    "name": "Maractus",
+    "number": "10",
+    "rarity": "Uncommon",
+    "set_name": "Flashfire",
+    "set_series": "XY"
+  },
+  {
+    "name": "Charizard-EX",
+    "number": "11",
+    "rarity": "Rare Holo EX",
+    "set_name": "Flashfire",
+    "set_series": "XY"
+  },
+  {
+    "name": "Charizard-EX",
+    "number": "12",
+    "rarity": "Rare Holo EX",
+    "set_name": "Flashfire",
+    "set_series": "XY"
+  },
+  {
+    "name": "M Charizard-EX",
+    "number": "13",
+    "rarity": "Rare Holo EX",
+    "set_name": "Flashfire",
+    "set_series": "XY"
+  },
+  {
+    "name": "Ponyta",
+    "number": "14",
+    "rarity": "Common",
+    "set_name": "Flashfire",
+    "set_series": "XY"
+  },
+  {
+    "name": "Rapidash",
+    "number": "15",
+    "rarity": "Uncommon",
+    "set_name": "Flashfire",
+    "set_series": "XY"
+  },
+  {
+    "name": "Torkoal",
+    "number": "16",
+    "rarity": "Uncommon",
+    "set_name": "Flashfire",
+    "set_series": "XY"
+  },
+  {
+    "name": "Fletchinder",
+    "number": "17",
+    "rarity": "Uncommon",
+    "set_name": "Flashfire",
+    "set_series": "XY"
+  },
+  {
+    "name": "Litleo",
+    "number": "18",
+    "rarity": "Common",
+    "set_name": "Flashfire",
+    "set_series": "XY"
+  },
+  {
+    "name": "Litleo",
+    "number": "19",
+    "rarity": "Common",
+    "set_name": "Flashfire",
+    "set_series": "XY"
+  },
+  {
+    "name": "Pyroar",
+    "number": "20",
+    "rarity": "Rare Holo",
+    "set_name": "Flashfire",
+    "set_series": "XY"
+  },
+  {
+    "name": "Qwilfish",
+    "number": "21",
+    "rarity": "Rare",
+    "set_name": "Flashfire",
+    "set_series": "XY"
+  },
+  {
+    "name": "Feebas",
+    "number": "22",
+    "rarity": "Common",
+    "set_name": "Flashfire",
+    "set_series": "XY"
+  },
+  {
+    "name": "Milotic",
+    "number": "23",
+    "rarity": "Rare Holo",
+    "set_name": "Flashfire",
+    "set_series": "XY"
+  },
+  {
+    "name": "Spheal",
+    "number": "24",
+    "rarity": "Common",
+    "set_name": "Flashfire",
+    "set_series": "XY"
+  },
+  {
+    "name": "Sealeo",
+    "number": "25",
+    "rarity": "Uncommon",
+    "set_name": "Flashfire",
+    "set_series": "XY"
+  },
+  {
+    "name": "Walrein",
+    "number": "26",
+    "rarity": "Rare",
+    "set_name": "Flashfire",
+    "set_series": "XY"
+  },
+  {
+    "name": "Luvdisc",
+    "number": "27",
+    "rarity": "Uncommon",
+    "set_name": "Flashfire",
+    "set_series": "XY"
+  },
+  {
+    "name": "Buizel",
+    "number": "28",
+    "rarity": "Common",
+    "set_name": "Flashfire",
+    "set_series": "XY"
+  },
+  {
+    "name": "Floatzel",
+    "number": "29",
+    "rarity": "Rare",
+    "set_name": "Flashfire",
+    "set_series": "XY"
+  },
+  {
+    "name": "Bergmite",
+    "number": "30",
+    "rarity": "Common",
+    "set_name": "Flashfire",
+    "set_series": "XY"
+  },
+  {
+    "name": "Avalugg",
+    "number": "31",
+    "rarity": "Uncommon",
+    "set_name": "Flashfire",
+    "set_series": "XY"
+  },
+  {
+    "name": "Shinx",
+    "number": "32",
+    "rarity": "Common",
+    "set_name": "Flashfire",
+    "set_series": "XY"
+  },
+  {
+    "name": "Luxio",
+    "number": "33",
+    "rarity": "Uncommon",
+    "set_name": "Flashfire",
+    "set_series": "XY"
+  },
+  {
+    "name": "Luxray",
+    "number": "34",
+    "rarity": "Rare",
+    "set_name": "Flashfire",
+    "set_series": "XY"
+  },
+  {
+    "name": "Magnezone-EX",
+    "number": "35",
+    "rarity": "Rare Holo EX",
+    "set_name": "Flashfire",
+    "set_series": "XY"
+  },
+  {
+    "name": "Helioptile",
+    "number": "36",
+    "rarity": "Common",
+    "set_name": "Flashfire",
+    "set_series": "XY"
+  },
+  {
+    "name": "Heliolisk",
+    "number": "37",
+    "rarity": "Rare",
+    "set_name": "Flashfire",
+    "set_series": "XY"
+  },
+  {
+    "name": "Duskull",
+    "number": "38",
+    "rarity": "Common",
+    "set_name": "Flashfire",
+    "set_series": "XY"
+  },
+  {
+    "name": "Dusclops",
+    "number": "39",
+    "rarity": "Uncommon",
+    "set_name": "Flashfire",
+    "set_series": "XY"
+  },
+  {
+    "name": "Dusknoir",
+    "number": "40",
+    "rarity": "Rare Holo",
+    "set_name": "Flashfire",
+    "set_series": "XY"
+  },
+  {
+    "name": "Toxicroak-EX",
+    "number": "41",
+    "rarity": "Rare Holo EX",
+    "set_name": "Flashfire",
+    "set_series": "XY"
+  },
+  {
+    "name": "Espurr",
+    "number": "42",
+    "rarity": "Common",
+    "set_name": "Flashfire",
+    "set_series": "XY"
+  },
+  {
+    "name": "Meowstic",
+    "number": "43",
+    "rarity": "Rare",
+    "set_name": "Flashfire",
+    "set_series": "XY"
+  },
+  {
+    "name": "Skrelp",
+    "number": "44",
+    "rarity": "Common",
+    "set_name": "Flashfire",
+    "set_series": "XY"
+  },
+  {
+    "name": "Geodude",
+    "number": "45",
+    "rarity": "Common",
+    "set_name": "Flashfire",
+    "set_series": "XY"
+  },
+  {
+    "name": "Graveler",
+    "number": "46",
+    "rarity": "Uncommon",
+    "set_name": "Flashfire",
+    "set_series": "XY"
+  },
+  {
+    "name": "Golem",
+    "number": "47",
+    "rarity": "Rare",
+    "set_name": "Flashfire",
+    "set_series": "XY"
+  },
+  {
+    "name": "Binacle",
+    "number": "48",
+    "rarity": "Common",
+    "set_name": "Flashfire",
+    "set_series": "XY"
+  },
+  {
+    "name": "Barbaracle",
+    "number": "49",
+    "rarity": "Rare",
+    "set_name": "Flashfire",
+    "set_series": "XY"
+  },
+  {
+    "name": "Sneasel",
+    "number": "50",
+    "rarity": "Uncommon",
+    "set_name": "Flashfire",
+    "set_series": "XY"
+  },
+  {
+    "name": "Sneasel",
+    "number": "51",
+    "rarity": "Common",
+    "set_name": "Flashfire",
+    "set_series": "XY"
+  },
+  {
+    "name": "Weavile",
+    "number": "52",
+    "rarity": "Rare",
+    "set_name": "Flashfire",
+    "set_series": "XY"
+  },
+  {
+    "name": "Stunky",
+    "number": "53",
+    "rarity": "Common",
+    "set_name": "Flashfire",
+    "set_series": "XY"
+  },
+  {
+    "name": "Stunky",
+    "number": "54",
+    "rarity": "Common",
+    "set_name": "Flashfire",
+    "set_series": "XY"
+  },
+  {
+    "name": "Skuntank",
+    "number": "55",
+    "rarity": "Rare",
+    "set_name": "Flashfire",
+    "set_series": "XY"
+  },
+  {
+    "name": "Sandile",
+    "number": "56",
+    "rarity": "Common",
+    "set_name": "Flashfire",
+    "set_series": "XY"
+  },
+  {
+    "name": "Krokorok",
+    "number": "57",
+    "rarity": "Uncommon",
+    "set_name": "Flashfire",
+    "set_series": "XY"
+  },
+  {
+    "name": "Scraggy",
+    "number": "58",
+    "rarity": "Common",
+    "set_name": "Flashfire",
+    "set_series": "XY"
+  },
+  {
+    "name": "Scrafty",
+    "number": "59",
+    "rarity": "Rare",
+    "set_name": "Flashfire",
+    "set_series": "XY"
+  },
+  {
+    "name": "Forretress",
+    "number": "60",
+    "rarity": "Rare",
+    "set_name": "Flashfire",
+    "set_series": "XY"
+  },
+  {
+    "name": "Durant",
+    "number": "61",
+    "rarity": "Rare",
+    "set_name": "Flashfire",
+    "set_series": "XY"
+  },
+  {
+    "name": "Flab\u00e9b\u00e9",
+    "number": "62",
+    "rarity": "Common",
+    "set_name": "Flashfire",
+    "set_series": "XY"
+  },
+  {
+    "name": "Flab\u00e9b\u00e9",
+    "number": "63",
+    "rarity": "Common",
+    "set_name": "Flashfire",
+    "set_series": "XY"
+  },
+  {
+    "name": "Floette",
+    "number": "64",
+    "rarity": "Rare",
+    "set_name": "Flashfire",
+    "set_series": "XY"
+  },
+  {
+    "name": "Floette",
+    "number": "65",
+    "rarity": "Uncommon",
+    "set_name": "Flashfire",
+    "set_series": "XY"
+  },
+  {
+    "name": "Florges",
+    "number": "66",
+    "rarity": "Rare Holo",
+    "set_name": "Flashfire",
+    "set_series": "XY"
+  },
+  {
+    "name": "Spritzee",
+    "number": "67",
+    "rarity": "Common",
+    "set_name": "Flashfire",
+    "set_series": "XY"
+  },
+  {
+    "name": "Carbink",
+    "number": "68",
+    "rarity": "Rare Holo",
+    "set_name": "Flashfire",
+    "set_series": "XY"
+  },
+  {
+    "name": "M Charizard-EX",
+    "number": "69",
+    "rarity": "Rare Holo EX",
+    "set_name": "Flashfire",
+    "set_series": "XY"
+  },
+  {
+    "name": "Druddigon",
+    "number": "70",
+    "rarity": "Rare Holo",
+    "set_name": "Flashfire",
+    "set_series": "XY"
+  },
+  {
+    "name": "Dragalge",
+    "number": "71",
+    "rarity": "Rare",
+    "set_name": "Flashfire",
+    "set_series": "XY"
+  },
+  {
+    "name": "Goomy",
+    "number": "72",
+    "rarity": "Common",
+    "set_name": "Flashfire",
+    "set_series": "XY"
+  },
+  {
+    "name": "Sliggoo",
+    "number": "73",
+    "rarity": "Uncommon",
+    "set_name": "Flashfire",
+    "set_series": "XY"
+  },
+  {
+    "name": "Goodra",
+    "number": "74",
+    "rarity": "Rare Holo",
+    "set_name": "Flashfire",
+    "set_series": "XY"
+  },
+  {
+    "name": "Pidgey",
+    "number": "75",
+    "rarity": "Common",
+    "set_name": "Flashfire",
+    "set_series": "XY"
+  },
+  {
+    "name": "Pidgeotto",
+    "number": "76",
+    "rarity": "Uncommon",
+    "set_name": "Flashfire",
+    "set_series": "XY"
+  },
+  {
+    "name": "Pidgeot",
+    "number": "77",
+    "rarity": "Rare",
+    "set_name": "Flashfire",
+    "set_series": "XY"
+  },
+  {
+    "name": "Kangaskhan-EX",
+    "number": "78",
+    "rarity": "Rare Holo EX",
+    "set_name": "Flashfire",
+    "set_series": "XY"
+  },
+  {
+    "name": "M Kangaskhan-EX",
+    "number": "79",
+    "rarity": "Rare Holo EX",
+    "set_name": "Flashfire",
+    "set_series": "XY"
+  },
+  {
+    "name": "Snorlax",
+    "number": "80",
+    "rarity": "Rare",
+    "set_name": "Flashfire",
+    "set_series": "XY"
+  },
+  {
+    "name": "Sentret",
+    "number": "81",
+    "rarity": "Common",
+    "set_name": "Flashfire",
+    "set_series": "XY"
+  },
+  {
+    "name": "Furret",
+    "number": "82",
+    "rarity": "Rare",
+    "set_name": "Flashfire",
+    "set_series": "XY"
+  },
+  {
+    "name": "Miltank",
+    "number": "83",
+    "rarity": "Uncommon",
+    "set_name": "Flashfire",
+    "set_series": "XY"
+  },
+  {
+    "name": "Buneary",
+    "number": "84",
+    "rarity": "Common",
+    "set_name": "Flashfire",
+    "set_series": "XY"
+  },
+  {
+    "name": "Lopunny",
+    "number": "85",
+    "rarity": "Rare",
+    "set_name": "Flashfire",
+    "set_series": "XY"
+  },
+  {
+    "name": "Fletchling",
+    "number": "86",
+    "rarity": "Common",
+    "set_name": "Flashfire",
+    "set_series": "XY"
+  },
+  {
+    "name": "Furfrou",
+    "number": "87",
+    "rarity": "Uncommon",
+    "set_name": "Flashfire",
+    "set_series": "XY"
+  },
+  {
+    "name": "Blacksmith",
+    "number": "88",
+    "rarity": "Uncommon",
+    "set_name": "Flashfire",
+    "set_series": "XY"
+  },
+  {
+    "name": "Blacksmith",
+    "number": "88a",
+    "rarity": "Rare Ultra",
+    "set_name": "Flashfire",
+    "set_series": "XY"
+  },
+  {
+    "name": "Fiery Torch",
+    "number": "89",
+    "rarity": "Uncommon",
+    "set_name": "Flashfire",
+    "set_series": "XY"
+  },
+  {
+    "name": "Lysandre",
+    "number": "90",
+    "rarity": "Uncommon",
+    "set_name": "Flashfire",
+    "set_series": "XY"
+  },
+  {
+    "name": "Magnetic Storm",
+    "number": "91",
+    "rarity": "Uncommon",
+    "set_name": "Flashfire",
+    "set_series": "XY"
+  },
+  {
+    "name": "Pal Pad",
+    "number": "92",
+    "rarity": "Uncommon",
+    "set_name": "Flashfire",
+    "set_series": "XY"
+  },
+  {
+    "name": "Pok\u00e9mon Center Lady",
+    "number": "93",
+    "rarity": "Uncommon",
+    "set_name": "Flashfire",
+    "set_series": "XY"
+  },
+  {
+    "name": "Pok\u00e9mon Fan Club",
+    "number": "94",
+    "rarity": "Uncommon",
+    "set_name": "Flashfire",
+    "set_series": "XY"
+  },
+  {
+    "name": "Protection Cube",
+    "number": "95",
+    "rarity": "Uncommon",
+    "set_name": "Flashfire",
+    "set_series": "XY"
+  },
+  {
+    "name": "Sacred Ash",
+    "number": "96",
+    "rarity": "Uncommon",
+    "set_name": "Flashfire",
+    "set_series": "XY"
+  },
+  {
+    "name": "Startling Megaphone",
+    "number": "97",
+    "rarity": "Uncommon",
+    "set_name": "Flashfire",
+    "set_series": "XY"
+  },
+  {
+    "name": "Trick Shovel",
+    "number": "98",
+    "rarity": "Uncommon",
+    "set_name": "Flashfire",
+    "set_series": "XY"
+  },
+  {
+    "name": "Ultra Ball",
+    "number": "99",
+    "rarity": "Uncommon",
+    "set_name": "Flashfire",
+    "set_series": "XY"
+  },
+  {
+    "name": "Charizard-EX",
+    "number": "100",
+    "rarity": "Rare Ultra",
+    "set_name": "Flashfire",
+    "set_series": "XY"
+  },
+  {
+    "name": "Magnezone-EX",
+    "number": "101",
+    "rarity": "Rare Ultra",
+    "set_name": "Flashfire",
+    "set_series": "XY"
+  },
+  {
+    "name": "Toxicroak-EX",
+    "number": "102",
+    "rarity": "Rare Ultra",
+    "set_name": "Flashfire",
+    "set_series": "XY"
+  },
+  {
+    "name": "Kangaskhan-EX",
+    "number": "103",
+    "rarity": "Rare Ultra",
+    "set_name": "Flashfire",
+    "set_series": "XY"
+  },
+  {
+    "name": "Lysandre",
+    "number": "104",
+    "rarity": "Rare Ultra",
+    "set_name": "Flashfire",
+    "set_series": "XY"
+  },
+  {
+    "name": "Pok\u00e9mon Center Lady",
+    "number": "105",
+    "rarity": "Rare Ultra",
+    "set_name": "Flashfire",
+    "set_series": "XY"
+  },
+  {
+    "name": "Pok\u00e9mon Fan Club",
+    "number": "106",
+    "rarity": "Rare Ultra",
+    "set_name": "Flashfire",
+    "set_series": "XY"
+  },
+  {
+    "name": "M Charizard-EX",
+    "number": "107",
+    "rarity": "Rare Secret",
+    "set_name": "Flashfire",
+    "set_series": "XY"
+  },
+  {
+    "name": "M Charizard-EX",
+    "number": "108",
+    "rarity": "Rare Secret",
+    "set_name": "Flashfire",
+    "set_series": "XY"
+  },
+  {
+    "name": "M Kangaskhan-EX",
+    "number": "109",
+    "rarity": "Rare Secret",
+    "set_name": "Flashfire",
+    "set_series": "XY"
+  }
+]

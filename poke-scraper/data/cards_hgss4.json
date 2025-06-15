@@ -1,0 +1,723 @@
+[
+  {
+    "name": "Aggron",
+    "number": "1",
+    "rarity": "Rare Holo",
+    "set_name": "HS\u2014Triumphant",
+    "set_series": "HeartGold & SoulSilver"
+  },
+  {
+    "name": "Altaria",
+    "number": "2",
+    "rarity": "Rare Holo",
+    "set_name": "HS\u2014Triumphant",
+    "set_series": "HeartGold & SoulSilver"
+  },
+  {
+    "name": "Celebi",
+    "number": "3",
+    "rarity": "Rare Holo",
+    "set_name": "HS\u2014Triumphant",
+    "set_series": "HeartGold & SoulSilver"
+  },
+  {
+    "name": "Drapion",
+    "number": "4",
+    "rarity": "Rare Holo",
+    "set_name": "HS\u2014Triumphant",
+    "set_series": "HeartGold & SoulSilver"
+  },
+  {
+    "name": "Mamoswine",
+    "number": "5",
+    "rarity": "Rare Holo",
+    "set_name": "HS\u2014Triumphant",
+    "set_series": "HeartGold & SoulSilver"
+  },
+  {
+    "name": "Nidoking",
+    "number": "6",
+    "rarity": "Rare Holo",
+    "set_name": "HS\u2014Triumphant",
+    "set_series": "HeartGold & SoulSilver"
+  },
+  {
+    "name": "Porygon-Z",
+    "number": "7",
+    "rarity": "Rare Holo",
+    "set_name": "HS\u2014Triumphant",
+    "set_series": "HeartGold & SoulSilver"
+  },
+  {
+    "name": "Rapidash",
+    "number": "8",
+    "rarity": "Rare Holo",
+    "set_name": "HS\u2014Triumphant",
+    "set_series": "HeartGold & SoulSilver"
+  },
+  {
+    "name": "Solrock",
+    "number": "9",
+    "rarity": "Rare Holo",
+    "set_name": "HS\u2014Triumphant",
+    "set_series": "HeartGold & SoulSilver"
+  },
+  {
+    "name": "Spiritomb",
+    "number": "10",
+    "rarity": "Rare Holo",
+    "set_name": "HS\u2014Triumphant",
+    "set_series": "HeartGold & SoulSilver"
+  },
+  {
+    "name": "Venomoth",
+    "number": "11",
+    "rarity": "Rare Holo",
+    "set_name": "HS\u2014Triumphant",
+    "set_series": "HeartGold & SoulSilver"
+  },
+  {
+    "name": "Victreebel",
+    "number": "12",
+    "rarity": "Rare Holo",
+    "set_name": "HS\u2014Triumphant",
+    "set_series": "HeartGold & SoulSilver"
+  },
+  {
+    "name": "Ambipom",
+    "number": "13",
+    "rarity": "Rare",
+    "set_name": "HS\u2014Triumphant",
+    "set_series": "HeartGold & SoulSilver"
+  },
+  {
+    "name": "Banette",
+    "number": "14",
+    "rarity": "Rare",
+    "set_name": "HS\u2014Triumphant",
+    "set_series": "HeartGold & SoulSilver"
+  },
+  {
+    "name": "Bronzong",
+    "number": "15",
+    "rarity": "Rare",
+    "set_name": "HS\u2014Triumphant",
+    "set_series": "HeartGold & SoulSilver"
+  },
+  {
+    "name": "Carnivine",
+    "number": "16",
+    "rarity": "Rare",
+    "set_name": "HS\u2014Triumphant",
+    "set_series": "HeartGold & SoulSilver"
+  },
+  {
+    "name": "Ditto",
+    "number": "17",
+    "rarity": "Rare",
+    "set_name": "HS\u2014Triumphant",
+    "set_series": "HeartGold & SoulSilver"
+  },
+  {
+    "name": "Dragonite",
+    "number": "18",
+    "rarity": "Rare",
+    "set_name": "HS\u2014Triumphant",
+    "set_series": "HeartGold & SoulSilver"
+  },
+  {
+    "name": "Dugtrio",
+    "number": "19",
+    "rarity": "Rare",
+    "set_name": "HS\u2014Triumphant",
+    "set_series": "HeartGold & SoulSilver"
+  },
+  {
+    "name": "Electivire",
+    "number": "20",
+    "rarity": "Rare",
+    "set_name": "HS\u2014Triumphant",
+    "set_series": "HeartGold & SoulSilver"
+  },
+  {
+    "name": "Elekid",
+    "number": "21",
+    "rarity": "Rare",
+    "set_name": "HS\u2014Triumphant",
+    "set_series": "HeartGold & SoulSilver"
+  },
+  {
+    "name": "Golduck",
+    "number": "22",
+    "rarity": "Rare",
+    "set_name": "HS\u2014Triumphant",
+    "set_series": "HeartGold & SoulSilver"
+  },
+  {
+    "name": "Grumpig",
+    "number": "23",
+    "rarity": "Rare",
+    "set_name": "HS\u2014Triumphant",
+    "set_series": "HeartGold & SoulSilver"
+  },
+  {
+    "name": "Kricketune",
+    "number": "24",
+    "rarity": "Rare",
+    "set_name": "HS\u2014Triumphant",
+    "set_series": "HeartGold & SoulSilver"
+  },
+  {
+    "name": "Lunatone",
+    "number": "25",
+    "rarity": "Rare",
+    "set_name": "HS\u2014Triumphant",
+    "set_series": "HeartGold & SoulSilver"
+  },
+  {
+    "name": "Machamp",
+    "number": "26",
+    "rarity": "Rare",
+    "set_name": "HS\u2014Triumphant",
+    "set_series": "HeartGold & SoulSilver"
+  },
+  {
+    "name": "Magmortar",
+    "number": "27",
+    "rarity": "Rare",
+    "set_name": "HS\u2014Triumphant",
+    "set_series": "HeartGold & SoulSilver"
+  },
+  {
+    "name": "Nidoqueen",
+    "number": "28",
+    "rarity": "Rare",
+    "set_name": "HS\u2014Triumphant",
+    "set_series": "HeartGold & SoulSilver"
+  },
+  {
+    "name": "Pidgeot",
+    "number": "29",
+    "rarity": "Rare",
+    "set_name": "HS\u2014Triumphant",
+    "set_series": "HeartGold & SoulSilver"
+  },
+  {
+    "name": "Sharpedo",
+    "number": "30",
+    "rarity": "Rare",
+    "set_name": "HS\u2014Triumphant",
+    "set_series": "HeartGold & SoulSilver"
+  },
+  {
+    "name": "Wailord",
+    "number": "31",
+    "rarity": "Rare",
+    "set_name": "HS\u2014Triumphant",
+    "set_series": "HeartGold & SoulSilver"
+  },
+  {
+    "name": "Dragonair",
+    "number": "32",
+    "rarity": "Uncommon",
+    "set_name": "HS\u2014Triumphant",
+    "set_series": "HeartGold & SoulSilver"
+  },
+  {
+    "name": "Electabuzz",
+    "number": "33",
+    "rarity": "Uncommon",
+    "set_name": "HS\u2014Triumphant",
+    "set_series": "HeartGold & SoulSilver"
+  },
+  {
+    "name": "Electrode",
+    "number": "34",
+    "rarity": "Uncommon",
+    "set_name": "HS\u2014Triumphant",
+    "set_series": "HeartGold & SoulSilver"
+  },
+  {
+    "name": "Haunter",
+    "number": "35",
+    "rarity": "Uncommon",
+    "set_name": "HS\u2014Triumphant",
+    "set_series": "HeartGold & SoulSilver"
+  },
+  {
+    "name": "Kangaskhan",
+    "number": "36",
+    "rarity": "Uncommon",
+    "set_name": "HS\u2014Triumphant",
+    "set_series": "HeartGold & SoulSilver"
+  },
+  {
+    "name": "Lairon",
+    "number": "37",
+    "rarity": "Uncommon",
+    "set_name": "HS\u2014Triumphant",
+    "set_series": "HeartGold & SoulSilver"
+  },
+  {
+    "name": "Lickilicky",
+    "number": "38",
+    "rarity": "Uncommon",
+    "set_name": "HS\u2014Triumphant",
+    "set_series": "HeartGold & SoulSilver"
+  },
+  {
+    "name": "Luvdisc",
+    "number": "39",
+    "rarity": "Uncommon",
+    "set_name": "HS\u2014Triumphant",
+    "set_series": "HeartGold & SoulSilver"
+  },
+  {
+    "name": "Machoke",
+    "number": "40",
+    "rarity": "Uncommon",
+    "set_name": "HS\u2014Triumphant",
+    "set_series": "HeartGold & SoulSilver"
+  },
+  {
+    "name": "Magby",
+    "number": "41",
+    "rarity": "Uncommon",
+    "set_name": "HS\u2014Triumphant",
+    "set_series": "HeartGold & SoulSilver"
+  },
+  {
+    "name": "Magmar",
+    "number": "42",
+    "rarity": "Uncommon",
+    "set_name": "HS\u2014Triumphant",
+    "set_series": "HeartGold & SoulSilver"
+  },
+  {
+    "name": "Magneton",
+    "number": "43",
+    "rarity": "Uncommon",
+    "set_name": "HS\u2014Triumphant",
+    "set_series": "HeartGold & SoulSilver"
+  },
+  {
+    "name": "Marowak",
+    "number": "44",
+    "rarity": "Uncommon",
+    "set_name": "HS\u2014Triumphant",
+    "set_series": "HeartGold & SoulSilver"
+  },
+  {
+    "name": "Nidorina",
+    "number": "45",
+    "rarity": "Uncommon",
+    "set_name": "HS\u2014Triumphant",
+    "set_series": "HeartGold & SoulSilver"
+  },
+  {
+    "name": "Nidorino",
+    "number": "46",
+    "rarity": "Uncommon",
+    "set_name": "HS\u2014Triumphant",
+    "set_series": "HeartGold & SoulSilver"
+  },
+  {
+    "name": "Pidgeotto",
+    "number": "47",
+    "rarity": "Uncommon",
+    "set_name": "HS\u2014Triumphant",
+    "set_series": "HeartGold & SoulSilver"
+  },
+  {
+    "name": "Piloswine",
+    "number": "48",
+    "rarity": "Uncommon",
+    "set_name": "HS\u2014Triumphant",
+    "set_series": "HeartGold & SoulSilver"
+  },
+  {
+    "name": "Porygon2",
+    "number": "49",
+    "rarity": "Uncommon",
+    "set_name": "HS\u2014Triumphant",
+    "set_series": "HeartGold & SoulSilver"
+  },
+  {
+    "name": "Tentacruel",
+    "number": "50",
+    "rarity": "Uncommon",
+    "set_name": "HS\u2014Triumphant",
+    "set_series": "HeartGold & SoulSilver"
+  },
+  {
+    "name": "Unown",
+    "number": "51",
+    "rarity": "Uncommon",
+    "set_name": "HS\u2014Triumphant",
+    "set_series": "HeartGold & SoulSilver"
+  },
+  {
+    "name": "Wailmer",
+    "number": "52",
+    "rarity": "Uncommon",
+    "set_name": "HS\u2014Triumphant",
+    "set_series": "HeartGold & SoulSilver"
+  },
+  {
+    "name": "Weepinbell",
+    "number": "53",
+    "rarity": "Uncommon",
+    "set_name": "HS\u2014Triumphant",
+    "set_series": "HeartGold & SoulSilver"
+  },
+  {
+    "name": "Yanmega",
+    "number": "54",
+    "rarity": "Uncommon",
+    "set_name": "HS\u2014Triumphant",
+    "set_series": "HeartGold & SoulSilver"
+  },
+  {
+    "name": "Aipom",
+    "number": "55",
+    "rarity": "Common",
+    "set_name": "HS\u2014Triumphant",
+    "set_series": "HeartGold & SoulSilver"
+  },
+  {
+    "name": "Aron",
+    "number": "56",
+    "rarity": "Common",
+    "set_name": "HS\u2014Triumphant",
+    "set_series": "HeartGold & SoulSilver"
+  },
+  {
+    "name": "Bellsprout",
+    "number": "57",
+    "rarity": "Common",
+    "set_name": "HS\u2014Triumphant",
+    "set_series": "HeartGold & SoulSilver"
+  },
+  {
+    "name": "Bronzor",
+    "number": "58",
+    "rarity": "Common",
+    "set_name": "HS\u2014Triumphant",
+    "set_series": "HeartGold & SoulSilver"
+  },
+  {
+    "name": "Carvanha",
+    "number": "59",
+    "rarity": "Common",
+    "set_name": "HS\u2014Triumphant",
+    "set_series": "HeartGold & SoulSilver"
+  },
+  {
+    "name": "Cubone",
+    "number": "60",
+    "rarity": "Common",
+    "set_name": "HS\u2014Triumphant",
+    "set_series": "HeartGold & SoulSilver"
+  },
+  {
+    "name": "Diglett",
+    "number": "61",
+    "rarity": "Common",
+    "set_name": "HS\u2014Triumphant",
+    "set_series": "HeartGold & SoulSilver"
+  },
+  {
+    "name": "Dratini",
+    "number": "62",
+    "rarity": "Common",
+    "set_name": "HS\u2014Triumphant",
+    "set_series": "HeartGold & SoulSilver"
+  },
+  {
+    "name": "Gastly",
+    "number": "63",
+    "rarity": "Common",
+    "set_name": "HS\u2014Triumphant",
+    "set_series": "HeartGold & SoulSilver"
+  },
+  {
+    "name": "Illumise",
+    "number": "64",
+    "rarity": "Common",
+    "set_name": "HS\u2014Triumphant",
+    "set_series": "HeartGold & SoulSilver"
+  },
+  {
+    "name": "Kricketot",
+    "number": "65",
+    "rarity": "Common",
+    "set_name": "HS\u2014Triumphant",
+    "set_series": "HeartGold & SoulSilver"
+  },
+  {
+    "name": "Lickitung",
+    "number": "66",
+    "rarity": "Common",
+    "set_name": "HS\u2014Triumphant",
+    "set_series": "HeartGold & SoulSilver"
+  },
+  {
+    "name": "Machop",
+    "number": "67",
+    "rarity": "Common",
+    "set_name": "HS\u2014Triumphant",
+    "set_series": "HeartGold & SoulSilver"
+  },
+  {
+    "name": "Magnemite",
+    "number": "68",
+    "rarity": "Common",
+    "set_name": "HS\u2014Triumphant",
+    "set_series": "HeartGold & SoulSilver"
+  },
+  {
+    "name": "Nidoran \u2640",
+    "number": "69",
+    "rarity": "Common",
+    "set_name": "HS\u2014Triumphant",
+    "set_series": "HeartGold & SoulSilver"
+  },
+  {
+    "name": "Nidoran \u2642",
+    "number": "70",
+    "rarity": "Common",
+    "set_name": "HS\u2014Triumphant",
+    "set_series": "HeartGold & SoulSilver"
+  },
+  {
+    "name": "Pidgey",
+    "number": "71",
+    "rarity": "Common",
+    "set_name": "HS\u2014Triumphant",
+    "set_series": "HeartGold & SoulSilver"
+  },
+  {
+    "name": "Ponyta",
+    "number": "72",
+    "rarity": "Common",
+    "set_name": "HS\u2014Triumphant",
+    "set_series": "HeartGold & SoulSilver"
+  },
+  {
+    "name": "Porygon",
+    "number": "73",
+    "rarity": "Common",
+    "set_name": "HS\u2014Triumphant",
+    "set_series": "HeartGold & SoulSilver"
+  },
+  {
+    "name": "Psyduck",
+    "number": "74",
+    "rarity": "Common",
+    "set_name": "HS\u2014Triumphant",
+    "set_series": "HeartGold & SoulSilver"
+  },
+  {
+    "name": "Shuppet",
+    "number": "75",
+    "rarity": "Common",
+    "set_name": "HS\u2014Triumphant",
+    "set_series": "HeartGold & SoulSilver"
+  },
+  {
+    "name": "Skorupi",
+    "number": "76",
+    "rarity": "Common",
+    "set_name": "HS\u2014Triumphant",
+    "set_series": "HeartGold & SoulSilver"
+  },
+  {
+    "name": "Spoink",
+    "number": "77",
+    "rarity": "Common",
+    "set_name": "HS\u2014Triumphant",
+    "set_series": "HeartGold & SoulSilver"
+  },
+  {
+    "name": "Swablu",
+    "number": "78",
+    "rarity": "Common",
+    "set_name": "HS\u2014Triumphant",
+    "set_series": "HeartGold & SoulSilver"
+  },
+  {
+    "name": "Swinub",
+    "number": "79",
+    "rarity": "Common",
+    "set_name": "HS\u2014Triumphant",
+    "set_series": "HeartGold & SoulSilver"
+  },
+  {
+    "name": "Tentacool",
+    "number": "80",
+    "rarity": "Common",
+    "set_name": "HS\u2014Triumphant",
+    "set_series": "HeartGold & SoulSilver"
+  },
+  {
+    "name": "Venonat",
+    "number": "81",
+    "rarity": "Common",
+    "set_name": "HS\u2014Triumphant",
+    "set_series": "HeartGold & SoulSilver"
+  },
+  {
+    "name": "Volbeat",
+    "number": "82",
+    "rarity": "Common",
+    "set_name": "HS\u2014Triumphant",
+    "set_series": "HeartGold & SoulSilver"
+  },
+  {
+    "name": "Voltorb",
+    "number": "83",
+    "rarity": "Common",
+    "set_name": "HS\u2014Triumphant",
+    "set_series": "HeartGold & SoulSilver"
+  },
+  {
+    "name": "Yanma",
+    "number": "84",
+    "rarity": "Common",
+    "set_name": "HS\u2014Triumphant",
+    "set_series": "HeartGold & SoulSilver"
+  },
+  {
+    "name": "Black Belt",
+    "number": "85",
+    "rarity": "Uncommon",
+    "set_name": "HS\u2014Triumphant",
+    "set_series": "HeartGold & SoulSilver"
+  },
+  {
+    "name": "Indigo Plateau",
+    "number": "86",
+    "rarity": "Uncommon",
+    "set_name": "HS\u2014Triumphant",
+    "set_series": "HeartGold & SoulSilver"
+  },
+  {
+    "name": "Junk Arm",
+    "number": "87",
+    "rarity": "Uncommon",
+    "set_name": "HS\u2014Triumphant",
+    "set_series": "HeartGold & SoulSilver"
+  },
+  {
+    "name": "Seeker",
+    "number": "88",
+    "rarity": "Uncommon",
+    "set_name": "HS\u2014Triumphant",
+    "set_series": "HeartGold & SoulSilver"
+  },
+  {
+    "name": "Twins",
+    "number": "89",
+    "rarity": "Uncommon",
+    "set_name": "HS\u2014Triumphant",
+    "set_series": "HeartGold & SoulSilver"
+  },
+  {
+    "name": "Rescue Energy",
+    "number": "90",
+    "rarity": "Uncommon",
+    "set_name": "HS\u2014Triumphant",
+    "set_series": "HeartGold & SoulSilver"
+  },
+  {
+    "name": "Absol",
+    "number": "91",
+    "rarity": "Rare Prime",
+    "set_name": "HS\u2014Triumphant",
+    "set_series": "HeartGold & SoulSilver"
+  },
+  {
+    "name": "Celebi",
+    "number": "92",
+    "rarity": "Rare Prime",
+    "set_name": "HS\u2014Triumphant",
+    "set_series": "HeartGold & SoulSilver"
+  },
+  {
+    "name": "Electrode",
+    "number": "93",
+    "rarity": "Rare Prime",
+    "set_name": "HS\u2014Triumphant",
+    "set_series": "HeartGold & SoulSilver"
+  },
+  {
+    "name": "Gengar",
+    "number": "94",
+    "rarity": "Rare Prime",
+    "set_name": "HS\u2014Triumphant",
+    "set_series": "HeartGold & SoulSilver"
+  },
+  {
+    "name": "Machamp",
+    "number": "95",
+    "rarity": "Rare Prime",
+    "set_name": "HS\u2014Triumphant",
+    "set_series": "HeartGold & SoulSilver"
+  },
+  {
+    "name": "Magnezone",
+    "number": "96",
+    "rarity": "Rare Prime",
+    "set_name": "HS\u2014Triumphant",
+    "set_series": "HeartGold & SoulSilver"
+  },
+  {
+    "name": "Mew",
+    "number": "97",
+    "rarity": "Rare Prime",
+    "set_name": "HS\u2014Triumphant",
+    "set_series": "HeartGold & SoulSilver"
+  },
+  {
+    "name": "Yanmega",
+    "number": "98",
+    "rarity": "Rare Prime",
+    "set_name": "HS\u2014Triumphant",
+    "set_series": "HeartGold & SoulSilver"
+  },
+  {
+    "name": "Darkrai & Cresselia LEGEND",
+    "number": "99",
+    "rarity": "LEGEND",
+    "set_name": "HS\u2014Triumphant",
+    "set_series": "HeartGold & SoulSilver"
+  },
+  {
+    "name": "Darkrai & Cresselia LEGEND",
+    "number": "100",
+    "rarity": "LEGEND",
+    "set_name": "HS\u2014Triumphant",
+    "set_series": "HeartGold & SoulSilver"
+  },
+  {
+    "name": "Palkia & Dialga LEGEND",
+    "number": "101",
+    "rarity": "LEGEND",
+    "set_name": "HS\u2014Triumphant",
+    "set_series": "HeartGold & SoulSilver"
+  },
+  {
+    "name": "Palkia & Dialga LEGEND",
+    "number": "102",
+    "rarity": "LEGEND",
+    "set_name": "HS\u2014Triumphant",
+    "set_series": "HeartGold & SoulSilver"
+  },
+  {
+    "name": "Alph Lithograph",
+    "number": "FOUR",
+    "rarity": "Rare Secret",
+    "set_name": "HS\u2014Triumphant",
+    "set_series": "HeartGold & SoulSilver"
+  }
+]

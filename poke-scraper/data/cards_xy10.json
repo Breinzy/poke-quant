@@ -1,0 +1,905 @@
+[
+  {
+    "name": "Shuckle",
+    "number": "1",
+    "rarity": "Uncommon",
+    "set_name": "Fates Collide",
+    "set_series": "XY"
+  },
+  {
+    "name": "Burmy",
+    "number": "2",
+    "rarity": "Common",
+    "set_name": "Fates Collide",
+    "set_series": "XY"
+  },
+  {
+    "name": "Wormadam",
+    "number": "3",
+    "rarity": "Uncommon",
+    "set_name": "Fates Collide",
+    "set_series": "XY"
+  },
+  {
+    "name": "Mothim",
+    "number": "4",
+    "rarity": "Rare",
+    "set_name": "Fates Collide",
+    "set_series": "XY"
+  },
+  {
+    "name": "Snivy",
+    "number": "5",
+    "rarity": "Common",
+    "set_name": "Fates Collide",
+    "set_series": "XY"
+  },
+  {
+    "name": "Servine",
+    "number": "6",
+    "rarity": "Uncommon",
+    "set_name": "Fates Collide",
+    "set_series": "XY"
+  },
+  {
+    "name": "Serperior",
+    "number": "7",
+    "rarity": "Rare",
+    "set_name": "Fates Collide",
+    "set_series": "XY"
+  },
+  {
+    "name": "Deerling",
+    "number": "8",
+    "rarity": "Common",
+    "set_name": "Fates Collide",
+    "set_series": "XY"
+  },
+  {
+    "name": "Moltres",
+    "number": "9",
+    "rarity": "Rare",
+    "set_name": "Fates Collide",
+    "set_series": "XY"
+  },
+  {
+    "name": "Fennekin",
+    "number": "10",
+    "rarity": "Common",
+    "set_name": "Fates Collide",
+    "set_series": "XY"
+  },
+  {
+    "name": "Fennekin",
+    "number": "11",
+    "rarity": "Common",
+    "set_name": "Fates Collide",
+    "set_series": "XY"
+  },
+  {
+    "name": "Braixen",
+    "number": "12",
+    "rarity": "Uncommon",
+    "set_name": "Fates Collide",
+    "set_series": "XY"
+  },
+  {
+    "name": "Delphox",
+    "number": "13",
+    "rarity": "Rare Holo",
+    "set_name": "Fates Collide",
+    "set_series": "XY"
+  },
+  {
+    "name": "Delphox BREAK",
+    "number": "14",
+    "rarity": "Rare BREAK",
+    "set_name": "Fates Collide",
+    "set_series": "XY"
+  },
+  {
+    "name": "Seel",
+    "number": "15",
+    "rarity": "Common",
+    "set_name": "Fates Collide",
+    "set_series": "XY"
+  },
+  {
+    "name": "Dewgong",
+    "number": "16",
+    "rarity": "Uncommon",
+    "set_name": "Fates Collide",
+    "set_series": "XY"
+  },
+  {
+    "name": "Omanyte",
+    "number": "17",
+    "rarity": "Uncommon",
+    "set_name": "Fates Collide",
+    "set_series": "XY"
+  },
+  {
+    "name": "Omastar",
+    "number": "18",
+    "rarity": "Rare",
+    "set_name": "Fates Collide",
+    "set_series": "XY"
+  },
+  {
+    "name": "Omastar BREAK",
+    "number": "19",
+    "rarity": "Rare BREAK",
+    "set_name": "Fates Collide",
+    "set_series": "XY"
+  },
+  {
+    "name": "Glaceon-EX",
+    "number": "20",
+    "rarity": "Rare Holo EX",
+    "set_name": "Fates Collide",
+    "set_series": "XY"
+  },
+  {
+    "name": "White Kyurem",
+    "number": "21",
+    "rarity": "Rare Holo",
+    "set_name": "Fates Collide",
+    "set_series": "XY"
+  },
+  {
+    "name": "Binacle",
+    "number": "22",
+    "rarity": "Common",
+    "set_name": "Fates Collide",
+    "set_series": "XY"
+  },
+  {
+    "name": "Barbaracle",
+    "number": "23",
+    "rarity": "Rare",
+    "set_name": "Fates Collide",
+    "set_series": "XY"
+  },
+  {
+    "name": "Rotom",
+    "number": "24",
+    "rarity": "Rare",
+    "set_name": "Fates Collide",
+    "set_series": "XY"
+  },
+  {
+    "name": "Alakazam-EX",
+    "number": "25",
+    "rarity": "Rare Holo EX",
+    "set_name": "Fates Collide",
+    "set_series": "XY"
+  },
+  {
+    "name": "M Alakazam-EX",
+    "number": "26",
+    "rarity": "Rare Holo EX",
+    "set_name": "Fates Collide",
+    "set_series": "XY"
+  },
+  {
+    "name": "Koffing",
+    "number": "27",
+    "rarity": "Common",
+    "set_name": "Fates Collide",
+    "set_series": "XY"
+  },
+  {
+    "name": "Weezing",
+    "number": "28",
+    "rarity": "Uncommon",
+    "set_name": "Fates Collide",
+    "set_series": "XY"
+  },
+  {
+    "name": "Mew",
+    "number": "29",
+    "rarity": "Rare Holo",
+    "set_name": "Fates Collide",
+    "set_series": "XY"
+  },
+  {
+    "name": "Spoink",
+    "number": "30",
+    "rarity": "Common",
+    "set_name": "Fates Collide",
+    "set_series": "XY"
+  },
+  {
+    "name": "Grumpig",
+    "number": "31",
+    "rarity": "Rare",
+    "set_name": "Fates Collide",
+    "set_series": "XY"
+  },
+  {
+    "name": "Gothita",
+    "number": "32",
+    "rarity": "Common",
+    "set_name": "Fates Collide",
+    "set_series": "XY"
+  },
+  {
+    "name": "Solosis",
+    "number": "33",
+    "rarity": "Common",
+    "set_name": "Fates Collide",
+    "set_series": "XY"
+  },
+  {
+    "name": "Duosion",
+    "number": "34",
+    "rarity": "Uncommon",
+    "set_name": "Fates Collide",
+    "set_series": "XY"
+  },
+  {
+    "name": "Reuniclus",
+    "number": "35",
+    "rarity": "Rare",
+    "set_name": "Fates Collide",
+    "set_series": "XY"
+  },
+  {
+    "name": "Diglett",
+    "number": "36",
+    "rarity": "Common",
+    "set_name": "Fates Collide",
+    "set_series": "XY"
+  },
+  {
+    "name": "Marowak",
+    "number": "37",
+    "rarity": "Rare",
+    "set_name": "Fates Collide",
+    "set_series": "XY"
+  },
+  {
+    "name": "Kabuto",
+    "number": "38",
+    "rarity": "Uncommon",
+    "set_name": "Fates Collide",
+    "set_series": "XY"
+  },
+  {
+    "name": "Kabutops",
+    "number": "39",
+    "rarity": "Rare",
+    "set_name": "Fates Collide",
+    "set_series": "XY"
+  },
+  {
+    "name": "Larvitar",
+    "number": "40",
+    "rarity": "Common",
+    "set_name": "Fates Collide",
+    "set_series": "XY"
+  },
+  {
+    "name": "Larvitar",
+    "number": "41",
+    "rarity": "Common",
+    "set_name": "Fates Collide",
+    "set_series": "XY"
+  },
+  {
+    "name": "Pupitar",
+    "number": "42",
+    "rarity": "Uncommon",
+    "set_name": "Fates Collide",
+    "set_series": "XY"
+  },
+  {
+    "name": "Regirock-EX",
+    "number": "43",
+    "rarity": "Rare Holo EX",
+    "set_name": "Fates Collide",
+    "set_series": "XY"
+  },
+  {
+    "name": "Regirock-EX",
+    "number": "43a",
+    "rarity": "Rare Ultra",
+    "set_name": "Fates Collide",
+    "set_series": "XY"
+  },
+  {
+    "name": "Wormadam",
+    "number": "44",
+    "rarity": "Uncommon",
+    "set_name": "Fates Collide",
+    "set_series": "XY"
+  },
+  {
+    "name": "Riolu",
+    "number": "45",
+    "rarity": "Common",
+    "set_name": "Fates Collide",
+    "set_series": "XY"
+  },
+  {
+    "name": "Riolu",
+    "number": "46",
+    "rarity": "Common",
+    "set_name": "Fates Collide",
+    "set_series": "XY"
+  },
+  {
+    "name": "Lucario",
+    "number": "47",
+    "rarity": "Rare",
+    "set_name": "Fates Collide",
+    "set_series": "XY"
+  },
+  {
+    "name": "Hawlucha",
+    "number": "48",
+    "rarity": "Uncommon",
+    "set_name": "Fates Collide",
+    "set_series": "XY"
+  },
+  {
+    "name": "Carbink",
+    "number": "49",
+    "rarity": "Rare",
+    "set_name": "Fates Collide",
+    "set_series": "XY"
+  },
+  {
+    "name": "Carbink",
+    "number": "50",
+    "rarity": "Common",
+    "set_name": "Fates Collide",
+    "set_series": "XY"
+  },
+  {
+    "name": "Carbink BREAK",
+    "number": "51",
+    "rarity": "Rare BREAK",
+    "set_name": "Fates Collide",
+    "set_series": "XY"
+  },
+  {
+    "name": "Zygarde",
+    "number": "52",
+    "rarity": "Uncommon",
+    "set_name": "Fates Collide",
+    "set_series": "XY"
+  },
+  {
+    "name": "Zygarde",
+    "number": "53",
+    "rarity": "Rare",
+    "set_name": "Fates Collide",
+    "set_series": "XY"
+  },
+  {
+    "name": "Zygarde-EX",
+    "number": "54",
+    "rarity": "Rare Holo EX",
+    "set_name": "Fates Collide",
+    "set_series": "XY"
+  },
+  {
+    "name": "Zygarde-EX",
+    "number": "54a",
+    "rarity": "Rare Ultra",
+    "set_name": "Fates Collide",
+    "set_series": "XY"
+  },
+  {
+    "name": "Umbreon-EX",
+    "number": "55",
+    "rarity": "Rare Holo EX",
+    "set_name": "Fates Collide",
+    "set_series": "XY"
+  },
+  {
+    "name": "Tyranitar",
+    "number": "56",
+    "rarity": "Rare Holo",
+    "set_name": "Fates Collide",
+    "set_series": "XY"
+  },
+  {
+    "name": "Vullaby",
+    "number": "57",
+    "rarity": "Common",
+    "set_name": "Fates Collide",
+    "set_series": "XY"
+  },
+  {
+    "name": "Mandibuzz",
+    "number": "58",
+    "rarity": "Rare",
+    "set_name": "Fates Collide",
+    "set_series": "XY"
+  },
+  {
+    "name": "Wormadam",
+    "number": "59",
+    "rarity": "Uncommon",
+    "set_name": "Fates Collide",
+    "set_series": "XY"
+  },
+  {
+    "name": "Bronzor",
+    "number": "60",
+    "rarity": "Common",
+    "set_name": "Fates Collide",
+    "set_series": "XY"
+  },
+  {
+    "name": "Bronzong",
+    "number": "61",
+    "rarity": "Rare",
+    "set_name": "Fates Collide",
+    "set_series": "XY"
+  },
+  {
+    "name": "Bronzong BREAK",
+    "number": "62",
+    "rarity": "Rare BREAK",
+    "set_name": "Fates Collide",
+    "set_series": "XY"
+  },
+  {
+    "name": "Lucario",
+    "number": "63",
+    "rarity": "Rare Holo",
+    "set_name": "Fates Collide",
+    "set_series": "XY"
+  },
+  {
+    "name": "Genesect-EX",
+    "number": "64",
+    "rarity": "Rare Holo EX",
+    "set_name": "Fates Collide",
+    "set_series": "XY"
+  },
+  {
+    "name": "Jigglypuff",
+    "number": "65",
+    "rarity": "Common",
+    "set_name": "Fates Collide",
+    "set_series": "XY"
+  },
+  {
+    "name": "Wigglytuff",
+    "number": "66",
+    "rarity": "Uncommon",
+    "set_name": "Fates Collide",
+    "set_series": "XY"
+  },
+  {
+    "name": "Mr. Mime",
+    "number": "67",
+    "rarity": "Rare",
+    "set_name": "Fates Collide",
+    "set_series": "XY"
+  },
+  {
+    "name": "Snubbull",
+    "number": "68",
+    "rarity": "Common",
+    "set_name": "Fates Collide",
+    "set_series": "XY"
+  },
+  {
+    "name": "M Altaria-EX",
+    "number": "69",
+    "rarity": "Rare Holo EX",
+    "set_name": "Fates Collide",
+    "set_series": "XY"
+  },
+  {
+    "name": "Cottonee",
+    "number": "70",
+    "rarity": "Common",
+    "set_name": "Fates Collide",
+    "set_series": "XY"
+  },
+  {
+    "name": "Whimsicott",
+    "number": "71",
+    "rarity": "Uncommon",
+    "set_name": "Fates Collide",
+    "set_series": "XY"
+  },
+  {
+    "name": "Diancie-EX",
+    "number": "72",
+    "rarity": "Rare Holo EX",
+    "set_name": "Fates Collide",
+    "set_series": "XY"
+  },
+  {
+    "name": "Kingdra-EX",
+    "number": "73",
+    "rarity": "Rare Holo EX",
+    "set_name": "Fates Collide",
+    "set_series": "XY"
+  },
+  {
+    "name": "Meowth",
+    "number": "74",
+    "rarity": "Common",
+    "set_name": "Fates Collide",
+    "set_series": "XY"
+  },
+  {
+    "name": "Kangaskhan",
+    "number": "75",
+    "rarity": "Uncommon",
+    "set_name": "Fates Collide",
+    "set_series": "XY"
+  },
+  {
+    "name": "Aerodactyl",
+    "number": "76",
+    "rarity": "Rare",
+    "set_name": "Fates Collide",
+    "set_series": "XY"
+  },
+  {
+    "name": "Snorlax",
+    "number": "77",
+    "rarity": "Rare",
+    "set_name": "Fates Collide",
+    "set_series": "XY"
+  },
+  {
+    "name": "Lugia",
+    "number": "78",
+    "rarity": "Rare",
+    "set_name": "Fates Collide",
+    "set_series": "XY"
+  },
+  {
+    "name": "Lugia BREAK",
+    "number": "79",
+    "rarity": "Rare BREAK",
+    "set_name": "Fates Collide",
+    "set_series": "XY"
+  },
+  {
+    "name": "Whismur",
+    "number": "80",
+    "rarity": "Common",
+    "set_name": "Fates Collide",
+    "set_series": "XY"
+  },
+  {
+    "name": "Loudred",
+    "number": "81",
+    "rarity": "Uncommon",
+    "set_name": "Fates Collide",
+    "set_series": "XY"
+  },
+  {
+    "name": "Exploud",
+    "number": "82",
+    "rarity": "Rare",
+    "set_name": "Fates Collide",
+    "set_series": "XY"
+  },
+  {
+    "name": "Altaria-EX",
+    "number": "83",
+    "rarity": "Rare Holo EX",
+    "set_name": "Fates Collide",
+    "set_series": "XY"
+  },
+  {
+    "name": "Audino-EX",
+    "number": "84",
+    "rarity": "Rare Holo EX",
+    "set_name": "Fates Collide",
+    "set_series": "XY"
+  },
+  {
+    "name": "M Audino-EX",
+    "number": "85",
+    "rarity": "Rare Holo EX",
+    "set_name": "Fates Collide",
+    "set_series": "XY"
+  },
+  {
+    "name": "Minccino",
+    "number": "86",
+    "rarity": "Common",
+    "set_name": "Fates Collide",
+    "set_series": "XY"
+  },
+  {
+    "name": "Minccino",
+    "number": "87",
+    "rarity": "Common",
+    "set_name": "Fates Collide",
+    "set_series": "XY"
+  },
+  {
+    "name": "Cinccino",
+    "number": "88",
+    "rarity": "Uncommon",
+    "set_name": "Fates Collide",
+    "set_series": "XY"
+  },
+  {
+    "name": "Cinccino",
+    "number": "89",
+    "rarity": "Uncommon",
+    "set_name": "Fates Collide",
+    "set_series": "XY"
+  },
+  {
+    "name": "Alakazam Spirit Link",
+    "number": "90",
+    "rarity": "Uncommon",
+    "set_name": "Fates Collide",
+    "set_series": "XY"
+  },
+  {
+    "name": "Altaria Spirit Link",
+    "number": "91",
+    "rarity": "Uncommon",
+    "set_name": "Fates Collide",
+    "set_series": "XY"
+  },
+  {
+    "name": "Audino Spirit Link",
+    "number": "92",
+    "rarity": "Uncommon",
+    "set_name": "Fates Collide",
+    "set_series": "XY"
+  },
+  {
+    "name": "Bent Spoon",
+    "number": "93",
+    "rarity": "Uncommon",
+    "set_name": "Fates Collide",
+    "set_series": "XY"
+  },
+  {
+    "name": "Chaos Tower",
+    "number": "94",
+    "rarity": "Uncommon",
+    "set_name": "Fates Collide",
+    "set_series": "XY"
+  },
+  {
+    "name": "Devolution Spray",
+    "number": "95",
+    "rarity": "Uncommon",
+    "set_name": "Fates Collide",
+    "set_series": "XY"
+  },
+  {
+    "name": "Dome Fossil Kabuto",
+    "number": "96",
+    "rarity": "Uncommon",
+    "set_name": "Fates Collide",
+    "set_series": "XY"
+  },
+  {
+    "name": "Energy Pouch",
+    "number": "97",
+    "rarity": "Uncommon",
+    "set_name": "Fates Collide",
+    "set_series": "XY"
+  },
+  {
+    "name": "Energy Reset",
+    "number": "98",
+    "rarity": "Uncommon",
+    "set_name": "Fates Collide",
+    "set_series": "XY"
+  },
+  {
+    "name": "Fairy Drop",
+    "number": "99",
+    "rarity": "Uncommon",
+    "set_name": "Fates Collide",
+    "set_series": "XY"
+  },
+  {
+    "name": "Fairy Garden",
+    "number": "100",
+    "rarity": "Uncommon",
+    "set_name": "Fates Collide",
+    "set_series": "XY"
+  },
+  {
+    "name": "Fossil Excavation Kit",
+    "number": "101",
+    "rarity": "Uncommon",
+    "set_name": "Fates Collide",
+    "set_series": "XY"
+  },
+  {
+    "name": "Helix Fossil Omanyte",
+    "number": "102",
+    "rarity": "Uncommon",
+    "set_name": "Fates Collide",
+    "set_series": "XY"
+  },
+  {
+    "name": "Lass's Special",
+    "number": "103",
+    "rarity": "Uncommon",
+    "set_name": "Fates Collide",
+    "set_series": "XY"
+  },
+  {
+    "name": "Mega Catcher",
+    "number": "104",
+    "rarity": "Uncommon",
+    "set_name": "Fates Collide",
+    "set_series": "XY"
+  },
+  {
+    "name": "N",
+    "number": "105",
+    "rarity": "Uncommon",
+    "set_name": "Fates Collide",
+    "set_series": "XY"
+  },
+  {
+    "name": "N",
+    "number": "105a",
+    "rarity": "Rare Ultra",
+    "set_name": "Fates Collide",
+    "set_series": "XY"
+  },
+  {
+    "name": "Old Amber Aerodactyl",
+    "number": "106",
+    "rarity": "Uncommon",
+    "set_name": "Fates Collide",
+    "set_series": "XY"
+  },
+  {
+    "name": "Pok\u00e9mon Fan Club",
+    "number": "107",
+    "rarity": "Uncommon",
+    "set_name": "Fates Collide",
+    "set_series": "XY"
+  },
+  {
+    "name": "Power Memory",
+    "number": "108",
+    "rarity": "Uncommon",
+    "set_name": "Fates Collide",
+    "set_series": "XY"
+  },
+  {
+    "name": "Random Receiver",
+    "number": "109",
+    "rarity": "Uncommon",
+    "set_name": "Fates Collide",
+    "set_series": "XY"
+  },
+  {
+    "name": "Scorched Earth",
+    "number": "110",
+    "rarity": "Uncommon",
+    "set_name": "Fates Collide",
+    "set_series": "XY"
+  },
+  {
+    "name": "Shauna",
+    "number": "111",
+    "rarity": "Uncommon",
+    "set_name": "Fates Collide",
+    "set_series": "XY"
+  },
+  {
+    "name": "Shauna",
+    "number": "111a",
+    "rarity": "Rare Ultra",
+    "set_name": "Fates Collide",
+    "set_series": "XY"
+  },
+  {
+    "name": "Team Rocket's Handiwork",
+    "number": "112",
+    "rarity": "Uncommon",
+    "set_name": "Fates Collide",
+    "set_series": "XY"
+  },
+  {
+    "name": "Ultra Ball",
+    "number": "113",
+    "rarity": "Uncommon",
+    "set_name": "Fates Collide",
+    "set_series": "XY"
+  },
+  {
+    "name": "Double Colorless Energy",
+    "number": "114",
+    "rarity": "Uncommon",
+    "set_name": "Fates Collide",
+    "set_series": "XY"
+  },
+  {
+    "name": "Strong Energy",
+    "number": "115",
+    "rarity": "Uncommon",
+    "set_name": "Fates Collide",
+    "set_series": "XY"
+  },
+  {
+    "name": "Glaceon-EX",
+    "number": "116",
+    "rarity": "Rare Ultra",
+    "set_name": "Fates Collide",
+    "set_series": "XY"
+  },
+  {
+    "name": "Alakazam-EX",
+    "number": "117",
+    "rarity": "Rare Ultra",
+    "set_name": "Fates Collide",
+    "set_series": "XY"
+  },
+  {
+    "name": "M Alakazam-EX",
+    "number": "118",
+    "rarity": "Rare Ultra",
+    "set_name": "Fates Collide",
+    "set_series": "XY"
+  },
+  {
+    "name": "Umbreon-EX",
+    "number": "119",
+    "rarity": "Rare Ultra",
+    "set_name": "Fates Collide",
+    "set_series": "XY"
+  },
+  {
+    "name": "Genesect-EX",
+    "number": "120",
+    "rarity": "Rare Ultra",
+    "set_name": "Fates Collide",
+    "set_series": "XY"
+  },
+  {
+    "name": "M Altaria-EX",
+    "number": "121",
+    "rarity": "Rare Ultra",
+    "set_name": "Fates Collide",
+    "set_series": "XY"
+  },
+  {
+    "name": "Kingdra-EX",
+    "number": "122",
+    "rarity": "Rare Ultra",
+    "set_name": "Fates Collide",
+    "set_series": "XY"
+  },
+  {
+    "name": "Altaria-EX",
+    "number": "123",
+    "rarity": "Rare Ultra",
+    "set_name": "Fates Collide",
+    "set_series": "XY"
+  },
+  {
+    "name": "Team Rocket's Handiwork",
+    "number": "124",
+    "rarity": "Rare Ultra",
+    "set_name": "Fates Collide",
+    "set_series": "XY"
+  },
+  {
+    "name": "Alakazam-EX",
+    "number": "125",
+    "rarity": "Rare Secret",
+    "set_name": "Fates Collide",
+    "set_series": "XY"
+  }
+]

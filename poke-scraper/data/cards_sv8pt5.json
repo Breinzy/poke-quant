@@ -1,0 +1,1262 @@
+[
+  {
+    "name": "Pinsir",
+    "number": "3",
+    "rarity": "Common",
+    "set_name": "Prismatic Evolutions",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Exeggutor",
+    "number": "2",
+    "rarity": "Uncommon",
+    "set_name": "Prismatic Evolutions",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Exeggcute",
+    "number": "1",
+    "rarity": "Common",
+    "set_name": "Prismatic Evolutions",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Leafeon ex",
+    "number": "6",
+    "rarity": "Double Rare",
+    "set_name": "Prismatic Evolutions",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Whimsicott",
+    "number": "8",
+    "rarity": "Rare",
+    "set_name": "Prismatic Evolutions",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Applin",
+    "number": "9",
+    "rarity": "Common",
+    "set_name": "Prismatic Evolutions",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Budew",
+    "number": "4",
+    "rarity": "Common",
+    "set_name": "Prismatic Evolutions",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Leafeon",
+    "number": "5",
+    "rarity": "Rare",
+    "set_name": "Prismatic Evolutions",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Cottonee",
+    "number": "7",
+    "rarity": "Common",
+    "set_name": "Prismatic Evolutions",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Flareon",
+    "number": "13",
+    "rarity": "Rare",
+    "set_name": "Prismatic Evolutions",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Hydrapple ex",
+    "number": "11",
+    "rarity": "Double Rare",
+    "set_name": "Prismatic Evolutions",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Flareon ex",
+    "number": "14",
+    "rarity": "Double Rare",
+    "set_name": "Prismatic Evolutions",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Dipplin",
+    "number": "10",
+    "rarity": "Uncommon",
+    "set_name": "Prismatic Evolutions",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Teal Mask Ogerpon ex",
+    "number": "12",
+    "rarity": "Double Rare",
+    "set_name": "Prismatic Evolutions",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Vaporeon",
+    "number": "22",
+    "rarity": "Rare",
+    "set_name": "Prismatic Evolutions",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Vaporeon ex",
+    "number": "23",
+    "rarity": "Double Rare",
+    "set_name": "Prismatic Evolutions",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Glaceon",
+    "number": "25",
+    "rarity": "Rare",
+    "set_name": "Prismatic Evolutions",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Iron Hands ex",
+    "number": "31",
+    "rarity": "Double Rare",
+    "set_name": "Prismatic Evolutions",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Iron Thorns ex",
+    "number": "32",
+    "rarity": "Double Rare",
+    "set_name": "Prismatic Evolutions",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Espeon",
+    "number": "33",
+    "rarity": "Rare",
+    "set_name": "Prismatic Evolutions",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Duskull",
+    "number": "35",
+    "rarity": "Common",
+    "set_name": "Prismatic Evolutions",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Litleo",
+    "number": "15",
+    "rarity": "Common",
+    "set_name": "Prismatic Evolutions",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Seaking",
+    "number": "21",
+    "rarity": "Uncommon",
+    "set_name": "Prismatic Evolutions",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Jolteon ex",
+    "number": "30",
+    "rarity": "Double Rare",
+    "set_name": "Prismatic Evolutions",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Slowpoke",
+    "number": "18",
+    "rarity": "Common",
+    "set_name": "Prismatic Evolutions",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Suicune",
+    "number": "24",
+    "rarity": "Uncommon",
+    "set_name": "Prismatic Evolutions",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Glaceon ex",
+    "number": "26",
+    "rarity": "Double Rare",
+    "set_name": "Prismatic Evolutions",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Pikachu ex",
+    "number": "28",
+    "rarity": "Double Rare",
+    "set_name": "Prismatic Evolutions",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Pyroar",
+    "number": "16",
+    "rarity": "Uncommon",
+    "set_name": "Prismatic Evolutions",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Hearthflame Mask Ogerpon ex",
+    "number": "17",
+    "rarity": "Double Rare",
+    "set_name": "Prismatic Evolutions",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Slowking",
+    "number": "19",
+    "rarity": "Uncommon",
+    "set_name": "Prismatic Evolutions",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Goldeen",
+    "number": "20",
+    "rarity": "Common",
+    "set_name": "Prismatic Evolutions",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Wellspring Mask Ogerpon ex",
+    "number": "27",
+    "rarity": "Double Rare",
+    "set_name": "Prismatic Evolutions",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Jolteon",
+    "number": "29",
+    "rarity": "Rare",
+    "set_name": "Prismatic Evolutions",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Espeon ex",
+    "number": "34",
+    "rarity": "Double Rare",
+    "set_name": "Prismatic Evolutions",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Dusclops",
+    "number": "36",
+    "rarity": "Common",
+    "set_name": "Prismatic Evolutions",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Spritzee",
+    "number": "38",
+    "rarity": "Common",
+    "set_name": "Prismatic Evolutions",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Fezandipiti",
+    "number": "45",
+    "rarity": "Rare",
+    "set_name": "Prismatic Evolutions",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Iron Boulder",
+    "number": "46",
+    "rarity": "Rare",
+    "set_name": "Prismatic Evolutions",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Aromatisse",
+    "number": "39",
+    "rarity": "Common",
+    "set_name": "Prismatic Evolutions",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Scream Tail",
+    "number": "42",
+    "rarity": "Uncommon",
+    "set_name": "Prismatic Evolutions",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Flutter Mane",
+    "number": "43",
+    "rarity": "Rare",
+    "set_name": "Prismatic Evolutions",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Sylveon ex",
+    "number": "41",
+    "rarity": "Double Rare",
+    "set_name": "Prismatic Evolutions",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Dusknoir",
+    "number": "37",
+    "rarity": "Rare",
+    "set_name": "Prismatic Evolutions",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Sylveon",
+    "number": "40",
+    "rarity": "Rare",
+    "set_name": "Prismatic Evolutions",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Munkidori",
+    "number": "44",
+    "rarity": "Rare",
+    "set_name": "Prismatic Evolutions",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Groudon",
+    "number": "49",
+    "rarity": "Rare",
+    "set_name": "Prismatic Evolutions",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Riolu",
+    "number": "50",
+    "rarity": "Common",
+    "set_name": "Prismatic Evolutions",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Larvitar",
+    "number": "47",
+    "rarity": "Common",
+    "set_name": "Prismatic Evolutions",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Pupitar",
+    "number": "48",
+    "rarity": "Common",
+    "set_name": "Prismatic Evolutions",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Sandy Shocks ex",
+    "number": "56",
+    "rarity": "Double Rare",
+    "set_name": "Prismatic Evolutions",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Umbreon",
+    "number": "59",
+    "rarity": "Rare",
+    "set_name": "Prismatic Evolutions",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Lucario ex",
+    "number": "51",
+    "rarity": "Double Rare",
+    "set_name": "Prismatic Evolutions",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Hippopotas",
+    "number": "52",
+    "rarity": "Common",
+    "set_name": "Prismatic Evolutions",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Okidogi",
+    "number": "57",
+    "rarity": "Rare",
+    "set_name": "Prismatic Evolutions",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Bloodmoon Ursaluna",
+    "number": "54",
+    "rarity": "Rare",
+    "set_name": "Prismatic Evolutions",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Umbreon ex",
+    "number": "60",
+    "rarity": "Double Rare",
+    "set_name": "Prismatic Evolutions",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Sneasel",
+    "number": "61",
+    "rarity": "Common",
+    "set_name": "Prismatic Evolutions",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Hippowdon",
+    "number": "53",
+    "rarity": "Common",
+    "set_name": "Prismatic Evolutions",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Great Tusk",
+    "number": "55",
+    "rarity": "Uncommon",
+    "set_name": "Prismatic Evolutions",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Cornerstone Mask Ogerpon ex",
+    "number": "58",
+    "rarity": "Double Rare",
+    "set_name": "Prismatic Evolutions",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Houndour",
+    "number": "62",
+    "rarity": "Common",
+    "set_name": "Prismatic Evolutions",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Tyranitar ex",
+    "number": "64",
+    "rarity": "Double Rare",
+    "set_name": "Prismatic Evolutions",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Houndoom",
+    "number": "63",
+    "rarity": "Common",
+    "set_name": "Prismatic Evolutions",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Roaring Moon",
+    "number": "65",
+    "rarity": "Rare",
+    "set_name": "Prismatic Evolutions",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Bronzor",
+    "number": "66",
+    "rarity": "Common",
+    "set_name": "Prismatic Evolutions",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Bronzong",
+    "number": "67",
+    "rarity": "Uncommon",
+    "set_name": "Prismatic Evolutions",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Heatran",
+    "number": "68",
+    "rarity": "Uncommon",
+    "set_name": "Prismatic Evolutions",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Duraludon",
+    "number": "69",
+    "rarity": "Common",
+    "set_name": "Prismatic Evolutions",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Archaludon",
+    "number": "70",
+    "rarity": "Rare",
+    "set_name": "Prismatic Evolutions",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Dreepy",
+    "number": "71",
+    "rarity": "Common",
+    "set_name": "Prismatic Evolutions",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Drakloak",
+    "number": "72",
+    "rarity": "Common",
+    "set_name": "Prismatic Evolutions",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Dragapult ex",
+    "number": "73",
+    "rarity": "Double Rare",
+    "set_name": "Prismatic Evolutions",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Eevee",
+    "number": "74",
+    "rarity": "Common",
+    "set_name": "Prismatic Evolutions",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Eevee ex",
+    "number": "75",
+    "rarity": "Double Rare",
+    "set_name": "Prismatic Evolutions",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Snorlax ex",
+    "number": "76",
+    "rarity": "Double Rare",
+    "set_name": "Prismatic Evolutions",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Noctowl",
+    "number": "78",
+    "rarity": "Rare",
+    "set_name": "Prismatic Evolutions",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Dunsparce",
+    "number": "79",
+    "rarity": "Common",
+    "set_name": "Prismatic Evolutions",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Hoothoot",
+    "number": "77",
+    "rarity": "Common",
+    "set_name": "Prismatic Evolutions",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Miltank",
+    "number": "81",
+    "rarity": "Common",
+    "set_name": "Prismatic Evolutions",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Buneary",
+    "number": "83",
+    "rarity": "Common",
+    "set_name": "Prismatic Evolutions",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Dudunsparce",
+    "number": "80",
+    "rarity": "Rare",
+    "set_name": "Prismatic Evolutions",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Lugia ex",
+    "number": "82",
+    "rarity": "Double Rare",
+    "set_name": "Prismatic Evolutions",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Lopunny",
+    "number": "84",
+    "rarity": "Common",
+    "set_name": "Prismatic Evolutions",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Fan Rotom",
+    "number": "85",
+    "rarity": "Common",
+    "set_name": "Prismatic Evolutions",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Regigigas",
+    "number": "86",
+    "rarity": "Uncommon",
+    "set_name": "Prismatic Evolutions",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Shaymin",
+    "number": "87",
+    "rarity": "Uncommon",
+    "set_name": "Prismatic Evolutions",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Hawlucha",
+    "number": "89",
+    "rarity": "Uncommon",
+    "set_name": "Prismatic Evolutions",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Furfrou",
+    "number": "88",
+    "rarity": "Common",
+    "set_name": "Prismatic Evolutions",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Noibat",
+    "number": "90",
+    "rarity": "Common",
+    "set_name": "Prismatic Evolutions",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Noivern ex",
+    "number": "91",
+    "rarity": "Double Rare",
+    "set_name": "Prismatic Evolutions",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Terapagos ex",
+    "number": "92",
+    "rarity": "Double Rare",
+    "set_name": "Prismatic Evolutions",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Amarys",
+    "number": "93",
+    "rarity": "Common",
+    "set_name": "Prismatic Evolutions",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Area Zero Underdepths",
+    "number": "94",
+    "rarity": "Uncommon",
+    "set_name": "Prismatic Evolutions",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Black Belt's Training",
+    "number": "97",
+    "rarity": "Common",
+    "set_name": "Prismatic Evolutions",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Buddy-Buddy Poffin",
+    "number": "101",
+    "rarity": "Uncommon",
+    "set_name": "Prismatic Evolutions",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Black Belt's Training",
+    "number": "98",
+    "rarity": "Common",
+    "set_name": "Prismatic Evolutions",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Binding Mochi",
+    "number": "95",
+    "rarity": "Uncommon",
+    "set_name": "Prismatic Evolutions",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Black Belt's Training",
+    "number": "96",
+    "rarity": "Common",
+    "set_name": "Prismatic Evolutions",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Briar",
+    "number": "100",
+    "rarity": "Uncommon",
+    "set_name": "Prismatic Evolutions",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Black Belt's Training",
+    "number": "99",
+    "rarity": "Common",
+    "set_name": "Prismatic Evolutions",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Bug Catching Set",
+    "number": "102",
+    "rarity": "Uncommon",
+    "set_name": "Prismatic Evolutions",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Carmine",
+    "number": "103",
+    "rarity": "Uncommon",
+    "set_name": "Prismatic Evolutions",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Earthen Vessel",
+    "number": "106",
+    "rarity": "Uncommon",
+    "set_name": "Prismatic Evolutions",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Crispin",
+    "number": "105",
+    "rarity": "Uncommon",
+    "set_name": "Prismatic Evolutions",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Festival Grounds",
+    "number": "108",
+    "rarity": "Uncommon",
+    "set_name": "Prismatic Evolutions",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Janine's Secret Art",
+    "number": "112",
+    "rarity": "Uncommon",
+    "set_name": "Prismatic Evolutions",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Glass Trumpet",
+    "number": "110",
+    "rarity": "Uncommon",
+    "set_name": "Prismatic Evolutions",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Haban Berry",
+    "number": "111",
+    "rarity": "Common",
+    "set_name": "Prismatic Evolutions",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Ciphermaniac's Codebreaking",
+    "number": "104",
+    "rarity": "Uncommon",
+    "set_name": "Prismatic Evolutions",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Explorer's Guidance",
+    "number": "107",
+    "rarity": "Uncommon",
+    "set_name": "Prismatic Evolutions",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Friends in Paldea",
+    "number": "109",
+    "rarity": "Common",
+    "set_name": "Prismatic Evolutions",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Kieran",
+    "number": "113",
+    "rarity": "Uncommon",
+    "set_name": "Prismatic Evolutions",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Lacey",
+    "number": "114",
+    "rarity": "Uncommon",
+    "set_name": "Prismatic Evolutions",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Larry's Skill",
+    "number": "115",
+    "rarity": "Common",
+    "set_name": "Prismatic Evolutions",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Prime Catcher",
+    "number": "119",
+    "rarity": "ACE SPEC Rare",
+    "set_name": "Prismatic Evolutions",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Max Rod",
+    "number": "116",
+    "rarity": "ACE SPEC Rare",
+    "set_name": "Prismatic Evolutions",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Maximum Belt",
+    "number": "117",
+    "rarity": "ACE SPEC Rare",
+    "set_name": "Prismatic Evolutions",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Ogre's Mask",
+    "number": "118",
+    "rarity": "Uncommon",
+    "set_name": "Prismatic Evolutions",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Professor Sada's Vitality",
+    "number": "120",
+    "rarity": "Uncommon",
+    "set_name": "Prismatic Evolutions",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Professor Turo's Scenario",
+    "number": "121",
+    "rarity": "Uncommon",
+    "set_name": "Prismatic Evolutions",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Professor's Research",
+    "number": "122",
+    "rarity": "Common",
+    "set_name": "Prismatic Evolutions",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Professor's Research",
+    "number": "123",
+    "rarity": "Common",
+    "set_name": "Prismatic Evolutions",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Professor's Research",
+    "number": "124",
+    "rarity": "Common",
+    "set_name": "Prismatic Evolutions",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Professor's Research",
+    "number": "125",
+    "rarity": "Common",
+    "set_name": "Prismatic Evolutions",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Rescue Board",
+    "number": "126",
+    "rarity": "Uncommon",
+    "set_name": "Prismatic Evolutions",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Roto-Stick",
+    "number": "127",
+    "rarity": "Common",
+    "set_name": "Prismatic Evolutions",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Scoop Up Cyclone",
+    "number": "128",
+    "rarity": "ACE SPEC Rare",
+    "set_name": "Prismatic Evolutions",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Sparkling Crystal",
+    "number": "129",
+    "rarity": "ACE SPEC Rare",
+    "set_name": "Prismatic Evolutions",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Treasure Tracker",
+    "number": "131",
+    "rarity": "ACE SPEC Rare",
+    "set_name": "Prismatic Evolutions",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Techno Radar",
+    "number": "130",
+    "rarity": "Uncommon",
+    "set_name": "Prismatic Evolutions",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Brassius",
+    "number": "135",
+    "rarity": "Ultra Rare",
+    "set_name": "Prismatic Evolutions",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Atticus",
+    "number": "133",
+    "rarity": "Ultra Rare",
+    "set_name": "Prismatic Evolutions",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Atticus",
+    "number": "134",
+    "rarity": "Ultra Rare",
+    "set_name": "Prismatic Evolutions",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Amarys",
+    "number": "132",
+    "rarity": "Ultra Rare",
+    "set_name": "Prismatic Evolutions",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Friends in Paldea",
+    "number": "137",
+    "rarity": "Ultra Rare",
+    "set_name": "Prismatic Evolutions",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Eri",
+    "number": "136",
+    "rarity": "Ultra Rare",
+    "set_name": "Prismatic Evolutions",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Giacomo",
+    "number": "138",
+    "rarity": "Ultra Rare",
+    "set_name": "Prismatic Evolutions",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Larry's Skill",
+    "number": "139",
+    "rarity": "Ultra Rare",
+    "set_name": "Prismatic Evolutions",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Mela",
+    "number": "140",
+    "rarity": "Ultra Rare",
+    "set_name": "Prismatic Evolutions",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Ortega",
+    "number": "141",
+    "rarity": "Ultra Rare",
+    "set_name": "Prismatic Evolutions",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Raifort",
+    "number": "142",
+    "rarity": "Ultra Rare",
+    "set_name": "Prismatic Evolutions",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Tyme",
+    "number": "143",
+    "rarity": "Ultra Rare",
+    "set_name": "Prismatic Evolutions",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Leafeon ex",
+    "number": "144",
+    "rarity": "Special Illustration Rare",
+    "set_name": "Prismatic Evolutions",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Teal Mask Ogerpon ex",
+    "number": "145",
+    "rarity": "Special Illustration Rare",
+    "set_name": "Prismatic Evolutions",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Ceruledge ex",
+    "number": "147",
+    "rarity": "Special Illustration Rare",
+    "set_name": "Prismatic Evolutions",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Flareon ex",
+    "number": "146",
+    "rarity": "Special Illustration Rare",
+    "set_name": "Prismatic Evolutions",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Palafin ex",
+    "number": "151",
+    "rarity": "Special Illustration Rare",
+    "set_name": "Prismatic Evolutions",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Jolteon ex",
+    "number": "153",
+    "rarity": "Special Illustration Rare",
+    "set_name": "Prismatic Evolutions",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Hearthflame Mask Ogerpon ex",
+    "number": "148",
+    "rarity": "Special Illustration Rare",
+    "set_name": "Prismatic Evolutions",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Glaceon ex",
+    "number": "150",
+    "rarity": "Special Illustration Rare",
+    "set_name": "Prismatic Evolutions",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Wellspring Mask Ogerpon ex",
+    "number": "152",
+    "rarity": "Special Illustration Rare",
+    "set_name": "Prismatic Evolutions",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Vaporeon ex",
+    "number": "149",
+    "rarity": "Special Illustration Rare",
+    "set_name": "Prismatic Evolutions",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Iron Hands ex",
+    "number": "154",
+    "rarity": "Special Illustration Rare",
+    "set_name": "Prismatic Evolutions",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Espeon ex",
+    "number": "155",
+    "rarity": "Special Illustration Rare",
+    "set_name": "Prismatic Evolutions",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Iron Valiant ex",
+    "number": "157",
+    "rarity": "Special Illustration Rare",
+    "set_name": "Prismatic Evolutions",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Sylveon ex",
+    "number": "156",
+    "rarity": "Special Illustration Rare",
+    "set_name": "Prismatic Evolutions",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Iron Crown ex",
+    "number": "158",
+    "rarity": "Special Illustration Rare",
+    "set_name": "Prismatic Evolutions",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Sandy Shocks ex",
+    "number": "159",
+    "rarity": "Special Illustration Rare",
+    "set_name": "Prismatic Evolutions",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Cornerstone Mask Ogerpon ex",
+    "number": "160",
+    "rarity": "Special Illustration Rare",
+    "set_name": "Prismatic Evolutions",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Roaring Moon ex",
+    "number": "162",
+    "rarity": "Special Illustration Rare",
+    "set_name": "Prismatic Evolutions",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Umbreon ex",
+    "number": "161",
+    "rarity": "Special Illustration Rare",
+    "set_name": "Prismatic Evolutions",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Pecharunt ex",
+    "number": "163",
+    "rarity": "Special Illustration Rare",
+    "set_name": "Prismatic Evolutions",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Gholdengo ex",
+    "number": "164",
+    "rarity": "Special Illustration Rare",
+    "set_name": "Prismatic Evolutions",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Dragapult ex",
+    "number": "165",
+    "rarity": "Special Illustration Rare",
+    "set_name": "Prismatic Evolutions",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Raging Bolt ex",
+    "number": "166",
+    "rarity": "Special Illustration Rare",
+    "set_name": "Prismatic Evolutions",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Eevee ex",
+    "number": "167",
+    "rarity": "Special Illustration Rare",
+    "set_name": "Prismatic Evolutions",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Bloodmoon Ursaluna ex",
+    "number": "168",
+    "rarity": "Special Illustration Rare",
+    "set_name": "Prismatic Evolutions",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Terapagos ex",
+    "number": "169",
+    "rarity": "Special Illustration Rare",
+    "set_name": "Prismatic Evolutions",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Amarys",
+    "number": "170",
+    "rarity": "Special Illustration Rare",
+    "set_name": "Prismatic Evolutions",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Crispin",
+    "number": "171",
+    "rarity": "Special Illustration Rare",
+    "set_name": "Prismatic Evolutions",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Iron Leaves ex",
+    "number": "176",
+    "rarity": "Hyper Rare",
+    "set_name": "Prismatic Evolutions",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Kieran",
+    "number": "174",
+    "rarity": "Special Illustration Rare",
+    "set_name": "Prismatic Evolutions",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Teal Mask Ogerpon ex",
+    "number": "177",
+    "rarity": "Hyper Rare",
+    "set_name": "Prismatic Evolutions",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Walking Wake ex",
+    "number": "178",
+    "rarity": "Hyper Rare",
+    "set_name": "Prismatic Evolutions",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Terapagos ex",
+    "number": "180",
+    "rarity": "Hyper Rare",
+    "set_name": "Prismatic Evolutions",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Drayton",
+    "number": "172",
+    "rarity": "Special Illustration Rare",
+    "set_name": "Prismatic Evolutions",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Janine's Secret Art",
+    "number": "173",
+    "rarity": "Special Illustration Rare",
+    "set_name": "Prismatic Evolutions",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Lacey",
+    "number": "175",
+    "rarity": "Special Illustration Rare",
+    "set_name": "Prismatic Evolutions",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Pikachu ex",
+    "number": "179",
+    "rarity": "Hyper Rare",
+    "set_name": "Prismatic Evolutions",
+    "set_series": "Scarlet & Violet"
+  }
+]

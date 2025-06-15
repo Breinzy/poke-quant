@@ -1,0 +1,856 @@
+[
+  {
+    "name": "Weedle",
+    "number": "1",
+    "rarity": "Common",
+    "set_name": "Plasma Freeze",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Kakuna",
+    "number": "2",
+    "rarity": "Uncommon",
+    "set_name": "Plasma Freeze",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Beedrill",
+    "number": "3",
+    "rarity": "Rare",
+    "set_name": "Plasma Freeze",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Exeggcute",
+    "number": "4",
+    "rarity": "Uncommon",
+    "set_name": "Plasma Freeze",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Exeggutor",
+    "number": "5",
+    "rarity": "Rare",
+    "set_name": "Plasma Freeze",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Treecko",
+    "number": "6",
+    "rarity": "Common",
+    "set_name": "Plasma Freeze",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Grovyle",
+    "number": "7",
+    "rarity": "Uncommon",
+    "set_name": "Plasma Freeze",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Sceptile",
+    "number": "8",
+    "rarity": "Rare Holo",
+    "set_name": "Plasma Freeze",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Cacnea",
+    "number": "9",
+    "rarity": "Common",
+    "set_name": "Plasma Freeze",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Cacturne",
+    "number": "10",
+    "rarity": "Rare",
+    "set_name": "Plasma Freeze",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Leafeon",
+    "number": "11",
+    "rarity": "Rare",
+    "set_name": "Plasma Freeze",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Flareon",
+    "number": "12",
+    "rarity": "Uncommon",
+    "set_name": "Plasma Freeze",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Heatran-EX",
+    "number": "13",
+    "rarity": "Rare Holo EX",
+    "set_name": "Plasma Freeze",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Litwick",
+    "number": "14",
+    "rarity": "Common",
+    "set_name": "Plasma Freeze",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Lampent",
+    "number": "15",
+    "rarity": "Uncommon",
+    "set_name": "Plasma Freeze",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Chandelure",
+    "number": "16",
+    "rarity": "Rare Holo",
+    "set_name": "Plasma Freeze",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Reshiram",
+    "number": "17",
+    "rarity": "Rare Holo",
+    "set_name": "Plasma Freeze",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Horsea",
+    "number": "18",
+    "rarity": "Common",
+    "set_name": "Plasma Freeze",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Seadra",
+    "number": "19",
+    "rarity": "Uncommon",
+    "set_name": "Plasma Freeze",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Vaporeon",
+    "number": "20",
+    "rarity": "Uncommon",
+    "set_name": "Plasma Freeze",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Wooper",
+    "number": "21",
+    "rarity": "Common",
+    "set_name": "Plasma Freeze",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Quagsire",
+    "number": "22",
+    "rarity": "Rare",
+    "set_name": "Plasma Freeze",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Glaceon",
+    "number": "23",
+    "rarity": "Rare",
+    "set_name": "Plasma Freeze",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Tympole",
+    "number": "24",
+    "rarity": "Common",
+    "set_name": "Plasma Freeze",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Palpitoad",
+    "number": "25",
+    "rarity": "Uncommon",
+    "set_name": "Plasma Freeze",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Seismitoad",
+    "number": "26",
+    "rarity": "Rare",
+    "set_name": "Plasma Freeze",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Vanillite",
+    "number": "27",
+    "rarity": "Common",
+    "set_name": "Plasma Freeze",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Vanillish",
+    "number": "28",
+    "rarity": "Uncommon",
+    "set_name": "Plasma Freeze",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Vanilluxe",
+    "number": "29",
+    "rarity": "Rare",
+    "set_name": "Plasma Freeze",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Cryogonal",
+    "number": "30",
+    "rarity": "Uncommon",
+    "set_name": "Plasma Freeze",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Kyurem",
+    "number": "31",
+    "rarity": "Rare Holo",
+    "set_name": "Plasma Freeze",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Voltorb",
+    "number": "32",
+    "rarity": "Common",
+    "set_name": "Plasma Freeze",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Electrode",
+    "number": "33",
+    "rarity": "Rare Holo",
+    "set_name": "Plasma Freeze",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Jolteon",
+    "number": "34",
+    "rarity": "Uncommon",
+    "set_name": "Plasma Freeze",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Chinchou",
+    "number": "35",
+    "rarity": "Common",
+    "set_name": "Plasma Freeze",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Lanturn",
+    "number": "36",
+    "rarity": "Uncommon",
+    "set_name": "Plasma Freeze",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Pachirisu",
+    "number": "37",
+    "rarity": "Common",
+    "set_name": "Plasma Freeze",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Thundurus-EX",
+    "number": "38",
+    "rarity": "Rare Holo EX",
+    "set_name": "Plasma Freeze",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Zekrom",
+    "number": "39",
+    "rarity": "Rare Holo",
+    "set_name": "Plasma Freeze",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Nidoran \u2640",
+    "number": "40",
+    "rarity": "Common",
+    "set_name": "Plasma Freeze",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Nidorina",
+    "number": "41",
+    "rarity": "Uncommon",
+    "set_name": "Plasma Freeze",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Nidoqueen",
+    "number": "42",
+    "rarity": "Rare",
+    "set_name": "Plasma Freeze",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Nidoran \u2642",
+    "number": "43",
+    "rarity": "Common",
+    "set_name": "Plasma Freeze",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Nidorino",
+    "number": "44",
+    "rarity": "Uncommon",
+    "set_name": "Plasma Freeze",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Grimer",
+    "number": "45",
+    "rarity": "Common",
+    "set_name": "Plasma Freeze",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Muk",
+    "number": "46",
+    "rarity": "Rare",
+    "set_name": "Plasma Freeze",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Mr. Mime",
+    "number": "47",
+    "rarity": "Rare",
+    "set_name": "Plasma Freeze",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Espeon",
+    "number": "48",
+    "rarity": "Uncommon",
+    "set_name": "Plasma Freeze",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Sableye",
+    "number": "49",
+    "rarity": "Rare",
+    "set_name": "Plasma Freeze",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Beldum",
+    "number": "50",
+    "rarity": "Common",
+    "set_name": "Plasma Freeze",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Metang",
+    "number": "51",
+    "rarity": "Uncommon",
+    "set_name": "Plasma Freeze",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Metagross",
+    "number": "52",
+    "rarity": "Rare Holo",
+    "set_name": "Plasma Freeze",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Deoxys-EX",
+    "number": "53",
+    "rarity": "Rare Holo EX",
+    "set_name": "Plasma Freeze",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Yamask",
+    "number": "54",
+    "rarity": "Common",
+    "set_name": "Plasma Freeze",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Yamask",
+    "number": "55",
+    "rarity": "Common",
+    "set_name": "Plasma Freeze",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Cofagrigus",
+    "number": "56",
+    "rarity": "Rare Holo",
+    "set_name": "Plasma Freeze",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Cofagrigus",
+    "number": "57",
+    "rarity": "Rare",
+    "set_name": "Plasma Freeze",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Nidoking",
+    "number": "58",
+    "rarity": "Rare",
+    "set_name": "Plasma Freeze",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Mankey",
+    "number": "59",
+    "rarity": "Common",
+    "set_name": "Plasma Freeze",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Primeape",
+    "number": "60",
+    "rarity": "Common",
+    "set_name": "Plasma Freeze",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Onix",
+    "number": "61",
+    "rarity": "Uncommon",
+    "set_name": "Plasma Freeze",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Makuhita",
+    "number": "62",
+    "rarity": "Common",
+    "set_name": "Plasma Freeze",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Hariyama",
+    "number": "63",
+    "rarity": "Rare",
+    "set_name": "Plasma Freeze",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Umbreon",
+    "number": "64",
+    "rarity": "Rare Holo",
+    "set_name": "Plasma Freeze",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Sneasel",
+    "number": "65",
+    "rarity": "Common",
+    "set_name": "Plasma Freeze",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Weavile",
+    "number": "66",
+    "rarity": "Rare",
+    "set_name": "Plasma Freeze",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Absol",
+    "number": "67",
+    "rarity": "Rare Holo",
+    "set_name": "Plasma Freeze",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Sandile",
+    "number": "68",
+    "rarity": "Common",
+    "set_name": "Plasma Freeze",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Krokorok",
+    "number": "69",
+    "rarity": "Uncommon",
+    "set_name": "Plasma Freeze",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Krookodile",
+    "number": "70",
+    "rarity": "Rare",
+    "set_name": "Plasma Freeze",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Pawniard",
+    "number": "71",
+    "rarity": "Common",
+    "set_name": "Plasma Freeze",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Pawniard",
+    "number": "72",
+    "rarity": "Common",
+    "set_name": "Plasma Freeze",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Bisharp",
+    "number": "73",
+    "rarity": "Rare",
+    "set_name": "Plasma Freeze",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Bisharp",
+    "number": "74",
+    "rarity": "Uncommon",
+    "set_name": "Plasma Freeze",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Deino",
+    "number": "75",
+    "rarity": "Common",
+    "set_name": "Plasma Freeze",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Deino",
+    "number": "76",
+    "rarity": "Common",
+    "set_name": "Plasma Freeze",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Zweilous",
+    "number": "77",
+    "rarity": "Uncommon",
+    "set_name": "Plasma Freeze",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Hydreigon",
+    "number": "78",
+    "rarity": "Rare Holo",
+    "set_name": "Plasma Freeze",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Steelix",
+    "number": "79",
+    "rarity": "Rare",
+    "set_name": "Plasma Freeze",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Mawile",
+    "number": "80",
+    "rarity": "Uncommon",
+    "set_name": "Plasma Freeze",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Dratini",
+    "number": "81",
+    "rarity": "Common",
+    "set_name": "Plasma Freeze",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Dragonair",
+    "number": "82",
+    "rarity": "Uncommon",
+    "set_name": "Plasma Freeze",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Dragonite",
+    "number": "83",
+    "rarity": "Rare Holo",
+    "set_name": "Plasma Freeze",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Kingdra",
+    "number": "84",
+    "rarity": "Rare Holo",
+    "set_name": "Plasma Freeze",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Latias-EX",
+    "number": "85",
+    "rarity": "Rare Holo EX",
+    "set_name": "Plasma Freeze",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Latios-EX",
+    "number": "86",
+    "rarity": "Rare Holo EX",
+    "set_name": "Plasma Freeze",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Rattata",
+    "number": "87",
+    "rarity": "Common",
+    "set_name": "Plasma Freeze",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Raticate",
+    "number": "88",
+    "rarity": "Rare",
+    "set_name": "Plasma Freeze",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Eevee",
+    "number": "89",
+    "rarity": "Common",
+    "set_name": "Plasma Freeze",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Eevee",
+    "number": "90",
+    "rarity": "Common",
+    "set_name": "Plasma Freeze",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Hoothoot",
+    "number": "91",
+    "rarity": "Common",
+    "set_name": "Plasma Freeze",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Noctowl",
+    "number": "92",
+    "rarity": "Uncommon",
+    "set_name": "Plasma Freeze",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Miltank",
+    "number": "93",
+    "rarity": "Uncommon",
+    "set_name": "Plasma Freeze",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Kecleon",
+    "number": "94",
+    "rarity": "Rare",
+    "set_name": "Plasma Freeze",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Starly",
+    "number": "95",
+    "rarity": "Common",
+    "set_name": "Plasma Freeze",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Staravia",
+    "number": "96",
+    "rarity": "Uncommon",
+    "set_name": "Plasma Freeze",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Staraptor",
+    "number": "97",
+    "rarity": "Rare",
+    "set_name": "Plasma Freeze",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Tornadus-EX",
+    "number": "98",
+    "rarity": "Rare Holo EX",
+    "set_name": "Plasma Freeze",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Float Stone",
+    "number": "99",
+    "rarity": "Uncommon",
+    "set_name": "Plasma Freeze",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Frozen City",
+    "number": "100",
+    "rarity": "Uncommon",
+    "set_name": "Plasma Freeze",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Ghetsis",
+    "number": "101",
+    "rarity": "Rare Holo",
+    "set_name": "Plasma Freeze",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Shadow Triad",
+    "number": "102",
+    "rarity": "Uncommon",
+    "set_name": "Plasma Freeze",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Superior Energy Retrieval",
+    "number": "103",
+    "rarity": "Uncommon",
+    "set_name": "Plasma Freeze",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Team Plasma Badge",
+    "number": "104",
+    "rarity": "Uncommon",
+    "set_name": "Plasma Freeze",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Team Plasma Ball",
+    "number": "105",
+    "rarity": "Uncommon",
+    "set_name": "Plasma Freeze",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Plasma Energy",
+    "number": "106",
+    "rarity": "Uncommon",
+    "set_name": "Plasma Freeze",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Life Dew",
+    "number": "107",
+    "rarity": "Rare ACE",
+    "set_name": "Plasma Freeze",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Rock Guard",
+    "number": "108",
+    "rarity": "Rare ACE",
+    "set_name": "Plasma Freeze",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Heatran-EX",
+    "number": "109",
+    "rarity": "Rare Ultra",
+    "set_name": "Plasma Freeze",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Thundurus-EX",
+    "number": "110",
+    "rarity": "Rare Ultra",
+    "set_name": "Plasma Freeze",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Deoxys-EX",
+    "number": "111",
+    "rarity": "Rare Ultra",
+    "set_name": "Plasma Freeze",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Latias-EX",
+    "number": "112",
+    "rarity": "Rare Ultra",
+    "set_name": "Plasma Freeze",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Latios-EX",
+    "number": "113",
+    "rarity": "Rare Ultra",
+    "set_name": "Plasma Freeze",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Tornadus-EX",
+    "number": "114",
+    "rarity": "Rare Ultra",
+    "set_name": "Plasma Freeze",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Ghetsis",
+    "number": "115",
+    "rarity": "Rare Ultra",
+    "set_name": "Plasma Freeze",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Professor Juniper",
+    "number": "116",
+    "rarity": "Rare Ultra",
+    "set_name": "Plasma Freeze",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Empoleon",
+    "number": "117",
+    "rarity": "Rare Secret",
+    "set_name": "Plasma Freeze",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Sigilyph",
+    "number": "118",
+    "rarity": "Rare Secret",
+    "set_name": "Plasma Freeze",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Garbodor",
+    "number": "119",
+    "rarity": "Rare Secret",
+    "set_name": "Plasma Freeze",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Garchomp",
+    "number": "120",
+    "rarity": "Rare Secret",
+    "set_name": "Plasma Freeze",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Max Potion",
+    "number": "121",
+    "rarity": "Rare Secret",
+    "set_name": "Plasma Freeze",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Ultra Ball",
+    "number": "122",
+    "rarity": "Rare Secret",
+    "set_name": "Plasma Freeze",
+    "set_series": "Black & White"
+  }
+]

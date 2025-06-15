@@ -1,0 +1,688 @@
+[
+  {
+    "name": "Pansage",
+    "number": "1",
+    "rarity": "Common",
+    "set_name": "Emerging Powers",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Simisage",
+    "number": "2",
+    "rarity": "Rare",
+    "set_name": "Emerging Powers",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Sewaddle",
+    "number": "3",
+    "rarity": "Common",
+    "set_name": "Emerging Powers",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Sewaddle",
+    "number": "4",
+    "rarity": "Common",
+    "set_name": "Emerging Powers",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Swadloon",
+    "number": "5",
+    "rarity": "Uncommon",
+    "set_name": "Emerging Powers",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Swadloon",
+    "number": "6",
+    "rarity": "Uncommon",
+    "set_name": "Emerging Powers",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Leavanny",
+    "number": "7",
+    "rarity": "Rare",
+    "set_name": "Emerging Powers",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Leavanny",
+    "number": "8",
+    "rarity": "Rare",
+    "set_name": "Emerging Powers",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Cottonee",
+    "number": "9",
+    "rarity": "Common",
+    "set_name": "Emerging Powers",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Cottonee",
+    "number": "10",
+    "rarity": "Common",
+    "set_name": "Emerging Powers",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Whimsicott",
+    "number": "11",
+    "rarity": "Uncommon",
+    "set_name": "Emerging Powers",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Whimsicott",
+    "number": "12",
+    "rarity": "Rare",
+    "set_name": "Emerging Powers",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Petilil",
+    "number": "13",
+    "rarity": "Common",
+    "set_name": "Emerging Powers",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Lilligant",
+    "number": "14",
+    "rarity": "Uncommon",
+    "set_name": "Emerging Powers",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Deerling",
+    "number": "15",
+    "rarity": "Common",
+    "set_name": "Emerging Powers",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Sawsbuck",
+    "number": "16",
+    "rarity": "Rare",
+    "set_name": "Emerging Powers",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Virizion",
+    "number": "17",
+    "rarity": "Rare Holo",
+    "set_name": "Emerging Powers",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Pansear",
+    "number": "18",
+    "rarity": "Common",
+    "set_name": "Emerging Powers",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Simisear",
+    "number": "19",
+    "rarity": "Rare",
+    "set_name": "Emerging Powers",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Darumaka",
+    "number": "20",
+    "rarity": "Common",
+    "set_name": "Emerging Powers",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Darmanitan",
+    "number": "21",
+    "rarity": "Rare",
+    "set_name": "Emerging Powers",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Panpour",
+    "number": "22",
+    "rarity": "Common",
+    "set_name": "Emerging Powers",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Simipour",
+    "number": "23",
+    "rarity": "Rare",
+    "set_name": "Emerging Powers",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Basculin",
+    "number": "24",
+    "rarity": "Common",
+    "set_name": "Emerging Powers",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Basculin",
+    "number": "25",
+    "rarity": "Uncommon",
+    "set_name": "Emerging Powers",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Ducklett",
+    "number": "26",
+    "rarity": "Common",
+    "set_name": "Emerging Powers",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Swanna",
+    "number": "27",
+    "rarity": "Rare",
+    "set_name": "Emerging Powers",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Cubchoo",
+    "number": "28",
+    "rarity": "Common",
+    "set_name": "Emerging Powers",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Cubchoo",
+    "number": "29",
+    "rarity": "Common",
+    "set_name": "Emerging Powers",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Beartic",
+    "number": "30",
+    "rarity": "Rare Holo",
+    "set_name": "Emerging Powers",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Beartic",
+    "number": "31",
+    "rarity": "Rare",
+    "set_name": "Emerging Powers",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Emolga",
+    "number": "32",
+    "rarity": "Common",
+    "set_name": "Emerging Powers",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Joltik",
+    "number": "33",
+    "rarity": "Common",
+    "set_name": "Emerging Powers",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Galvantula",
+    "number": "34",
+    "rarity": "Uncommon",
+    "set_name": "Emerging Powers",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Thundurus",
+    "number": "35",
+    "rarity": "Rare Holo",
+    "set_name": "Emerging Powers",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Woobat",
+    "number": "36",
+    "rarity": "Common",
+    "set_name": "Emerging Powers",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Swoobat",
+    "number": "37",
+    "rarity": "Rare",
+    "set_name": "Emerging Powers",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Venipede",
+    "number": "38",
+    "rarity": "Common",
+    "set_name": "Emerging Powers",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Whirlipede",
+    "number": "39",
+    "rarity": "Uncommon",
+    "set_name": "Emerging Powers",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Scolipede",
+    "number": "40",
+    "rarity": "Rare",
+    "set_name": "Emerging Powers",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Sigilyph",
+    "number": "41",
+    "rarity": "Uncommon",
+    "set_name": "Emerging Powers",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Sigilyph",
+    "number": "42",
+    "rarity": "Uncommon",
+    "set_name": "Emerging Powers",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Gothita",
+    "number": "43",
+    "rarity": "Common",
+    "set_name": "Emerging Powers",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Gothita",
+    "number": "44",
+    "rarity": "Common",
+    "set_name": "Emerging Powers",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Gothorita",
+    "number": "45",
+    "rarity": "Uncommon",
+    "set_name": "Emerging Powers",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Gothorita",
+    "number": "46",
+    "rarity": "Uncommon",
+    "set_name": "Emerging Powers",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Gothitelle",
+    "number": "47",
+    "rarity": "Rare Holo",
+    "set_name": "Emerging Powers",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Gothitelle",
+    "number": "48",
+    "rarity": "Rare",
+    "set_name": "Emerging Powers",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Roggenrola",
+    "number": "49",
+    "rarity": "Common",
+    "set_name": "Emerging Powers",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Roggenrola",
+    "number": "50",
+    "rarity": "Common",
+    "set_name": "Emerging Powers",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Boldore",
+    "number": "51",
+    "rarity": "Uncommon",
+    "set_name": "Emerging Powers",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Boldore",
+    "number": "52",
+    "rarity": "Uncommon",
+    "set_name": "Emerging Powers",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Gigalith",
+    "number": "53",
+    "rarity": "Rare",
+    "set_name": "Emerging Powers",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Drilbur",
+    "number": "54",
+    "rarity": "Uncommon",
+    "set_name": "Emerging Powers",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Drilbur",
+    "number": "55",
+    "rarity": "Common",
+    "set_name": "Emerging Powers",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Excadrill",
+    "number": "56",
+    "rarity": "Rare Holo",
+    "set_name": "Emerging Powers",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Excadrill",
+    "number": "57",
+    "rarity": "Rare",
+    "set_name": "Emerging Powers",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Throh",
+    "number": "58",
+    "rarity": "Uncommon",
+    "set_name": "Emerging Powers",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Sawk",
+    "number": "59",
+    "rarity": "Uncommon",
+    "set_name": "Emerging Powers",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Sandile",
+    "number": "60",
+    "rarity": "Common",
+    "set_name": "Emerging Powers",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Krokorok",
+    "number": "61",
+    "rarity": "Uncommon",
+    "set_name": "Emerging Powers",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Krookodile",
+    "number": "62",
+    "rarity": "Rare",
+    "set_name": "Emerging Powers",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Terrakion",
+    "number": "63",
+    "rarity": "Rare Holo",
+    "set_name": "Emerging Powers",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Purrloin",
+    "number": "64",
+    "rarity": "Common",
+    "set_name": "Emerging Powers",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Liepard",
+    "number": "65",
+    "rarity": "Rare",
+    "set_name": "Emerging Powers",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Zorua",
+    "number": "66",
+    "rarity": "Uncommon",
+    "set_name": "Emerging Powers",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Zoroark",
+    "number": "67",
+    "rarity": "Rare Holo",
+    "set_name": "Emerging Powers",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Vullaby",
+    "number": "68",
+    "rarity": "Common",
+    "set_name": "Emerging Powers",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Mandibuzz",
+    "number": "69",
+    "rarity": "Rare",
+    "set_name": "Emerging Powers",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Ferroseed",
+    "number": "70",
+    "rarity": "Common",
+    "set_name": "Emerging Powers",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Ferroseed",
+    "number": "71",
+    "rarity": "Common",
+    "set_name": "Emerging Powers",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Ferrothorn",
+    "number": "72",
+    "rarity": "Rare",
+    "set_name": "Emerging Powers",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Ferrothorn",
+    "number": "73",
+    "rarity": "Uncommon",
+    "set_name": "Emerging Powers",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Klink",
+    "number": "74",
+    "rarity": "Common",
+    "set_name": "Emerging Powers",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Klang",
+    "number": "75",
+    "rarity": "Uncommon",
+    "set_name": "Emerging Powers",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Klinklang",
+    "number": "76",
+    "rarity": "Rare",
+    "set_name": "Emerging Powers",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Cobalion",
+    "number": "77",
+    "rarity": "Rare Holo",
+    "set_name": "Emerging Powers",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Patrat",
+    "number": "78",
+    "rarity": "Common",
+    "set_name": "Emerging Powers",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Watchog",
+    "number": "79",
+    "rarity": "Uncommon",
+    "set_name": "Emerging Powers",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Pidove",
+    "number": "80",
+    "rarity": "Common",
+    "set_name": "Emerging Powers",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Tranquill",
+    "number": "81",
+    "rarity": "Uncommon",
+    "set_name": "Emerging Powers",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Unfezant",
+    "number": "82",
+    "rarity": "Rare",
+    "set_name": "Emerging Powers",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Audino",
+    "number": "83",
+    "rarity": "Uncommon",
+    "set_name": "Emerging Powers",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Minccino",
+    "number": "84",
+    "rarity": "Common",
+    "set_name": "Emerging Powers",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Cinccino",
+    "number": "85",
+    "rarity": "Uncommon",
+    "set_name": "Emerging Powers",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Rufflet",
+    "number": "86",
+    "rarity": "Common",
+    "set_name": "Emerging Powers",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Rufflet",
+    "number": "87",
+    "rarity": "Common",
+    "set_name": "Emerging Powers",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Braviary",
+    "number": "88",
+    "rarity": "Rare Holo",
+    "set_name": "Emerging Powers",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Tornadus",
+    "number": "89",
+    "rarity": "Rare Holo",
+    "set_name": "Emerging Powers",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Bianca",
+    "number": "90",
+    "rarity": "Uncommon",
+    "set_name": "Emerging Powers",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Cheren",
+    "number": "91",
+    "rarity": "Uncommon",
+    "set_name": "Emerging Powers",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Crushing Hammer",
+    "number": "92",
+    "rarity": "Uncommon",
+    "set_name": "Emerging Powers",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Great Ball",
+    "number": "93",
+    "rarity": "Uncommon",
+    "set_name": "Emerging Powers",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Max Potion",
+    "number": "94",
+    "rarity": "Uncommon",
+    "set_name": "Emerging Powers",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Pok\u00e9mon Catcher",
+    "number": "95",
+    "rarity": "Uncommon",
+    "set_name": "Emerging Powers",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Recycle",
+    "number": "96",
+    "rarity": "Uncommon",
+    "set_name": "Emerging Powers",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Thundurus",
+    "number": "97",
+    "rarity": "Rare Ultra",
+    "set_name": "Emerging Powers",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Tornadus",
+    "number": "98",
+    "rarity": "Rare Ultra",
+    "set_name": "Emerging Powers",
+    "set_series": "Black & White"
+  }
+]

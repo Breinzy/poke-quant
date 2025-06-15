@@ -1,0 +1,121 @@
+[
+  {
+    "name": "Bastiodon",
+    "number": "1",
+    "rarity": "Rare",
+    "set_name": "POP Series 6",
+    "set_series": "POP"
+  },
+  {
+    "name": "Lucario",
+    "number": "2",
+    "rarity": "Rare",
+    "set_name": "POP Series 6",
+    "set_series": "POP"
+  },
+  {
+    "name": "Manaphy",
+    "number": "3",
+    "rarity": "Rare",
+    "set_name": "POP Series 6",
+    "set_series": "POP"
+  },
+  {
+    "name": "Pachirisu",
+    "number": "4",
+    "rarity": "Rare",
+    "set_name": "POP Series 6",
+    "set_series": "POP"
+  },
+  {
+    "name": "Rampardos",
+    "number": "5",
+    "rarity": "Rare",
+    "set_name": "POP Series 6",
+    "set_series": "POP"
+  },
+  {
+    "name": "Drifloon",
+    "number": "6",
+    "rarity": "Uncommon",
+    "set_name": "POP Series 6",
+    "set_series": "POP"
+  },
+  {
+    "name": "Gible",
+    "number": "7",
+    "rarity": "Uncommon",
+    "set_name": "POP Series 6",
+    "set_series": "POP"
+  },
+  {
+    "name": "Riolu",
+    "number": "8",
+    "rarity": "Uncommon",
+    "set_name": "POP Series 6",
+    "set_series": "POP"
+  },
+  {
+    "name": "Pikachu",
+    "number": "9",
+    "rarity": "Uncommon",
+    "set_name": "POP Series 6",
+    "set_series": "POP"
+  },
+  {
+    "name": "Staravia",
+    "number": "10",
+    "rarity": "Uncommon",
+    "set_name": "POP Series 6",
+    "set_series": "POP"
+  },
+  {
+    "name": "Bidoof",
+    "number": "11",
+    "rarity": "Common",
+    "set_name": "POP Series 6",
+    "set_series": "POP"
+  },
+  {
+    "name": "Buneary",
+    "number": "12",
+    "rarity": "Common",
+    "set_name": "POP Series 6",
+    "set_series": "POP"
+  },
+  {
+    "name": "Cherubi",
+    "number": "13",
+    "rarity": "Common",
+    "set_name": "POP Series 6",
+    "set_series": "POP"
+  },
+  {
+    "name": "Chimchar",
+    "number": "14",
+    "rarity": "Common",
+    "set_name": "POP Series 6",
+    "set_series": "POP"
+  },
+  {
+    "name": "Piplup",
+    "number": "15",
+    "rarity": "Common",
+    "set_name": "POP Series 6",
+    "set_series": "POP"
+  },
+  {
+    "name": "Starly",
+    "number": "16",
+    "rarity": "Common",
+    "set_name": "POP Series 6",
+    "set_series": "POP"
+  },
+  {
+    "name": "Turtwig",
+    "number": "17",
+    "rarity": "Common",
+    "set_name": "POP Series 6",
+    "set_series": "POP"
+  }
+]

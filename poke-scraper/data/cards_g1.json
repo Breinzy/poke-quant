@@ -1,0 +1,821 @@
+[
+  {
+    "name": "Venusaur-EX",
+    "number": "1",
+    "rarity": "Rare Holo EX",
+    "set_name": "Generations",
+    "set_series": "XY"
+  },
+  {
+    "name": "M Venusaur-EX",
+    "number": "2",
+    "rarity": "Rare Holo EX",
+    "set_name": "Generations",
+    "set_series": "XY"
+  },
+  {
+    "name": "Caterpie",
+    "number": "3",
+    "rarity": "Common",
+    "set_name": "Generations",
+    "set_series": "XY"
+  },
+  {
+    "name": "Metapod",
+    "number": "4",
+    "rarity": "Uncommon",
+    "set_name": "Generations",
+    "set_series": "XY"
+  },
+  {
+    "name": "Butterfree",
+    "number": "5",
+    "rarity": "Rare Holo",
+    "set_name": "Generations",
+    "set_series": "XY"
+  },
+  {
+    "name": "Paras",
+    "number": "6",
+    "rarity": "Common",
+    "set_name": "Generations",
+    "set_series": "XY"
+  },
+  {
+    "name": "Parasect",
+    "number": "7",
+    "rarity": "Rare",
+    "set_name": "Generations",
+    "set_series": "XY"
+  },
+  {
+    "name": "Tangela",
+    "number": "8",
+    "rarity": "Common",
+    "set_name": "Generations",
+    "set_series": "XY"
+  },
+  {
+    "name": "Pinsir",
+    "number": "9",
+    "rarity": "Rare",
+    "set_name": "Generations",
+    "set_series": "XY"
+  },
+  {
+    "name": "Leafeon-EX",
+    "number": "10",
+    "rarity": "Rare Holo EX",
+    "set_name": "Generations",
+    "set_series": "XY"
+  },
+  {
+    "name": "Charizard-EX",
+    "number": "11",
+    "rarity": "Rare Holo EX",
+    "set_name": "Generations",
+    "set_series": "XY"
+  },
+  {
+    "name": "M Charizard-EX",
+    "number": "12",
+    "rarity": "Rare Holo EX",
+    "set_name": "Generations",
+    "set_series": "XY"
+  },
+  {
+    "name": "Ninetales-EX",
+    "number": "13",
+    "rarity": "Rare Holo EX",
+    "set_name": "Generations",
+    "set_series": "XY"
+  },
+  {
+    "name": "Ponyta",
+    "number": "14",
+    "rarity": "Common",
+    "set_name": "Generations",
+    "set_series": "XY"
+  },
+  {
+    "name": "Rapidash",
+    "number": "15",
+    "rarity": "Rare",
+    "set_name": "Generations",
+    "set_series": "XY"
+  },
+  {
+    "name": "Magmar",
+    "number": "16",
+    "rarity": "Common",
+    "set_name": "Generations",
+    "set_series": "XY"
+  },
+  {
+    "name": "Blastoise-EX",
+    "number": "17",
+    "rarity": "Rare Holo EX",
+    "set_name": "Generations",
+    "set_series": "XY"
+  },
+  {
+    "name": "M Blastoise-EX",
+    "number": "18",
+    "rarity": "Rare Holo EX",
+    "set_name": "Generations",
+    "set_series": "XY"
+  },
+  {
+    "name": "Shellder",
+    "number": "19",
+    "rarity": "Common",
+    "set_name": "Generations",
+    "set_series": "XY"
+  },
+  {
+    "name": "Cloyster",
+    "number": "20",
+    "rarity": "Uncommon",
+    "set_name": "Generations",
+    "set_series": "XY"
+  },
+  {
+    "name": "Krabby",
+    "number": "21",
+    "rarity": "Common",
+    "set_name": "Generations",
+    "set_series": "XY"
+  },
+  {
+    "name": "Magikarp",
+    "number": "22",
+    "rarity": "Common",
+    "set_name": "Generations",
+    "set_series": "XY"
+  },
+  {
+    "name": "Gyarados",
+    "number": "23",
+    "rarity": "Rare",
+    "set_name": "Generations",
+    "set_series": "XY"
+  },
+  {
+    "name": "Vaporeon-EX",
+    "number": "24",
+    "rarity": "Rare Holo EX",
+    "set_name": "Generations",
+    "set_series": "XY"
+  },
+  {
+    "name": "Articuno",
+    "number": "25",
+    "rarity": "Rare Holo",
+    "set_name": "Generations",
+    "set_series": "XY"
+  },
+  {
+    "name": "Pikachu",
+    "number": "26",
+    "rarity": "Common",
+    "set_name": "Generations",
+    "set_series": "XY"
+  },
+  {
+    "name": "Raichu",
+    "number": "27",
+    "rarity": "Rare Holo",
+    "set_name": "Generations",
+    "set_series": "XY"
+  },
+  {
+    "name": "Jolteon-EX",
+    "number": "28",
+    "rarity": "Rare Holo EX",
+    "set_name": "Generations",
+    "set_series": "XY"
+  },
+  {
+    "name": "Jolteon-EX",
+    "number": "28a",
+    "rarity": "Rare Ultra",
+    "set_name": "Generations",
+    "set_series": "XY"
+  },
+  {
+    "name": "Zapdos",
+    "number": "29",
+    "rarity": "Rare Holo",
+    "set_name": "Generations",
+    "set_series": "XY"
+  },
+  {
+    "name": "Zubat",
+    "number": "30",
+    "rarity": "Common",
+    "set_name": "Generations",
+    "set_series": "XY"
+  },
+  {
+    "name": "Golbat",
+    "number": "31",
+    "rarity": "Uncommon",
+    "set_name": "Generations",
+    "set_series": "XY"
+  },
+  {
+    "name": "Slowpoke",
+    "number": "32",
+    "rarity": "Common",
+    "set_name": "Generations",
+    "set_series": "XY"
+  },
+  {
+    "name": "Gastly",
+    "number": "33",
+    "rarity": "Common",
+    "set_name": "Generations",
+    "set_series": "XY"
+  },
+  {
+    "name": "Haunter",
+    "number": "34",
+    "rarity": "Uncommon",
+    "set_name": "Generations",
+    "set_series": "XY"
+  },
+  {
+    "name": "Gengar",
+    "number": "35",
+    "rarity": "Rare Holo",
+    "set_name": "Generations",
+    "set_series": "XY"
+  },
+  {
+    "name": "Jynx",
+    "number": "36",
+    "rarity": "Rare",
+    "set_name": "Generations",
+    "set_series": "XY"
+  },
+  {
+    "name": "Meowstic-EX",
+    "number": "37",
+    "rarity": "Rare Holo EX",
+    "set_name": "Generations",
+    "set_series": "XY"
+  },
+  {
+    "name": "Diglett",
+    "number": "38",
+    "rarity": "Common",
+    "set_name": "Generations",
+    "set_series": "XY"
+  },
+  {
+    "name": "Dugtrio",
+    "number": "39",
+    "rarity": "Rare",
+    "set_name": "Generations",
+    "set_series": "XY"
+  },
+  {
+    "name": "Machop",
+    "number": "40",
+    "rarity": "Common",
+    "set_name": "Generations",
+    "set_series": "XY"
+  },
+  {
+    "name": "Machoke",
+    "number": "41",
+    "rarity": "Uncommon",
+    "set_name": "Generations",
+    "set_series": "XY"
+  },
+  {
+    "name": "Machamp",
+    "number": "42",
+    "rarity": "Rare Holo",
+    "set_name": "Generations",
+    "set_series": "XY"
+  },
+  {
+    "name": "Geodude",
+    "number": "43",
+    "rarity": "Common",
+    "set_name": "Generations",
+    "set_series": "XY"
+  },
+  {
+    "name": "Graveler",
+    "number": "44",
+    "rarity": "Uncommon",
+    "set_name": "Generations",
+    "set_series": "XY"
+  },
+  {
+    "name": "Golem",
+    "number": "45",
+    "rarity": "Rare Holo",
+    "set_name": "Generations",
+    "set_series": "XY"
+  },
+  {
+    "name": "Golem-EX",
+    "number": "46",
+    "rarity": "Rare Holo EX",
+    "set_name": "Generations",
+    "set_series": "XY"
+  },
+  {
+    "name": "Hitmonlee",
+    "number": "47",
+    "rarity": "Rare",
+    "set_name": "Generations",
+    "set_series": "XY"
+  },
+  {
+    "name": "Hitmonchan",
+    "number": "48",
+    "rarity": "Rare",
+    "set_name": "Generations",
+    "set_series": "XY"
+  },
+  {
+    "name": "Rhyhorn",
+    "number": "49",
+    "rarity": "Common",
+    "set_name": "Generations",
+    "set_series": "XY"
+  },
+  {
+    "name": "Clefairy",
+    "number": "50",
+    "rarity": "Common",
+    "set_name": "Generations",
+    "set_series": "XY"
+  },
+  {
+    "name": "Clefable",
+    "number": "51",
+    "rarity": "Uncommon",
+    "set_name": "Generations",
+    "set_series": "XY"
+  },
+  {
+    "name": "Mr. Mime",
+    "number": "52",
+    "rarity": "Uncommon",
+    "set_name": "Generations",
+    "set_series": "XY"
+  },
+  {
+    "name": "Meowth",
+    "number": "53",
+    "rarity": "Common",
+    "set_name": "Generations",
+    "set_series": "XY"
+  },
+  {
+    "name": "Persian",
+    "number": "54",
+    "rarity": "Uncommon",
+    "set_name": "Generations",
+    "set_series": "XY"
+  },
+  {
+    "name": "Doduo",
+    "number": "55",
+    "rarity": "Common",
+    "set_name": "Generations",
+    "set_series": "XY"
+  },
+  {
+    "name": "Dodrio",
+    "number": "56",
+    "rarity": "Rare",
+    "set_name": "Generations",
+    "set_series": "XY"
+  },
+  {
+    "name": "Tauros",
+    "number": "57",
+    "rarity": "Rare",
+    "set_name": "Generations",
+    "set_series": "XY"
+  },
+  {
+    "name": "Snorlax",
+    "number": "58",
+    "rarity": "Rare",
+    "set_name": "Generations",
+    "set_series": "XY"
+  },
+  {
+    "name": "Clemont",
+    "number": "59",
+    "rarity": "Uncommon",
+    "set_name": "Generations",
+    "set_series": "XY"
+  },
+  {
+    "name": "Crushing Hammer",
+    "number": "60",
+    "rarity": "Uncommon",
+    "set_name": "Generations",
+    "set_series": "XY"
+  },
+  {
+    "name": "Energy Switch",
+    "number": "61",
+    "rarity": "Uncommon",
+    "set_name": "Generations",
+    "set_series": "XY"
+  },
+  {
+    "name": "Evosoda",
+    "number": "62",
+    "rarity": "Uncommon",
+    "set_name": "Generations",
+    "set_series": "XY"
+  },
+  {
+    "name": "Imakuni?",
+    "number": "63",
+    "rarity": "Uncommon",
+    "set_name": "Generations",
+    "set_series": "XY"
+  },
+  {
+    "name": "Maintenance",
+    "number": "64",
+    "rarity": "Uncommon",
+    "set_name": "Generations",
+    "set_series": "XY"
+  },
+  {
+    "name": "Max Revive",
+    "number": "65",
+    "rarity": "Uncommon",
+    "set_name": "Generations",
+    "set_series": "XY"
+  },
+  {
+    "name": "Olympia",
+    "number": "66",
+    "rarity": "Uncommon",
+    "set_name": "Generations",
+    "set_series": "XY"
+  },
+  {
+    "name": "Pok\u00e9 Ball",
+    "number": "67",
+    "rarity": "Uncommon",
+    "set_name": "Generations",
+    "set_series": "XY"
+  },
+  {
+    "name": "Pok\u00e9mon Center Lady",
+    "number": "68",
+    "rarity": "Uncommon",
+    "set_name": "Generations",
+    "set_series": "XY"
+  },
+  {
+    "name": "Pok\u00e9mon Fan Club",
+    "number": "69",
+    "rarity": "Uncommon",
+    "set_name": "Generations",
+    "set_series": "XY"
+  },
+  {
+    "name": "Revitalizer",
+    "number": "70",
+    "rarity": "Uncommon",
+    "set_name": "Generations",
+    "set_series": "XY"
+  },
+  {
+    "name": "Red Card",
+    "number": "71",
+    "rarity": "Uncommon",
+    "set_name": "Generations",
+    "set_series": "XY"
+  },
+  {
+    "name": "Shauna",
+    "number": "72",
+    "rarity": "Uncommon",
+    "set_name": "Generations",
+    "set_series": "XY"
+  },
+  {
+    "name": "Team Flare Grunt",
+    "number": "73",
+    "rarity": "Uncommon",
+    "set_name": "Generations",
+    "set_series": "XY"
+  },
+  {
+    "name": "Team Flare Grunt",
+    "number": "73a",
+    "rarity": "Rare Ultra",
+    "set_name": "Generations",
+    "set_series": "XY"
+  },
+  {
+    "name": "Double Colorless Energy",
+    "number": "74",
+    "rarity": "Uncommon",
+    "set_name": "Generations",
+    "set_series": "XY"
+  },
+  {
+    "name": "Grass Energy",
+    "number": "75",
+    "rarity": "Common",
+    "set_name": "Generations",
+    "set_series": "XY"
+  },
+  {
+    "name": "Fire Energy",
+    "number": "76",
+    "rarity": "Common",
+    "set_name": "Generations",
+    "set_series": "XY"
+  },
+  {
+    "name": "Water Energy",
+    "number": "77",
+    "rarity": "Common",
+    "set_name": "Generations",
+    "set_series": "XY"
+  },
+  {
+    "name": "Lightning Energy",
+    "number": "78",
+    "rarity": "Common",
+    "set_name": "Generations",
+    "set_series": "XY"
+  },
+  {
+    "name": "Psychic Energy",
+    "number": "79",
+    "rarity": "Common",
+    "set_name": "Generations",
+    "set_series": "XY"
+  },
+  {
+    "name": "Fighting Energy",
+    "number": "80",
+    "rarity": "Common",
+    "set_name": "Generations",
+    "set_series": "XY"
+  },
+  {
+    "name": "Darkness Energy",
+    "number": "81",
+    "rarity": "Common",
+    "set_name": "Generations",
+    "set_series": "XY"
+  },
+  {
+    "name": "Metal Energy",
+    "number": "82",
+    "rarity": "Common",
+    "set_name": "Generations",
+    "set_series": "XY"
+  },
+  {
+    "name": "Fairy Energy",
+    "number": "83",
+    "rarity": "Common",
+    "set_name": "Generations",
+    "set_series": "XY"
+  },
+  {
+    "name": "Chikorita",
+    "number": "RC1",
+    "rarity": "Common",
+    "set_name": "Generations",
+    "set_series": "XY"
+  },
+  {
+    "name": "Shroomish",
+    "number": "RC2",
+    "rarity": "Common",
+    "set_name": "Generations",
+    "set_series": "XY"
+  },
+  {
+    "name": "Charmander",
+    "number": "RC3",
+    "rarity": "Common",
+    "set_name": "Generations",
+    "set_series": "XY"
+  },
+  {
+    "name": "Charmeleon",
+    "number": "RC4",
+    "rarity": "Common",
+    "set_name": "Generations",
+    "set_series": "XY"
+  },
+  {
+    "name": "Charizard",
+    "number": "RC5",
+    "rarity": "Uncommon",
+    "set_name": "Generations",
+    "set_series": "XY"
+  },
+  {
+    "name": "Flareon-EX",
+    "number": "RC6",
+    "rarity": "Rare Holo EX",
+    "set_name": "Generations",
+    "set_series": "XY"
+  },
+  {
+    "name": "Snorunt",
+    "number": "RC7",
+    "rarity": "Common",
+    "set_name": "Generations",
+    "set_series": "XY"
+  },
+  {
+    "name": "Froslass",
+    "number": "RC8",
+    "rarity": "Uncommon",
+    "set_name": "Generations",
+    "set_series": "XY"
+  },
+  {
+    "name": "Raichu",
+    "number": "RC9",
+    "rarity": "Common",
+    "set_name": "Generations",
+    "set_series": "XY"
+  },
+  {
+    "name": "Dedenne",
+    "number": "RC10",
+    "rarity": "Uncommon",
+    "set_name": "Generations",
+    "set_series": "XY"
+  },
+  {
+    "name": "Wobbuffet",
+    "number": "RC11",
+    "rarity": "Common",
+    "set_name": "Generations",
+    "set_series": "XY"
+  },
+  {
+    "name": "Gulpin",
+    "number": "RC12",
+    "rarity": "Common",
+    "set_name": "Generations",
+    "set_series": "XY"
+  },
+  {
+    "name": "Jirachi",
+    "number": "RC13",
+    "rarity": "Uncommon",
+    "set_name": "Generations",
+    "set_series": "XY"
+  },
+  {
+    "name": "Espurr",
+    "number": "RC14",
+    "rarity": "Common",
+    "set_name": "Generations",
+    "set_series": "XY"
+  },
+  {
+    "name": "Meowstic",
+    "number": "RC15",
+    "rarity": "Uncommon",
+    "set_name": "Generations",
+    "set_series": "XY"
+  },
+  {
+    "name": "Yveltal",
+    "number": "RC16",
+    "rarity": "Uncommon",
+    "set_name": "Generations",
+    "set_series": "XY"
+  },
+  {
+    "name": "Flab\u00e9b\u00e9",
+    "number": "RC17",
+    "rarity": "Common",
+    "set_name": "Generations",
+    "set_series": "XY"
+  },
+  {
+    "name": "Floette",
+    "number": "RC18",
+    "rarity": "Uncommon",
+    "set_name": "Generations",
+    "set_series": "XY"
+  },
+  {
+    "name": "Swirlix",
+    "number": "RC19",
+    "rarity": "Uncommon",
+    "set_name": "Generations",
+    "set_series": "XY"
+  },
+  {
+    "name": "Slurpuff",
+    "number": "RC20",
+    "rarity": "Uncommon",
+    "set_name": "Generations",
+    "set_series": "XY"
+  },
+  {
+    "name": "Sylveon-EX",
+    "number": "RC21",
+    "rarity": "Rare Holo EX",
+    "set_name": "Generations",
+    "set_series": "XY"
+  },
+  {
+    "name": "Diancie",
+    "number": "RC22",
+    "rarity": "Uncommon",
+    "set_name": "Generations",
+    "set_series": "XY"
+  },
+  {
+    "name": "Swablu",
+    "number": "RC23",
+    "rarity": "Common",
+    "set_name": "Generations",
+    "set_series": "XY"
+  },
+  {
+    "name": "Altaria",
+    "number": "RC24",
+    "rarity": "Uncommon",
+    "set_name": "Generations",
+    "set_series": "XY"
+  },
+  {
+    "name": "Fletchling",
+    "number": "RC25",
+    "rarity": "Common",
+    "set_name": "Generations",
+    "set_series": "XY"
+  },
+  {
+    "name": "Floral Crown",
+    "number": "RC26",
+    "rarity": "Common",
+    "set_name": "Generations",
+    "set_series": "XY"
+  },
+  {
+    "name": "Wally",
+    "number": "RC27",
+    "rarity": "Uncommon",
+    "set_name": "Generations",
+    "set_series": "XY"
+  },
+  {
+    "name": "Flareon-EX",
+    "number": "RC28",
+    "rarity": "Rare Ultra",
+    "set_name": "Generations",
+    "set_series": "XY"
+  },
+  {
+    "name": "Pikachu",
+    "number": "RC29",
+    "rarity": "Rare Ultra",
+    "set_name": "Generations",
+    "set_series": "XY"
+  },
+  {
+    "name": "Gardevoir-EX",
+    "number": "RC30",
+    "rarity": "Rare Ultra",
+    "set_name": "Generations",
+    "set_series": "XY"
+  },
+  {
+    "name": "M Gardevoir-EX",
+    "number": "RC31",
+    "rarity": "Rare Ultra",
+    "set_name": "Generations",
+    "set_series": "XY"
+  },
+  {
+    "name": "Sylveon-EX",
+    "number": "RC32",
+    "rarity": "Rare Ultra",
+    "set_name": "Generations",
+    "set_series": "XY"
+  }
+]

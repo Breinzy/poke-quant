@@ -1,0 +1,814 @@
+[
+  {
+    "name": "Beedrill",
+    "number": "1",
+    "rarity": "Rare Holo",
+    "set_name": "FireRed & LeafGreen",
+    "set_series": "EX"
+  },
+  {
+    "name": "Butterfree",
+    "number": "2",
+    "rarity": "Rare Holo",
+    "set_name": "FireRed & LeafGreen",
+    "set_series": "EX"
+  },
+  {
+    "name": "Dewgong",
+    "number": "3",
+    "rarity": "Rare Holo",
+    "set_name": "FireRed & LeafGreen",
+    "set_series": "EX"
+  },
+  {
+    "name": "Ditto",
+    "number": "4",
+    "rarity": "Rare Holo",
+    "set_name": "FireRed & LeafGreen",
+    "set_series": "EX"
+  },
+  {
+    "name": "Exeggutor",
+    "number": "5",
+    "rarity": "Rare Holo",
+    "set_name": "FireRed & LeafGreen",
+    "set_series": "EX"
+  },
+  {
+    "name": "Kangaskhan",
+    "number": "6",
+    "rarity": "Rare Holo",
+    "set_name": "FireRed & LeafGreen",
+    "set_series": "EX"
+  },
+  {
+    "name": "Marowak",
+    "number": "7",
+    "rarity": "Rare Holo",
+    "set_name": "FireRed & LeafGreen",
+    "set_series": "EX"
+  },
+  {
+    "name": "Nidoking",
+    "number": "8",
+    "rarity": "Rare Holo",
+    "set_name": "FireRed & LeafGreen",
+    "set_series": "EX"
+  },
+  {
+    "name": "Nidoqueen",
+    "number": "9",
+    "rarity": "Rare Holo",
+    "set_name": "FireRed & LeafGreen",
+    "set_series": "EX"
+  },
+  {
+    "name": "Pidgeot",
+    "number": "10",
+    "rarity": "Rare Holo",
+    "set_name": "FireRed & LeafGreen",
+    "set_series": "EX"
+  },
+  {
+    "name": "Poliwrath",
+    "number": "11",
+    "rarity": "Rare Holo",
+    "set_name": "FireRed & LeafGreen",
+    "set_series": "EX"
+  },
+  {
+    "name": "Raichu",
+    "number": "12",
+    "rarity": "Rare Holo",
+    "set_name": "FireRed & LeafGreen",
+    "set_series": "EX"
+  },
+  {
+    "name": "Rapidash",
+    "number": "13",
+    "rarity": "Rare Holo",
+    "set_name": "FireRed & LeafGreen",
+    "set_series": "EX"
+  },
+  {
+    "name": "Slowbro",
+    "number": "14",
+    "rarity": "Rare Holo",
+    "set_name": "FireRed & LeafGreen",
+    "set_series": "EX"
+  },
+  {
+    "name": "Snorlax",
+    "number": "15",
+    "rarity": "Rare Holo",
+    "set_name": "FireRed & LeafGreen",
+    "set_series": "EX"
+  },
+  {
+    "name": "Tauros",
+    "number": "16",
+    "rarity": "Rare Holo",
+    "set_name": "FireRed & LeafGreen",
+    "set_series": "EX"
+  },
+  {
+    "name": "Victreebel",
+    "number": "17",
+    "rarity": "Rare Holo",
+    "set_name": "FireRed & LeafGreen",
+    "set_series": "EX"
+  },
+  {
+    "name": "Arcanine",
+    "number": "18",
+    "rarity": "Rare",
+    "set_name": "FireRed & LeafGreen",
+    "set_series": "EX"
+  },
+  {
+    "name": "Chansey",
+    "number": "19",
+    "rarity": "Rare",
+    "set_name": "FireRed & LeafGreen",
+    "set_series": "EX"
+  },
+  {
+    "name": "Cloyster",
+    "number": "20",
+    "rarity": "Rare",
+    "set_name": "FireRed & LeafGreen",
+    "set_series": "EX"
+  },
+  {
+    "name": "Dodrio",
+    "number": "21",
+    "rarity": "Rare",
+    "set_name": "FireRed & LeafGreen",
+    "set_series": "EX"
+  },
+  {
+    "name": "Dugtrio",
+    "number": "22",
+    "rarity": "Rare",
+    "set_name": "FireRed & LeafGreen",
+    "set_series": "EX"
+  },
+  {
+    "name": "Farfetch'd",
+    "number": "23",
+    "rarity": "Rare",
+    "set_name": "FireRed & LeafGreen",
+    "set_series": "EX"
+  },
+  {
+    "name": "Fearow",
+    "number": "24",
+    "rarity": "Rare",
+    "set_name": "FireRed & LeafGreen",
+    "set_series": "EX"
+  },
+  {
+    "name": "Hypno",
+    "number": "25",
+    "rarity": "Rare",
+    "set_name": "FireRed & LeafGreen",
+    "set_series": "EX"
+  },
+  {
+    "name": "Kingler",
+    "number": "26",
+    "rarity": "Rare",
+    "set_name": "FireRed & LeafGreen",
+    "set_series": "EX"
+  },
+  {
+    "name": "Magneton",
+    "number": "27",
+    "rarity": "Rare",
+    "set_name": "FireRed & LeafGreen",
+    "set_series": "EX"
+  },
+  {
+    "name": "Primeape",
+    "number": "28",
+    "rarity": "Rare",
+    "set_name": "FireRed & LeafGreen",
+    "set_series": "EX"
+  },
+  {
+    "name": "Scyther",
+    "number": "29",
+    "rarity": "Rare",
+    "set_name": "FireRed & LeafGreen",
+    "set_series": "EX"
+  },
+  {
+    "name": "Tangela",
+    "number": "30",
+    "rarity": "Rare",
+    "set_name": "FireRed & LeafGreen",
+    "set_series": "EX"
+  },
+  {
+    "name": "Charmeleon",
+    "number": "31",
+    "rarity": "Uncommon",
+    "set_name": "FireRed & LeafGreen",
+    "set_series": "EX"
+  },
+  {
+    "name": "Drowzee",
+    "number": "32",
+    "rarity": "Uncommon",
+    "set_name": "FireRed & LeafGreen",
+    "set_series": "EX"
+  },
+  {
+    "name": "Exeggcute",
+    "number": "33",
+    "rarity": "Uncommon",
+    "set_name": "FireRed & LeafGreen",
+    "set_series": "EX"
+  },
+  {
+    "name": "Haunter",
+    "number": "34",
+    "rarity": "Uncommon",
+    "set_name": "FireRed & LeafGreen",
+    "set_series": "EX"
+  },
+  {
+    "name": "Ivysaur",
+    "number": "35",
+    "rarity": "Uncommon",
+    "set_name": "FireRed & LeafGreen",
+    "set_series": "EX"
+  },
+  {
+    "name": "Kakuna",
+    "number": "36",
+    "rarity": "Uncommon",
+    "set_name": "FireRed & LeafGreen",
+    "set_series": "EX"
+  },
+  {
+    "name": "Lickitung",
+    "number": "37",
+    "rarity": "Uncommon",
+    "set_name": "FireRed & LeafGreen",
+    "set_series": "EX"
+  },
+  {
+    "name": "Mankey",
+    "number": "38",
+    "rarity": "Uncommon",
+    "set_name": "FireRed & LeafGreen",
+    "set_series": "EX"
+  },
+  {
+    "name": "Metapod",
+    "number": "39",
+    "rarity": "Uncommon",
+    "set_name": "FireRed & LeafGreen",
+    "set_series": "EX"
+  },
+  {
+    "name": "Nidorina",
+    "number": "40",
+    "rarity": "Uncommon",
+    "set_name": "FireRed & LeafGreen",
+    "set_series": "EX"
+  },
+  {
+    "name": "Nidorino",
+    "number": "41",
+    "rarity": "Uncommon",
+    "set_name": "FireRed & LeafGreen",
+    "set_series": "EX"
+  },
+  {
+    "name": "Onix",
+    "number": "42",
+    "rarity": "Uncommon",
+    "set_name": "FireRed & LeafGreen",
+    "set_series": "EX"
+  },
+  {
+    "name": "Parasect",
+    "number": "43",
+    "rarity": "Uncommon",
+    "set_name": "FireRed & LeafGreen",
+    "set_series": "EX"
+  },
+  {
+    "name": "Persian",
+    "number": "44",
+    "rarity": "Uncommon",
+    "set_name": "FireRed & LeafGreen",
+    "set_series": "EX"
+  },
+  {
+    "name": "Pidgeotto",
+    "number": "45",
+    "rarity": "Uncommon",
+    "set_name": "FireRed & LeafGreen",
+    "set_series": "EX"
+  },
+  {
+    "name": "Poliwhirl",
+    "number": "46",
+    "rarity": "Uncommon",
+    "set_name": "FireRed & LeafGreen",
+    "set_series": "EX"
+  },
+  {
+    "name": "Porygon",
+    "number": "47",
+    "rarity": "Uncommon",
+    "set_name": "FireRed & LeafGreen",
+    "set_series": "EX"
+  },
+  {
+    "name": "Raticate",
+    "number": "48",
+    "rarity": "Uncommon",
+    "set_name": "FireRed & LeafGreen",
+    "set_series": "EX"
+  },
+  {
+    "name": "Venomoth",
+    "number": "49",
+    "rarity": "Uncommon",
+    "set_name": "FireRed & LeafGreen",
+    "set_series": "EX"
+  },
+  {
+    "name": "Wartortle",
+    "number": "50",
+    "rarity": "Uncommon",
+    "set_name": "FireRed & LeafGreen",
+    "set_series": "EX"
+  },
+  {
+    "name": "Weepinbell",
+    "number": "51",
+    "rarity": "Uncommon",
+    "set_name": "FireRed & LeafGreen",
+    "set_series": "EX"
+  },
+  {
+    "name": "Wigglytuff",
+    "number": "52",
+    "rarity": "Uncommon",
+    "set_name": "FireRed & LeafGreen",
+    "set_series": "EX"
+  },
+  {
+    "name": "Bellsprout",
+    "number": "53",
+    "rarity": "Common",
+    "set_name": "FireRed & LeafGreen",
+    "set_series": "EX"
+  },
+  {
+    "name": "Bulbasaur",
+    "number": "54",
+    "rarity": "Common",
+    "set_name": "FireRed & LeafGreen",
+    "set_series": "EX"
+  },
+  {
+    "name": "Bulbasaur",
+    "number": "55",
+    "rarity": "Common",
+    "set_name": "FireRed & LeafGreen",
+    "set_series": "EX"
+  },
+  {
+    "name": "Caterpie",
+    "number": "56",
+    "rarity": "Common",
+    "set_name": "FireRed & LeafGreen",
+    "set_series": "EX"
+  },
+  {
+    "name": "Charmander",
+    "number": "57",
+    "rarity": "Common",
+    "set_name": "FireRed & LeafGreen",
+    "set_series": "EX"
+  },
+  {
+    "name": "Charmander",
+    "number": "58",
+    "rarity": "Common",
+    "set_name": "FireRed & LeafGreen",
+    "set_series": "EX"
+  },
+  {
+    "name": "Clefairy",
+    "number": "59",
+    "rarity": "Common",
+    "set_name": "FireRed & LeafGreen",
+    "set_series": "EX"
+  },
+  {
+    "name": "Cubone",
+    "number": "60",
+    "rarity": "Common",
+    "set_name": "FireRed & LeafGreen",
+    "set_series": "EX"
+  },
+  {
+    "name": "Diglett",
+    "number": "61",
+    "rarity": "Common",
+    "set_name": "FireRed & LeafGreen",
+    "set_series": "EX"
+  },
+  {
+    "name": "Doduo",
+    "number": "62",
+    "rarity": "Common",
+    "set_name": "FireRed & LeafGreen",
+    "set_series": "EX"
+  },
+  {
+    "name": "Gastly",
+    "number": "63",
+    "rarity": "Common",
+    "set_name": "FireRed & LeafGreen",
+    "set_series": "EX"
+  },
+  {
+    "name": "Growlithe",
+    "number": "64",
+    "rarity": "Common",
+    "set_name": "FireRed & LeafGreen",
+    "set_series": "EX"
+  },
+  {
+    "name": "Jigglypuff",
+    "number": "65",
+    "rarity": "Common",
+    "set_name": "FireRed & LeafGreen",
+    "set_series": "EX"
+  },
+  {
+    "name": "Krabby",
+    "number": "66",
+    "rarity": "Common",
+    "set_name": "FireRed & LeafGreen",
+    "set_series": "EX"
+  },
+  {
+    "name": "Magikarp",
+    "number": "67",
+    "rarity": "Common",
+    "set_name": "FireRed & LeafGreen",
+    "set_series": "EX"
+  },
+  {
+    "name": "Magnemite",
+    "number": "68",
+    "rarity": "Common",
+    "set_name": "FireRed & LeafGreen",
+    "set_series": "EX"
+  },
+  {
+    "name": "Meowth",
+    "number": "69",
+    "rarity": "Common",
+    "set_name": "FireRed & LeafGreen",
+    "set_series": "EX"
+  },
+  {
+    "name": "Nidoran \u2640",
+    "number": "70",
+    "rarity": "Common",
+    "set_name": "FireRed & LeafGreen",
+    "set_series": "EX"
+  },
+  {
+    "name": "Nidoran \u2642",
+    "number": "71",
+    "rarity": "Common",
+    "set_name": "FireRed & LeafGreen",
+    "set_series": "EX"
+  },
+  {
+    "name": "Paras",
+    "number": "72",
+    "rarity": "Common",
+    "set_name": "FireRed & LeafGreen",
+    "set_series": "EX"
+  },
+  {
+    "name": "Pidgey",
+    "number": "73",
+    "rarity": "Common",
+    "set_name": "FireRed & LeafGreen",
+    "set_series": "EX"
+  },
+  {
+    "name": "Pikachu",
+    "number": "74",
+    "rarity": "Common",
+    "set_name": "FireRed & LeafGreen",
+    "set_series": "EX"
+  },
+  {
+    "name": "Poliwag",
+    "number": "75",
+    "rarity": "Common",
+    "set_name": "FireRed & LeafGreen",
+    "set_series": "EX"
+  },
+  {
+    "name": "Ponyta",
+    "number": "76",
+    "rarity": "Common",
+    "set_name": "FireRed & LeafGreen",
+    "set_series": "EX"
+  },
+  {
+    "name": "Rattata",
+    "number": "77",
+    "rarity": "Common",
+    "set_name": "FireRed & LeafGreen",
+    "set_series": "EX"
+  },
+  {
+    "name": "Seel",
+    "number": "78",
+    "rarity": "Common",
+    "set_name": "FireRed & LeafGreen",
+    "set_series": "EX"
+  },
+  {
+    "name": "Shellder",
+    "number": "79",
+    "rarity": "Common",
+    "set_name": "FireRed & LeafGreen",
+    "set_series": "EX"
+  },
+  {
+    "name": "Slowpoke",
+    "number": "80",
+    "rarity": "Common",
+    "set_name": "FireRed & LeafGreen",
+    "set_series": "EX"
+  },
+  {
+    "name": "Spearow",
+    "number": "81",
+    "rarity": "Common",
+    "set_name": "FireRed & LeafGreen",
+    "set_series": "EX"
+  },
+  {
+    "name": "Squirtle",
+    "number": "82",
+    "rarity": "Common",
+    "set_name": "FireRed & LeafGreen",
+    "set_series": "EX"
+  },
+  {
+    "name": "Squirtle",
+    "number": "83",
+    "rarity": "Common",
+    "set_name": "FireRed & LeafGreen",
+    "set_series": "EX"
+  },
+  {
+    "name": "Venonat",
+    "number": "84",
+    "rarity": "Common",
+    "set_name": "FireRed & LeafGreen",
+    "set_series": "EX"
+  },
+  {
+    "name": "Voltorb",
+    "number": "85",
+    "rarity": "Common",
+    "set_name": "FireRed & LeafGreen",
+    "set_series": "EX"
+  },
+  {
+    "name": "Weedle",
+    "number": "86",
+    "rarity": "Common",
+    "set_name": "FireRed & LeafGreen",
+    "set_series": "EX"
+  },
+  {
+    "name": "Bill's Maintenance",
+    "number": "87",
+    "rarity": "Uncommon",
+    "set_name": "FireRed & LeafGreen",
+    "set_series": "EX"
+  },
+  {
+    "name": "Celio's Network",
+    "number": "88",
+    "rarity": "Uncommon",
+    "set_name": "FireRed & LeafGreen",
+    "set_series": "EX"
+  },
+  {
+    "name": "Energy Removal 2",
+    "number": "89",
+    "rarity": "Uncommon",
+    "set_name": "FireRed & LeafGreen",
+    "set_series": "EX"
+  },
+  {
+    "name": "Energy Switch",
+    "number": "90",
+    "rarity": "Uncommon",
+    "set_name": "FireRed & LeafGreen",
+    "set_series": "EX"
+  },
+  {
+    "name": "EXP.ALL",
+    "number": "91",
+    "rarity": "Uncommon",
+    "set_name": "FireRed & LeafGreen",
+    "set_series": "EX"
+  },
+  {
+    "name": "Great Ball",
+    "number": "92",
+    "rarity": "Uncommon",
+    "set_name": "FireRed & LeafGreen",
+    "set_series": "EX"
+  },
+  {
+    "name": "Life Herb",
+    "number": "93",
+    "rarity": "Uncommon",
+    "set_name": "FireRed & LeafGreen",
+    "set_series": "EX"
+  },
+  {
+    "name": "Mt. Moon",
+    "number": "94",
+    "rarity": "Uncommon",
+    "set_name": "FireRed & LeafGreen",
+    "set_series": "EX"
+  },
+  {
+    "name": "Pok\u00e9 Ball",
+    "number": "95",
+    "rarity": "Uncommon",
+    "set_name": "FireRed & LeafGreen",
+    "set_series": "EX"
+  },
+  {
+    "name": "Pok\u00e9Dex HANDY909",
+    "number": "96",
+    "rarity": "Uncommon",
+    "set_name": "FireRed & LeafGreen",
+    "set_series": "EX"
+  },
+  {
+    "name": "Pok\u00e9mon Reversal",
+    "number": "97",
+    "rarity": "Uncommon",
+    "set_name": "FireRed & LeafGreen",
+    "set_series": "EX"
+  },
+  {
+    "name": "Prof. Oak's Research",
+    "number": "98",
+    "rarity": "Uncommon",
+    "set_name": "FireRed & LeafGreen",
+    "set_series": "EX"
+  },
+  {
+    "name": "Super Scoop Up",
+    "number": "99",
+    "rarity": "Uncommon",
+    "set_name": "FireRed & LeafGreen",
+    "set_series": "EX"
+  },
+  {
+    "name": "VS Seeker",
+    "number": "100",
+    "rarity": "Uncommon",
+    "set_name": "FireRed & LeafGreen",
+    "set_series": "EX"
+  },
+  {
+    "name": "Potion",
+    "number": "101",
+    "rarity": "Common",
+    "set_name": "FireRed & LeafGreen",
+    "set_series": "EX"
+  },
+  {
+    "name": "Switch",
+    "number": "102",
+    "rarity": "Common",
+    "set_name": "FireRed & LeafGreen",
+    "set_series": "EX"
+  },
+  {
+    "name": "Multi Energy",
+    "number": "103",
+    "rarity": "Rare",
+    "set_name": "FireRed & LeafGreen",
+    "set_series": "EX"
+  },
+  {
+    "name": "Blastoise ex",
+    "number": "104",
+    "rarity": "Rare Holo EX",
+    "set_name": "FireRed & LeafGreen",
+    "set_series": "EX"
+  },
+  {
+    "name": "Charizard ex",
+    "number": "105",
+    "rarity": "Rare Holo EX",
+    "set_name": "FireRed & LeafGreen",
+    "set_series": "EX"
+  },
+  {
+    "name": "Clefable ex",
+    "number": "106",
+    "rarity": "Rare Holo EX",
+    "set_name": "FireRed & LeafGreen",
+    "set_series": "EX"
+  },
+  {
+    "name": "Electrode ex",
+    "number": "107",
+    "rarity": "Rare Holo EX",
+    "set_name": "FireRed & LeafGreen",
+    "set_series": "EX"
+  },
+  {
+    "name": "Gengar ex",
+    "number": "108",
+    "rarity": "Rare Holo EX",
+    "set_name": "FireRed & LeafGreen",
+    "set_series": "EX"
+  },
+  {
+    "name": "Gyarados ex",
+    "number": "109",
+    "rarity": "Rare Holo EX",
+    "set_name": "FireRed & LeafGreen",
+    "set_series": "EX"
+  },
+  {
+    "name": "Mr. Mime ex",
+    "number": "110",
+    "rarity": "Rare Holo EX",
+    "set_name": "FireRed & LeafGreen",
+    "set_series": "EX"
+  },
+  {
+    "name": "Mr. Mime ex",
+    "number": "111",
+    "rarity": "Rare Holo EX",
+    "set_name": "FireRed & LeafGreen",
+    "set_series": "EX"
+  },
+  {
+    "name": "Venusaur ex",
+    "number": "112",
+    "rarity": "Rare Holo EX",
+    "set_name": "FireRed & LeafGreen",
+    "set_series": "EX"
+  },
+  {
+    "name": "Charmander",
+    "number": "113",
+    "rarity": "Rare Secret",
+    "set_name": "FireRed & LeafGreen",
+    "set_series": "EX"
+  },
+  {
+    "name": "Articuno ex",
+    "number": "114",
+    "rarity": "Rare Secret",
+    "set_name": "FireRed & LeafGreen",
+    "set_series": "EX"
+  },
+  {
+    "name": "Moltres ex",
+    "number": "115",
+    "rarity": "Rare Secret",
+    "set_name": "FireRed & LeafGreen",
+    "set_series": "EX"
+  },
+  {
+    "name": "Zapdos ex",
+    "number": "116",
+    "rarity": "Rare Secret",
+    "set_name": "FireRed & LeafGreen",
+    "set_series": "EX"
+  }
+]

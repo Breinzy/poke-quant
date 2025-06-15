@@ -1,0 +1,933 @@
+[
+  {
+    "name": "Ampharos",
+    "number": "1",
+    "rarity": "Rare Holo",
+    "set_name": "Platinum",
+    "set_series": "Platinum"
+  },
+  {
+    "name": "Blastoise",
+    "number": "2",
+    "rarity": "Rare Holo",
+    "set_name": "Platinum",
+    "set_series": "Platinum"
+  },
+  {
+    "name": "Blaziken",
+    "number": "3",
+    "rarity": "Rare Holo",
+    "set_name": "Platinum",
+    "set_series": "Platinum"
+  },
+  {
+    "name": "Delcatty",
+    "number": "4",
+    "rarity": "Rare Holo",
+    "set_name": "Platinum",
+    "set_series": "Platinum"
+  },
+  {
+    "name": "Dialga",
+    "number": "5",
+    "rarity": "Rare Holo",
+    "set_name": "Platinum",
+    "set_series": "Platinum"
+  },
+  {
+    "name": "Dialga",
+    "number": "6",
+    "rarity": "Rare Holo",
+    "set_name": "Platinum",
+    "set_series": "Platinum"
+  },
+  {
+    "name": "Dialga G",
+    "number": "7",
+    "rarity": "Rare Holo",
+    "set_name": "Platinum",
+    "set_series": "Platinum"
+  },
+  {
+    "name": "Gardevoir",
+    "number": "8",
+    "rarity": "Rare Holo",
+    "set_name": "Platinum",
+    "set_series": "Platinum"
+  },
+  {
+    "name": "Giratina",
+    "number": "9",
+    "rarity": "Rare Holo",
+    "set_name": "Platinum",
+    "set_series": "Platinum"
+  },
+  {
+    "name": "Giratina",
+    "number": "10",
+    "rarity": "Rare Holo",
+    "set_name": "Platinum",
+    "set_series": "Platinum"
+  },
+  {
+    "name": "Manectric",
+    "number": "11",
+    "rarity": "Rare Holo",
+    "set_name": "Platinum",
+    "set_series": "Platinum"
+  },
+  {
+    "name": "Palkia G",
+    "number": "12",
+    "rarity": "Rare Holo",
+    "set_name": "Platinum",
+    "set_series": "Platinum"
+  },
+  {
+    "name": "Rampardos",
+    "number": "13",
+    "rarity": "Rare Holo",
+    "set_name": "Platinum",
+    "set_series": "Platinum"
+  },
+  {
+    "name": "Shaymin",
+    "number": "14",
+    "rarity": "Rare Holo",
+    "set_name": "Platinum",
+    "set_series": "Platinum"
+  },
+  {
+    "name": "Shaymin",
+    "number": "15",
+    "rarity": "Rare Holo",
+    "set_name": "Platinum",
+    "set_series": "Platinum"
+  },
+  {
+    "name": "Slaking",
+    "number": "16",
+    "rarity": "Rare Holo",
+    "set_name": "Platinum",
+    "set_series": "Platinum"
+  },
+  {
+    "name": "Weavile G",
+    "number": "17",
+    "rarity": "Rare Holo",
+    "set_name": "Platinum",
+    "set_series": "Platinum"
+  },
+  {
+    "name": "Altaria",
+    "number": "18",
+    "rarity": "Rare",
+    "set_name": "Platinum",
+    "set_series": "Platinum"
+  },
+  {
+    "name": "Banette",
+    "number": "19",
+    "rarity": "Rare",
+    "set_name": "Platinum",
+    "set_series": "Platinum"
+  },
+  {
+    "name": "Bastiodon",
+    "number": "20",
+    "rarity": "Rare",
+    "set_name": "Platinum",
+    "set_series": "Platinum"
+  },
+  {
+    "name": "Beautifly",
+    "number": "21",
+    "rarity": "Rare",
+    "set_name": "Platinum",
+    "set_series": "Platinum"
+  },
+  {
+    "name": "Blissey",
+    "number": "22",
+    "rarity": "Rare",
+    "set_name": "Platinum",
+    "set_series": "Platinum"
+  },
+  {
+    "name": "Dialga",
+    "number": "23",
+    "rarity": "Rare",
+    "set_name": "Platinum",
+    "set_series": "Platinum"
+  },
+  {
+    "name": "Dugtrio",
+    "number": "24",
+    "rarity": "Rare",
+    "set_name": "Platinum",
+    "set_series": "Platinum"
+  },
+  {
+    "name": "Dustox",
+    "number": "25",
+    "rarity": "Rare",
+    "set_name": "Platinum",
+    "set_series": "Platinum"
+  },
+  {
+    "name": "Empoleon",
+    "number": "26",
+    "rarity": "Rare",
+    "set_name": "Platinum",
+    "set_series": "Platinum"
+  },
+  {
+    "name": "Giratina",
+    "number": "27",
+    "rarity": "Rare",
+    "set_name": "Platinum",
+    "set_series": "Platinum"
+  },
+  {
+    "name": "Giratina",
+    "number": "28",
+    "rarity": "Rare",
+    "set_name": "Platinum",
+    "set_series": "Platinum"
+  },
+  {
+    "name": "Golduck",
+    "number": "29",
+    "rarity": "Rare",
+    "set_name": "Platinum",
+    "set_series": "Platinum"
+  },
+  {
+    "name": "Gyarados G",
+    "number": "30",
+    "rarity": "Rare",
+    "set_name": "Platinum",
+    "set_series": "Platinum"
+  },
+  {
+    "name": "Infernape",
+    "number": "31",
+    "rarity": "Rare",
+    "set_name": "Platinum",
+    "set_series": "Platinum"
+  },
+  {
+    "name": "Kricketune",
+    "number": "32",
+    "rarity": "Rare",
+    "set_name": "Platinum",
+    "set_series": "Platinum"
+  },
+  {
+    "name": "Lickilicky",
+    "number": "33",
+    "rarity": "Rare",
+    "set_name": "Platinum",
+    "set_series": "Platinum"
+  },
+  {
+    "name": "Ludicolo",
+    "number": "34",
+    "rarity": "Rare",
+    "set_name": "Platinum",
+    "set_series": "Platinum"
+  },
+  {
+    "name": "Luvdisc",
+    "number": "35",
+    "rarity": "Rare",
+    "set_name": "Platinum",
+    "set_series": "Platinum"
+  },
+  {
+    "name": "Ninetales",
+    "number": "36",
+    "rarity": "Rare",
+    "set_name": "Platinum",
+    "set_series": "Platinum"
+  },
+  {
+    "name": "Palkia",
+    "number": "37",
+    "rarity": "Rare",
+    "set_name": "Platinum",
+    "set_series": "Platinum"
+  },
+  {
+    "name": "Shaymin",
+    "number": "38",
+    "rarity": "Rare",
+    "set_name": "Platinum",
+    "set_series": "Platinum"
+  },
+  {
+    "name": "Torterra",
+    "number": "39",
+    "rarity": "Rare",
+    "set_name": "Platinum",
+    "set_series": "Platinum"
+  },
+  {
+    "name": "Toxicroak G",
+    "number": "40",
+    "rarity": "Rare",
+    "set_name": "Platinum",
+    "set_series": "Platinum"
+  },
+  {
+    "name": "Bronzong G",
+    "number": "41",
+    "rarity": "Uncommon",
+    "set_name": "Platinum",
+    "set_series": "Platinum"
+  },
+  {
+    "name": "Cacturne",
+    "number": "42",
+    "rarity": "Uncommon",
+    "set_name": "Platinum",
+    "set_series": "Platinum"
+  },
+  {
+    "name": "Carnivine",
+    "number": "43",
+    "rarity": "Uncommon",
+    "set_name": "Platinum",
+    "set_series": "Platinum"
+  },
+  {
+    "name": "Cascoon",
+    "number": "44",
+    "rarity": "Uncommon",
+    "set_name": "Platinum",
+    "set_series": "Platinum"
+  },
+  {
+    "name": "Combusken",
+    "number": "45",
+    "rarity": "Uncommon",
+    "set_name": "Platinum",
+    "set_series": "Platinum"
+  },
+  {
+    "name": "Cranidos",
+    "number": "46",
+    "rarity": "Uncommon",
+    "set_name": "Platinum",
+    "set_series": "Platinum"
+  },
+  {
+    "name": "Crobat G",
+    "number": "47",
+    "rarity": "Uncommon",
+    "set_name": "Platinum",
+    "set_series": "Platinum"
+  },
+  {
+    "name": "Flaaffy",
+    "number": "48",
+    "rarity": "Uncommon",
+    "set_name": "Platinum",
+    "set_series": "Platinum"
+  },
+  {
+    "name": "Grotle",
+    "number": "49",
+    "rarity": "Uncommon",
+    "set_name": "Platinum",
+    "set_series": "Platinum"
+  },
+  {
+    "name": "Houndoom G",
+    "number": "50",
+    "rarity": "Uncommon",
+    "set_name": "Platinum",
+    "set_series": "Platinum"
+  },
+  {
+    "name": "Kirlia",
+    "number": "51",
+    "rarity": "Uncommon",
+    "set_name": "Platinum",
+    "set_series": "Platinum"
+  },
+  {
+    "name": "Lombre",
+    "number": "52",
+    "rarity": "Uncommon",
+    "set_name": "Platinum",
+    "set_series": "Platinum"
+  },
+  {
+    "name": "Lucario",
+    "number": "53",
+    "rarity": "Uncommon",
+    "set_name": "Platinum",
+    "set_series": "Platinum"
+  },
+  {
+    "name": "Mightyena",
+    "number": "54",
+    "rarity": "Uncommon",
+    "set_name": "Platinum",
+    "set_series": "Platinum"
+  },
+  {
+    "name": "Mismagius",
+    "number": "55",
+    "rarity": "Uncommon",
+    "set_name": "Platinum",
+    "set_series": "Platinum"
+  },
+  {
+    "name": "Monferno",
+    "number": "56",
+    "rarity": "Uncommon",
+    "set_name": "Platinum",
+    "set_series": "Platinum"
+  },
+  {
+    "name": "Muk",
+    "number": "57",
+    "rarity": "Uncommon",
+    "set_name": "Platinum",
+    "set_series": "Platinum"
+  },
+  {
+    "name": "Octillery",
+    "number": "58",
+    "rarity": "Uncommon",
+    "set_name": "Platinum",
+    "set_series": "Platinum"
+  },
+  {
+    "name": "Prinplup",
+    "number": "59",
+    "rarity": "Uncommon",
+    "set_name": "Platinum",
+    "set_series": "Platinum"
+  },
+  {
+    "name": "Probopass",
+    "number": "60",
+    "rarity": "Uncommon",
+    "set_name": "Platinum",
+    "set_series": "Platinum"
+  },
+  {
+    "name": "Seviper",
+    "number": "61",
+    "rarity": "Uncommon",
+    "set_name": "Platinum",
+    "set_series": "Platinum"
+  },
+  {
+    "name": "Shieldon",
+    "number": "62",
+    "rarity": "Uncommon",
+    "set_name": "Platinum",
+    "set_series": "Platinum"
+  },
+  {
+    "name": "Silcoon",
+    "number": "63",
+    "rarity": "Uncommon",
+    "set_name": "Platinum",
+    "set_series": "Platinum"
+  },
+  {
+    "name": "Vigoroth",
+    "number": "64",
+    "rarity": "Uncommon",
+    "set_name": "Platinum",
+    "set_series": "Platinum"
+  },
+  {
+    "name": "Wartortle",
+    "number": "65",
+    "rarity": "Uncommon",
+    "set_name": "Platinum",
+    "set_series": "Platinum"
+  },
+  {
+    "name": "Zangoose",
+    "number": "66",
+    "rarity": "Uncommon",
+    "set_name": "Platinum",
+    "set_series": "Platinum"
+  },
+  {
+    "name": "Cacnea",
+    "number": "67",
+    "rarity": "Common",
+    "set_name": "Platinum",
+    "set_series": "Platinum"
+  },
+  {
+    "name": "Carnivine",
+    "number": "68",
+    "rarity": "Common",
+    "set_name": "Platinum",
+    "set_series": "Platinum"
+  },
+  {
+    "name": "Chansey",
+    "number": "69",
+    "rarity": "Common",
+    "set_name": "Platinum",
+    "set_series": "Platinum"
+  },
+  {
+    "name": "Chimchar",
+    "number": "70",
+    "rarity": "Common",
+    "set_name": "Platinum",
+    "set_series": "Platinum"
+  },
+  {
+    "name": "Combee",
+    "number": "71",
+    "rarity": "Common",
+    "set_name": "Platinum",
+    "set_series": "Platinum"
+  },
+  {
+    "name": "Diglett",
+    "number": "72",
+    "rarity": "Common",
+    "set_name": "Platinum",
+    "set_series": "Platinum"
+  },
+  {
+    "name": "Dunsparce",
+    "number": "73",
+    "rarity": "Common",
+    "set_name": "Platinum",
+    "set_series": "Platinum"
+  },
+  {
+    "name": "Electrike",
+    "number": "74",
+    "rarity": "Common",
+    "set_name": "Platinum",
+    "set_series": "Platinum"
+  },
+  {
+    "name": "Grimer",
+    "number": "75",
+    "rarity": "Common",
+    "set_name": "Platinum",
+    "set_series": "Platinum"
+  },
+  {
+    "name": "Happiny",
+    "number": "76",
+    "rarity": "Common",
+    "set_name": "Platinum",
+    "set_series": "Platinum"
+  },
+  {
+    "name": "Honchkrow G",
+    "number": "77",
+    "rarity": "Common",
+    "set_name": "Platinum",
+    "set_series": "Platinum"
+  },
+  {
+    "name": "Kricketot",
+    "number": "78",
+    "rarity": "Common",
+    "set_name": "Platinum",
+    "set_series": "Platinum"
+  },
+  {
+    "name": "Lapras",
+    "number": "79",
+    "rarity": "Common",
+    "set_name": "Platinum",
+    "set_series": "Platinum"
+  },
+  {
+    "name": "Lickitung",
+    "number": "80",
+    "rarity": "Common",
+    "set_name": "Platinum",
+    "set_series": "Platinum"
+  },
+  {
+    "name": "Lotad",
+    "number": "81",
+    "rarity": "Common",
+    "set_name": "Platinum",
+    "set_series": "Platinum"
+  },
+  {
+    "name": "Mareep",
+    "number": "82",
+    "rarity": "Common",
+    "set_name": "Platinum",
+    "set_series": "Platinum"
+  },
+  {
+    "name": "Misdreavus",
+    "number": "83",
+    "rarity": "Common",
+    "set_name": "Platinum",
+    "set_series": "Platinum"
+  },
+  {
+    "name": "Nosepass",
+    "number": "84",
+    "rarity": "Common",
+    "set_name": "Platinum",
+    "set_series": "Platinum"
+  },
+  {
+    "name": "Piplup",
+    "number": "85",
+    "rarity": "Common",
+    "set_name": "Platinum",
+    "set_series": "Platinum"
+  },
+  {
+    "name": "Poochyena",
+    "number": "86",
+    "rarity": "Common",
+    "set_name": "Platinum",
+    "set_series": "Platinum"
+  },
+  {
+    "name": "Psyduck",
+    "number": "87",
+    "rarity": "Common",
+    "set_name": "Platinum",
+    "set_series": "Platinum"
+  },
+  {
+    "name": "Purugly G",
+    "number": "88",
+    "rarity": "Common",
+    "set_name": "Platinum",
+    "set_series": "Platinum"
+  },
+  {
+    "name": "Ralts",
+    "number": "89",
+    "rarity": "Common",
+    "set_name": "Platinum",
+    "set_series": "Platinum"
+  },
+  {
+    "name": "Remoraid",
+    "number": "90",
+    "rarity": "Common",
+    "set_name": "Platinum",
+    "set_series": "Platinum"
+  },
+  {
+    "name": "Riolu",
+    "number": "91",
+    "rarity": "Common",
+    "set_name": "Platinum",
+    "set_series": "Platinum"
+  },
+  {
+    "name": "Shuppet",
+    "number": "92",
+    "rarity": "Common",
+    "set_name": "Platinum",
+    "set_series": "Platinum"
+  },
+  {
+    "name": "Skitty",
+    "number": "93",
+    "rarity": "Common",
+    "set_name": "Platinum",
+    "set_series": "Platinum"
+  },
+  {
+    "name": "Skuntank G",
+    "number": "94",
+    "rarity": "Common",
+    "set_name": "Platinum",
+    "set_series": "Platinum"
+  },
+  {
+    "name": "Slakoth",
+    "number": "95",
+    "rarity": "Common",
+    "set_name": "Platinum",
+    "set_series": "Platinum"
+  },
+  {
+    "name": "Squirtle",
+    "number": "96",
+    "rarity": "Common",
+    "set_name": "Platinum",
+    "set_series": "Platinum"
+  },
+  {
+    "name": "Swablu",
+    "number": "97",
+    "rarity": "Common",
+    "set_name": "Platinum",
+    "set_series": "Platinum"
+  },
+  {
+    "name": "Tauros",
+    "number": "98",
+    "rarity": "Common",
+    "set_name": "Platinum",
+    "set_series": "Platinum"
+  },
+  {
+    "name": "Torchic",
+    "number": "99",
+    "rarity": "Common",
+    "set_name": "Platinum",
+    "set_series": "Platinum"
+  },
+  {
+    "name": "Torkoal",
+    "number": "100",
+    "rarity": "Common",
+    "set_name": "Platinum",
+    "set_series": "Platinum"
+  },
+  {
+    "name": "Turtwig",
+    "number": "101",
+    "rarity": "Common",
+    "set_name": "Platinum",
+    "set_series": "Platinum"
+  },
+  {
+    "name": "Vulpix",
+    "number": "102",
+    "rarity": "Common",
+    "set_name": "Platinum",
+    "set_series": "Platinum"
+  },
+  {
+    "name": "Wurmple",
+    "number": "103",
+    "rarity": "Common",
+    "set_name": "Platinum",
+    "set_series": "Platinum"
+  },
+  {
+    "name": "Broken Time-Space",
+    "number": "104",
+    "rarity": "Uncommon",
+    "set_name": "Platinum",
+    "set_series": "Platinum"
+  },
+  {
+    "name": "Cyrus's Conspiracy",
+    "number": "105",
+    "rarity": "Uncommon",
+    "set_name": "Platinum",
+    "set_series": "Platinum"
+  },
+  {
+    "name": "Galactic HQ",
+    "number": "106",
+    "rarity": "Uncommon",
+    "set_name": "Platinum",
+    "set_series": "Platinum"
+  },
+  {
+    "name": "Level Max",
+    "number": "107",
+    "rarity": "Uncommon",
+    "set_name": "Platinum",
+    "set_series": "Platinum"
+  },
+  {
+    "name": "Life Herb",
+    "number": "108",
+    "rarity": "Uncommon",
+    "set_name": "Platinum",
+    "set_series": "Platinum"
+  },
+  {
+    "name": "Looker's Investigation",
+    "number": "109",
+    "rarity": "Uncommon",
+    "set_name": "Platinum",
+    "set_series": "Platinum"
+  },
+  {
+    "name": "Memory Berry",
+    "number": "110",
+    "rarity": "Uncommon",
+    "set_name": "Platinum",
+    "set_series": "Platinum"
+  },
+  {
+    "name": "Miasma Valley",
+    "number": "111",
+    "rarity": "Uncommon",
+    "set_name": "Platinum",
+    "set_series": "Platinum"
+  },
+  {
+    "name": "PlusPower",
+    "number": "112",
+    "rarity": "Uncommon",
+    "set_name": "Platinum",
+    "set_series": "Platinum"
+  },
+  {
+    "name": "Pok\u00e9 Ball",
+    "number": "113",
+    "rarity": "Uncommon",
+    "set_name": "Platinum",
+    "set_series": "Platinum"
+  },
+  {
+    "name": "Pok\u00e9dex HANDY910is",
+    "number": "114",
+    "rarity": "Uncommon",
+    "set_name": "Platinum",
+    "set_series": "Platinum"
+  },
+  {
+    "name": "Pok\u00e9mon Rescue",
+    "number": "115",
+    "rarity": "Uncommon",
+    "set_name": "Platinum",
+    "set_series": "Platinum"
+  },
+  {
+    "name": "Team Galactic's Invention G-101 Energy Gain",
+    "number": "116",
+    "rarity": "Uncommon",
+    "set_name": "Platinum",
+    "set_series": "Platinum"
+  },
+  {
+    "name": "Team Galactic's Invention G-103 Power Spray",
+    "number": "117",
+    "rarity": "Uncommon",
+    "set_name": "Platinum",
+    "set_series": "Platinum"
+  },
+  {
+    "name": "Team Galactic's Invention G-105 Pok\u00e9 Turn",
+    "number": "118",
+    "rarity": "Uncommon",
+    "set_name": "Platinum",
+    "set_series": "Platinum"
+  },
+  {
+    "name": "Armor Fossil",
+    "number": "119",
+    "rarity": "Common",
+    "set_name": "Platinum",
+    "set_series": "Platinum"
+  },
+  {
+    "name": "Skull Fossil",
+    "number": "120",
+    "rarity": "Common",
+    "set_name": "Platinum",
+    "set_series": "Platinum"
+  },
+  {
+    "name": "Rainbow Energy",
+    "number": "121",
+    "rarity": "Uncommon",
+    "set_name": "Platinum",
+    "set_series": "Platinum"
+  },
+  {
+    "name": "Dialga G LV.X",
+    "number": "122",
+    "rarity": "Rare Holo LV.X",
+    "set_name": "Platinum",
+    "set_series": "Platinum"
+  },
+  {
+    "name": "Drapion LV.X",
+    "number": "123",
+    "rarity": "Rare Holo LV.X",
+    "set_name": "Platinum",
+    "set_series": "Platinum"
+  },
+  {
+    "name": "Giratina LV.X",
+    "number": "124",
+    "rarity": "Rare Holo LV.X",
+    "set_name": "Platinum",
+    "set_series": "Platinum"
+  },
+  {
+    "name": "Palkia G LV.X",
+    "number": "125",
+    "rarity": "Rare Holo LV.X",
+    "set_name": "Platinum",
+    "set_series": "Platinum"
+  },
+  {
+    "name": "Shaymin LV.X",
+    "number": "126",
+    "rarity": "Rare Holo LV.X",
+    "set_name": "Platinum",
+    "set_series": "Platinum"
+  },
+  {
+    "name": "Shaymin LV.X",
+    "number": "127",
+    "rarity": "Rare Holo LV.X",
+    "set_name": "Platinum",
+    "set_series": "Platinum"
+  },
+  {
+    "name": "Electabuzz",
+    "number": "128",
+    "rarity": "Rare Secret",
+    "set_name": "Platinum",
+    "set_series": "Platinum"
+  },
+  {
+    "name": "Hitmonchan",
+    "number": "129",
+    "rarity": "Rare Secret",
+    "set_name": "Platinum",
+    "set_series": "Platinum"
+  },
+  {
+    "name": "Scyther",
+    "number": "130",
+    "rarity": "Rare Secret",
+    "set_name": "Platinum",
+    "set_series": "Platinum"
+  },
+  {
+    "name": "Lotad",
+    "number": "SH4",
+    "rarity": "Rare",
+    "set_name": "Platinum",
+    "set_series": "Platinum"
+  },
+  {
+    "name": "Swablu",
+    "number": "SH5",
+    "rarity": "Rare",
+    "set_name": "Platinum",
+    "set_series": "Platinum"
+  },
+  {
+    "name": "Vulpix",
+    "number": "SH6",
+    "rarity": "Rare",
+    "set_name": "Platinum",
+    "set_series": "Platinum"
+  }
+]

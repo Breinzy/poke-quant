@@ -1,0 +1,1157 @@
+[
+  {
+    "name": "Paras",
+    "number": "1",
+    "rarity": "Common",
+    "set_name": "BREAKthrough",
+    "set_series": "XY"
+  },
+  {
+    "name": "Parasect",
+    "number": "2",
+    "rarity": "Rare",
+    "set_name": "BREAKthrough",
+    "set_series": "XY"
+  },
+  {
+    "name": "Pinsir",
+    "number": "3",
+    "rarity": "Uncommon",
+    "set_name": "BREAKthrough",
+    "set_series": "XY"
+  },
+  {
+    "name": "Cacnea",
+    "number": "4",
+    "rarity": "Common",
+    "set_name": "BREAKthrough",
+    "set_series": "XY"
+  },
+  {
+    "name": "Pansage",
+    "number": "5",
+    "rarity": "Common",
+    "set_name": "BREAKthrough",
+    "set_series": "XY"
+  },
+  {
+    "name": "Simisage",
+    "number": "6",
+    "rarity": "Rare",
+    "set_name": "BREAKthrough",
+    "set_series": "XY"
+  },
+  {
+    "name": "Chespin",
+    "number": "7",
+    "rarity": "Common",
+    "set_name": "BREAKthrough",
+    "set_series": "XY"
+  },
+  {
+    "name": "Chespin",
+    "number": "8",
+    "rarity": "Common",
+    "set_name": "BREAKthrough",
+    "set_series": "XY"
+  },
+  {
+    "name": "Chespin",
+    "number": "9",
+    "rarity": "Common",
+    "set_name": "BREAKthrough",
+    "set_series": "XY"
+  },
+  {
+    "name": "Quilladin",
+    "number": "10",
+    "rarity": "Uncommon",
+    "set_name": "BREAKthrough",
+    "set_series": "XY"
+  },
+  {
+    "name": "Chesnaught",
+    "number": "11",
+    "rarity": "Rare Holo",
+    "set_name": "BREAKthrough",
+    "set_series": "XY"
+  },
+  {
+    "name": "Chesnaught BREAK",
+    "number": "12",
+    "rarity": "Rare BREAK",
+    "set_name": "BREAKthrough",
+    "set_series": "XY"
+  },
+  {
+    "name": "Scatterbug",
+    "number": "13",
+    "rarity": "Common",
+    "set_name": "BREAKthrough",
+    "set_series": "XY"
+  },
+  {
+    "name": "Spewpa",
+    "number": "14",
+    "rarity": "Uncommon",
+    "set_name": "BREAKthrough",
+    "set_series": "XY"
+  },
+  {
+    "name": "Vivillon",
+    "number": "15",
+    "rarity": "Rare Holo",
+    "set_name": "BREAKthrough",
+    "set_series": "XY"
+  },
+  {
+    "name": "Skiddo",
+    "number": "16",
+    "rarity": "Common",
+    "set_name": "BREAKthrough",
+    "set_series": "XY"
+  },
+  {
+    "name": "Gogoat",
+    "number": "17",
+    "rarity": "Uncommon",
+    "set_name": "BREAKthrough",
+    "set_series": "XY"
+  },
+  {
+    "name": "Cyndaquil",
+    "number": "18",
+    "rarity": "Common",
+    "set_name": "BREAKthrough",
+    "set_series": "XY"
+  },
+  {
+    "name": "Quilava",
+    "number": "19",
+    "rarity": "Uncommon",
+    "set_name": "BREAKthrough",
+    "set_series": "XY"
+  },
+  {
+    "name": "Typhlosion",
+    "number": "20",
+    "rarity": "Rare Holo",
+    "set_name": "BREAKthrough",
+    "set_series": "XY"
+  },
+  {
+    "name": "Houndoom-EX",
+    "number": "21",
+    "rarity": "Rare Holo EX",
+    "set_name": "BREAKthrough",
+    "set_series": "XY"
+  },
+  {
+    "name": "M Houndoom-EX",
+    "number": "22",
+    "rarity": "Rare Holo EX",
+    "set_name": "BREAKthrough",
+    "set_series": "XY"
+  },
+  {
+    "name": "Pansear",
+    "number": "23",
+    "rarity": "Common",
+    "set_name": "BREAKthrough",
+    "set_series": "XY"
+  },
+  {
+    "name": "Simisear",
+    "number": "24",
+    "rarity": "Rare",
+    "set_name": "BREAKthrough",
+    "set_series": "XY"
+  },
+  {
+    "name": "Fennekin",
+    "number": "25",
+    "rarity": "Common",
+    "set_name": "BREAKthrough",
+    "set_series": "XY"
+  },
+  {
+    "name": "Braixen",
+    "number": "26",
+    "rarity": "Uncommon",
+    "set_name": "BREAKthrough",
+    "set_series": "XY"
+  },
+  {
+    "name": "Goldeen",
+    "number": "27",
+    "rarity": "Common",
+    "set_name": "BREAKthrough",
+    "set_series": "XY"
+  },
+  {
+    "name": "Seaking",
+    "number": "28",
+    "rarity": "Uncommon",
+    "set_name": "BREAKthrough",
+    "set_series": "XY"
+  },
+  {
+    "name": "Staryu",
+    "number": "29",
+    "rarity": "Common",
+    "set_name": "BREAKthrough",
+    "set_series": "XY"
+  },
+  {
+    "name": "Starmie",
+    "number": "30",
+    "rarity": "Uncommon",
+    "set_name": "BREAKthrough",
+    "set_series": "XY"
+  },
+  {
+    "name": "Remoraid",
+    "number": "31",
+    "rarity": "Common",
+    "set_name": "BREAKthrough",
+    "set_series": "XY"
+  },
+  {
+    "name": "Remoraid",
+    "number": "32",
+    "rarity": "Common",
+    "set_name": "BREAKthrough",
+    "set_series": "XY"
+  },
+  {
+    "name": "Octillery",
+    "number": "33",
+    "rarity": "Rare Holo",
+    "set_name": "BREAKthrough",
+    "set_series": "XY"
+  },
+  {
+    "name": "Glalie-EX",
+    "number": "34",
+    "rarity": "Rare Holo EX",
+    "set_name": "BREAKthrough",
+    "set_series": "XY"
+  },
+  {
+    "name": "M Glalie-EX",
+    "number": "35",
+    "rarity": "Rare Holo EX",
+    "set_name": "BREAKthrough",
+    "set_series": "XY"
+  },
+  {
+    "name": "Piplup",
+    "number": "36",
+    "rarity": "Common",
+    "set_name": "BREAKthrough",
+    "set_series": "XY"
+  },
+  {
+    "name": "Prinplup",
+    "number": "37",
+    "rarity": "Uncommon",
+    "set_name": "BREAKthrough",
+    "set_series": "XY"
+  },
+  {
+    "name": "Empoleon",
+    "number": "38",
+    "rarity": "Rare Holo",
+    "set_name": "BREAKthrough",
+    "set_series": "XY"
+  },
+  {
+    "name": "Snover",
+    "number": "39",
+    "rarity": "Common",
+    "set_name": "BREAKthrough",
+    "set_series": "XY"
+  },
+  {
+    "name": "Abomasnow",
+    "number": "40",
+    "rarity": "Rare",
+    "set_name": "BREAKthrough",
+    "set_series": "XY"
+  },
+  {
+    "name": "Panpour",
+    "number": "41",
+    "rarity": "Common",
+    "set_name": "BREAKthrough",
+    "set_series": "XY"
+  },
+  {
+    "name": "Simipour",
+    "number": "42",
+    "rarity": "Rare",
+    "set_name": "BREAKthrough",
+    "set_series": "XY"
+  },
+  {
+    "name": "Vanillite",
+    "number": "43",
+    "rarity": "Common",
+    "set_name": "BREAKthrough",
+    "set_series": "XY"
+  },
+  {
+    "name": "Vanillish",
+    "number": "44",
+    "rarity": "Uncommon",
+    "set_name": "BREAKthrough",
+    "set_series": "XY"
+  },
+  {
+    "name": "Vanilluxe",
+    "number": "45",
+    "rarity": "Rare",
+    "set_name": "BREAKthrough",
+    "set_series": "XY"
+  },
+  {
+    "name": "Froakie",
+    "number": "46",
+    "rarity": "Common",
+    "set_name": "BREAKthrough",
+    "set_series": "XY"
+  },
+  {
+    "name": "Frogadier",
+    "number": "47",
+    "rarity": "Uncommon",
+    "set_name": "BREAKthrough",
+    "set_series": "XY"
+  },
+  {
+    "name": "Pikachu",
+    "number": "48",
+    "rarity": "Common",
+    "set_name": "BREAKthrough",
+    "set_series": "XY"
+  },
+  {
+    "name": "Raichu",
+    "number": "49",
+    "rarity": "Rare",
+    "set_name": "BREAKthrough",
+    "set_series": "XY"
+  },
+  {
+    "name": "Raichu BREAK",
+    "number": "50",
+    "rarity": "Rare BREAK",
+    "set_name": "BREAKthrough",
+    "set_series": "XY"
+  },
+  {
+    "name": "Magnemite",
+    "number": "51",
+    "rarity": "Common",
+    "set_name": "BREAKthrough",
+    "set_series": "XY"
+  },
+  {
+    "name": "Magnemite",
+    "number": "52",
+    "rarity": "Common",
+    "set_name": "BREAKthrough",
+    "set_series": "XY"
+  },
+  {
+    "name": "Magneton",
+    "number": "53",
+    "rarity": "Uncommon",
+    "set_name": "BREAKthrough",
+    "set_series": "XY"
+  },
+  {
+    "name": "Magnezone",
+    "number": "54",
+    "rarity": "Rare Holo",
+    "set_name": "BREAKthrough",
+    "set_series": "XY"
+  },
+  {
+    "name": "Raikou",
+    "number": "55",
+    "rarity": "Rare Holo",
+    "set_name": "BREAKthrough",
+    "set_series": "XY"
+  },
+  {
+    "name": "Stunfisk",
+    "number": "56",
+    "rarity": "Uncommon",
+    "set_name": "BREAKthrough",
+    "set_series": "XY"
+  },
+  {
+    "name": "Dedenne",
+    "number": "57",
+    "rarity": "Uncommon",
+    "set_name": "BREAKthrough",
+    "set_series": "XY"
+  },
+  {
+    "name": "Gastly",
+    "number": "58",
+    "rarity": "Common",
+    "set_name": "BREAKthrough",
+    "set_series": "XY"
+  },
+  {
+    "name": "Haunter",
+    "number": "59",
+    "rarity": "Uncommon",
+    "set_name": "BREAKthrough",
+    "set_series": "XY"
+  },
+  {
+    "name": "Gengar",
+    "number": "60",
+    "rarity": "Rare Holo",
+    "set_name": "BREAKthrough",
+    "set_series": "XY"
+  },
+  {
+    "name": "Mewtwo-EX",
+    "number": "61",
+    "rarity": "Rare Holo EX",
+    "set_name": "BREAKthrough",
+    "set_series": "XY"
+  },
+  {
+    "name": "Mewtwo-EX",
+    "number": "62",
+    "rarity": "Rare Holo EX",
+    "set_name": "BREAKthrough",
+    "set_series": "XY"
+  },
+  {
+    "name": "M Mewtwo-EX",
+    "number": "63",
+    "rarity": "Rare Holo EX",
+    "set_name": "BREAKthrough",
+    "set_series": "XY"
+  },
+  {
+    "name": "M Mewtwo-EX",
+    "number": "64",
+    "rarity": "Rare Holo EX",
+    "set_name": "BREAKthrough",
+    "set_series": "XY"
+  },
+  {
+    "name": "Misdreavus",
+    "number": "65",
+    "rarity": "Common",
+    "set_name": "BREAKthrough",
+    "set_series": "XY"
+  },
+  {
+    "name": "Mismagius",
+    "number": "66",
+    "rarity": "Rare Holo",
+    "set_name": "BREAKthrough",
+    "set_series": "XY"
+  },
+  {
+    "name": "Wobbuffet",
+    "number": "67",
+    "rarity": "Uncommon",
+    "set_name": "BREAKthrough",
+    "set_series": "XY"
+  },
+  {
+    "name": "Ralts",
+    "number": "68",
+    "rarity": "Common",
+    "set_name": "BREAKthrough",
+    "set_series": "XY"
+  },
+  {
+    "name": "Kirlia",
+    "number": "69",
+    "rarity": "Uncommon",
+    "set_name": "BREAKthrough",
+    "set_series": "XY"
+  },
+  {
+    "name": "Cresselia",
+    "number": "70",
+    "rarity": "Rare",
+    "set_name": "BREAKthrough",
+    "set_series": "XY"
+  },
+  {
+    "name": "Woobat",
+    "number": "71",
+    "rarity": "Common",
+    "set_name": "BREAKthrough",
+    "set_series": "XY"
+  },
+  {
+    "name": "Swoobat",
+    "number": "72",
+    "rarity": "Uncommon",
+    "set_name": "BREAKthrough",
+    "set_series": "XY"
+  },
+  {
+    "name": "Elgyem",
+    "number": "73",
+    "rarity": "Common",
+    "set_name": "BREAKthrough",
+    "set_series": "XY"
+  },
+  {
+    "name": "Beheeyem",
+    "number": "74",
+    "rarity": "Uncommon",
+    "set_name": "BREAKthrough",
+    "set_series": "XY"
+  },
+  {
+    "name": "Sandshrew",
+    "number": "75",
+    "rarity": "Common",
+    "set_name": "BREAKthrough",
+    "set_series": "XY"
+  },
+  {
+    "name": "Sandslash",
+    "number": "76",
+    "rarity": "Uncommon",
+    "set_name": "BREAKthrough",
+    "set_series": "XY"
+  },
+  {
+    "name": "Cubone",
+    "number": "77",
+    "rarity": "Common",
+    "set_name": "BREAKthrough",
+    "set_series": "XY"
+  },
+  {
+    "name": "Marowak",
+    "number": "78",
+    "rarity": "Rare",
+    "set_name": "BREAKthrough",
+    "set_series": "XY"
+  },
+  {
+    "name": "Marowak BREAK",
+    "number": "79",
+    "rarity": "Rare BREAK",
+    "set_name": "BREAKthrough",
+    "set_series": "XY"
+  },
+  {
+    "name": "Swinub",
+    "number": "80",
+    "rarity": "Common",
+    "set_name": "BREAKthrough",
+    "set_series": "XY"
+  },
+  {
+    "name": "Piloswine",
+    "number": "81",
+    "rarity": "Uncommon",
+    "set_name": "BREAKthrough",
+    "set_series": "XY"
+  },
+  {
+    "name": "Mamoswine",
+    "number": "82",
+    "rarity": "Rare Holo",
+    "set_name": "BREAKthrough",
+    "set_series": "XY"
+  },
+  {
+    "name": "Hippopotas",
+    "number": "83",
+    "rarity": "Common",
+    "set_name": "BREAKthrough",
+    "set_series": "XY"
+  },
+  {
+    "name": "Gallade",
+    "number": "84",
+    "rarity": "Rare Holo",
+    "set_name": "BREAKthrough",
+    "set_series": "XY"
+  },
+  {
+    "name": "Meloetta",
+    "number": "85",
+    "rarity": "Rare Holo",
+    "set_name": "BREAKthrough",
+    "set_series": "XY"
+  },
+  {
+    "name": "Pancham",
+    "number": "86",
+    "rarity": "Common",
+    "set_name": "BREAKthrough",
+    "set_series": "XY"
+  },
+  {
+    "name": "Hawlucha",
+    "number": "87",
+    "rarity": "Rare",
+    "set_name": "BREAKthrough",
+    "set_series": "XY"
+  },
+  {
+    "name": "Cacturne",
+    "number": "88",
+    "rarity": "Uncommon",
+    "set_name": "BREAKthrough",
+    "set_series": "XY"
+  },
+  {
+    "name": "Zorua",
+    "number": "89",
+    "rarity": "Common",
+    "set_name": "BREAKthrough",
+    "set_series": "XY"
+  },
+  {
+    "name": "Zorua",
+    "number": "90",
+    "rarity": "Common",
+    "set_name": "BREAKthrough",
+    "set_series": "XY"
+  },
+  {
+    "name": "Zoroark",
+    "number": "91",
+    "rarity": "Rare Holo",
+    "set_name": "BREAKthrough",
+    "set_series": "XY"
+  },
+  {
+    "name": "Zoroark BREAK",
+    "number": "92",
+    "rarity": "Rare BREAK",
+    "set_name": "BREAKthrough",
+    "set_series": "XY"
+  },
+  {
+    "name": "Inkay",
+    "number": "93",
+    "rarity": "Common",
+    "set_name": "BREAKthrough",
+    "set_series": "XY"
+  },
+  {
+    "name": "Yveltal",
+    "number": "94",
+    "rarity": "Rare Holo",
+    "set_name": "BREAKthrough",
+    "set_series": "XY"
+  },
+  {
+    "name": "Bronzor",
+    "number": "95",
+    "rarity": "Common",
+    "set_name": "BREAKthrough",
+    "set_series": "XY"
+  },
+  {
+    "name": "Bronzong",
+    "number": "96",
+    "rarity": "Rare",
+    "set_name": "BREAKthrough",
+    "set_series": "XY"
+  },
+  {
+    "name": "Mr. Mime",
+    "number": "97",
+    "rarity": "Rare",
+    "set_name": "BREAKthrough",
+    "set_series": "XY"
+  },
+  {
+    "name": "Snubbull",
+    "number": "98",
+    "rarity": "Common",
+    "set_name": "BREAKthrough",
+    "set_series": "XY"
+  },
+  {
+    "name": "Granbull",
+    "number": "99",
+    "rarity": "Uncommon",
+    "set_name": "BREAKthrough",
+    "set_series": "XY"
+  },
+  {
+    "name": "Ralts",
+    "number": "100",
+    "rarity": "Common",
+    "set_name": "BREAKthrough",
+    "set_series": "XY"
+  },
+  {
+    "name": "Flab\u00e9b\u00e9",
+    "number": "101",
+    "rarity": "Common",
+    "set_name": "BREAKthrough",
+    "set_series": "XY"
+  },
+  {
+    "name": "Floette",
+    "number": "102",
+    "rarity": "Uncommon",
+    "set_name": "BREAKthrough",
+    "set_series": "XY"
+  },
+  {
+    "name": "Florges",
+    "number": "103",
+    "rarity": "Rare",
+    "set_name": "BREAKthrough",
+    "set_series": "XY"
+  },
+  {
+    "name": "Florges BREAK",
+    "number": "104",
+    "rarity": "Rare BREAK",
+    "set_name": "BREAKthrough",
+    "set_series": "XY"
+  },
+  {
+    "name": "Spritzee",
+    "number": "105",
+    "rarity": "Common",
+    "set_name": "BREAKthrough",
+    "set_series": "XY"
+  },
+  {
+    "name": "Aromatisse",
+    "number": "106",
+    "rarity": "Rare",
+    "set_name": "BREAKthrough",
+    "set_series": "XY"
+  },
+  {
+    "name": "Xerneas",
+    "number": "107",
+    "rarity": "Rare Holo",
+    "set_name": "BREAKthrough",
+    "set_series": "XY"
+  },
+  {
+    "name": "Axew",
+    "number": "108",
+    "rarity": "Common",
+    "set_name": "BREAKthrough",
+    "set_series": "XY"
+  },
+  {
+    "name": "Axew",
+    "number": "109",
+    "rarity": "Common",
+    "set_name": "BREAKthrough",
+    "set_series": "XY"
+  },
+  {
+    "name": "Fraxure",
+    "number": "110",
+    "rarity": "Uncommon",
+    "set_name": "BREAKthrough",
+    "set_series": "XY"
+  },
+  {
+    "name": "Haxorus",
+    "number": "111",
+    "rarity": "Rare Holo",
+    "set_name": "BREAKthrough",
+    "set_series": "XY"
+  },
+  {
+    "name": "Noivern",
+    "number": "112",
+    "rarity": "Rare",
+    "set_name": "BREAKthrough",
+    "set_series": "XY"
+  },
+  {
+    "name": "Noivern BREAK",
+    "number": "113",
+    "rarity": "Rare BREAK",
+    "set_name": "BREAKthrough",
+    "set_series": "XY"
+  },
+  {
+    "name": "Meowth",
+    "number": "114",
+    "rarity": "Common",
+    "set_name": "BREAKthrough",
+    "set_series": "XY"
+  },
+  {
+    "name": "Doduo",
+    "number": "115",
+    "rarity": "Common",
+    "set_name": "BREAKthrough",
+    "set_series": "XY"
+  },
+  {
+    "name": "Doduo",
+    "number": "116",
+    "rarity": "Common",
+    "set_name": "BREAKthrough",
+    "set_series": "XY"
+  },
+  {
+    "name": "Dodrio",
+    "number": "117",
+    "rarity": "Rare",
+    "set_name": "BREAKthrough",
+    "set_series": "XY"
+  },
+  {
+    "name": "Snorlax",
+    "number": "118",
+    "rarity": "Uncommon",
+    "set_name": "BREAKthrough",
+    "set_series": "XY"
+  },
+  {
+    "name": "Hoothoot",
+    "number": "119",
+    "rarity": "Common",
+    "set_name": "BREAKthrough",
+    "set_series": "XY"
+  },
+  {
+    "name": "Noctowl",
+    "number": "120",
+    "rarity": "Rare",
+    "set_name": "BREAKthrough",
+    "set_series": "XY"
+  },
+  {
+    "name": "Teddiursa",
+    "number": "121",
+    "rarity": "Common",
+    "set_name": "BREAKthrough",
+    "set_series": "XY"
+  },
+  {
+    "name": "Ursaring",
+    "number": "122",
+    "rarity": "Uncommon",
+    "set_name": "BREAKthrough",
+    "set_series": "XY"
+  },
+  {
+    "name": "Smeargle",
+    "number": "123",
+    "rarity": "Rare",
+    "set_name": "BREAKthrough",
+    "set_series": "XY"
+  },
+  {
+    "name": "Swablu",
+    "number": "124",
+    "rarity": "Common",
+    "set_name": "BREAKthrough",
+    "set_series": "XY"
+  },
+  {
+    "name": "Starly",
+    "number": "125",
+    "rarity": "Common",
+    "set_name": "BREAKthrough",
+    "set_series": "XY"
+  },
+  {
+    "name": "Staravia",
+    "number": "126",
+    "rarity": "Uncommon",
+    "set_name": "BREAKthrough",
+    "set_series": "XY"
+  },
+  {
+    "name": "Staraptor",
+    "number": "127",
+    "rarity": "Rare",
+    "set_name": "BREAKthrough",
+    "set_series": "XY"
+  },
+  {
+    "name": "Chatot",
+    "number": "128",
+    "rarity": "Rare",
+    "set_name": "BREAKthrough",
+    "set_series": "XY"
+  },
+  {
+    "name": "Rufflet",
+    "number": "129",
+    "rarity": "Common",
+    "set_name": "BREAKthrough",
+    "set_series": "XY"
+  },
+  {
+    "name": "Braviary",
+    "number": "130",
+    "rarity": "Rare",
+    "set_name": "BREAKthrough",
+    "set_series": "XY"
+  },
+  {
+    "name": "Noibat",
+    "number": "131",
+    "rarity": "Common",
+    "set_name": "BREAKthrough",
+    "set_series": "XY"
+  },
+  {
+    "name": "Noibat",
+    "number": "132",
+    "rarity": "Common",
+    "set_name": "BREAKthrough",
+    "set_series": "XY"
+  },
+  {
+    "name": "Assault Vest",
+    "number": "133",
+    "rarity": "Uncommon",
+    "set_name": "BREAKthrough",
+    "set_series": "XY"
+  },
+  {
+    "name": "Brigette",
+    "number": "134",
+    "rarity": "Uncommon",
+    "set_name": "BREAKthrough",
+    "set_series": "XY"
+  },
+  {
+    "name": "Buddy-Buddy Rescue",
+    "number": "135",
+    "rarity": "Uncommon",
+    "set_name": "BREAKthrough",
+    "set_series": "XY"
+  },
+  {
+    "name": "Fisherman",
+    "number": "136",
+    "rarity": "Uncommon",
+    "set_name": "BREAKthrough",
+    "set_series": "XY"
+  },
+  {
+    "name": "Float Stone",
+    "number": "137",
+    "rarity": "Uncommon",
+    "set_name": "BREAKthrough",
+    "set_series": "XY"
+  },
+  {
+    "name": "Giovanni's Scheme",
+    "number": "138",
+    "rarity": "Uncommon",
+    "set_name": "BREAKthrough",
+    "set_series": "XY"
+  },
+  {
+    "name": "Glalie Spirit Link",
+    "number": "139",
+    "rarity": "Uncommon",
+    "set_name": "BREAKthrough",
+    "set_series": "XY"
+  },
+  {
+    "name": "Heavy Ball",
+    "number": "140",
+    "rarity": "Uncommon",
+    "set_name": "BREAKthrough",
+    "set_series": "XY"
+  },
+  {
+    "name": "Heavy Boots",
+    "number": "141",
+    "rarity": "Uncommon",
+    "set_name": "BREAKthrough",
+    "set_series": "XY"
+  },
+  {
+    "name": "Houndoom Spirit Link",
+    "number": "142",
+    "rarity": "Uncommon",
+    "set_name": "BREAKthrough",
+    "set_series": "XY"
+  },
+  {
+    "name": "Judge",
+    "number": "143",
+    "rarity": "Uncommon",
+    "set_name": "BREAKthrough",
+    "set_series": "XY"
+  },
+  {
+    "name": "Mewtwo Spirit Link",
+    "number": "144",
+    "rarity": "Uncommon",
+    "set_name": "BREAKthrough",
+    "set_series": "XY"
+  },
+  {
+    "name": "Parallel City",
+    "number": "145",
+    "rarity": "Uncommon",
+    "set_name": "BREAKthrough",
+    "set_series": "XY"
+  },
+  {
+    "name": "Professor's Letter",
+    "number": "146",
+    "rarity": "Uncommon",
+    "set_name": "BREAKthrough",
+    "set_series": "XY"
+  },
+  {
+    "name": "Professor's Letter",
+    "number": "146a",
+    "rarity": "Uncommon",
+    "set_name": "BREAKthrough",
+    "set_series": "XY"
+  },
+  {
+    "name": "Reserved Ticket",
+    "number": "147",
+    "rarity": "Uncommon",
+    "set_name": "BREAKthrough",
+    "set_series": "XY"
+  },
+  {
+    "name": "Skyla",
+    "number": "148",
+    "rarity": "Uncommon",
+    "set_name": "BREAKthrough",
+    "set_series": "XY"
+  },
+  {
+    "name": "Super Rod",
+    "number": "149",
+    "rarity": "Uncommon",
+    "set_name": "BREAKthrough",
+    "set_series": "XY"
+  },
+  {
+    "name": "Town Map",
+    "number": "150",
+    "rarity": "Uncommon",
+    "set_name": "BREAKthrough",
+    "set_series": "XY"
+  },
+  {
+    "name": "Burning Energy",
+    "number": "151",
+    "rarity": "Uncommon",
+    "set_name": "BREAKthrough",
+    "set_series": "XY"
+  },
+  {
+    "name": "Rainbow Energy",
+    "number": "152",
+    "rarity": "Uncommon",
+    "set_name": "BREAKthrough",
+    "set_series": "XY"
+  },
+  {
+    "name": "Houndoom-EX",
+    "number": "153",
+    "rarity": "Rare Ultra",
+    "set_name": "BREAKthrough",
+    "set_series": "XY"
+  },
+  {
+    "name": "M Houndoom-EX",
+    "number": "154",
+    "rarity": "Rare Ultra",
+    "set_name": "BREAKthrough",
+    "set_series": "XY"
+  },
+  {
+    "name": "Glalie-EX",
+    "number": "155",
+    "rarity": "Rare Ultra",
+    "set_name": "BREAKthrough",
+    "set_series": "XY"
+  },
+  {
+    "name": "M Glalie-EX",
+    "number": "156",
+    "rarity": "Rare Ultra",
+    "set_name": "BREAKthrough",
+    "set_series": "XY"
+  },
+  {
+    "name": "Mewtwo-EX",
+    "number": "157",
+    "rarity": "Rare Ultra",
+    "set_name": "BREAKthrough",
+    "set_series": "XY"
+  },
+  {
+    "name": "Mewtwo-EX",
+    "number": "158",
+    "rarity": "Rare Ultra",
+    "set_name": "BREAKthrough",
+    "set_series": "XY"
+  },
+  {
+    "name": "M Mewtwo-EX",
+    "number": "159",
+    "rarity": "Rare Ultra",
+    "set_name": "BREAKthrough",
+    "set_series": "XY"
+  },
+  {
+    "name": "M Mewtwo-EX",
+    "number": "160",
+    "rarity": "Rare Ultra",
+    "set_name": "BREAKthrough",
+    "set_series": "XY"
+  },
+  {
+    "name": "Brigette",
+    "number": "161",
+    "rarity": "Rare Ultra",
+    "set_name": "BREAKthrough",
+    "set_series": "XY"
+  },
+  {
+    "name": "Giovanni's Scheme",
+    "number": "162",
+    "rarity": "Rare Ultra",
+    "set_name": "BREAKthrough",
+    "set_series": "XY"
+  },
+  {
+    "name": "Mewtwo-EX",
+    "number": "163",
+    "rarity": "Rare Secret",
+    "set_name": "BREAKthrough",
+    "set_series": "XY"
+  },
+  {
+    "name": "Mewtwo-EX",
+    "number": "164",
+    "rarity": "Rare Secret",
+    "set_name": "BREAKthrough",
+    "set_series": "XY"
+  }
+]

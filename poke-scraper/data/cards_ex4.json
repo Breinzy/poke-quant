@@ -1,0 +1,681 @@
+[
+  {
+    "name": "Team Aqua's Cacturne",
+    "number": "1",
+    "rarity": "Rare Holo",
+    "set_name": "Team Magma vs Team Aqua",
+    "set_series": "EX"
+  },
+  {
+    "name": "Team Aqua's Crawdaunt",
+    "number": "2",
+    "rarity": "Rare Holo",
+    "set_name": "Team Magma vs Team Aqua",
+    "set_series": "EX"
+  },
+  {
+    "name": "Team Aqua's Kyogre",
+    "number": "3",
+    "rarity": "Rare Holo",
+    "set_name": "Team Magma vs Team Aqua",
+    "set_series": "EX"
+  },
+  {
+    "name": "Team Aqua's Manectric",
+    "number": "4",
+    "rarity": "Rare Holo",
+    "set_name": "Team Magma vs Team Aqua",
+    "set_series": "EX"
+  },
+  {
+    "name": "Team Aqua's Sharpedo",
+    "number": "5",
+    "rarity": "Rare Holo",
+    "set_name": "Team Magma vs Team Aqua",
+    "set_series": "EX"
+  },
+  {
+    "name": "Team Aqua's Walrein",
+    "number": "6",
+    "rarity": "Rare Holo",
+    "set_name": "Team Magma vs Team Aqua",
+    "set_series": "EX"
+  },
+  {
+    "name": "Team Magma's Aggron",
+    "number": "7",
+    "rarity": "Rare Holo",
+    "set_name": "Team Magma vs Team Aqua",
+    "set_series": "EX"
+  },
+  {
+    "name": "Team Magma's Claydol",
+    "number": "8",
+    "rarity": "Rare Holo",
+    "set_name": "Team Magma vs Team Aqua",
+    "set_series": "EX"
+  },
+  {
+    "name": "Team Magma's Groudon",
+    "number": "9",
+    "rarity": "Rare Holo",
+    "set_name": "Team Magma vs Team Aqua",
+    "set_series": "EX"
+  },
+  {
+    "name": "Team Magma's Houndoom",
+    "number": "10",
+    "rarity": "Rare Holo",
+    "set_name": "Team Magma vs Team Aqua",
+    "set_series": "EX"
+  },
+  {
+    "name": "Team Magma's Rhydon",
+    "number": "11",
+    "rarity": "Rare Holo",
+    "set_name": "Team Magma vs Team Aqua",
+    "set_series": "EX"
+  },
+  {
+    "name": "Team Magma's Torkoal",
+    "number": "12",
+    "rarity": "Rare Holo",
+    "set_name": "Team Magma vs Team Aqua",
+    "set_series": "EX"
+  },
+  {
+    "name": "Raichu",
+    "number": "13",
+    "rarity": "Rare",
+    "set_name": "Team Magma vs Team Aqua",
+    "set_series": "EX"
+  },
+  {
+    "name": "Team Aqua's Crawdaunt",
+    "number": "14",
+    "rarity": "Rare",
+    "set_name": "Team Magma vs Team Aqua",
+    "set_series": "EX"
+  },
+  {
+    "name": "Team Aqua's Mightyena",
+    "number": "15",
+    "rarity": "Rare",
+    "set_name": "Team Magma vs Team Aqua",
+    "set_series": "EX"
+  },
+  {
+    "name": "Team Aqua's Sealeo",
+    "number": "16",
+    "rarity": "Rare",
+    "set_name": "Team Magma vs Team Aqua",
+    "set_series": "EX"
+  },
+  {
+    "name": "Team Aqua's Seviper",
+    "number": "17",
+    "rarity": "Rare",
+    "set_name": "Team Magma vs Team Aqua",
+    "set_series": "EX"
+  },
+  {
+    "name": "Team Aqua's Sharpedo",
+    "number": "18",
+    "rarity": "Rare",
+    "set_name": "Team Magma vs Team Aqua",
+    "set_series": "EX"
+  },
+  {
+    "name": "Team Magma's Camerupt",
+    "number": "19",
+    "rarity": "Rare",
+    "set_name": "Team Magma vs Team Aqua",
+    "set_series": "EX"
+  },
+  {
+    "name": "Team Magma's Lairon",
+    "number": "20",
+    "rarity": "Rare",
+    "set_name": "Team Magma vs Team Aqua",
+    "set_series": "EX"
+  },
+  {
+    "name": "Team Magma's Mightyena",
+    "number": "21",
+    "rarity": "Rare",
+    "set_name": "Team Magma vs Team Aqua",
+    "set_series": "EX"
+  },
+  {
+    "name": "Team Magma's Rhydon",
+    "number": "22",
+    "rarity": "Rare",
+    "set_name": "Team Magma vs Team Aqua",
+    "set_series": "EX"
+  },
+  {
+    "name": "Team Magma's Zangoose",
+    "number": "23",
+    "rarity": "Rare",
+    "set_name": "Team Magma vs Team Aqua",
+    "set_series": "EX"
+  },
+  {
+    "name": "Team Aqua's Cacnea",
+    "number": "24",
+    "rarity": "Uncommon",
+    "set_name": "Team Magma vs Team Aqua",
+    "set_series": "EX"
+  },
+  {
+    "name": "Team Aqua's Carvanha",
+    "number": "25",
+    "rarity": "Uncommon",
+    "set_name": "Team Magma vs Team Aqua",
+    "set_series": "EX"
+  },
+  {
+    "name": "Team Aqua's Corphish",
+    "number": "26",
+    "rarity": "Uncommon",
+    "set_name": "Team Magma vs Team Aqua",
+    "set_series": "EX"
+  },
+  {
+    "name": "Team Aqua's Electrike",
+    "number": "27",
+    "rarity": "Uncommon",
+    "set_name": "Team Magma vs Team Aqua",
+    "set_series": "EX"
+  },
+  {
+    "name": "Team Aqua's Lanturn",
+    "number": "28",
+    "rarity": "Uncommon",
+    "set_name": "Team Magma vs Team Aqua",
+    "set_series": "EX"
+  },
+  {
+    "name": "Team Aqua's Manectric",
+    "number": "29",
+    "rarity": "Uncommon",
+    "set_name": "Team Magma vs Team Aqua",
+    "set_series": "EX"
+  },
+  {
+    "name": "Team Aqua's Mightyena",
+    "number": "30",
+    "rarity": "Uncommon",
+    "set_name": "Team Magma vs Team Aqua",
+    "set_series": "EX"
+  },
+  {
+    "name": "Team Aqua's Sealeo",
+    "number": "31",
+    "rarity": "Uncommon",
+    "set_name": "Team Magma vs Team Aqua",
+    "set_series": "EX"
+  },
+  {
+    "name": "Team Magma's Baltoy",
+    "number": "32",
+    "rarity": "Uncommon",
+    "set_name": "Team Magma vs Team Aqua",
+    "set_series": "EX"
+  },
+  {
+    "name": "Team Magma's Claydol",
+    "number": "33",
+    "rarity": "Uncommon",
+    "set_name": "Team Magma vs Team Aqua",
+    "set_series": "EX"
+  },
+  {
+    "name": "Team Magma's Houndoom",
+    "number": "34",
+    "rarity": "Uncommon",
+    "set_name": "Team Magma vs Team Aqua",
+    "set_series": "EX"
+  },
+  {
+    "name": "Team Magma's Houndour",
+    "number": "35",
+    "rarity": "Uncommon",
+    "set_name": "Team Magma vs Team Aqua",
+    "set_series": "EX"
+  },
+  {
+    "name": "Team Magma's Lairon",
+    "number": "36",
+    "rarity": "Uncommon",
+    "set_name": "Team Magma vs Team Aqua",
+    "set_series": "EX"
+  },
+  {
+    "name": "Team Magma's Mightyena",
+    "number": "37",
+    "rarity": "Uncommon",
+    "set_name": "Team Magma vs Team Aqua",
+    "set_series": "EX"
+  },
+  {
+    "name": "Team Magma's Rhyhorn",
+    "number": "38",
+    "rarity": "Uncommon",
+    "set_name": "Team Magma vs Team Aqua",
+    "set_series": "EX"
+  },
+  {
+    "name": "Bulbasaur",
+    "number": "39",
+    "rarity": "Common",
+    "set_name": "Team Magma vs Team Aqua",
+    "set_series": "EX"
+  },
+  {
+    "name": "Cubone",
+    "number": "40",
+    "rarity": "Common",
+    "set_name": "Team Magma vs Team Aqua",
+    "set_series": "EX"
+  },
+  {
+    "name": "Jigglypuff",
+    "number": "41",
+    "rarity": "Common",
+    "set_name": "Team Magma vs Team Aqua",
+    "set_series": "EX"
+  },
+  {
+    "name": "Meowth",
+    "number": "42",
+    "rarity": "Common",
+    "set_name": "Team Magma vs Team Aqua",
+    "set_series": "EX"
+  },
+  {
+    "name": "Pikachu",
+    "number": "43",
+    "rarity": "Common",
+    "set_name": "Team Magma vs Team Aqua",
+    "set_series": "EX"
+  },
+  {
+    "name": "Psyduck",
+    "number": "44",
+    "rarity": "Common",
+    "set_name": "Team Magma vs Team Aqua",
+    "set_series": "EX"
+  },
+  {
+    "name": "Slowpoke",
+    "number": "45",
+    "rarity": "Common",
+    "set_name": "Team Magma vs Team Aqua",
+    "set_series": "EX"
+  },
+  {
+    "name": "Squirtle",
+    "number": "46",
+    "rarity": "Common",
+    "set_name": "Team Magma vs Team Aqua",
+    "set_series": "EX"
+  },
+  {
+    "name": "Team Aqua's Carvanha",
+    "number": "47",
+    "rarity": "Common",
+    "set_name": "Team Magma vs Team Aqua",
+    "set_series": "EX"
+  },
+  {
+    "name": "Team Aqua's Carvanha",
+    "number": "48",
+    "rarity": "Common",
+    "set_name": "Team Magma vs Team Aqua",
+    "set_series": "EX"
+  },
+  {
+    "name": "Team Aqua's Chinchou",
+    "number": "49",
+    "rarity": "Common",
+    "set_name": "Team Magma vs Team Aqua",
+    "set_series": "EX"
+  },
+  {
+    "name": "Team Aqua's Corphish",
+    "number": "50",
+    "rarity": "Common",
+    "set_name": "Team Magma vs Team Aqua",
+    "set_series": "EX"
+  },
+  {
+    "name": "Team Aqua's Corphish",
+    "number": "51",
+    "rarity": "Common",
+    "set_name": "Team Magma vs Team Aqua",
+    "set_series": "EX"
+  },
+  {
+    "name": "Team Aqua's Electrike",
+    "number": "52",
+    "rarity": "Common",
+    "set_name": "Team Magma vs Team Aqua",
+    "set_series": "EX"
+  },
+  {
+    "name": "Team Aqua's Electrike",
+    "number": "53",
+    "rarity": "Common",
+    "set_name": "Team Magma vs Team Aqua",
+    "set_series": "EX"
+  },
+  {
+    "name": "Team Aqua's Poochyena",
+    "number": "54",
+    "rarity": "Common",
+    "set_name": "Team Magma vs Team Aqua",
+    "set_series": "EX"
+  },
+  {
+    "name": "Team Aqua's Poochyena",
+    "number": "55",
+    "rarity": "Common",
+    "set_name": "Team Magma vs Team Aqua",
+    "set_series": "EX"
+  },
+  {
+    "name": "Team Aqua's Spheal",
+    "number": "56",
+    "rarity": "Common",
+    "set_name": "Team Magma vs Team Aqua",
+    "set_series": "EX"
+  },
+  {
+    "name": "Team Aqua's Spheal",
+    "number": "57",
+    "rarity": "Common",
+    "set_name": "Team Magma vs Team Aqua",
+    "set_series": "EX"
+  },
+  {
+    "name": "Team Magma's Aron",
+    "number": "58",
+    "rarity": "Common",
+    "set_name": "Team Magma vs Team Aqua",
+    "set_series": "EX"
+  },
+  {
+    "name": "Team Magma's Aron",
+    "number": "59",
+    "rarity": "Common",
+    "set_name": "Team Magma vs Team Aqua",
+    "set_series": "EX"
+  },
+  {
+    "name": "Team Magma's Baltoy",
+    "number": "60",
+    "rarity": "Common",
+    "set_name": "Team Magma vs Team Aqua",
+    "set_series": "EX"
+  },
+  {
+    "name": "Team Magma's Baltoy",
+    "number": "61",
+    "rarity": "Common",
+    "set_name": "Team Magma vs Team Aqua",
+    "set_series": "EX"
+  },
+  {
+    "name": "Team Magma's Houndour",
+    "number": "62",
+    "rarity": "Common",
+    "set_name": "Team Magma vs Team Aqua",
+    "set_series": "EX"
+  },
+  {
+    "name": "Team Magma's Houndour",
+    "number": "63",
+    "rarity": "Common",
+    "set_name": "Team Magma vs Team Aqua",
+    "set_series": "EX"
+  },
+  {
+    "name": "Team Magma's Numel",
+    "number": "64",
+    "rarity": "Common",
+    "set_name": "Team Magma vs Team Aqua",
+    "set_series": "EX"
+  },
+  {
+    "name": "Team Magma's Poochyena",
+    "number": "65",
+    "rarity": "Common",
+    "set_name": "Team Magma vs Team Aqua",
+    "set_series": "EX"
+  },
+  {
+    "name": "Team Magma's Poochyena",
+    "number": "66",
+    "rarity": "Common",
+    "set_name": "Team Magma vs Team Aqua",
+    "set_series": "EX"
+  },
+  {
+    "name": "Team Magma's Rhyhorn",
+    "number": "67",
+    "rarity": "Common",
+    "set_name": "Team Magma vs Team Aqua",
+    "set_series": "EX"
+  },
+  {
+    "name": "Team Magma's Rhyhorn",
+    "number": "68",
+    "rarity": "Common",
+    "set_name": "Team Magma vs Team Aqua",
+    "set_series": "EX"
+  },
+  {
+    "name": "Team Aqua Schemer",
+    "number": "69",
+    "rarity": "Common",
+    "set_name": "Team Magma vs Team Aqua",
+    "set_series": "EX"
+  },
+  {
+    "name": "Team Magma Schemer",
+    "number": "70",
+    "rarity": "Common",
+    "set_name": "Team Magma vs Team Aqua",
+    "set_series": "EX"
+  },
+  {
+    "name": "Archie",
+    "number": "71",
+    "rarity": "Uncommon",
+    "set_name": "Team Magma vs Team Aqua",
+    "set_series": "EX"
+  },
+  {
+    "name": "Dual Ball",
+    "number": "72",
+    "rarity": "Uncommon",
+    "set_name": "Team Magma vs Team Aqua",
+    "set_series": "EX"
+  },
+  {
+    "name": "Maxie",
+    "number": "73",
+    "rarity": "Uncommon",
+    "set_name": "Team Magma vs Team Aqua",
+    "set_series": "EX"
+  },
+  {
+    "name": "Strength Charm",
+    "number": "74",
+    "rarity": "Uncommon",
+    "set_name": "Team Magma vs Team Aqua",
+    "set_series": "EX"
+  },
+  {
+    "name": "Team Aqua Ball",
+    "number": "75",
+    "rarity": "Uncommon",
+    "set_name": "Team Magma vs Team Aqua",
+    "set_series": "EX"
+  },
+  {
+    "name": "Team Aqua Belt",
+    "number": "76",
+    "rarity": "Uncommon",
+    "set_name": "Team Magma vs Team Aqua",
+    "set_series": "EX"
+  },
+  {
+    "name": "Team Aqua Conspirator",
+    "number": "77",
+    "rarity": "Uncommon",
+    "set_name": "Team Magma vs Team Aqua",
+    "set_series": "EX"
+  },
+  {
+    "name": "Team Aqua Hideout",
+    "number": "78",
+    "rarity": "Uncommon",
+    "set_name": "Team Magma vs Team Aqua",
+    "set_series": "EX"
+  },
+  {
+    "name": "Team Aqua Technical Machine 01",
+    "number": "79",
+    "rarity": "Uncommon",
+    "set_name": "Team Magma vs Team Aqua",
+    "set_series": "EX"
+  },
+  {
+    "name": "Team Magma Ball",
+    "number": "80",
+    "rarity": "Uncommon",
+    "set_name": "Team Magma vs Team Aqua",
+    "set_series": "EX"
+  },
+  {
+    "name": "Team Magma Belt",
+    "number": "81",
+    "rarity": "Uncommon",
+    "set_name": "Team Magma vs Team Aqua",
+    "set_series": "EX"
+  },
+  {
+    "name": "Team Magma Conspirator",
+    "number": "82",
+    "rarity": "Uncommon",
+    "set_name": "Team Magma vs Team Aqua",
+    "set_series": "EX"
+  },
+  {
+    "name": "Team Magma Hideout",
+    "number": "83",
+    "rarity": "Uncommon",
+    "set_name": "Team Magma vs Team Aqua",
+    "set_series": "EX"
+  },
+  {
+    "name": "Team Magma Technical Machine 01",
+    "number": "84",
+    "rarity": "Uncommon",
+    "set_name": "Team Magma vs Team Aqua",
+    "set_series": "EX"
+  },
+  {
+    "name": "Warp Point",
+    "number": "85",
+    "rarity": "Uncommon",
+    "set_name": "Team Magma vs Team Aqua",
+    "set_series": "EX"
+  },
+  {
+    "name": "Aqua Energy",
+    "number": "86",
+    "rarity": "Uncommon",
+    "set_name": "Team Magma vs Team Aqua",
+    "set_series": "EX"
+  },
+  {
+    "name": "Magma Energy",
+    "number": "87",
+    "rarity": "Uncommon",
+    "set_name": "Team Magma vs Team Aqua",
+    "set_series": "EX"
+  },
+  {
+    "name": "Double Rainbow Energy",
+    "number": "88",
+    "rarity": "Rare",
+    "set_name": "Team Magma vs Team Aqua",
+    "set_series": "EX"
+  },
+  {
+    "name": "Blaziken ex",
+    "number": "89",
+    "rarity": "Rare Holo EX",
+    "set_name": "Team Magma vs Team Aqua",
+    "set_series": "EX"
+  },
+  {
+    "name": "Cradily ex",
+    "number": "90",
+    "rarity": "Rare Holo EX",
+    "set_name": "Team Magma vs Team Aqua",
+    "set_series": "EX"
+  },
+  {
+    "name": "Entei ex",
+    "number": "91",
+    "rarity": "Rare Holo EX",
+    "set_name": "Team Magma vs Team Aqua",
+    "set_series": "EX"
+  },
+  {
+    "name": "Raikou ex",
+    "number": "92",
+    "rarity": "Rare Holo EX",
+    "set_name": "Team Magma vs Team Aqua",
+    "set_series": "EX"
+  },
+  {
+    "name": "Sceptile ex",
+    "number": "93",
+    "rarity": "Rare Holo EX",
+    "set_name": "Team Magma vs Team Aqua",
+    "set_series": "EX"
+  },
+  {
+    "name": "Suicune ex",
+    "number": "94",
+    "rarity": "Rare Holo EX",
+    "set_name": "Team Magma vs Team Aqua",
+    "set_series": "EX"
+  },
+  {
+    "name": "Swampert ex",
+    "number": "95",
+    "rarity": "Rare Holo EX",
+    "set_name": "Team Magma vs Team Aqua",
+    "set_series": "EX"
+  },
+  {
+    "name": "Absol",
+    "number": "96",
+    "rarity": "Rare Secret",
+    "set_name": "Team Magma vs Team Aqua",
+    "set_series": "EX"
+  },
+  {
+    "name": "Jirachi",
+    "number": "97",
+    "rarity": "Rare Secret",
+    "set_name": "Team Magma vs Team Aqua",
+    "set_series": "EX"
+  }
+]

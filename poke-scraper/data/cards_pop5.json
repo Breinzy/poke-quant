@@ -1,0 +1,121 @@
+[
+  {
+    "name": "Ho-Oh",
+    "number": "1",
+    "rarity": "Rare",
+    "set_name": "POP Series 5",
+    "set_series": "POP"
+  },
+  {
+    "name": "Lugia",
+    "number": "2",
+    "rarity": "Rare",
+    "set_name": "POP Series 5",
+    "set_series": "POP"
+  },
+  {
+    "name": "Mew \u03b4",
+    "number": "3",
+    "rarity": "Rare",
+    "set_name": "POP Series 5",
+    "set_series": "POP"
+  },
+  {
+    "name": "Double Rainbow Energy",
+    "number": "4",
+    "rarity": "Rare",
+    "set_name": "POP Series 5",
+    "set_series": "POP"
+  },
+  {
+    "name": "Charmeleon \u03b4",
+    "number": "5",
+    "rarity": "Uncommon",
+    "set_name": "POP Series 5",
+    "set_series": "POP"
+  },
+  {
+    "name": "Bill's Maintenance",
+    "number": "6",
+    "rarity": "Uncommon",
+    "set_name": "POP Series 5",
+    "set_series": "POP"
+  },
+  {
+    "name": "Rare Candy",
+    "number": "7",
+    "rarity": "Uncommon",
+    "set_name": "POP Series 5",
+    "set_series": "POP"
+  },
+  {
+    "name": "Boost Energy",
+    "number": "8",
+    "rarity": "Uncommon",
+    "set_name": "POP Series 5",
+    "set_series": "POP"
+  },
+  {
+    "name": "\u03b4 Rainbow Energy",
+    "number": "9",
+    "rarity": "Uncommon",
+    "set_name": "POP Series 5",
+    "set_series": "POP"
+  },
+  {
+    "name": "Charmander \u03b4",
+    "number": "10",
+    "rarity": "Common",
+    "set_name": "POP Series 5",
+    "set_series": "POP"
+  },
+  {
+    "name": "Meowth \u03b4",
+    "number": "11",
+    "rarity": "Common",
+    "set_name": "POP Series 5",
+    "set_series": "POP"
+  },
+  {
+    "name": "Pikachu",
+    "number": "12",
+    "rarity": "Common",
+    "set_name": "POP Series 5",
+    "set_series": "POP"
+  },
+  {
+    "name": "Pikachu \u03b4",
+    "number": "13",
+    "rarity": "Common",
+    "set_name": "POP Series 5",
+    "set_series": "POP"
+  },
+  {
+    "name": "Pelipper \u03b4",
+    "number": "14",
+    "rarity": "Common",
+    "set_name": "POP Series 5",
+    "set_series": "POP"
+  },
+  {
+    "name": "Zangoose \u03b4",
+    "number": "15",
+    "rarity": "Common",
+    "set_name": "POP Series 5",
+    "set_series": "POP"
+  },
+  {
+    "name": "Espeon \u2605",
+    "number": "16",
+    "rarity": "Rare",
+    "set_name": "POP Series 5",
+    "set_series": "POP"
+  },
+  {
+    "name": "Umbreon \u2605",
+    "number": "17",
+    "rarity": "Rare",
+    "set_name": "POP Series 5",
+    "set_series": "POP"
+  }
+]

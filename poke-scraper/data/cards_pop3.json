@@ -1,0 +1,121 @@
+[
+  {
+    "name": "Blastoise",
+    "number": "1",
+    "rarity": "Rare",
+    "set_name": "POP Series 3",
+    "set_series": "POP"
+  },
+  {
+    "name": "Flareon",
+    "number": "2",
+    "rarity": "Rare",
+    "set_name": "POP Series 3",
+    "set_series": "POP"
+  },
+  {
+    "name": "Jolteon",
+    "number": "3",
+    "rarity": "Rare",
+    "set_name": "POP Series 3",
+    "set_series": "POP"
+  },
+  {
+    "name": "Minun",
+    "number": "4",
+    "rarity": "Rare",
+    "set_name": "POP Series 3",
+    "set_series": "POP"
+  },
+  {
+    "name": "Plusle",
+    "number": "5",
+    "rarity": "Rare",
+    "set_name": "POP Series 3",
+    "set_series": "POP"
+  },
+  {
+    "name": "Vaporeon",
+    "number": "6",
+    "rarity": "Rare",
+    "set_name": "POP Series 3",
+    "set_series": "POP"
+  },
+  {
+    "name": "Combusken",
+    "number": "7",
+    "rarity": "Uncommon",
+    "set_name": "POP Series 3",
+    "set_series": "POP"
+  },
+  {
+    "name": "Donphan",
+    "number": "8",
+    "rarity": "Uncommon",
+    "set_name": "POP Series 3",
+    "set_series": "POP"
+  },
+  {
+    "name": "Forretress",
+    "number": "9",
+    "rarity": "Uncommon",
+    "set_name": "POP Series 3",
+    "set_series": "POP"
+  },
+  {
+    "name": "High Pressure System",
+    "number": "10",
+    "rarity": "Uncommon",
+    "set_name": "POP Series 3",
+    "set_series": "POP"
+  },
+  {
+    "name": "Low Pressure System",
+    "number": "11",
+    "rarity": "Uncommon",
+    "set_name": "POP Series 3",
+    "set_series": "POP"
+  },
+  {
+    "name": "Ditto",
+    "number": "12",
+    "rarity": "Common",
+    "set_name": "POP Series 3",
+    "set_series": "POP"
+  },
+  {
+    "name": "Eevee",
+    "number": "13",
+    "rarity": "Common",
+    "set_name": "POP Series 3",
+    "set_series": "POP"
+  },
+  {
+    "name": "Ivysaur",
+    "number": "14",
+    "rarity": "Common",
+    "set_name": "POP Series 3",
+    "set_series": "POP"
+  },
+  {
+    "name": "Marshtomp",
+    "number": "15",
+    "rarity": "Common",
+    "set_name": "POP Series 3",
+    "set_series": "POP"
+  },
+  {
+    "name": "Pichu Bros.",
+    "number": "16",
+    "rarity": "Common",
+    "set_name": "POP Series 3",
+    "set_series": "POP"
+  },
+  {
+    "name": "Ho-Oh ex",
+    "number": "17",
+    "rarity": "Rare",
+    "set_name": "POP Series 3",
+    "set_series": "POP"
+  }
+]

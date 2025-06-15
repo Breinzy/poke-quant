@@ -1,0 +1,842 @@
+[
+  {
+    "name": "Arcanine",
+    "number": "1",
+    "rarity": "Rare Holo",
+    "set_name": "Rising Rivals",
+    "set_series": "Platinum"
+  },
+  {
+    "name": "Bastiodon GL",
+    "number": "2",
+    "rarity": "Rare Holo",
+    "set_name": "Rising Rivals",
+    "set_series": "Platinum"
+  },
+  {
+    "name": "Darkrai G",
+    "number": "3",
+    "rarity": "Rare Holo",
+    "set_name": "Rising Rivals",
+    "set_series": "Platinum"
+  },
+  {
+    "name": "Floatzel GL",
+    "number": "4",
+    "rarity": "Rare Holo",
+    "set_name": "Rising Rivals",
+    "set_series": "Platinum"
+  },
+  {
+    "name": "Flygon",
+    "number": "5",
+    "rarity": "Rare Holo",
+    "set_name": "Rising Rivals",
+    "set_series": "Platinum"
+  },
+  {
+    "name": "Froslass GL",
+    "number": "6",
+    "rarity": "Rare Holo",
+    "set_name": "Rising Rivals",
+    "set_series": "Platinum"
+  },
+  {
+    "name": "Jirachi",
+    "number": "7",
+    "rarity": "Rare Holo",
+    "set_name": "Rising Rivals",
+    "set_series": "Platinum"
+  },
+  {
+    "name": "Lucario GL",
+    "number": "8",
+    "rarity": "Rare Holo",
+    "set_name": "Rising Rivals",
+    "set_series": "Platinum"
+  },
+  {
+    "name": "Luxray GL",
+    "number": "9",
+    "rarity": "Rare Holo",
+    "set_name": "Rising Rivals",
+    "set_series": "Platinum"
+  },
+  {
+    "name": "Mismagius GL",
+    "number": "10",
+    "rarity": "Rare Holo",
+    "set_name": "Rising Rivals",
+    "set_series": "Platinum"
+  },
+  {
+    "name": "Rampardos GL",
+    "number": "11",
+    "rarity": "Rare Holo",
+    "set_name": "Rising Rivals",
+    "set_series": "Platinum"
+  },
+  {
+    "name": "Roserade GL",
+    "number": "12",
+    "rarity": "Rare Holo",
+    "set_name": "Rising Rivals",
+    "set_series": "Platinum"
+  },
+  {
+    "name": "Shiftry",
+    "number": "13",
+    "rarity": "Rare Holo",
+    "set_name": "Rising Rivals",
+    "set_series": "Platinum"
+  },
+  {
+    "name": "Aggron",
+    "number": "14",
+    "rarity": "Rare",
+    "set_name": "Rising Rivals",
+    "set_series": "Platinum"
+  },
+  {
+    "name": "Beedrill",
+    "number": "15",
+    "rarity": "Rare",
+    "set_name": "Rising Rivals",
+    "set_series": "Platinum"
+  },
+  {
+    "name": "Bronzong E4",
+    "number": "16",
+    "rarity": "Rare",
+    "set_name": "Rising Rivals",
+    "set_series": "Platinum"
+  },
+  {
+    "name": "Drapion E4",
+    "number": "17",
+    "rarity": "Rare",
+    "set_name": "Rising Rivals",
+    "set_series": "Platinum"
+  },
+  {
+    "name": "Espeon E4",
+    "number": "18",
+    "rarity": "Rare",
+    "set_name": "Rising Rivals",
+    "set_series": "Platinum"
+  },
+  {
+    "name": "Flareon",
+    "number": "19",
+    "rarity": "Rare",
+    "set_name": "Rising Rivals",
+    "set_series": "Platinum"
+  },
+  {
+    "name": "Gallade E4",
+    "number": "20",
+    "rarity": "Rare",
+    "set_name": "Rising Rivals",
+    "set_series": "Platinum"
+  },
+  {
+    "name": "Gastrodon East Sea",
+    "number": "21",
+    "rarity": "Rare",
+    "set_name": "Rising Rivals",
+    "set_series": "Platinum"
+  },
+  {
+    "name": "Gastrodon West Sea",
+    "number": "22",
+    "rarity": "Rare",
+    "set_name": "Rising Rivals",
+    "set_series": "Platinum"
+  },
+  {
+    "name": "Golem E4",
+    "number": "23",
+    "rarity": "Rare",
+    "set_name": "Rising Rivals",
+    "set_series": "Platinum"
+  },
+  {
+    "name": "Heracross E4",
+    "number": "24",
+    "rarity": "Rare",
+    "set_name": "Rising Rivals",
+    "set_series": "Platinum"
+  },
+  {
+    "name": "Hippowdon",
+    "number": "25",
+    "rarity": "Rare",
+    "set_name": "Rising Rivals",
+    "set_series": "Platinum"
+  },
+  {
+    "name": "Jolteon",
+    "number": "26",
+    "rarity": "Rare",
+    "set_name": "Rising Rivals",
+    "set_series": "Platinum"
+  },
+  {
+    "name": "Mamoswine GL",
+    "number": "27",
+    "rarity": "Rare",
+    "set_name": "Rising Rivals",
+    "set_series": "Platinum"
+  },
+  {
+    "name": "Mr. Mime E4",
+    "number": "28",
+    "rarity": "Rare",
+    "set_name": "Rising Rivals",
+    "set_series": "Platinum"
+  },
+  {
+    "name": "Nidoking",
+    "number": "29",
+    "rarity": "Rare",
+    "set_name": "Rising Rivals",
+    "set_series": "Platinum"
+  },
+  {
+    "name": "Nidoqueen",
+    "number": "30",
+    "rarity": "Rare",
+    "set_name": "Rising Rivals",
+    "set_series": "Platinum"
+  },
+  {
+    "name": "Raichu GL",
+    "number": "31",
+    "rarity": "Rare",
+    "set_name": "Rising Rivals",
+    "set_series": "Platinum"
+  },
+  {
+    "name": "Rhyperior E4",
+    "number": "32",
+    "rarity": "Rare",
+    "set_name": "Rising Rivals",
+    "set_series": "Platinum"
+  },
+  {
+    "name": "Snorlax",
+    "number": "33",
+    "rarity": "Rare",
+    "set_name": "Rising Rivals",
+    "set_series": "Platinum"
+  },
+  {
+    "name": "Vaporeon",
+    "number": "34",
+    "rarity": "Rare",
+    "set_name": "Rising Rivals",
+    "set_series": "Platinum"
+  },
+  {
+    "name": "Vespiquen E4",
+    "number": "35",
+    "rarity": "Rare",
+    "set_name": "Rising Rivals",
+    "set_series": "Platinum"
+  },
+  {
+    "name": "Walrein",
+    "number": "36",
+    "rarity": "Rare",
+    "set_name": "Rising Rivals",
+    "set_series": "Platinum"
+  },
+  {
+    "name": "Yanmega E4",
+    "number": "37",
+    "rarity": "Rare",
+    "set_name": "Rising Rivals",
+    "set_series": "Platinum"
+  },
+  {
+    "name": "Alakazam E4",
+    "number": "38",
+    "rarity": "Uncommon",
+    "set_name": "Rising Rivals",
+    "set_series": "Platinum"
+  },
+  {
+    "name": "Electrode G",
+    "number": "39",
+    "rarity": "Uncommon",
+    "set_name": "Rising Rivals",
+    "set_series": "Platinum"
+  },
+  {
+    "name": "Gengar GL",
+    "number": "40",
+    "rarity": "Uncommon",
+    "set_name": "Rising Rivals",
+    "set_series": "Platinum"
+  },
+  {
+    "name": "Glaceon",
+    "number": "41",
+    "rarity": "Uncommon",
+    "set_name": "Rising Rivals",
+    "set_series": "Platinum"
+  },
+  {
+    "name": "Hippowdon E4",
+    "number": "42",
+    "rarity": "Uncommon",
+    "set_name": "Rising Rivals",
+    "set_series": "Platinum"
+  },
+  {
+    "name": "Infernape E4",
+    "number": "43",
+    "rarity": "Uncommon",
+    "set_name": "Rising Rivals",
+    "set_series": "Platinum"
+  },
+  {
+    "name": "Lairon",
+    "number": "44",
+    "rarity": "Uncommon",
+    "set_name": "Rising Rivals",
+    "set_series": "Platinum"
+  },
+  {
+    "name": "Leafeon",
+    "number": "45",
+    "rarity": "Uncommon",
+    "set_name": "Rising Rivals",
+    "set_series": "Platinum"
+  },
+  {
+    "name": "Machamp GL",
+    "number": "46",
+    "rarity": "Uncommon",
+    "set_name": "Rising Rivals",
+    "set_series": "Platinum"
+  },
+  {
+    "name": "Rapidash E4",
+    "number": "47",
+    "rarity": "Uncommon",
+    "set_name": "Rising Rivals",
+    "set_series": "Platinum"
+  },
+  {
+    "name": "Scizor E4",
+    "number": "48",
+    "rarity": "Uncommon",
+    "set_name": "Rising Rivals",
+    "set_series": "Platinum"
+  },
+  {
+    "name": "Sharpedo",
+    "number": "49",
+    "rarity": "Uncommon",
+    "set_name": "Rising Rivals",
+    "set_series": "Platinum"
+  },
+  {
+    "name": "Starmie",
+    "number": "50",
+    "rarity": "Uncommon",
+    "set_name": "Rising Rivals",
+    "set_series": "Platinum"
+  },
+  {
+    "name": "Steelix GL",
+    "number": "51",
+    "rarity": "Uncommon",
+    "set_name": "Rising Rivals",
+    "set_series": "Platinum"
+  },
+  {
+    "name": "Tropius",
+    "number": "52",
+    "rarity": "Uncommon",
+    "set_name": "Rising Rivals",
+    "set_series": "Platinum"
+  },
+  {
+    "name": "Vibrava",
+    "number": "53",
+    "rarity": "Uncommon",
+    "set_name": "Rising Rivals",
+    "set_series": "Platinum"
+  },
+  {
+    "name": "Whiscash E4",
+    "number": "54",
+    "rarity": "Uncommon",
+    "set_name": "Rising Rivals",
+    "set_series": "Platinum"
+  },
+  {
+    "name": "Aerodactyl GL",
+    "number": "55",
+    "rarity": "Common",
+    "set_name": "Rising Rivals",
+    "set_series": "Platinum"
+  },
+  {
+    "name": "Ambipom G",
+    "number": "56",
+    "rarity": "Common",
+    "set_name": "Rising Rivals",
+    "set_series": "Platinum"
+  },
+  {
+    "name": "Aron",
+    "number": "57",
+    "rarity": "Common",
+    "set_name": "Rising Rivals",
+    "set_series": "Platinum"
+  },
+  {
+    "name": "Carvanha",
+    "number": "58",
+    "rarity": "Common",
+    "set_name": "Rising Rivals",
+    "set_series": "Platinum"
+  },
+  {
+    "name": "Eevee",
+    "number": "59",
+    "rarity": "Common",
+    "set_name": "Rising Rivals",
+    "set_series": "Platinum"
+  },
+  {
+    "name": "Flareon E4",
+    "number": "60",
+    "rarity": "Common",
+    "set_name": "Rising Rivals",
+    "set_series": "Platinum"
+  },
+  {
+    "name": "Forretress G",
+    "number": "61",
+    "rarity": "Common",
+    "set_name": "Rising Rivals",
+    "set_series": "Platinum"
+  },
+  {
+    "name": "Gliscor E4",
+    "number": "62",
+    "rarity": "Common",
+    "set_name": "Rising Rivals",
+    "set_series": "Platinum"
+  },
+  {
+    "name": "Growlithe",
+    "number": "63",
+    "rarity": "Common",
+    "set_name": "Rising Rivals",
+    "set_series": "Platinum"
+  },
+  {
+    "name": "Hippopotas",
+    "number": "64",
+    "rarity": "Common",
+    "set_name": "Rising Rivals",
+    "set_series": "Platinum"
+  },
+  {
+    "name": "Houndoom E4",
+    "number": "65",
+    "rarity": "Common",
+    "set_name": "Rising Rivals",
+    "set_series": "Platinum"
+  },
+  {
+    "name": "Kakuna",
+    "number": "66",
+    "rarity": "Common",
+    "set_name": "Rising Rivals",
+    "set_series": "Platinum"
+  },
+  {
+    "name": "Kecleon",
+    "number": "67",
+    "rarity": "Common",
+    "set_name": "Rising Rivals",
+    "set_series": "Platinum"
+  },
+  {
+    "name": "Koffing",
+    "number": "68",
+    "rarity": "Common",
+    "set_name": "Rising Rivals",
+    "set_series": "Platinum"
+  },
+  {
+    "name": "Munchlax",
+    "number": "69",
+    "rarity": "Common",
+    "set_name": "Rising Rivals",
+    "set_series": "Platinum"
+  },
+  {
+    "name": "Munchlax",
+    "number": "70",
+    "rarity": "Common",
+    "set_name": "Rising Rivals",
+    "set_series": "Platinum"
+  },
+  {
+    "name": "Nidoran \u2640",
+    "number": "71",
+    "rarity": "Common",
+    "set_name": "Rising Rivals",
+    "set_series": "Platinum"
+  },
+  {
+    "name": "Nidoran \u2642",
+    "number": "72",
+    "rarity": "Common",
+    "set_name": "Rising Rivals",
+    "set_series": "Platinum"
+  },
+  {
+    "name": "Nidorina",
+    "number": "73",
+    "rarity": "Common",
+    "set_name": "Rising Rivals",
+    "set_series": "Platinum"
+  },
+  {
+    "name": "Nidorino",
+    "number": "74",
+    "rarity": "Common",
+    "set_name": "Rising Rivals",
+    "set_series": "Platinum"
+  },
+  {
+    "name": "Nuzleaf",
+    "number": "75",
+    "rarity": "Common",
+    "set_name": "Rising Rivals",
+    "set_series": "Platinum"
+  },
+  {
+    "name": "Quagsire GL",
+    "number": "76",
+    "rarity": "Common",
+    "set_name": "Rising Rivals",
+    "set_series": "Platinum"
+  },
+  {
+    "name": "Sealeo",
+    "number": "77",
+    "rarity": "Common",
+    "set_name": "Rising Rivals",
+    "set_series": "Platinum"
+  },
+  {
+    "name": "Seedot",
+    "number": "78",
+    "rarity": "Common",
+    "set_name": "Rising Rivals",
+    "set_series": "Platinum"
+  },
+  {
+    "name": "Shellos East Sea",
+    "number": "79",
+    "rarity": "Common",
+    "set_name": "Rising Rivals",
+    "set_series": "Platinum"
+  },
+  {
+    "name": "Shellos West Sea",
+    "number": "80",
+    "rarity": "Common",
+    "set_name": "Rising Rivals",
+    "set_series": "Platinum"
+  },
+  {
+    "name": "Snorlax",
+    "number": "81",
+    "rarity": "Common",
+    "set_name": "Rising Rivals",
+    "set_series": "Platinum"
+  },
+  {
+    "name": "Spheal",
+    "number": "82",
+    "rarity": "Common",
+    "set_name": "Rising Rivals",
+    "set_series": "Platinum"
+  },
+  {
+    "name": "Staryu",
+    "number": "83",
+    "rarity": "Common",
+    "set_name": "Rising Rivals",
+    "set_series": "Platinum"
+  },
+  {
+    "name": "Trapinch",
+    "number": "84",
+    "rarity": "Common",
+    "set_name": "Rising Rivals",
+    "set_series": "Platinum"
+  },
+  {
+    "name": "Turtwig GL",
+    "number": "85",
+    "rarity": "Common",
+    "set_name": "Rising Rivals",
+    "set_series": "Platinum"
+  },
+  {
+    "name": "Weedle",
+    "number": "86",
+    "rarity": "Common",
+    "set_name": "Rising Rivals",
+    "set_series": "Platinum"
+  },
+  {
+    "name": "Weezing",
+    "number": "87",
+    "rarity": "Common",
+    "set_name": "Rising Rivals",
+    "set_series": "Platinum"
+  },
+  {
+    "name": "Aaron's Collection",
+    "number": "88",
+    "rarity": "Uncommon",
+    "set_name": "Rising Rivals",
+    "set_series": "Platinum"
+  },
+  {
+    "name": "Bebe's Search",
+    "number": "89",
+    "rarity": "Uncommon",
+    "set_name": "Rising Rivals",
+    "set_series": "Platinum"
+  },
+  {
+    "name": "Bertha's Warmth",
+    "number": "90",
+    "rarity": "Uncommon",
+    "set_name": "Rising Rivals",
+    "set_series": "Platinum"
+  },
+  {
+    "name": "Flint's Willpower",
+    "number": "91",
+    "rarity": "Uncommon",
+    "set_name": "Rising Rivals",
+    "set_series": "Platinum"
+  },
+  {
+    "name": "Lucian's Assignment",
+    "number": "92",
+    "rarity": "Uncommon",
+    "set_name": "Rising Rivals",
+    "set_series": "Platinum"
+  },
+  {
+    "name": "Pok\u00e9mon Contest Hall",
+    "number": "93",
+    "rarity": "Uncommon",
+    "set_name": "Rising Rivals",
+    "set_series": "Platinum"
+  },
+  {
+    "name": "Sunyshore City Gym",
+    "number": "94",
+    "rarity": "Uncommon",
+    "set_name": "Rising Rivals",
+    "set_series": "Platinum"
+  },
+  {
+    "name": "Team Galactic's Invention G-107 Technical Machine G",
+    "number": "95",
+    "rarity": "Uncommon",
+    "set_name": "Rising Rivals",
+    "set_series": "Platinum"
+  },
+  {
+    "name": "Team Galactic's Invention G-109 SP Radar",
+    "number": "96",
+    "rarity": "Uncommon",
+    "set_name": "Rising Rivals",
+    "set_series": "Platinum"
+  },
+  {
+    "name": "Underground Expedition",
+    "number": "97",
+    "rarity": "Uncommon",
+    "set_name": "Rising Rivals",
+    "set_series": "Platinum"
+  },
+  {
+    "name": "Volkner's Philosophy",
+    "number": "98",
+    "rarity": "Uncommon",
+    "set_name": "Rising Rivals",
+    "set_series": "Platinum"
+  },
+  {
+    "name": "Darkness Energy",
+    "number": "99",
+    "rarity": "Uncommon",
+    "set_name": "Rising Rivals",
+    "set_series": "Platinum"
+  },
+  {
+    "name": "Metal Energy",
+    "number": "100",
+    "rarity": "Uncommon",
+    "set_name": "Rising Rivals",
+    "set_series": "Platinum"
+  },
+  {
+    "name": "SP Energy",
+    "number": "101",
+    "rarity": "Uncommon",
+    "set_name": "Rising Rivals",
+    "set_series": "Platinum"
+  },
+  {
+    "name": "Upper Energy",
+    "number": "102",
+    "rarity": "Uncommon",
+    "set_name": "Rising Rivals",
+    "set_series": "Platinum"
+  },
+  {
+    "name": "Alakazam E4 LV.X",
+    "number": "103",
+    "rarity": "Rare Holo LV.X",
+    "set_name": "Rising Rivals",
+    "set_series": "Platinum"
+  },
+  {
+    "name": "Floatzel GL LV.X",
+    "number": "104",
+    "rarity": "Rare Holo LV.X",
+    "set_name": "Rising Rivals",
+    "set_series": "Platinum"
+  },
+  {
+    "name": "Flygon LV.X",
+    "number": "105",
+    "rarity": "Rare Holo LV.X",
+    "set_name": "Rising Rivals",
+    "set_series": "Platinum"
+  },
+  {
+    "name": "Gallade E4 LV.X",
+    "number": "106",
+    "rarity": "Rare Holo LV.X",
+    "set_name": "Rising Rivals",
+    "set_series": "Platinum"
+  },
+  {
+    "name": "Hippowdon LV.X",
+    "number": "107",
+    "rarity": "Rare Holo LV.X",
+    "set_name": "Rising Rivals",
+    "set_series": "Platinum"
+  },
+  {
+    "name": "Infernape E4 LV.X",
+    "number": "108",
+    "rarity": "Rare Holo LV.X",
+    "set_name": "Rising Rivals",
+    "set_series": "Platinum"
+  },
+  {
+    "name": "Luxray GL LV.X",
+    "number": "109",
+    "rarity": "Rare Holo LV.X",
+    "set_name": "Rising Rivals",
+    "set_series": "Platinum"
+  },
+  {
+    "name": "Mismagius GL LV.X",
+    "number": "110",
+    "rarity": "Rare Holo LV.X",
+    "set_name": "Rising Rivals",
+    "set_series": "Platinum"
+  },
+  {
+    "name": "Snorlax LV.X",
+    "number": "111",
+    "rarity": "Rare Holo LV.X",
+    "set_name": "Rising Rivals",
+    "set_series": "Platinum"
+  },
+  {
+    "name": "Pikachu",
+    "number": "112",
+    "rarity": "Rare Secret",
+    "set_name": "Rising Rivals",
+    "set_series": "Platinum"
+  },
+  {
+    "name": "Flying Pikachu",
+    "number": "113",
+    "rarity": "Rare Secret",
+    "set_name": "Rising Rivals",
+    "set_series": "Platinum"
+  },
+  {
+    "name": "Surfing Pikachu",
+    "number": "114",
+    "rarity": "Rare Secret",
+    "set_name": "Rising Rivals",
+    "set_series": "Platinum"
+  },
+  {
+    "name": "Fan Rotom",
+    "number": "RT1",
+    "rarity": "Rare",
+    "set_name": "Rising Rivals",
+    "set_series": "Platinum"
+  },
+  {
+    "name": "Frost Rotom",
+    "number": "RT2",
+    "rarity": "Rare",
+    "set_name": "Rising Rivals",
+    "set_series": "Platinum"
+  },
+  {
+    "name": "Heat Rotom",
+    "number": "RT3",
+    "rarity": "Rare",
+    "set_name": "Rising Rivals",
+    "set_series": "Platinum"
+  },
+  {
+    "name": "Mow Rotom",
+    "number": "RT4",
+    "rarity": "Rare",
+    "set_name": "Rising Rivals",
+    "set_series": "Platinum"
+  },
+  {
+    "name": "Wash Rotom",
+    "number": "RT5",
+    "rarity": "Rare",
+    "set_name": "Rising Rivals",
+    "set_series": "Platinum"
+  },
+  {
+    "name": "Charon's Choice",
+    "number": "RT6",
+    "rarity": "Rare",
+    "set_name": "Rising Rivals",
+    "set_series": "Platinum"
+  }
+]

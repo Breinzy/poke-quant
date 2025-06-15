@@ -1,0 +1,912 @@
+[
+  {
+    "name": "Dialga",
+    "number": "1",
+    "rarity": "Rare Holo",
+    "set_name": "Diamond & Pearl",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Dusknoir",
+    "number": "2",
+    "rarity": "Rare Holo",
+    "set_name": "Diamond & Pearl",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Electivire",
+    "number": "3",
+    "rarity": "Rare Holo",
+    "set_name": "Diamond & Pearl",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Empoleon",
+    "number": "4",
+    "rarity": "Rare Holo",
+    "set_name": "Diamond & Pearl",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Infernape",
+    "number": "5",
+    "rarity": "Rare Holo",
+    "set_name": "Diamond & Pearl",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Lucario",
+    "number": "6",
+    "rarity": "Rare Holo",
+    "set_name": "Diamond & Pearl",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Luxray",
+    "number": "7",
+    "rarity": "Rare Holo",
+    "set_name": "Diamond & Pearl",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Magnezone",
+    "number": "8",
+    "rarity": "Rare Holo",
+    "set_name": "Diamond & Pearl",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Manaphy",
+    "number": "9",
+    "rarity": "Rare Holo",
+    "set_name": "Diamond & Pearl",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Mismagius",
+    "number": "10",
+    "rarity": "Rare Holo",
+    "set_name": "Diamond & Pearl",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Palkia",
+    "number": "11",
+    "rarity": "Rare Holo",
+    "set_name": "Diamond & Pearl",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Rhyperior",
+    "number": "12",
+    "rarity": "Rare Holo",
+    "set_name": "Diamond & Pearl",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Roserade",
+    "number": "13",
+    "rarity": "Rare Holo",
+    "set_name": "Diamond & Pearl",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Shiftry",
+    "number": "14",
+    "rarity": "Rare Holo",
+    "set_name": "Diamond & Pearl",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Skuntank",
+    "number": "15",
+    "rarity": "Rare Holo",
+    "set_name": "Diamond & Pearl",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Staraptor",
+    "number": "16",
+    "rarity": "Rare Holo",
+    "set_name": "Diamond & Pearl",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Torterra",
+    "number": "17",
+    "rarity": "Rare Holo",
+    "set_name": "Diamond & Pearl",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Azumarill",
+    "number": "18",
+    "rarity": "Rare",
+    "set_name": "Diamond & Pearl",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Beautifly",
+    "number": "19",
+    "rarity": "Rare",
+    "set_name": "Diamond & Pearl",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Bibarel",
+    "number": "20",
+    "rarity": "Rare",
+    "set_name": "Diamond & Pearl",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Carnivine",
+    "number": "21",
+    "rarity": "Rare",
+    "set_name": "Diamond & Pearl",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Clefable",
+    "number": "22",
+    "rarity": "Rare",
+    "set_name": "Diamond & Pearl",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Drapion",
+    "number": "23",
+    "rarity": "Rare",
+    "set_name": "Diamond & Pearl",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Drifblim",
+    "number": "24",
+    "rarity": "Rare",
+    "set_name": "Diamond & Pearl",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Dustox",
+    "number": "25",
+    "rarity": "Rare",
+    "set_name": "Diamond & Pearl",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Floatzel",
+    "number": "26",
+    "rarity": "Rare",
+    "set_name": "Diamond & Pearl",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Gengar",
+    "number": "27",
+    "rarity": "Rare",
+    "set_name": "Diamond & Pearl",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Heracross",
+    "number": "28",
+    "rarity": "Rare",
+    "set_name": "Diamond & Pearl",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Hippowdon",
+    "number": "29",
+    "rarity": "Rare",
+    "set_name": "Diamond & Pearl",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Lopunny",
+    "number": "30",
+    "rarity": "Rare",
+    "set_name": "Diamond & Pearl",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Machamp",
+    "number": "31",
+    "rarity": "Rare",
+    "set_name": "Diamond & Pearl",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Medicham",
+    "number": "32",
+    "rarity": "Rare",
+    "set_name": "Diamond & Pearl",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Munchlax",
+    "number": "33",
+    "rarity": "Rare",
+    "set_name": "Diamond & Pearl",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Noctowl",
+    "number": "34",
+    "rarity": "Rare",
+    "set_name": "Diamond & Pearl",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Pachirisu",
+    "number": "35",
+    "rarity": "Rare",
+    "set_name": "Diamond & Pearl",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Purugly",
+    "number": "36",
+    "rarity": "Rare",
+    "set_name": "Diamond & Pearl",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Snorlax",
+    "number": "37",
+    "rarity": "Rare",
+    "set_name": "Diamond & Pearl",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Steelix",
+    "number": "38",
+    "rarity": "Rare",
+    "set_name": "Diamond & Pearl",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Vespiquen",
+    "number": "39",
+    "rarity": "Rare",
+    "set_name": "Diamond & Pearl",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Weavile",
+    "number": "40",
+    "rarity": "Rare",
+    "set_name": "Diamond & Pearl",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Wobbuffet",
+    "number": "41",
+    "rarity": "Rare",
+    "set_name": "Diamond & Pearl",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Wynaut",
+    "number": "42",
+    "rarity": "Rare",
+    "set_name": "Diamond & Pearl",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Budew",
+    "number": "43",
+    "rarity": "Uncommon",
+    "set_name": "Diamond & Pearl",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Cascoon",
+    "number": "44",
+    "rarity": "Uncommon",
+    "set_name": "Diamond & Pearl",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Cherrim",
+    "number": "45",
+    "rarity": "Uncommon",
+    "set_name": "Diamond & Pearl",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Drifloon",
+    "number": "46",
+    "rarity": "Uncommon",
+    "set_name": "Diamond & Pearl",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Dusclops",
+    "number": "47",
+    "rarity": "Uncommon",
+    "set_name": "Diamond & Pearl",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Elekid",
+    "number": "48",
+    "rarity": "Uncommon",
+    "set_name": "Diamond & Pearl",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Grotle",
+    "number": "49",
+    "rarity": "Uncommon",
+    "set_name": "Diamond & Pearl",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Haunter",
+    "number": "50",
+    "rarity": "Uncommon",
+    "set_name": "Diamond & Pearl",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Hippopotas",
+    "number": "51",
+    "rarity": "Uncommon",
+    "set_name": "Diamond & Pearl",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Luxio",
+    "number": "52",
+    "rarity": "Uncommon",
+    "set_name": "Diamond & Pearl",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Machoke",
+    "number": "53",
+    "rarity": "Uncommon",
+    "set_name": "Diamond & Pearl",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Magneton",
+    "number": "54",
+    "rarity": "Uncommon",
+    "set_name": "Diamond & Pearl",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Mantyke",
+    "number": "55",
+    "rarity": "Uncommon",
+    "set_name": "Diamond & Pearl",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Monferno",
+    "number": "56",
+    "rarity": "Uncommon",
+    "set_name": "Diamond & Pearl",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Nuzleaf",
+    "number": "57",
+    "rarity": "Uncommon",
+    "set_name": "Diamond & Pearl",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Prinplup",
+    "number": "58",
+    "rarity": "Uncommon",
+    "set_name": "Diamond & Pearl",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Rapidash",
+    "number": "59",
+    "rarity": "Uncommon",
+    "set_name": "Diamond & Pearl",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Rhydon",
+    "number": "60",
+    "rarity": "Uncommon",
+    "set_name": "Diamond & Pearl",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Riolu",
+    "number": "61",
+    "rarity": "Uncommon",
+    "set_name": "Diamond & Pearl",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Seaking",
+    "number": "62",
+    "rarity": "Uncommon",
+    "set_name": "Diamond & Pearl",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Silcoon",
+    "number": "63",
+    "rarity": "Uncommon",
+    "set_name": "Diamond & Pearl",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Staravia",
+    "number": "64",
+    "rarity": "Uncommon",
+    "set_name": "Diamond & Pearl",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Unown [A]",
+    "number": "65",
+    "rarity": "Uncommon",
+    "set_name": "Diamond & Pearl",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Unown [B]",
+    "number": "66",
+    "rarity": "Uncommon",
+    "set_name": "Diamond & Pearl",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Unown [C]",
+    "number": "67",
+    "rarity": "Uncommon",
+    "set_name": "Diamond & Pearl",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Unown [D]",
+    "number": "68",
+    "rarity": "Uncommon",
+    "set_name": "Diamond & Pearl",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Azurill",
+    "number": "69",
+    "rarity": "Common",
+    "set_name": "Diamond & Pearl",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Bidoof",
+    "number": "70",
+    "rarity": "Common",
+    "set_name": "Diamond & Pearl",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Bonsly",
+    "number": "71",
+    "rarity": "Common",
+    "set_name": "Diamond & Pearl",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Buizel",
+    "number": "72",
+    "rarity": "Common",
+    "set_name": "Diamond & Pearl",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Buneary",
+    "number": "73",
+    "rarity": "Common",
+    "set_name": "Diamond & Pearl",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Chatot",
+    "number": "74",
+    "rarity": "Common",
+    "set_name": "Diamond & Pearl",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Cherubi",
+    "number": "75",
+    "rarity": "Common",
+    "set_name": "Diamond & Pearl",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Chimchar",
+    "number": "76",
+    "rarity": "Common",
+    "set_name": "Diamond & Pearl",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Clefairy",
+    "number": "77",
+    "rarity": "Common",
+    "set_name": "Diamond & Pearl",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Cleffa",
+    "number": "78",
+    "rarity": "Common",
+    "set_name": "Diamond & Pearl",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Combee",
+    "number": "79",
+    "rarity": "Common",
+    "set_name": "Diamond & Pearl",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Duskull",
+    "number": "80",
+    "rarity": "Common",
+    "set_name": "Diamond & Pearl",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Electabuzz",
+    "number": "81",
+    "rarity": "Common",
+    "set_name": "Diamond & Pearl",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Gastly",
+    "number": "82",
+    "rarity": "Common",
+    "set_name": "Diamond & Pearl",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Glameow",
+    "number": "83",
+    "rarity": "Common",
+    "set_name": "Diamond & Pearl",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Goldeen",
+    "number": "84",
+    "rarity": "Common",
+    "set_name": "Diamond & Pearl",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Hoothoot",
+    "number": "85",
+    "rarity": "Common",
+    "set_name": "Diamond & Pearl",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Machop",
+    "number": "86",
+    "rarity": "Common",
+    "set_name": "Diamond & Pearl",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Magnemite",
+    "number": "87",
+    "rarity": "Common",
+    "set_name": "Diamond & Pearl",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Marill",
+    "number": "88",
+    "rarity": "Common",
+    "set_name": "Diamond & Pearl",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Meditite",
+    "number": "89",
+    "rarity": "Common",
+    "set_name": "Diamond & Pearl",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Mime Jr.",
+    "number": "90",
+    "rarity": "Common",
+    "set_name": "Diamond & Pearl",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Misdreavus",
+    "number": "91",
+    "rarity": "Common",
+    "set_name": "Diamond & Pearl",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Onix",
+    "number": "92",
+    "rarity": "Common",
+    "set_name": "Diamond & Pearl",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Piplup",
+    "number": "93",
+    "rarity": "Common",
+    "set_name": "Diamond & Pearl",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Ponyta",
+    "number": "94",
+    "rarity": "Common",
+    "set_name": "Diamond & Pearl",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Rhyhorn",
+    "number": "95",
+    "rarity": "Common",
+    "set_name": "Diamond & Pearl",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Roselia",
+    "number": "96",
+    "rarity": "Common",
+    "set_name": "Diamond & Pearl",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Seedot",
+    "number": "97",
+    "rarity": "Common",
+    "set_name": "Diamond & Pearl",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Shinx",
+    "number": "98",
+    "rarity": "Common",
+    "set_name": "Diamond & Pearl",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Skorupi",
+    "number": "99",
+    "rarity": "Common",
+    "set_name": "Diamond & Pearl",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Sneasel",
+    "number": "100",
+    "rarity": "Common",
+    "set_name": "Diamond & Pearl",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Starly",
+    "number": "101",
+    "rarity": "Common",
+    "set_name": "Diamond & Pearl",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Stunky",
+    "number": "102",
+    "rarity": "Common",
+    "set_name": "Diamond & Pearl",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Turtwig",
+    "number": "103",
+    "rarity": "Common",
+    "set_name": "Diamond & Pearl",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Wurmple",
+    "number": "104",
+    "rarity": "Common",
+    "set_name": "Diamond & Pearl",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Double Full Heal",
+    "number": "105",
+    "rarity": "Uncommon",
+    "set_name": "Diamond & Pearl",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Energy Restore",
+    "number": "106",
+    "rarity": "Uncommon",
+    "set_name": "Diamond & Pearl",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Energy Switch",
+    "number": "107",
+    "rarity": "Uncommon",
+    "set_name": "Diamond & Pearl",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Night Pok\u00e9mon Center",
+    "number": "108",
+    "rarity": "Uncommon",
+    "set_name": "Diamond & Pearl",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "PlusPower",
+    "number": "109",
+    "rarity": "Uncommon",
+    "set_name": "Diamond & Pearl",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Pok\u00e9 Ball",
+    "number": "110",
+    "rarity": "Uncommon",
+    "set_name": "Diamond & Pearl",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Pok\u00e9dex HANDY910is",
+    "number": "111",
+    "rarity": "Uncommon",
+    "set_name": "Diamond & Pearl",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Professor Rowan",
+    "number": "112",
+    "rarity": "Uncommon",
+    "set_name": "Diamond & Pearl",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Rival",
+    "number": "113",
+    "rarity": "Uncommon",
+    "set_name": "Diamond & Pearl",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Speed Stadium",
+    "number": "114",
+    "rarity": "Uncommon",
+    "set_name": "Diamond & Pearl",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Super Scoop Up",
+    "number": "115",
+    "rarity": "Uncommon",
+    "set_name": "Diamond & Pearl",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Warp Point",
+    "number": "116",
+    "rarity": "Uncommon",
+    "set_name": "Diamond & Pearl",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Energy Search",
+    "number": "117",
+    "rarity": "Common",
+    "set_name": "Diamond & Pearl",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Potion",
+    "number": "118",
+    "rarity": "Common",
+    "set_name": "Diamond & Pearl",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Switch",
+    "number": "119",
+    "rarity": "Common",
+    "set_name": "Diamond & Pearl",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Empoleon LV.X",
+    "number": "120",
+    "rarity": "Rare Holo LV.X",
+    "set_name": "Diamond & Pearl",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Infernape LV.X",
+    "number": "121",
+    "rarity": "Rare Holo LV.X",
+    "set_name": "Diamond & Pearl",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Torterra LV.X",
+    "number": "122",
+    "rarity": "Rare Holo LV.X",
+    "set_name": "Diamond & Pearl",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Grass Energy",
+    "number": "123",
+    "rarity": "Common",
+    "set_name": "Diamond & Pearl",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Fire Energy",
+    "number": "124",
+    "rarity": "Common",
+    "set_name": "Diamond & Pearl",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Water Energy",
+    "number": "125",
+    "rarity": "Common",
+    "set_name": "Diamond & Pearl",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Lightning Energy",
+    "number": "126",
+    "rarity": "Common",
+    "set_name": "Diamond & Pearl",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Psychic Energy",
+    "number": "127",
+    "rarity": "Common",
+    "set_name": "Diamond & Pearl",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Fighting Energy",
+    "number": "128",
+    "rarity": "Common",
+    "set_name": "Diamond & Pearl",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Darkness Energy",
+    "number": "129",
+    "rarity": "Common",
+    "set_name": "Diamond & Pearl",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Metal Energy",
+    "number": "130",
+    "rarity": "Common",
+    "set_name": "Diamond & Pearl",
+    "set_series": "Diamond & Pearl"
+  }
+]

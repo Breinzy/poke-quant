@@ -1,0 +1,1241 @@
+[
+  {
+    "name": "Caterpie",
+    "number": "1",
+    "rarity": "Common",
+    "set_name": "Burning Shadows",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Metapod",
+    "number": "2",
+    "rarity": "Uncommon",
+    "set_name": "Burning Shadows",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Butterfree",
+    "number": "3",
+    "rarity": "Rare",
+    "set_name": "Burning Shadows",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Oddish",
+    "number": "4",
+    "rarity": "Common",
+    "set_name": "Burning Shadows",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Gloom",
+    "number": "5",
+    "rarity": "Uncommon",
+    "set_name": "Burning Shadows",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Vileplume",
+    "number": "6",
+    "rarity": "Rare Holo",
+    "set_name": "Burning Shadows",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Tangela",
+    "number": "7",
+    "rarity": "Common",
+    "set_name": "Burning Shadows",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Tangrowth",
+    "number": "8",
+    "rarity": "Rare",
+    "set_name": "Burning Shadows",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Ledyba",
+    "number": "9",
+    "rarity": "Common",
+    "set_name": "Burning Shadows",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Ledian",
+    "number": "10",
+    "rarity": "Rare",
+    "set_name": "Burning Shadows",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Heracross",
+    "number": "11",
+    "rarity": "Rare",
+    "set_name": "Burning Shadows",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Pansage",
+    "number": "12",
+    "rarity": "Common",
+    "set_name": "Burning Shadows",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Simisage",
+    "number": "13",
+    "rarity": "Uncommon",
+    "set_name": "Burning Shadows",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Dewpider",
+    "number": "14",
+    "rarity": "Common",
+    "set_name": "Burning Shadows",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Araquanid",
+    "number": "15",
+    "rarity": "Rare",
+    "set_name": "Burning Shadows",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Wimpod",
+    "number": "16",
+    "rarity": "Common",
+    "set_name": "Burning Shadows",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Golisopod-GX",
+    "number": "17",
+    "rarity": "Rare Holo GX",
+    "set_name": "Burning Shadows",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Charmander",
+    "number": "18",
+    "rarity": "Common",
+    "set_name": "Burning Shadows",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Charmander",
+    "number": "18a",
+    "rarity": "Common",
+    "set_name": "Burning Shadows",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Charmeleon",
+    "number": "19",
+    "rarity": "Uncommon",
+    "set_name": "Burning Shadows",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Charizard-GX",
+    "number": "20",
+    "rarity": "Rare Holo GX",
+    "set_name": "Burning Shadows",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Ho-Oh-GX",
+    "number": "21",
+    "rarity": "Rare Holo GX",
+    "set_name": "Burning Shadows",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Pansear",
+    "number": "22",
+    "rarity": "Common",
+    "set_name": "Burning Shadows",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Simisear",
+    "number": "23",
+    "rarity": "Uncommon",
+    "set_name": "Burning Shadows",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Heatmor",
+    "number": "24",
+    "rarity": "Uncommon",
+    "set_name": "Burning Shadows",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Salazzle-GX",
+    "number": "25",
+    "rarity": "Rare Holo GX",
+    "set_name": "Burning Shadows",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Turtonator",
+    "number": "26",
+    "rarity": "Rare",
+    "set_name": "Burning Shadows",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Alolan Vulpix",
+    "number": "27",
+    "rarity": "Common",
+    "set_name": "Burning Shadows",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Alolan Ninetales",
+    "number": "28",
+    "rarity": "Rare",
+    "set_name": "Burning Shadows",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Horsea",
+    "number": "29",
+    "rarity": "Common",
+    "set_name": "Burning Shadows",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Seadra",
+    "number": "30",
+    "rarity": "Uncommon",
+    "set_name": "Burning Shadows",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Kingdra",
+    "number": "31",
+    "rarity": "Rare Holo",
+    "set_name": "Burning Shadows",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Magikarp",
+    "number": "32",
+    "rarity": "Common",
+    "set_name": "Burning Shadows",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Gyarados",
+    "number": "33",
+    "rarity": "Rare Holo",
+    "set_name": "Burning Shadows",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Marill",
+    "number": "34",
+    "rarity": "Common",
+    "set_name": "Burning Shadows",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Azumarill",
+    "number": "35",
+    "rarity": "Rare",
+    "set_name": "Burning Shadows",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Panpour",
+    "number": "36",
+    "rarity": "Common",
+    "set_name": "Burning Shadows",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Simipour",
+    "number": "37",
+    "rarity": "Uncommon",
+    "set_name": "Burning Shadows",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Bruxish",
+    "number": "38",
+    "rarity": "Rare",
+    "set_name": "Burning Shadows",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Tapu Fini-GX",
+    "number": "39",
+    "rarity": "Rare Holo GX",
+    "set_name": "Burning Shadows",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Tapu Fini-GX",
+    "number": "39a",
+    "rarity": "Rare Holo GX",
+    "set_name": "Burning Shadows",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Pikachu",
+    "number": "40",
+    "rarity": "Common",
+    "set_name": "Burning Shadows",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Raichu",
+    "number": "41",
+    "rarity": "Rare Holo",
+    "set_name": "Burning Shadows",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Electabuzz",
+    "number": "42",
+    "rarity": "Uncommon",
+    "set_name": "Burning Shadows",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Electivire",
+    "number": "43",
+    "rarity": "Rare",
+    "set_name": "Burning Shadows",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Tynamo",
+    "number": "44",
+    "rarity": "Common",
+    "set_name": "Burning Shadows",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Eelektrik",
+    "number": "45",
+    "rarity": "Uncommon",
+    "set_name": "Burning Shadows",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Eelektross",
+    "number": "46",
+    "rarity": "Rare",
+    "set_name": "Burning Shadows",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Togedemaru",
+    "number": "47",
+    "rarity": "Common",
+    "set_name": "Burning Shadows",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Slowking",
+    "number": "48",
+    "rarity": "Rare",
+    "set_name": "Burning Shadows",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Wobbuffet",
+    "number": "49",
+    "rarity": "Uncommon",
+    "set_name": "Burning Shadows",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Seviper",
+    "number": "50",
+    "rarity": "Uncommon",
+    "set_name": "Burning Shadows",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Duskull",
+    "number": "51",
+    "rarity": "Common",
+    "set_name": "Burning Shadows",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Dusclops",
+    "number": "52",
+    "rarity": "Uncommon",
+    "set_name": "Burning Shadows",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Dusknoir",
+    "number": "53",
+    "rarity": "Rare Holo",
+    "set_name": "Burning Shadows",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Croagunk",
+    "number": "54",
+    "rarity": "Common",
+    "set_name": "Burning Shadows",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Toxicroak",
+    "number": "55",
+    "rarity": "Rare",
+    "set_name": "Burning Shadows",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Venipede",
+    "number": "56",
+    "rarity": "Common",
+    "set_name": "Burning Shadows",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Whirlipede",
+    "number": "57",
+    "rarity": "Uncommon",
+    "set_name": "Burning Shadows",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Scolipede",
+    "number": "58",
+    "rarity": "Rare",
+    "set_name": "Burning Shadows",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Espurr",
+    "number": "59",
+    "rarity": "Common",
+    "set_name": "Burning Shadows",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Meowstic",
+    "number": "60",
+    "rarity": "Rare",
+    "set_name": "Burning Shadows",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Sandygast",
+    "number": "61",
+    "rarity": "Common",
+    "set_name": "Burning Shadows",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Palossand",
+    "number": "62",
+    "rarity": "Rare Holo",
+    "set_name": "Burning Shadows",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Necrozma-GX",
+    "number": "63",
+    "rarity": "Rare Holo GX",
+    "set_name": "Burning Shadows",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Machamp-GX",
+    "number": "64",
+    "rarity": "Rare Holo GX",
+    "set_name": "Burning Shadows",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Rhyhorn",
+    "number": "65",
+    "rarity": "Common",
+    "set_name": "Burning Shadows",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Rhydon",
+    "number": "66",
+    "rarity": "Uncommon",
+    "set_name": "Burning Shadows",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Rhyperior",
+    "number": "67",
+    "rarity": "Rare Holo",
+    "set_name": "Burning Shadows",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Lunatone",
+    "number": "68",
+    "rarity": "Uncommon",
+    "set_name": "Burning Shadows",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Solrock",
+    "number": "69",
+    "rarity": "Uncommon",
+    "set_name": "Burning Shadows",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Riolu",
+    "number": "70",
+    "rarity": "Common",
+    "set_name": "Burning Shadows",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Lucario",
+    "number": "71",
+    "rarity": "Rare Holo",
+    "set_name": "Burning Shadows",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Sawk",
+    "number": "72",
+    "rarity": "Common",
+    "set_name": "Burning Shadows",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Crabrawler",
+    "number": "73",
+    "rarity": "Common",
+    "set_name": "Burning Shadows",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Crabominable",
+    "number": "74",
+    "rarity": "Rare",
+    "set_name": "Burning Shadows",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Lycanroc",
+    "number": "75",
+    "rarity": "Rare Holo",
+    "set_name": "Burning Shadows",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Lycanroc",
+    "number": "76",
+    "rarity": "Rare",
+    "set_name": "Burning Shadows",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Mudbray",
+    "number": "77",
+    "rarity": "Common",
+    "set_name": "Burning Shadows",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Mudsdale",
+    "number": "78",
+    "rarity": "Rare",
+    "set_name": "Burning Shadows",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Passimian",
+    "number": "79",
+    "rarity": "Rare",
+    "set_name": "Burning Shadows",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Marshadow-GX",
+    "number": "80",
+    "rarity": "Rare Holo GX",
+    "set_name": "Burning Shadows",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Alolan Rattata",
+    "number": "81",
+    "rarity": "Common",
+    "set_name": "Burning Shadows",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Alolan Raticate",
+    "number": "82",
+    "rarity": "Rare",
+    "set_name": "Burning Shadows",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Alolan Grimer",
+    "number": "83",
+    "rarity": "Common",
+    "set_name": "Burning Shadows",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Alolan Muk-GX",
+    "number": "84",
+    "rarity": "Rare Holo GX",
+    "set_name": "Burning Shadows",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Sneasel",
+    "number": "85",
+    "rarity": "Common",
+    "set_name": "Burning Shadows",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Weavile",
+    "number": "86",
+    "rarity": "Rare",
+    "set_name": "Burning Shadows",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Darkrai",
+    "number": "87",
+    "rarity": "Rare Holo",
+    "set_name": "Burning Shadows",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Darkrai-GX",
+    "number": "88",
+    "rarity": "Rare Holo GX",
+    "set_name": "Burning Shadows",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Darkrai-GX",
+    "number": "88a",
+    "rarity": "Rare Holo GX",
+    "set_name": "Burning Shadows",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Inkay",
+    "number": "89",
+    "rarity": "Common",
+    "set_name": "Burning Shadows",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Malamar",
+    "number": "90",
+    "rarity": "Rare",
+    "set_name": "Burning Shadows",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Ralts",
+    "number": "91",
+    "rarity": "Common",
+    "set_name": "Burning Shadows",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Kirlia",
+    "number": "92",
+    "rarity": "Uncommon",
+    "set_name": "Burning Shadows",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Kirlia",
+    "number": "92a",
+    "rarity": "Uncommon",
+    "set_name": "Burning Shadows",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Gardevoir-GX",
+    "number": "93",
+    "rarity": "Rare Holo GX",
+    "set_name": "Burning Shadows",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Diancie",
+    "number": "94",
+    "rarity": "Rare Holo",
+    "set_name": "Burning Shadows",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Cutiefly",
+    "number": "95",
+    "rarity": "Common",
+    "set_name": "Burning Shadows",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Ribombee",
+    "number": "96",
+    "rarity": "Uncommon",
+    "set_name": "Burning Shadows",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Morelull",
+    "number": "97",
+    "rarity": "Common",
+    "set_name": "Burning Shadows",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Shiinotic",
+    "number": "98",
+    "rarity": "Rare",
+    "set_name": "Burning Shadows",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Noivern-GX",
+    "number": "99",
+    "rarity": "Rare Holo GX",
+    "set_name": "Burning Shadows",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Zygarde",
+    "number": "100",
+    "rarity": "Rare Holo",
+    "set_name": "Burning Shadows",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Meowth",
+    "number": "101",
+    "rarity": "Common",
+    "set_name": "Burning Shadows",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Persian",
+    "number": "102",
+    "rarity": "Rare",
+    "set_name": "Burning Shadows",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Porygon",
+    "number": "103",
+    "rarity": "Common",
+    "set_name": "Burning Shadows",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Porygon2",
+    "number": "104",
+    "rarity": "Uncommon",
+    "set_name": "Burning Shadows",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Porygon-Z",
+    "number": "105",
+    "rarity": "Rare Holo",
+    "set_name": "Burning Shadows",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Porygon-Z",
+    "number": "105a",
+    "rarity": "Rare Holo",
+    "set_name": "Burning Shadows",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Hoothoot",
+    "number": "106",
+    "rarity": "Common",
+    "set_name": "Burning Shadows",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Noctowl",
+    "number": "107",
+    "rarity": "Uncommon",
+    "set_name": "Burning Shadows",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Bouffalant",
+    "number": "108",
+    "rarity": "Uncommon",
+    "set_name": "Burning Shadows",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Noibat",
+    "number": "109",
+    "rarity": "Common",
+    "set_name": "Burning Shadows",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Stufful",
+    "number": "110",
+    "rarity": "Common",
+    "set_name": "Burning Shadows",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Bewear",
+    "number": "111",
+    "rarity": "Rare",
+    "set_name": "Burning Shadows",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Acerola",
+    "number": "112",
+    "rarity": "Uncommon",
+    "set_name": "Burning Shadows",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Acerola",
+    "number": "112a",
+    "rarity": "Uncommon",
+    "set_name": "Burning Shadows",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Bodybuilding Dumbbells",
+    "number": "113",
+    "rarity": "Uncommon",
+    "set_name": "Burning Shadows",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Escape Rope",
+    "number": "114",
+    "rarity": "Uncommon",
+    "set_name": "Burning Shadows",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Guzma",
+    "number": "115",
+    "rarity": "Uncommon",
+    "set_name": "Burning Shadows",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Guzma",
+    "number": "115a",
+    "rarity": "Uncommon",
+    "set_name": "Burning Shadows",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Kiawe",
+    "number": "116",
+    "rarity": "Uncommon",
+    "set_name": "Burning Shadows",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Kiawe",
+    "number": "116a",
+    "rarity": "Uncommon",
+    "set_name": "Burning Shadows",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Lana",
+    "number": "117",
+    "rarity": "Uncommon",
+    "set_name": "Burning Shadows",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Mount Lanakila",
+    "number": "118",
+    "rarity": "Uncommon",
+    "set_name": "Burning Shadows",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Olivia",
+    "number": "119",
+    "rarity": "Uncommon",
+    "set_name": "Burning Shadows",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Plumeria",
+    "number": "120",
+    "rarity": "Uncommon",
+    "set_name": "Burning Shadows",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Po Town",
+    "number": "121",
+    "rarity": "Uncommon",
+    "set_name": "Burning Shadows",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Rotom Dex Pok\u00e9 Finder Mode",
+    "number": "122",
+    "rarity": "Uncommon",
+    "set_name": "Burning Shadows",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Sophocles",
+    "number": "123",
+    "rarity": "Uncommon",
+    "set_name": "Burning Shadows",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Super Scoop Up",
+    "number": "124",
+    "rarity": "Uncommon",
+    "set_name": "Burning Shadows",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Tormenting Spray",
+    "number": "125",
+    "rarity": "Uncommon",
+    "set_name": "Burning Shadows",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Weakness Policy",
+    "number": "126",
+    "rarity": "Uncommon",
+    "set_name": "Burning Shadows",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Wicke",
+    "number": "127",
+    "rarity": "Uncommon",
+    "set_name": "Burning Shadows",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Wishful Baton",
+    "number": "128",
+    "rarity": "Uncommon",
+    "set_name": "Burning Shadows",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Golisopod-GX",
+    "number": "129",
+    "rarity": "Rare Ultra",
+    "set_name": "Burning Shadows",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Tapu Bulu-GX",
+    "number": "130",
+    "rarity": "Rare Ultra",
+    "set_name": "Burning Shadows",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Ho-Oh-GX",
+    "number": "131",
+    "rarity": "Rare Ultra",
+    "set_name": "Burning Shadows",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Salazzle-GX",
+    "number": "132",
+    "rarity": "Rare Ultra",
+    "set_name": "Burning Shadows",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Tapu Fini-GX",
+    "number": "133",
+    "rarity": "Rare Ultra",
+    "set_name": "Burning Shadows",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Necrozma-GX",
+    "number": "134",
+    "rarity": "Rare Ultra",
+    "set_name": "Burning Shadows",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Machamp-GX",
+    "number": "135",
+    "rarity": "Rare Ultra",
+    "set_name": "Burning Shadows",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Lycanroc-GX",
+    "number": "136",
+    "rarity": "Rare Ultra",
+    "set_name": "Burning Shadows",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Marshadow-GX",
+    "number": "137",
+    "rarity": "Rare Ultra",
+    "set_name": "Burning Shadows",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Alolan Muk-GX",
+    "number": "138",
+    "rarity": "Rare Ultra",
+    "set_name": "Burning Shadows",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Darkrai-GX",
+    "number": "139",
+    "rarity": "Rare Ultra",
+    "set_name": "Burning Shadows",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Gardevoir-GX",
+    "number": "140",
+    "rarity": "Rare Ultra",
+    "set_name": "Burning Shadows",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Noivern-GX",
+    "number": "141",
+    "rarity": "Rare Ultra",
+    "set_name": "Burning Shadows",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Acerola",
+    "number": "142",
+    "rarity": "Rare Ultra",
+    "set_name": "Burning Shadows",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Guzma",
+    "number": "143",
+    "rarity": "Rare Ultra",
+    "set_name": "Burning Shadows",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Kiawe",
+    "number": "144",
+    "rarity": "Rare Ultra",
+    "set_name": "Burning Shadows",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Plumeria",
+    "number": "145",
+    "rarity": "Rare Ultra",
+    "set_name": "Burning Shadows",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Sophocles",
+    "number": "146",
+    "rarity": "Rare Ultra",
+    "set_name": "Burning Shadows",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Wicke",
+    "number": "147",
+    "rarity": "Rare Ultra",
+    "set_name": "Burning Shadows",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Golisopod-GX",
+    "number": "148",
+    "rarity": "Rare Rainbow",
+    "set_name": "Burning Shadows",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Tapu Bulu-GX",
+    "number": "149",
+    "rarity": "Rare Rainbow",
+    "set_name": "Burning Shadows",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Charizard-GX",
+    "number": "150",
+    "rarity": "Rare Rainbow",
+    "set_name": "Burning Shadows",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Salazzle-GX",
+    "number": "151",
+    "rarity": "Rare Rainbow",
+    "set_name": "Burning Shadows",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Tapu Fini-GX",
+    "number": "152",
+    "rarity": "Rare Rainbow",
+    "set_name": "Burning Shadows",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Necrozma-GX",
+    "number": "153",
+    "rarity": "Rare Rainbow",
+    "set_name": "Burning Shadows",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Machamp-GX",
+    "number": "154",
+    "rarity": "Rare Rainbow",
+    "set_name": "Burning Shadows",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Lycanroc-GX",
+    "number": "155",
+    "rarity": "Rare Rainbow",
+    "set_name": "Burning Shadows",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Marshadow-GX",
+    "number": "156",
+    "rarity": "Rare Rainbow",
+    "set_name": "Burning Shadows",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Alolan Muk-GX",
+    "number": "157",
+    "rarity": "Rare Rainbow",
+    "set_name": "Burning Shadows",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Darkrai-GX",
+    "number": "158",
+    "rarity": "Rare Rainbow",
+    "set_name": "Burning Shadows",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Gardevoir-GX",
+    "number": "159",
+    "rarity": "Rare Rainbow",
+    "set_name": "Burning Shadows",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Noivern-GX",
+    "number": "160",
+    "rarity": "Rare Rainbow",
+    "set_name": "Burning Shadows",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Bodybuilding Dumbbells",
+    "number": "161",
+    "rarity": "Rare Secret",
+    "set_name": "Burning Shadows",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Choice Band",
+    "number": "162",
+    "rarity": "Rare Secret",
+    "set_name": "Burning Shadows",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Escape Rope",
+    "number": "163",
+    "rarity": "Rare Secret",
+    "set_name": "Burning Shadows",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Multi Switch",
+    "number": "164",
+    "rarity": "Rare Secret",
+    "set_name": "Burning Shadows",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Rescue Stretcher",
+    "number": "165",
+    "rarity": "Rare Secret",
+    "set_name": "Burning Shadows",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Super Scoop Up",
+    "number": "166",
+    "rarity": "Rare Secret",
+    "set_name": "Burning Shadows",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Fire Energy",
+    "number": "167",
+    "rarity": "Rare Secret",
+    "set_name": "Burning Shadows",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Darkness Energy",
+    "number": "168",
+    "rarity": "Rare Secret",
+    "set_name": "Burning Shadows",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Fairy Energy",
+    "number": "169",
+    "rarity": "Rare Secret",
+    "set_name": "Burning Shadows",
+    "set_series": "Sun & Moon"
+  }
+]

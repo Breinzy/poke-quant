@@ -1,0 +1,1752 @@
+[
+  {
+    "name": "Caterpie",
+    "number": "1",
+    "rarity": "Common",
+    "set_name": "Fusion Strike",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Metapod",
+    "number": "2",
+    "rarity": "Uncommon",
+    "set_name": "Fusion Strike",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Butterfree",
+    "number": "3",
+    "rarity": "Rare Holo",
+    "set_name": "Fusion Strike",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Shroomish",
+    "number": "4",
+    "rarity": "Common",
+    "set_name": "Fusion Strike",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Breloom V",
+    "number": "6",
+    "rarity": "Rare Holo V",
+    "set_name": "Fusion Strike",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Breloom",
+    "number": "5",
+    "rarity": "Uncommon",
+    "set_name": "Fusion Strike",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Pansage",
+    "number": "7",
+    "rarity": "Common",
+    "set_name": "Fusion Strike",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Simisage",
+    "number": "8",
+    "rarity": "Uncommon",
+    "set_name": "Fusion Strike",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Sewaddle",
+    "number": "9",
+    "rarity": "Common",
+    "set_name": "Fusion Strike",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Swadloon",
+    "number": "10",
+    "rarity": "Uncommon",
+    "set_name": "Fusion Strike",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Leavanny",
+    "number": "11",
+    "rarity": "Rare",
+    "set_name": "Fusion Strike",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Maractus",
+    "number": "12",
+    "rarity": "Rare",
+    "set_name": "Fusion Strike",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Shelmet",
+    "number": "13",
+    "rarity": "Common",
+    "set_name": "Fusion Strike",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Trevenant",
+    "number": "17",
+    "rarity": "Uncommon",
+    "set_name": "Fusion Strike",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Phantump",
+    "number": "16",
+    "rarity": "Common",
+    "set_name": "Fusion Strike",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Accelgor",
+    "number": "14",
+    "rarity": "Rare",
+    "set_name": "Fusion Strike",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Virizion",
+    "number": "15",
+    "rarity": "Rare",
+    "set_name": "Fusion Strike",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Grubbin",
+    "number": "18",
+    "rarity": "Common",
+    "set_name": "Fusion Strike",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Araquanid",
+    "number": "20",
+    "rarity": "Rare",
+    "set_name": "Fusion Strike",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Dewpider",
+    "number": "19",
+    "rarity": "Common",
+    "set_name": "Fusion Strike",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Rillaboom V",
+    "number": "22",
+    "rarity": "Rare Holo V",
+    "set_name": "Fusion Strike",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Tsareena V",
+    "number": "21",
+    "rarity": "Rare Holo V",
+    "set_name": "Fusion Strike",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Gossifleur",
+    "number": "24",
+    "rarity": "Common",
+    "set_name": "Fusion Strike",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Eldegoss",
+    "number": "25",
+    "rarity": "Uncommon",
+    "set_name": "Fusion Strike",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Rillaboom VMAX",
+    "number": "23",
+    "rarity": "Rare Holo VMAX",
+    "set_name": "Fusion Strike",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Appletun V",
+    "number": "26",
+    "rarity": "Rare Holo V",
+    "set_name": "Fusion Strike",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Zarude",
+    "number": "27",
+    "rarity": "Uncommon",
+    "set_name": "Fusion Strike",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Ninetales",
+    "number": "31",
+    "rarity": "Uncommon",
+    "set_name": "Fusion Strike",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Vulpix",
+    "number": "29",
+    "rarity": "Common",
+    "set_name": "Fusion Strike",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Ninetales",
+    "number": "30",
+    "rarity": "Uncommon",
+    "set_name": "Fusion Strike",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Vulpix",
+    "number": "28",
+    "rarity": "Common",
+    "set_name": "Fusion Strike",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Slugma",
+    "number": "34",
+    "rarity": "Common",
+    "set_name": "Fusion Strike",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Growlithe",
+    "number": "32",
+    "rarity": "Common",
+    "set_name": "Fusion Strike",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Arcanine",
+    "number": "33",
+    "rarity": "Rare",
+    "set_name": "Fusion Strike",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Magcargo",
+    "number": "35",
+    "rarity": "Uncommon",
+    "set_name": "Fusion Strike",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Oricorio",
+    "number": "42",
+    "rarity": "Rare",
+    "set_name": "Fusion Strike",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Pansear",
+    "number": "37",
+    "rarity": "Common",
+    "set_name": "Fusion Strike",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Simisear",
+    "number": "38",
+    "rarity": "Uncommon",
+    "set_name": "Fusion Strike",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Chandelure V",
+    "number": "39",
+    "rarity": "Rare Holo V",
+    "set_name": "Fusion Strike",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Chandelure VMAX",
+    "number": "40",
+    "rarity": "Rare Holo VMAX",
+    "set_name": "Fusion Strike",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Cinderace V",
+    "number": "43",
+    "rarity": "Rare Holo V",
+    "set_name": "Fusion Strike",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Victini",
+    "number": "36",
+    "rarity": "Uncommon",
+    "set_name": "Fusion Strike",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Heatmor",
+    "number": "41",
+    "rarity": "Uncommon",
+    "set_name": "Fusion Strike",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Centiskorch",
+    "number": "48",
+    "rarity": "Rare",
+    "set_name": "Fusion Strike",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Cinderace V",
+    "number": "44",
+    "rarity": "Rare Holo V",
+    "set_name": "Fusion Strike",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Centiskorch",
+    "number": "49",
+    "rarity": "Uncommon",
+    "set_name": "Fusion Strike",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Cinderace VMAX",
+    "number": "45",
+    "rarity": "Rare Holo VMAX",
+    "set_name": "Fusion Strike",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Sizzlipede",
+    "number": "46",
+    "rarity": "Common",
+    "set_name": "Fusion Strike",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Sizzlipede",
+    "number": "47",
+    "rarity": "Common",
+    "set_name": "Fusion Strike",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Shellder",
+    "number": "50",
+    "rarity": "Common",
+    "set_name": "Fusion Strike",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Starmie",
+    "number": "53",
+    "rarity": "Rare Holo",
+    "set_name": "Fusion Strike",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Cloyster",
+    "number": "51",
+    "rarity": "Rare",
+    "set_name": "Fusion Strike",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Totodile",
+    "number": "55",
+    "rarity": "Common",
+    "set_name": "Fusion Strike",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Lapras",
+    "number": "54",
+    "rarity": "Uncommon",
+    "set_name": "Fusion Strike",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Staryu",
+    "number": "52",
+    "rarity": "Common",
+    "set_name": "Fusion Strike",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Croconaw",
+    "number": "56",
+    "rarity": "Uncommon",
+    "set_name": "Fusion Strike",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Feraligatr",
+    "number": "57",
+    "rarity": "Rare Holo",
+    "set_name": "Fusion Strike",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Mantine",
+    "number": "61",
+    "rarity": "Common",
+    "set_name": "Fusion Strike",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Marill",
+    "number": "58",
+    "rarity": "Common",
+    "set_name": "Fusion Strike",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Azumarill",
+    "number": "59",
+    "rarity": "Rare",
+    "set_name": "Fusion Strike",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Qwilfish",
+    "number": "60",
+    "rarity": "Common",
+    "set_name": "Fusion Strike",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Mudkip",
+    "number": "62",
+    "rarity": "Common",
+    "set_name": "Fusion Strike",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Marshtomp",
+    "number": "63",
+    "rarity": "Uncommon",
+    "set_name": "Fusion Strike",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Clamperl",
+    "number": "65",
+    "rarity": "Common",
+    "set_name": "Fusion Strike",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Huntail",
+    "number": "66",
+    "rarity": "Rare",
+    "set_name": "Fusion Strike",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Swampert",
+    "number": "64",
+    "rarity": "Rare Holo",
+    "set_name": "Fusion Strike",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Simipour",
+    "number": "69",
+    "rarity": "Uncommon",
+    "set_name": "Fusion Strike",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Basculin",
+    "number": "70",
+    "rarity": "Common",
+    "set_name": "Fusion Strike",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Galarian Darumaka",
+    "number": "71",
+    "rarity": "Common",
+    "set_name": "Fusion Strike",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Panpour",
+    "number": "68",
+    "rarity": "Common",
+    "set_name": "Fusion Strike",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Gorebyss",
+    "number": "67",
+    "rarity": "Rare",
+    "set_name": "Fusion Strike",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Clauncher",
+    "number": "74",
+    "rarity": "Common",
+    "set_name": "Fusion Strike",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Greninja V",
+    "number": "73",
+    "rarity": "Rare Holo V",
+    "set_name": "Fusion Strike",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Galarian Darmanitan",
+    "number": "72",
+    "rarity": "Uncommon",
+    "set_name": "Fusion Strike",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Clawitzer",
+    "number": "75",
+    "rarity": "Uncommon",
+    "set_name": "Fusion Strike",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Inteleon V",
+    "number": "78",
+    "rarity": "Rare Holo V",
+    "set_name": "Fusion Strike",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Crabominable V",
+    "number": "76",
+    "rarity": "Rare Holo V",
+    "set_name": "Fusion Strike",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Pyukumuku",
+    "number": "77",
+    "rarity": "Uncommon",
+    "set_name": "Fusion Strike",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Inteleon VMAX",
+    "number": "79",
+    "rarity": "Rare Holo VMAX",
+    "set_name": "Fusion Strike",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Arrokuda",
+    "number": "82",
+    "rarity": "Common",
+    "set_name": "Fusion Strike",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Chewtle",
+    "number": "80",
+    "rarity": "Common",
+    "set_name": "Fusion Strike",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Drednaw",
+    "number": "81",
+    "rarity": "Uncommon",
+    "set_name": "Fusion Strike",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Barraskewda",
+    "number": "83",
+    "rarity": "Uncommon",
+    "set_name": "Fusion Strike",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Snom",
+    "number": "84",
+    "rarity": "Common",
+    "set_name": "Fusion Strike",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Frosmoth",
+    "number": "85",
+    "rarity": "Uncommon",
+    "set_name": "Fusion Strike",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Pikachu V",
+    "number": "86",
+    "rarity": "Rare Holo V",
+    "set_name": "Fusion Strike",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Plusle",
+    "number": "89",
+    "rarity": "Common",
+    "set_name": "Fusion Strike",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Voltorb",
+    "number": "87",
+    "rarity": "Common",
+    "set_name": "Fusion Strike",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Electrode",
+    "number": "88",
+    "rarity": "Rare",
+    "set_name": "Fusion Strike",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Minun",
+    "number": "90",
+    "rarity": "Common",
+    "set_name": "Fusion Strike",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Shinx",
+    "number": "91",
+    "rarity": "Common",
+    "set_name": "Fusion Strike",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Luxio",
+    "number": "92",
+    "rarity": "Uncommon",
+    "set_name": "Fusion Strike",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Luxray",
+    "number": "93",
+    "rarity": "Rare",
+    "set_name": "Fusion Strike",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Tynamo",
+    "number": "95",
+    "rarity": "Common",
+    "set_name": "Fusion Strike",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Rotom",
+    "number": "94",
+    "rarity": "Common",
+    "set_name": "Fusion Strike",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Eelektrik",
+    "number": "96",
+    "rarity": "Uncommon",
+    "set_name": "Fusion Strike",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Helioptile",
+    "number": "98",
+    "rarity": "Common",
+    "set_name": "Fusion Strike",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Vikavolt",
+    "number": "101",
+    "rarity": "Rare",
+    "set_name": "Fusion Strike",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Heliolisk",
+    "number": "99",
+    "rarity": "Uncommon",
+    "set_name": "Fusion Strike",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Eelektross",
+    "number": "97",
+    "rarity": "Rare",
+    "set_name": "Fusion Strike",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Charjabug",
+    "number": "100",
+    "rarity": "Uncommon",
+    "set_name": "Fusion Strike",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Zeraora",
+    "number": "102",
+    "rarity": "Rare",
+    "set_name": "Fusion Strike",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Boltund V",
+    "number": "103",
+    "rarity": "Rare Holo V",
+    "set_name": "Fusion Strike",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Boltund VMAX",
+    "number": "104",
+    "rarity": "Rare Holo VMAX",
+    "set_name": "Fusion Strike",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Toxel",
+    "number": "105",
+    "rarity": "Common",
+    "set_name": "Fusion Strike",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Toxel",
+    "number": "106",
+    "rarity": "Common",
+    "set_name": "Fusion Strike",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Toxtricity",
+    "number": "108",
+    "rarity": "Rare Holo",
+    "set_name": "Fusion Strike",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Toxtricity",
+    "number": "107",
+    "rarity": "Rare Holo",
+    "set_name": "Fusion Strike",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Mew V",
+    "number": "113",
+    "rarity": "Rare Holo V",
+    "set_name": "Fusion Strike",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Wigglytuff",
+    "number": "111",
+    "rarity": "Uncommon",
+    "set_name": "Fusion Strike",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Jigglypuff",
+    "number": "110",
+    "rarity": "Common",
+    "set_name": "Fusion Strike",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Jynx",
+    "number": "112",
+    "rarity": "Common",
+    "set_name": "Fusion Strike",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Morpeko",
+    "number": "109",
+    "rarity": "Common",
+    "set_name": "Fusion Strike",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Mew VMAX",
+    "number": "114",
+    "rarity": "Rare Holo VMAX",
+    "set_name": "Fusion Strike",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Snubbull",
+    "number": "115",
+    "rarity": "Common",
+    "set_name": "Fusion Strike",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Granbull",
+    "number": "116",
+    "rarity": "Rare",
+    "set_name": "Fusion Strike",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Galarian Corsola",
+    "number": "117",
+    "rarity": "Common",
+    "set_name": "Fusion Strike",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Galarian Cursola",
+    "number": "118",
+    "rarity": "Rare",
+    "set_name": "Fusion Strike",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Mawile",
+    "number": "119",
+    "rarity": "Common",
+    "set_name": "Fusion Strike",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Munna",
+    "number": "121",
+    "rarity": "Common",
+    "set_name": "Fusion Strike",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Musharna",
+    "number": "122",
+    "rarity": "Uncommon",
+    "set_name": "Fusion Strike",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Deoxys",
+    "number": "120",
+    "rarity": "Rare Holo",
+    "set_name": "Fusion Strike",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Sigilyph",
+    "number": "123",
+    "rarity": "Common",
+    "set_name": "Fusion Strike",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Meloetta",
+    "number": "124",
+    "rarity": "Rare",
+    "set_name": "Fusion Strike",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Sandygast",
+    "number": "125",
+    "rarity": "Common",
+    "set_name": "Fusion Strike",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Palossand",
+    "number": "126",
+    "rarity": "Rare",
+    "set_name": "Fusion Strike",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Indeedee",
+    "number": "127",
+    "rarity": "Common",
+    "set_name": "Fusion Strike",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Dreepy",
+    "number": "128",
+    "rarity": "Common",
+    "set_name": "Fusion Strike",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Dragapult",
+    "number": "130",
+    "rarity": "Rare Holo",
+    "set_name": "Fusion Strike",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Drakloak",
+    "number": "129",
+    "rarity": "Uncommon",
+    "set_name": "Fusion Strike",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Mankey",
+    "number": "133",
+    "rarity": "Common",
+    "set_name": "Fusion Strike",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Sandshrew",
+    "number": "131",
+    "rarity": "Common",
+    "set_name": "Fusion Strike",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Sandslash",
+    "number": "132",
+    "rarity": "Uncommon",
+    "set_name": "Fusion Strike",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Geodude",
+    "number": "135",
+    "rarity": "Common",
+    "set_name": "Fusion Strike",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Primeape",
+    "number": "134",
+    "rarity": "Uncommon",
+    "set_name": "Fusion Strike",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Golem",
+    "number": "137",
+    "rarity": "Rare",
+    "set_name": "Fusion Strike",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Steelix",
+    "number": "139",
+    "rarity": "Rare Holo",
+    "set_name": "Fusion Strike",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Graveler",
+    "number": "136",
+    "rarity": "Uncommon",
+    "set_name": "Fusion Strike",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Onix",
+    "number": "138",
+    "rarity": "Common",
+    "set_name": "Fusion Strike",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Makuhita",
+    "number": "142",
+    "rarity": "Common",
+    "set_name": "Fusion Strike",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Gligar",
+    "number": "140",
+    "rarity": "Common",
+    "set_name": "Fusion Strike",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Gliscor",
+    "number": "141",
+    "rarity": "Uncommon",
+    "set_name": "Fusion Strike",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Baltoy",
+    "number": "144",
+    "rarity": "Common",
+    "set_name": "Fusion Strike",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Hariyama",
+    "number": "143",
+    "rarity": "Uncommon",
+    "set_name": "Fusion Strike",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Drilbur",
+    "number": "147",
+    "rarity": "Common",
+    "set_name": "Fusion Strike",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Lucario V",
+    "number": "146",
+    "rarity": "Rare Holo V",
+    "set_name": "Fusion Strike",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Landorus",
+    "number": "148",
+    "rarity": "Rare Holo",
+    "set_name": "Fusion Strike",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Pancham",
+    "number": "149",
+    "rarity": "Common",
+    "set_name": "Fusion Strike",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Stufful",
+    "number": "150",
+    "rarity": "Common",
+    "set_name": "Fusion Strike",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Claydol",
+    "number": "145",
+    "rarity": "Rare",
+    "set_name": "Fusion Strike",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Bewear",
+    "number": "151",
+    "rarity": "Uncommon",
+    "set_name": "Fusion Strike",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Grapploct",
+    "number": "153",
+    "rarity": "Uncommon",
+    "set_name": "Fusion Strike",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Falinks",
+    "number": "154",
+    "rarity": "Uncommon",
+    "set_name": "Fusion Strike",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Clobbopus",
+    "number": "152",
+    "rarity": "Common",
+    "set_name": "Fusion Strike",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Falinks",
+    "number": "155",
+    "rarity": "Common",
+    "set_name": "Fusion Strike",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Gengar V",
+    "number": "156",
+    "rarity": "Rare Holo V",
+    "set_name": "Fusion Strike",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Gengar VMAX",
+    "number": "157",
+    "rarity": "Rare Holo VMAX",
+    "set_name": "Fusion Strike",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Galarian Linoone",
+    "number": "160",
+    "rarity": "Uncommon",
+    "set_name": "Fusion Strike",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Tyranitar V",
+    "number": "158",
+    "rarity": "Rare Holo V",
+    "set_name": "Fusion Strike",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Galarian Zigzagoon",
+    "number": "159",
+    "rarity": "Common",
+    "set_name": "Fusion Strike",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Galarian Obstagoon",
+    "number": "161",
+    "rarity": "Rare Holo",
+    "set_name": "Fusion Strike",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Carvanha",
+    "number": "162",
+    "rarity": "Common",
+    "set_name": "Fusion Strike",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Sharpedo",
+    "number": "163",
+    "rarity": "Uncommon",
+    "set_name": "Fusion Strike",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Absol",
+    "number": "164",
+    "rarity": "Rare",
+    "set_name": "Fusion Strike",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Croagunk",
+    "number": "165",
+    "rarity": "Common",
+    "set_name": "Fusion Strike",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Toxicroak",
+    "number": "166",
+    "rarity": "Rare",
+    "set_name": "Fusion Strike",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Darkrai",
+    "number": "167",
+    "rarity": "Uncommon",
+    "set_name": "Fusion Strike",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Trubbish",
+    "number": "168",
+    "rarity": "Common",
+    "set_name": "Fusion Strike",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Zorua",
+    "number": "170",
+    "rarity": "Common",
+    "set_name": "Fusion Strike",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Garbodor",
+    "number": "169",
+    "rarity": "Uncommon",
+    "set_name": "Fusion Strike",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Zoroark",
+    "number": "171",
+    "rarity": "Uncommon",
+    "set_name": "Fusion Strike",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Vullaby",
+    "number": "172",
+    "rarity": "Common",
+    "set_name": "Fusion Strike",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Mandibuzz",
+    "number": "173",
+    "rarity": "Uncommon",
+    "set_name": "Fusion Strike",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Pangoro",
+    "number": "174",
+    "rarity": "Uncommon",
+    "set_name": "Fusion Strike",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Grimmsnarl",
+    "number": "178",
+    "rarity": "Rare Holo",
+    "set_name": "Fusion Strike",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Morgrem",
+    "number": "177",
+    "rarity": "Uncommon",
+    "set_name": "Fusion Strike",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Galarian Meowth",
+    "number": "180",
+    "rarity": "Common",
+    "set_name": "Fusion Strike",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Yveltal",
+    "number": "175",
+    "rarity": "Rare",
+    "set_name": "Fusion Strike",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Morpeko",
+    "number": "179",
+    "rarity": "Common",
+    "set_name": "Fusion Strike",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Impidimp",
+    "number": "176",
+    "rarity": "Common",
+    "set_name": "Fusion Strike",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Durant",
+    "number": "184",
+    "rarity": "Common",
+    "set_name": "Fusion Strike",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Skarmory",
+    "number": "182",
+    "rarity": "Common",
+    "set_name": "Fusion Strike",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Galarian Perrserker",
+    "number": "181",
+    "rarity": "Uncommon",
+    "set_name": "Fusion Strike",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Excadrill",
+    "number": "183",
+    "rarity": "Uncommon",
+    "set_name": "Fusion Strike",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Genesect V",
+    "number": "185",
+    "rarity": "Rare Holo V",
+    "set_name": "Fusion Strike",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Togedemaru",
+    "number": "187",
+    "rarity": "Uncommon",
+    "set_name": "Fusion Strike",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Klefki",
+    "number": "186",
+    "rarity": "Common",
+    "set_name": "Fusion Strike",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Melmetal",
+    "number": "189",
+    "rarity": "Rare Holo",
+    "set_name": "Fusion Strike",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Meltan",
+    "number": "188",
+    "rarity": "Common",
+    "set_name": "Fusion Strike",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Corviknight",
+    "number": "190",
+    "rarity": "Rare",
+    "set_name": "Fusion Strike",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Cufant",
+    "number": "191",
+    "rarity": "Common",
+    "set_name": "Fusion Strike",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Copperajah",
+    "number": "192",
+    "rarity": "Uncommon",
+    "set_name": "Fusion Strike",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Latias",
+    "number": "193",
+    "rarity": "Rare",
+    "set_name": "Fusion Strike",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Latios",
+    "number": "194",
+    "rarity": "Rare",
+    "set_name": "Fusion Strike",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Goomy",
+    "number": "195",
+    "rarity": "Common",
+    "set_name": "Fusion Strike",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Goodra",
+    "number": "197",
+    "rarity": "Rare",
+    "set_name": "Fusion Strike",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Sliggoo",
+    "number": "196",
+    "rarity": "Uncommon",
+    "set_name": "Fusion Strike",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Persian",
+    "number": "200",
+    "rarity": "Uncommon",
+    "set_name": "Fusion Strike",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Turtonator",
+    "number": "198",
+    "rarity": "Uncommon",
+    "set_name": "Fusion Strike",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Meowth",
+    "number": "199",
+    "rarity": "Common",
+    "set_name": "Fusion Strike",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Dodrio V",
+    "number": "201",
+    "rarity": "Rare Holo V",
+    "set_name": "Fusion Strike",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Chansey",
+    "number": "202",
+    "rarity": "Common",
+    "set_name": "Fusion Strike",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Blissey",
+    "number": "203",
+    "rarity": "Rare",
+    "set_name": "Fusion Strike",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Kangaskhan",
+    "number": "204",
+    "rarity": "Rare",
+    "set_name": "Fusion Strike",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Eevee",
+    "number": "205",
+    "rarity": "Common",
+    "set_name": "Fusion Strike",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Dunsparce",
+    "number": "207",
+    "rarity": "Uncommon",
+    "set_name": "Fusion Strike",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Stantler",
+    "number": "208",
+    "rarity": "Uncommon",
+    "set_name": "Fusion Strike",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Skitty",
+    "number": "210",
+    "rarity": "Common",
+    "set_name": "Fusion Strike",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Smeargle",
+    "number": "209",
+    "rarity": "Common",
+    "set_name": "Fusion Strike",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Snorlax",
+    "number": "206",
+    "rarity": "Common",
+    "set_name": "Fusion Strike",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Delcatty",
+    "number": "211",
+    "rarity": "Uncommon",
+    "set_name": "Fusion Strike",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Buneary",
+    "number": "212",
+    "rarity": "Common",
+    "set_name": "Fusion Strike",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Lopunny",
+    "number": "213",
+    "rarity": "Uncommon",
+    "set_name": "Fusion Strike",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Diggersby",
+    "number": "215",
+    "rarity": "Uncommon",
+    "set_name": "Fusion Strike",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Hawlucha",
+    "number": "216",
+    "rarity": "Uncommon",
+    "set_name": "Fusion Strike",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Bunnelby",
+    "number": "214",
+    "rarity": "Common",
+    "set_name": "Fusion Strike",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Corvisquire",
+    "number": "220",
+    "rarity": "Uncommon",
+    "set_name": "Fusion Strike",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Greedent VMAX",
+    "number": "218",
+    "rarity": "Rare Holo VMAX",
+    "set_name": "Fusion Strike",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Greedent V",
+    "number": "217",
+    "rarity": "Rare Holo V",
+    "set_name": "Fusion Strike",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Rookidee",
+    "number": "219",
+    "rarity": "Common",
+    "set_name": "Fusion Strike",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Wooloo",
+    "number": "221",
+    "rarity": "Common",
+    "set_name": "Fusion Strike",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Dubwool",
+    "number": "223",
+    "rarity": "Uncommon",
+    "set_name": "Fusion Strike",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Wooloo",
+    "number": "222",
+    "rarity": "Common",
+    "set_name": "Fusion Strike",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Adventurer's Discovery",
+    "number": "224",
+    "rarity": "Uncommon",
+    "set_name": "Fusion Strike",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Battle VIP Pass",
+    "number": "225",
+    "rarity": "Uncommon",
+    "set_name": "Fusion Strike",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Bug Catcher",
+    "number": "226",
+    "rarity": "Uncommon",
+    "set_name": "Fusion Strike",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Cram-o-matic",
+    "number": "229",
+    "rarity": "Uncommon",
+    "set_name": "Fusion Strike",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Cook",
+    "number": "228",
+    "rarity": "Uncommon",
+    "set_name": "Fusion Strike",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Cross Switcher",
+    "number": "230",
+    "rarity": "Uncommon",
+    "set_name": "Fusion Strike",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Chili & Cilan & Cress",
+    "number": "227",
+    "rarity": "Uncommon",
+    "set_name": "Fusion Strike",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Crossceiver",
+    "number": "231",
+    "rarity": "Uncommon",
+    "set_name": "Fusion Strike",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Dancer",
+    "number": "232",
+    "rarity": "Uncommon",
+    "set_name": "Fusion Strike",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Farewell Bell",
+    "number": "234",
+    "rarity": "Uncommon",
+    "set_name": "Fusion Strike",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Judge",
+    "number": "235",
+    "rarity": "Uncommon",
+    "set_name": "Fusion Strike",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Elesa's Sparkle",
+    "number": "233",
+    "rarity": "Uncommon",
+    "set_name": "Fusion Strike",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Power Tablet",
+    "number": "236",
+    "rarity": "Uncommon",
+    "set_name": "Fusion Strike",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Quick Ball",
+    "number": "237",
+    "rarity": "Uncommon",
+    "set_name": "Fusion Strike",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Schoolboy",
+    "number": "238",
+    "rarity": "Uncommon",
+    "set_name": "Fusion Strike",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Shauna",
+    "number": "240",
+    "rarity": "Uncommon",
+    "set_name": "Fusion Strike",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Schoolgirl",
+    "number": "239",
+    "rarity": "Uncommon",
+    "set_name": "Fusion Strike",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Skaters' Park",
+    "number": "242",
+    "rarity": "Uncommon",
+    "set_name": "Fusion Strike",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Sidney",
+    "number": "241",
+    "rarity": "Uncommon",
+    "set_name": "Fusion Strike",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Spongy Gloves",
+    "number": "243",
+    "rarity": "Uncommon",
+    "set_name": "Fusion Strike",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Fusion Strike Energy",
+    "number": "244",
+    "rarity": "Uncommon",
+    "set_name": "Fusion Strike",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Tsareena V",
+    "number": "246",
+    "rarity": "Rare Ultra",
+    "set_name": "Fusion Strike",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Celebi V",
+    "number": "245",
+    "rarity": "Rare Ultra",
+    "set_name": "Fusion Strike",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Mew V",
+    "number": "250",
+    "rarity": "Rare Ultra",
+    "set_name": "Fusion Strike",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Chandelure V",
+    "number": "247",
+    "rarity": "Rare Ultra",
+    "set_name": "Fusion Strike",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Crabominable V",
+    "number": "248",
+    "rarity": "Rare Ultra",
+    "set_name": "Fusion Strike",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Boltund V",
+    "number": "249",
+    "rarity": "Rare Ultra",
+    "set_name": "Fusion Strike",
+    "set_series": "Sword & Shield"
+  }
+]

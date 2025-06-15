@@ -1,0 +1,814 @@
+[
+  {
+    "name": "Tangela",
+    "number": "1",
+    "rarity": "Common",
+    "set_name": "Steam Siege",
+    "set_series": "XY"
+  },
+  {
+    "name": "Tangrowth",
+    "number": "2",
+    "rarity": "Uncommon",
+    "set_name": "Steam Siege",
+    "set_series": "XY"
+  },
+  {
+    "name": "Hoppip",
+    "number": "3",
+    "rarity": "Common",
+    "set_name": "Steam Siege",
+    "set_series": "XY"
+  },
+  {
+    "name": "Skiploom",
+    "number": "4",
+    "rarity": "Uncommon",
+    "set_name": "Steam Siege",
+    "set_series": "XY"
+  },
+  {
+    "name": "Jumpluff",
+    "number": "5",
+    "rarity": "Rare",
+    "set_name": "Steam Siege",
+    "set_series": "XY"
+  },
+  {
+    "name": "Yanma",
+    "number": "6",
+    "rarity": "Common",
+    "set_name": "Steam Siege",
+    "set_series": "XY"
+  },
+  {
+    "name": "Yanmega",
+    "number": "7",
+    "rarity": "Rare",
+    "set_name": "Steam Siege",
+    "set_series": "XY"
+  },
+  {
+    "name": "Yanmega BREAK",
+    "number": "8",
+    "rarity": "Rare BREAK",
+    "set_name": "Steam Siege",
+    "set_series": "XY"
+  },
+  {
+    "name": "Seedot",
+    "number": "9",
+    "rarity": "Common",
+    "set_name": "Steam Siege",
+    "set_series": "XY"
+  },
+  {
+    "name": "Nuzleaf",
+    "number": "10",
+    "rarity": "Uncommon",
+    "set_name": "Steam Siege",
+    "set_series": "XY"
+  },
+  {
+    "name": "Shiftry",
+    "number": "11",
+    "rarity": "Rare Holo",
+    "set_name": "Steam Siege",
+    "set_series": "XY"
+  },
+  {
+    "name": "Foongus",
+    "number": "12",
+    "rarity": "Common",
+    "set_name": "Steam Siege",
+    "set_series": "XY"
+  },
+  {
+    "name": "Amoonguss",
+    "number": "13",
+    "rarity": "Rare",
+    "set_name": "Steam Siege",
+    "set_series": "XY"
+  },
+  {
+    "name": "Larvesta",
+    "number": "14",
+    "rarity": "Common",
+    "set_name": "Steam Siege",
+    "set_series": "XY"
+  },
+  {
+    "name": "Volcarona",
+    "number": "15",
+    "rarity": "Rare",
+    "set_name": "Steam Siege",
+    "set_series": "XY"
+  },
+  {
+    "name": "Ponyta",
+    "number": "16",
+    "rarity": "Common",
+    "set_name": "Steam Siege",
+    "set_series": "XY"
+  },
+  {
+    "name": "Rapidash",
+    "number": "17",
+    "rarity": "Uncommon",
+    "set_name": "Steam Siege",
+    "set_series": "XY"
+  },
+  {
+    "name": "Chimchar",
+    "number": "18",
+    "rarity": "Common",
+    "set_name": "Steam Siege",
+    "set_series": "XY"
+  },
+  {
+    "name": "Monferno",
+    "number": "19",
+    "rarity": "Uncommon",
+    "set_name": "Steam Siege",
+    "set_series": "XY"
+  },
+  {
+    "name": "Infernape",
+    "number": "20",
+    "rarity": "Rare Holo",
+    "set_name": "Steam Siege",
+    "set_series": "XY"
+  },
+  {
+    "name": "Talonflame BREAK",
+    "number": "21",
+    "rarity": "Rare BREAK",
+    "set_name": "Steam Siege",
+    "set_series": "XY"
+  },
+  {
+    "name": "Litleo",
+    "number": "22",
+    "rarity": "Common",
+    "set_name": "Steam Siege",
+    "set_series": "XY"
+  },
+  {
+    "name": "Pyroar",
+    "number": "23",
+    "rarity": "Rare",
+    "set_name": "Steam Siege",
+    "set_series": "XY"
+  },
+  {
+    "name": "Pyroar BREAK",
+    "number": "24",
+    "rarity": "Rare BREAK",
+    "set_name": "Steam Siege",
+    "set_series": "XY"
+  },
+  {
+    "name": "Volcanion",
+    "number": "25",
+    "rarity": "Rare",
+    "set_name": "Steam Siege",
+    "set_series": "XY"
+  },
+  {
+    "name": "Volcanion-EX",
+    "number": "26",
+    "rarity": "Rare Holo EX",
+    "set_name": "Steam Siege",
+    "set_series": "XY"
+  },
+  {
+    "name": "Mantine",
+    "number": "27",
+    "rarity": "Common",
+    "set_name": "Steam Siege",
+    "set_series": "XY"
+  },
+  {
+    "name": "Shellos",
+    "number": "28",
+    "rarity": "Common",
+    "set_name": "Steam Siege",
+    "set_series": "XY"
+  },
+  {
+    "name": "Gastrodon",
+    "number": "29",
+    "rarity": "Rare",
+    "set_name": "Steam Siege",
+    "set_series": "XY"
+  },
+  {
+    "name": "Oshawott",
+    "number": "30",
+    "rarity": "Common",
+    "set_name": "Steam Siege",
+    "set_series": "XY"
+  },
+  {
+    "name": "Dewott",
+    "number": "31",
+    "rarity": "Uncommon",
+    "set_name": "Steam Siege",
+    "set_series": "XY"
+  },
+  {
+    "name": "Samurott",
+    "number": "32",
+    "rarity": "Rare",
+    "set_name": "Steam Siege",
+    "set_series": "XY"
+  },
+  {
+    "name": "Clauncher",
+    "number": "33",
+    "rarity": "Common",
+    "set_name": "Steam Siege",
+    "set_series": "XY"
+  },
+  {
+    "name": "Clawitzer",
+    "number": "34",
+    "rarity": "Rare",
+    "set_name": "Steam Siege",
+    "set_series": "XY"
+  },
+  {
+    "name": "Clawitzer BREAK",
+    "number": "35",
+    "rarity": "Rare BREAK",
+    "set_name": "Steam Siege",
+    "set_series": "XY"
+  },
+  {
+    "name": "Bergmite",
+    "number": "36",
+    "rarity": "Common",
+    "set_name": "Steam Siege",
+    "set_series": "XY"
+  },
+  {
+    "name": "Avalugg",
+    "number": "37",
+    "rarity": "Rare",
+    "set_name": "Steam Siege",
+    "set_series": "XY"
+  },
+  {
+    "name": "Mareep",
+    "number": "38",
+    "rarity": "Common",
+    "set_name": "Steam Siege",
+    "set_series": "XY"
+  },
+  {
+    "name": "Flaaffy",
+    "number": "39",
+    "rarity": "Uncommon",
+    "set_name": "Steam Siege",
+    "set_series": "XY"
+  },
+  {
+    "name": "Ampharos",
+    "number": "40",
+    "rarity": "Rare Holo",
+    "set_name": "Steam Siege",
+    "set_series": "XY"
+  },
+  {
+    "name": "Joltik",
+    "number": "41",
+    "rarity": "Common",
+    "set_name": "Steam Siege",
+    "set_series": "XY"
+  },
+  {
+    "name": "Galvantula",
+    "number": "42",
+    "rarity": "Rare",
+    "set_name": "Steam Siege",
+    "set_series": "XY"
+  },
+  {
+    "name": "Nidoran \u2642",
+    "number": "43",
+    "rarity": "Common",
+    "set_name": "Steam Siege",
+    "set_series": "XY"
+  },
+  {
+    "name": "Nidorino",
+    "number": "44",
+    "rarity": "Uncommon",
+    "set_name": "Steam Siege",
+    "set_series": "XY"
+  },
+  {
+    "name": "Nidoking",
+    "number": "45",
+    "rarity": "Rare",
+    "set_name": "Steam Siege",
+    "set_series": "XY"
+  },
+  {
+    "name": "Drifloon",
+    "number": "46",
+    "rarity": "Common",
+    "set_name": "Steam Siege",
+    "set_series": "XY"
+  },
+  {
+    "name": "Drifblim",
+    "number": "47",
+    "rarity": "Uncommon",
+    "set_name": "Steam Siege",
+    "set_series": "XY"
+  },
+  {
+    "name": "Litwick",
+    "number": "48",
+    "rarity": "Common",
+    "set_name": "Steam Siege",
+    "set_series": "XY"
+  },
+  {
+    "name": "Lampent",
+    "number": "49",
+    "rarity": "Uncommon",
+    "set_name": "Steam Siege",
+    "set_series": "XY"
+  },
+  {
+    "name": "Chandelure",
+    "number": "50",
+    "rarity": "Rare Holo",
+    "set_name": "Steam Siege",
+    "set_series": "XY"
+  },
+  {
+    "name": "Hoopa",
+    "number": "51",
+    "rarity": "Rare",
+    "set_name": "Steam Siege",
+    "set_series": "XY"
+  },
+  {
+    "name": "Mankey",
+    "number": "52",
+    "rarity": "Common",
+    "set_name": "Steam Siege",
+    "set_series": "XY"
+  },
+  {
+    "name": "Primeape",
+    "number": "53",
+    "rarity": "Rare",
+    "set_name": "Steam Siege",
+    "set_series": "XY"
+  },
+  {
+    "name": "Nosepass",
+    "number": "54",
+    "rarity": "Common",
+    "set_name": "Steam Siege",
+    "set_series": "XY"
+  },
+  {
+    "name": "Probopass",
+    "number": "55",
+    "rarity": "Rare",
+    "set_name": "Steam Siege",
+    "set_series": "XY"
+  },
+  {
+    "name": "Anorith",
+    "number": "56",
+    "rarity": "Uncommon",
+    "set_name": "Steam Siege",
+    "set_series": "XY"
+  },
+  {
+    "name": "Armaldo",
+    "number": "57",
+    "rarity": "Rare",
+    "set_name": "Steam Siege",
+    "set_series": "XY"
+  },
+  {
+    "name": "Croagunk",
+    "number": "58",
+    "rarity": "Common",
+    "set_name": "Steam Siege",
+    "set_series": "XY"
+  },
+  {
+    "name": "Toxicroak",
+    "number": "59",
+    "rarity": "Rare",
+    "set_name": "Steam Siege",
+    "set_series": "XY"
+  },
+  {
+    "name": "Sneasel",
+    "number": "60",
+    "rarity": "Common",
+    "set_name": "Steam Siege",
+    "set_series": "XY"
+  },
+  {
+    "name": "Weavile",
+    "number": "61",
+    "rarity": "Rare",
+    "set_name": "Steam Siege",
+    "set_series": "XY"
+  },
+  {
+    "name": "Spiritomb",
+    "number": "62",
+    "rarity": "Rare",
+    "set_name": "Steam Siege",
+    "set_series": "XY"
+  },
+  {
+    "name": "Pawniard",
+    "number": "63",
+    "rarity": "Common",
+    "set_name": "Steam Siege",
+    "set_series": "XY"
+  },
+  {
+    "name": "Bisharp",
+    "number": "64",
+    "rarity": "Rare Holo",
+    "set_name": "Steam Siege",
+    "set_series": "XY"
+  },
+  {
+    "name": "Yveltal",
+    "number": "65",
+    "rarity": "Rare Holo",
+    "set_name": "Steam Siege",
+    "set_series": "XY"
+  },
+  {
+    "name": "Yveltal BREAK",
+    "number": "66",
+    "rarity": "Rare BREAK",
+    "set_name": "Steam Siege",
+    "set_series": "XY"
+  },
+  {
+    "name": "Steelix-EX",
+    "number": "67",
+    "rarity": "Rare Holo EX",
+    "set_name": "Steam Siege",
+    "set_series": "XY"
+  },
+  {
+    "name": "M Steelix-EX",
+    "number": "68",
+    "rarity": "Rare Holo EX",
+    "set_name": "Steam Siege",
+    "set_series": "XY"
+  },
+  {
+    "name": "Shieldon",
+    "number": "69",
+    "rarity": "Uncommon",
+    "set_name": "Steam Siege",
+    "set_series": "XY"
+  },
+  {
+    "name": "Bastiodon",
+    "number": "70",
+    "rarity": "Rare",
+    "set_name": "Steam Siege",
+    "set_series": "XY"
+  },
+  {
+    "name": "Klink",
+    "number": "71",
+    "rarity": "Common",
+    "set_name": "Steam Siege",
+    "set_series": "XY"
+  },
+  {
+    "name": "Klang",
+    "number": "72",
+    "rarity": "Uncommon",
+    "set_name": "Steam Siege",
+    "set_series": "XY"
+  },
+  {
+    "name": "Klinklang",
+    "number": "73",
+    "rarity": "Rare Holo",
+    "set_name": "Steam Siege",
+    "set_series": "XY"
+  },
+  {
+    "name": "Cobalion",
+    "number": "74",
+    "rarity": "Rare",
+    "set_name": "Steam Siege",
+    "set_series": "XY"
+  },
+  {
+    "name": "Magearna-EX",
+    "number": "75",
+    "rarity": "Rare Holo EX",
+    "set_name": "Steam Siege",
+    "set_series": "XY"
+  },
+  {
+    "name": "Marill",
+    "number": "76",
+    "rarity": "Common",
+    "set_name": "Steam Siege",
+    "set_series": "XY"
+  },
+  {
+    "name": "Azumarill",
+    "number": "77",
+    "rarity": "Uncommon",
+    "set_name": "Steam Siege",
+    "set_series": "XY"
+  },
+  {
+    "name": "Gardevoir-EX",
+    "number": "78",
+    "rarity": "Rare Holo EX",
+    "set_name": "Steam Siege",
+    "set_series": "XY"
+  },
+  {
+    "name": "M Gardevoir-EX",
+    "number": "79",
+    "rarity": "Rare Holo EX",
+    "set_name": "Steam Siege",
+    "set_series": "XY"
+  },
+  {
+    "name": "Klefki",
+    "number": "80",
+    "rarity": "Uncommon",
+    "set_name": "Steam Siege",
+    "set_series": "XY"
+  },
+  {
+    "name": "Xerneas",
+    "number": "81",
+    "rarity": "Rare Holo",
+    "set_name": "Steam Siege",
+    "set_series": "XY"
+  },
+  {
+    "name": "Xerneas BREAK",
+    "number": "82",
+    "rarity": "Rare BREAK",
+    "set_name": "Steam Siege",
+    "set_series": "XY"
+  },
+  {
+    "name": "Druddigon",
+    "number": "83",
+    "rarity": "Rare",
+    "set_name": "Steam Siege",
+    "set_series": "XY"
+  },
+  {
+    "name": "Deino",
+    "number": "84",
+    "rarity": "Common",
+    "set_name": "Steam Siege",
+    "set_series": "XY"
+  },
+  {
+    "name": "Zweilous",
+    "number": "85",
+    "rarity": "Uncommon",
+    "set_name": "Steam Siege",
+    "set_series": "XY"
+  },
+  {
+    "name": "Hydreigon",
+    "number": "86",
+    "rarity": "Rare Holo",
+    "set_name": "Steam Siege",
+    "set_series": "XY"
+  },
+  {
+    "name": "Hydreigon BREAK",
+    "number": "87",
+    "rarity": "Rare BREAK",
+    "set_name": "Steam Siege",
+    "set_series": "XY"
+  },
+  {
+    "name": "Meowth",
+    "number": "88",
+    "rarity": "Common",
+    "set_name": "Steam Siege",
+    "set_series": "XY"
+  },
+  {
+    "name": "Persian",
+    "number": "89",
+    "rarity": "Uncommon",
+    "set_name": "Steam Siege",
+    "set_series": "XY"
+  },
+  {
+    "name": "Aipom",
+    "number": "90",
+    "rarity": "Common",
+    "set_name": "Steam Siege",
+    "set_series": "XY"
+  },
+  {
+    "name": "Ambipom",
+    "number": "91",
+    "rarity": "Uncommon",
+    "set_name": "Steam Siege",
+    "set_series": "XY"
+  },
+  {
+    "name": "Rufflet",
+    "number": "92",
+    "rarity": "Common",
+    "set_name": "Steam Siege",
+    "set_series": "XY"
+  },
+  {
+    "name": "Braviary",
+    "number": "93",
+    "rarity": "Uncommon",
+    "set_name": "Steam Siege",
+    "set_series": "XY"
+  },
+  {
+    "name": "Fletchling",
+    "number": "94",
+    "rarity": "Common",
+    "set_name": "Steam Siege",
+    "set_series": "XY"
+  },
+  {
+    "name": "Fletchinder",
+    "number": "95",
+    "rarity": "Uncommon",
+    "set_name": "Steam Siege",
+    "set_series": "XY"
+  },
+  {
+    "name": "Talonflame",
+    "number": "96",
+    "rarity": "Rare",
+    "set_name": "Steam Siege",
+    "set_series": "XY"
+  },
+  {
+    "name": "Hawlucha",
+    "number": "97",
+    "rarity": "Uncommon",
+    "set_name": "Steam Siege",
+    "set_series": "XY"
+  },
+  {
+    "name": "Armor Fossil Shieldon",
+    "number": "98",
+    "rarity": "Uncommon",
+    "set_name": "Steam Siege",
+    "set_series": "XY"
+  },
+  {
+    "name": "Captivating Pok\u00e9 Puff",
+    "number": "99",
+    "rarity": "Uncommon",
+    "set_name": "Steam Siege",
+    "set_series": "XY"
+  },
+  {
+    "name": "Claw Fossil Anorith",
+    "number": "100",
+    "rarity": "Uncommon",
+    "set_name": "Steam Siege",
+    "set_series": "XY"
+  },
+  {
+    "name": "Gardevoir Spirit Link",
+    "number": "101",
+    "rarity": "Uncommon",
+    "set_name": "Steam Siege",
+    "set_series": "XY"
+  },
+  {
+    "name": "Greedy Dice",
+    "number": "102",
+    "rarity": "Uncommon",
+    "set_name": "Steam Siege",
+    "set_series": "XY"
+  },
+  {
+    "name": "Ninja Boy",
+    "number": "103",
+    "rarity": "Uncommon",
+    "set_name": "Steam Siege",
+    "set_series": "XY"
+  },
+  {
+    "name": "Pok\u00e9mon Ranger",
+    "number": "104",
+    "rarity": "Uncommon",
+    "set_name": "Steam Siege",
+    "set_series": "XY"
+  },
+  {
+    "name": "Special Charge",
+    "number": "105",
+    "rarity": "Uncommon",
+    "set_name": "Steam Siege",
+    "set_series": "XY"
+  },
+  {
+    "name": "Steelix Spirit Link",
+    "number": "106",
+    "rarity": "Uncommon",
+    "set_name": "Steam Siege",
+    "set_series": "XY"
+  },
+  {
+    "name": "Volcanion-EX",
+    "number": "107",
+    "rarity": "Rare Ultra",
+    "set_name": "Steam Siege",
+    "set_series": "XY"
+  },
+  {
+    "name": "Steelix-EX",
+    "number": "108",
+    "rarity": "Rare Ultra",
+    "set_name": "Steam Siege",
+    "set_series": "XY"
+  },
+  {
+    "name": "M Steelix-EX",
+    "number": "109",
+    "rarity": "Rare Ultra",
+    "set_name": "Steam Siege",
+    "set_series": "XY"
+  },
+  {
+    "name": "Magearna-EX",
+    "number": "110",
+    "rarity": "Rare Ultra",
+    "set_name": "Steam Siege",
+    "set_series": "XY"
+  },
+  {
+    "name": "Gardevoir-EX",
+    "number": "111",
+    "rarity": "Rare Ultra",
+    "set_name": "Steam Siege",
+    "set_series": "XY"
+  },
+  {
+    "name": "M Gardevoir-EX",
+    "number": "112",
+    "rarity": "Rare Ultra",
+    "set_name": "Steam Siege",
+    "set_series": "XY"
+  },
+  {
+    "name": "Pok\u00e9mon Ranger",
+    "number": "113",
+    "rarity": "Rare Ultra",
+    "set_name": "Steam Siege",
+    "set_series": "XY"
+  },
+  {
+    "name": "Professor Sycamore",
+    "number": "114",
+    "rarity": "Rare Ultra",
+    "set_name": "Steam Siege",
+    "set_series": "XY"
+  },
+  {
+    "name": "Volcanion-EX",
+    "number": "115",
+    "rarity": "Rare Secret",
+    "set_name": "Steam Siege",
+    "set_series": "XY"
+  },
+  {
+    "name": "Gardevoir-EX",
+    "number": "116",
+    "rarity": "Rare Secret",
+    "set_name": "Steam Siege",
+    "set_series": "XY"
+  }
+]

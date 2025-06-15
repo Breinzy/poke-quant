@@ -1,0 +1,653 @@
+[
+  {
+    "name": "Aerodactyl",
+    "number": "1",
+    "rarity": "Rare Holo",
+    "set_name": "Legend Maker",
+    "set_series": "EX"
+  },
+  {
+    "name": "Aggron",
+    "number": "2",
+    "rarity": "Rare Holo",
+    "set_name": "Legend Maker",
+    "set_series": "EX"
+  },
+  {
+    "name": "Cradily",
+    "number": "3",
+    "rarity": "Rare Holo",
+    "set_name": "Legend Maker",
+    "set_series": "EX"
+  },
+  {
+    "name": "Delcatty",
+    "number": "4",
+    "rarity": "Rare Holo",
+    "set_name": "Legend Maker",
+    "set_series": "EX"
+  },
+  {
+    "name": "Gengar",
+    "number": "5",
+    "rarity": "Rare Holo",
+    "set_name": "Legend Maker",
+    "set_series": "EX"
+  },
+  {
+    "name": "Golem",
+    "number": "6",
+    "rarity": "Rare Holo",
+    "set_name": "Legend Maker",
+    "set_series": "EX"
+  },
+  {
+    "name": "Kabutops",
+    "number": "7",
+    "rarity": "Rare Holo",
+    "set_name": "Legend Maker",
+    "set_series": "EX"
+  },
+  {
+    "name": "Lapras",
+    "number": "8",
+    "rarity": "Rare Holo",
+    "set_name": "Legend Maker",
+    "set_series": "EX"
+  },
+  {
+    "name": "Machamp",
+    "number": "9",
+    "rarity": "Rare Holo",
+    "set_name": "Legend Maker",
+    "set_series": "EX"
+  },
+  {
+    "name": "Mew",
+    "number": "10",
+    "rarity": "Rare Holo",
+    "set_name": "Legend Maker",
+    "set_series": "EX"
+  },
+  {
+    "name": "Muk",
+    "number": "11",
+    "rarity": "Rare Holo",
+    "set_name": "Legend Maker",
+    "set_series": "EX"
+  },
+  {
+    "name": "Shiftry",
+    "number": "12",
+    "rarity": "Rare Holo",
+    "set_name": "Legend Maker",
+    "set_series": "EX"
+  },
+  {
+    "name": "Victreebel",
+    "number": "13",
+    "rarity": "Rare Holo",
+    "set_name": "Legend Maker",
+    "set_series": "EX"
+  },
+  {
+    "name": "Wailord",
+    "number": "14",
+    "rarity": "Rare Holo",
+    "set_name": "Legend Maker",
+    "set_series": "EX"
+  },
+  {
+    "name": "Absol",
+    "number": "15",
+    "rarity": "Rare",
+    "set_name": "Legend Maker",
+    "set_series": "EX"
+  },
+  {
+    "name": "Girafarig",
+    "number": "16",
+    "rarity": "Rare",
+    "set_name": "Legend Maker",
+    "set_series": "EX"
+  },
+  {
+    "name": "Gorebyss",
+    "number": "17",
+    "rarity": "Rare",
+    "set_name": "Legend Maker",
+    "set_series": "EX"
+  },
+  {
+    "name": "Huntail",
+    "number": "18",
+    "rarity": "Rare",
+    "set_name": "Legend Maker",
+    "set_series": "EX"
+  },
+  {
+    "name": "Lanturn",
+    "number": "19",
+    "rarity": "Rare",
+    "set_name": "Legend Maker",
+    "set_series": "EX"
+  },
+  {
+    "name": "Lunatone",
+    "number": "20",
+    "rarity": "Rare",
+    "set_name": "Legend Maker",
+    "set_series": "EX"
+  },
+  {
+    "name": "Magmar",
+    "number": "21",
+    "rarity": "Rare",
+    "set_name": "Legend Maker",
+    "set_series": "EX"
+  },
+  {
+    "name": "Magneton",
+    "number": "22",
+    "rarity": "Rare",
+    "set_name": "Legend Maker",
+    "set_series": "EX"
+  },
+  {
+    "name": "Omastar",
+    "number": "23",
+    "rarity": "Rare",
+    "set_name": "Legend Maker",
+    "set_series": "EX"
+  },
+  {
+    "name": "Pinsir",
+    "number": "24",
+    "rarity": "Rare",
+    "set_name": "Legend Maker",
+    "set_series": "EX"
+  },
+  {
+    "name": "Solrock",
+    "number": "25",
+    "rarity": "Rare",
+    "set_name": "Legend Maker",
+    "set_series": "EX"
+  },
+  {
+    "name": "Spinda",
+    "number": "26",
+    "rarity": "Rare",
+    "set_name": "Legend Maker",
+    "set_series": "EX"
+  },
+  {
+    "name": "Torkoal",
+    "number": "27",
+    "rarity": "Rare",
+    "set_name": "Legend Maker",
+    "set_series": "EX"
+  },
+  {
+    "name": "Wobbuffet",
+    "number": "28",
+    "rarity": "Rare",
+    "set_name": "Legend Maker",
+    "set_series": "EX"
+  },
+  {
+    "name": "Anorith",
+    "number": "29",
+    "rarity": "Uncommon",
+    "set_name": "Legend Maker",
+    "set_series": "EX"
+  },
+  {
+    "name": "Cascoon",
+    "number": "30",
+    "rarity": "Uncommon",
+    "set_name": "Legend Maker",
+    "set_series": "EX"
+  },
+  {
+    "name": "Dunsparce",
+    "number": "31",
+    "rarity": "Uncommon",
+    "set_name": "Legend Maker",
+    "set_series": "EX"
+  },
+  {
+    "name": "Electrode",
+    "number": "32",
+    "rarity": "Uncommon",
+    "set_name": "Legend Maker",
+    "set_series": "EX"
+  },
+  {
+    "name": "Furret",
+    "number": "33",
+    "rarity": "Uncommon",
+    "set_name": "Legend Maker",
+    "set_series": "EX"
+  },
+  {
+    "name": "Graveler",
+    "number": "34",
+    "rarity": "Uncommon",
+    "set_name": "Legend Maker",
+    "set_series": "EX"
+  },
+  {
+    "name": "Haunter",
+    "number": "35",
+    "rarity": "Uncommon",
+    "set_name": "Legend Maker",
+    "set_series": "EX"
+  },
+  {
+    "name": "Kabuto",
+    "number": "36",
+    "rarity": "Uncommon",
+    "set_name": "Legend Maker",
+    "set_series": "EX"
+  },
+  {
+    "name": "Kecleon",
+    "number": "37",
+    "rarity": "Uncommon",
+    "set_name": "Legend Maker",
+    "set_series": "EX"
+  },
+  {
+    "name": "Lairon",
+    "number": "38",
+    "rarity": "Uncommon",
+    "set_name": "Legend Maker",
+    "set_series": "EX"
+  },
+  {
+    "name": "Machoke",
+    "number": "39",
+    "rarity": "Uncommon",
+    "set_name": "Legend Maker",
+    "set_series": "EX"
+  },
+  {
+    "name": "Misdreavus",
+    "number": "40",
+    "rarity": "Uncommon",
+    "set_name": "Legend Maker",
+    "set_series": "EX"
+  },
+  {
+    "name": "Nuzleaf",
+    "number": "41",
+    "rarity": "Uncommon",
+    "set_name": "Legend Maker",
+    "set_series": "EX"
+  },
+  {
+    "name": "Roselia",
+    "number": "42",
+    "rarity": "Uncommon",
+    "set_name": "Legend Maker",
+    "set_series": "EX"
+  },
+  {
+    "name": "Sealeo",
+    "number": "43",
+    "rarity": "Uncommon",
+    "set_name": "Legend Maker",
+    "set_series": "EX"
+  },
+  {
+    "name": "Tangela",
+    "number": "44",
+    "rarity": "Uncommon",
+    "set_name": "Legend Maker",
+    "set_series": "EX"
+  },
+  {
+    "name": "Tentacruel",
+    "number": "45",
+    "rarity": "Uncommon",
+    "set_name": "Legend Maker",
+    "set_series": "EX"
+  },
+  {
+    "name": "Vibrava",
+    "number": "46",
+    "rarity": "Uncommon",
+    "set_name": "Legend Maker",
+    "set_series": "EX"
+  },
+  {
+    "name": "Weepinbell",
+    "number": "47",
+    "rarity": "Uncommon",
+    "set_name": "Legend Maker",
+    "set_series": "EX"
+  },
+  {
+    "name": "Aron",
+    "number": "48",
+    "rarity": "Common",
+    "set_name": "Legend Maker",
+    "set_series": "EX"
+  },
+  {
+    "name": "Bellsprout",
+    "number": "49",
+    "rarity": "Common",
+    "set_name": "Legend Maker",
+    "set_series": "EX"
+  },
+  {
+    "name": "Chinchou",
+    "number": "50",
+    "rarity": "Common",
+    "set_name": "Legend Maker",
+    "set_series": "EX"
+  },
+  {
+    "name": "Clamperl",
+    "number": "51",
+    "rarity": "Common",
+    "set_name": "Legend Maker",
+    "set_series": "EX"
+  },
+  {
+    "name": "Gastly",
+    "number": "52",
+    "rarity": "Common",
+    "set_name": "Legend Maker",
+    "set_series": "EX"
+  },
+  {
+    "name": "Geodude",
+    "number": "53",
+    "rarity": "Common",
+    "set_name": "Legend Maker",
+    "set_series": "EX"
+  },
+  {
+    "name": "Grimer",
+    "number": "54",
+    "rarity": "Common",
+    "set_name": "Legend Maker",
+    "set_series": "EX"
+  },
+  {
+    "name": "Growlithe",
+    "number": "55",
+    "rarity": "Common",
+    "set_name": "Legend Maker",
+    "set_series": "EX"
+  },
+  {
+    "name": "Lileep",
+    "number": "56",
+    "rarity": "Common",
+    "set_name": "Legend Maker",
+    "set_series": "EX"
+  },
+  {
+    "name": "Machop",
+    "number": "57",
+    "rarity": "Common",
+    "set_name": "Legend Maker",
+    "set_series": "EX"
+  },
+  {
+    "name": "Magby",
+    "number": "58",
+    "rarity": "Common",
+    "set_name": "Legend Maker",
+    "set_series": "EX"
+  },
+  {
+    "name": "Magnemite",
+    "number": "59",
+    "rarity": "Common",
+    "set_name": "Legend Maker",
+    "set_series": "EX"
+  },
+  {
+    "name": "Omanyte",
+    "number": "60",
+    "rarity": "Common",
+    "set_name": "Legend Maker",
+    "set_series": "EX"
+  },
+  {
+    "name": "Seedot",
+    "number": "61",
+    "rarity": "Common",
+    "set_name": "Legend Maker",
+    "set_series": "EX"
+  },
+  {
+    "name": "Sentret",
+    "number": "62",
+    "rarity": "Common",
+    "set_name": "Legend Maker",
+    "set_series": "EX"
+  },
+  {
+    "name": "Shuppet",
+    "number": "63",
+    "rarity": "Common",
+    "set_name": "Legend Maker",
+    "set_series": "EX"
+  },
+  {
+    "name": "Skitty",
+    "number": "64",
+    "rarity": "Common",
+    "set_name": "Legend Maker",
+    "set_series": "EX"
+  },
+  {
+    "name": "Spheal",
+    "number": "65",
+    "rarity": "Common",
+    "set_name": "Legend Maker",
+    "set_series": "EX"
+  },
+  {
+    "name": "Tentacool",
+    "number": "66",
+    "rarity": "Common",
+    "set_name": "Legend Maker",
+    "set_series": "EX"
+  },
+  {
+    "name": "Trapinch",
+    "number": "67",
+    "rarity": "Common",
+    "set_name": "Legend Maker",
+    "set_series": "EX"
+  },
+  {
+    "name": "Voltorb",
+    "number": "68",
+    "rarity": "Common",
+    "set_name": "Legend Maker",
+    "set_series": "EX"
+  },
+  {
+    "name": "Wailmer",
+    "number": "69",
+    "rarity": "Common",
+    "set_name": "Legend Maker",
+    "set_series": "EX"
+  },
+  {
+    "name": "Wurmple",
+    "number": "70",
+    "rarity": "Common",
+    "set_name": "Legend Maker",
+    "set_series": "EX"
+  },
+  {
+    "name": "Wynaut",
+    "number": "71",
+    "rarity": "Common",
+    "set_name": "Legend Maker",
+    "set_series": "EX"
+  },
+  {
+    "name": "Cursed Stone",
+    "number": "72",
+    "rarity": "Uncommon",
+    "set_name": "Legend Maker",
+    "set_series": "EX"
+  },
+  {
+    "name": "Fieldworker",
+    "number": "73",
+    "rarity": "Uncommon",
+    "set_name": "Legend Maker",
+    "set_series": "EX"
+  },
+  {
+    "name": "Full Flame",
+    "number": "74",
+    "rarity": "Uncommon",
+    "set_name": "Legend Maker",
+    "set_series": "EX"
+  },
+  {
+    "name": "Giant Stump",
+    "number": "75",
+    "rarity": "Uncommon",
+    "set_name": "Legend Maker",
+    "set_series": "EX"
+  },
+  {
+    "name": "Power Tree",
+    "number": "76",
+    "rarity": "Uncommon",
+    "set_name": "Legend Maker",
+    "set_series": "EX"
+  },
+  {
+    "name": "Strange Cave",
+    "number": "77",
+    "rarity": "Uncommon",
+    "set_name": "Legend Maker",
+    "set_series": "EX"
+  },
+  {
+    "name": "Claw Fossil",
+    "number": "78",
+    "rarity": "Common",
+    "set_name": "Legend Maker",
+    "set_series": "EX"
+  },
+  {
+    "name": "Mysterious Fossil",
+    "number": "79",
+    "rarity": "Common",
+    "set_name": "Legend Maker",
+    "set_series": "EX"
+  },
+  {
+    "name": "Root Fossil",
+    "number": "80",
+    "rarity": "Common",
+    "set_name": "Legend Maker",
+    "set_series": "EX"
+  },
+  {
+    "name": "Rainbow Energy",
+    "number": "81",
+    "rarity": "Rare",
+    "set_name": "Legend Maker",
+    "set_series": "EX"
+  },
+  {
+    "name": "React Energy",
+    "number": "82",
+    "rarity": "Uncommon",
+    "set_name": "Legend Maker",
+    "set_series": "EX"
+  },
+  {
+    "name": "Arcanine ex",
+    "number": "83",
+    "rarity": "Rare Holo EX",
+    "set_name": "Legend Maker",
+    "set_series": "EX"
+  },
+  {
+    "name": "Armaldo ex",
+    "number": "84",
+    "rarity": "Rare Holo EX",
+    "set_name": "Legend Maker",
+    "set_series": "EX"
+  },
+  {
+    "name": "Banette ex",
+    "number": "85",
+    "rarity": "Rare Holo EX",
+    "set_name": "Legend Maker",
+    "set_series": "EX"
+  },
+  {
+    "name": "Dustox ex",
+    "number": "86",
+    "rarity": "Rare Holo EX",
+    "set_name": "Legend Maker",
+    "set_series": "EX"
+  },
+  {
+    "name": "Flygon ex",
+    "number": "87",
+    "rarity": "Rare Holo EX",
+    "set_name": "Legend Maker",
+    "set_series": "EX"
+  },
+  {
+    "name": "Mew ex",
+    "number": "88",
+    "rarity": "Rare Holo EX",
+    "set_name": "Legend Maker",
+    "set_series": "EX"
+  },
+  {
+    "name": "Walrein ex",
+    "number": "89",
+    "rarity": "Rare Holo EX",
+    "set_name": "Legend Maker",
+    "set_series": "EX"
+  },
+  {
+    "name": "Regice \u2605",
+    "number": "90",
+    "rarity": "Rare Holo Star",
+    "set_name": "Legend Maker",
+    "set_series": "EX"
+  },
+  {
+    "name": "Regirock \u2605",
+    "number": "91",
+    "rarity": "Rare Holo Star",
+    "set_name": "Legend Maker",
+    "set_series": "EX"
+  },
+  {
+    "name": "Registeel \u2605",
+    "number": "92",
+    "rarity": "Rare Holo Star",
+    "set_name": "Legend Maker",
+    "set_series": "EX"
+  },
+  {
+    "name": "Pikachu \u03b4",
+    "number": "93",
+    "rarity": "Rare Secret",
+    "set_name": "Legend Maker",
+    "set_series": "EX"
+  }
+]

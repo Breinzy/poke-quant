@@ -1,0 +1,870 @@
+[
+  {
+    "name": "Venonat",
+    "number": "1",
+    "rarity": "Common",
+    "set_name": "Phantom Forces",
+    "set_series": "XY"
+  },
+  {
+    "name": "Venomoth",
+    "number": "2",
+    "rarity": "Rare",
+    "set_name": "Phantom Forces",
+    "set_series": "XY"
+  },
+  {
+    "name": "Yanma",
+    "number": "3",
+    "rarity": "Common",
+    "set_name": "Phantom Forces",
+    "set_series": "XY"
+  },
+  {
+    "name": "Yanmega",
+    "number": "4",
+    "rarity": "Rare",
+    "set_name": "Phantom Forces",
+    "set_series": "XY"
+  },
+  {
+    "name": "Sewaddle",
+    "number": "5",
+    "rarity": "Common",
+    "set_name": "Phantom Forces",
+    "set_series": "XY"
+  },
+  {
+    "name": "Swadloon",
+    "number": "6",
+    "rarity": "Uncommon",
+    "set_name": "Phantom Forces",
+    "set_series": "XY"
+  },
+  {
+    "name": "Leavanny",
+    "number": "7",
+    "rarity": "Rare",
+    "set_name": "Phantom Forces",
+    "set_series": "XY"
+  },
+  {
+    "name": "Karrablast",
+    "number": "8",
+    "rarity": "Common",
+    "set_name": "Phantom Forces",
+    "set_series": "XY"
+  },
+  {
+    "name": "Fletchinder",
+    "number": "9",
+    "rarity": "Uncommon",
+    "set_name": "Phantom Forces",
+    "set_series": "XY"
+  },
+  {
+    "name": "Talonflame",
+    "number": "10",
+    "rarity": "Rare",
+    "set_name": "Phantom Forces",
+    "set_series": "XY"
+  },
+  {
+    "name": "Litleo",
+    "number": "11",
+    "rarity": "Common",
+    "set_name": "Phantom Forces",
+    "set_series": "XY"
+  },
+  {
+    "name": "Pyroar",
+    "number": "12",
+    "rarity": "Rare Holo",
+    "set_name": "Phantom Forces",
+    "set_series": "XY"
+  },
+  {
+    "name": "Krabby",
+    "number": "13",
+    "rarity": "Common",
+    "set_name": "Phantom Forces",
+    "set_series": "XY"
+  },
+  {
+    "name": "Kingler",
+    "number": "14",
+    "rarity": "Uncommon",
+    "set_name": "Phantom Forces",
+    "set_series": "XY"
+  },
+  {
+    "name": "Totodile",
+    "number": "15",
+    "rarity": "Common",
+    "set_name": "Phantom Forces",
+    "set_series": "XY"
+  },
+  {
+    "name": "Croconaw",
+    "number": "16",
+    "rarity": "Uncommon",
+    "set_name": "Phantom Forces",
+    "set_series": "XY"
+  },
+  {
+    "name": "Feraligatr",
+    "number": "17",
+    "rarity": "Rare Holo",
+    "set_name": "Phantom Forces",
+    "set_series": "XY"
+  },
+  {
+    "name": "Finneon",
+    "number": "18",
+    "rarity": "Common",
+    "set_name": "Phantom Forces",
+    "set_series": "XY"
+  },
+  {
+    "name": "Lumineon",
+    "number": "19",
+    "rarity": "Uncommon",
+    "set_name": "Phantom Forces",
+    "set_series": "XY"
+  },
+  {
+    "name": "Frillish",
+    "number": "20",
+    "rarity": "Common",
+    "set_name": "Phantom Forces",
+    "set_series": "XY"
+  },
+  {
+    "name": "Jellicent",
+    "number": "21",
+    "rarity": "Rare",
+    "set_name": "Phantom Forces",
+    "set_series": "XY"
+  },
+  {
+    "name": "Alomomola",
+    "number": "22",
+    "rarity": "Common",
+    "set_name": "Phantom Forces",
+    "set_series": "XY"
+  },
+  {
+    "name": "Manectric-EX",
+    "number": "23",
+    "rarity": "Rare Holo EX",
+    "set_name": "Phantom Forces",
+    "set_series": "XY"
+  },
+  {
+    "name": "M Manectric-EX",
+    "number": "24",
+    "rarity": "Rare Holo EX",
+    "set_name": "Phantom Forces",
+    "set_series": "XY"
+  },
+  {
+    "name": "M Manectric-EX",
+    "number": "24a",
+    "rarity": "Rare Ultra",
+    "set_name": "Phantom Forces",
+    "set_series": "XY"
+  },
+  {
+    "name": "Pachirisu",
+    "number": "25",
+    "rarity": "Rare",
+    "set_name": "Phantom Forces",
+    "set_series": "XY"
+  },
+  {
+    "name": "Joltik",
+    "number": "26",
+    "rarity": "Common",
+    "set_name": "Phantom Forces",
+    "set_series": "XY"
+  },
+  {
+    "name": "Galvantula",
+    "number": "27",
+    "rarity": "Rare",
+    "set_name": "Phantom Forces",
+    "set_series": "XY"
+  },
+  {
+    "name": "Helioptile",
+    "number": "28",
+    "rarity": "Common",
+    "set_name": "Phantom Forces",
+    "set_series": "XY"
+  },
+  {
+    "name": "Helioptile",
+    "number": "29",
+    "rarity": "Common",
+    "set_name": "Phantom Forces",
+    "set_series": "XY"
+  },
+  {
+    "name": "Heliolisk",
+    "number": "30",
+    "rarity": "Rare Holo",
+    "set_name": "Phantom Forces",
+    "set_series": "XY"
+  },
+  {
+    "name": "Zubat",
+    "number": "31",
+    "rarity": "Common",
+    "set_name": "Phantom Forces",
+    "set_series": "XY"
+  },
+  {
+    "name": "Golbat",
+    "number": "32",
+    "rarity": "Uncommon",
+    "set_name": "Phantom Forces",
+    "set_series": "XY"
+  },
+  {
+    "name": "Crobat",
+    "number": "33",
+    "rarity": "Rare",
+    "set_name": "Phantom Forces",
+    "set_series": "XY"
+  },
+  {
+    "name": "Gengar-EX",
+    "number": "34",
+    "rarity": "Rare Holo EX",
+    "set_name": "Phantom Forces",
+    "set_series": "XY"
+  },
+  {
+    "name": "M Gengar-EX",
+    "number": "35",
+    "rarity": "Rare Holo EX",
+    "set_name": "Phantom Forces",
+    "set_series": "XY"
+  },
+  {
+    "name": "Wobbuffet",
+    "number": "36",
+    "rarity": "Uncommon",
+    "set_name": "Phantom Forces",
+    "set_series": "XY"
+  },
+  {
+    "name": "Gulpin",
+    "number": "37",
+    "rarity": "Common",
+    "set_name": "Phantom Forces",
+    "set_series": "XY"
+  },
+  {
+    "name": "Swalot",
+    "number": "38",
+    "rarity": "Rare",
+    "set_name": "Phantom Forces",
+    "set_series": "XY"
+  },
+  {
+    "name": "Munna",
+    "number": "39",
+    "rarity": "Common",
+    "set_name": "Phantom Forces",
+    "set_series": "XY"
+  },
+  {
+    "name": "Musharna",
+    "number": "40",
+    "rarity": "Rare",
+    "set_name": "Phantom Forces",
+    "set_series": "XY"
+  },
+  {
+    "name": "Litwick",
+    "number": "41",
+    "rarity": "Common",
+    "set_name": "Phantom Forces",
+    "set_series": "XY"
+  },
+  {
+    "name": "Lampent",
+    "number": "42",
+    "rarity": "Uncommon",
+    "set_name": "Phantom Forces",
+    "set_series": "XY"
+  },
+  {
+    "name": "Chandelure",
+    "number": "43",
+    "rarity": "Rare Holo",
+    "set_name": "Phantom Forces",
+    "set_series": "XY"
+  },
+  {
+    "name": "Pumpkaboo",
+    "number": "44",
+    "rarity": "Common",
+    "set_name": "Phantom Forces",
+    "set_series": "XY"
+  },
+  {
+    "name": "Gourgeist",
+    "number": "45",
+    "rarity": "Rare Holo",
+    "set_name": "Phantom Forces",
+    "set_series": "XY"
+  },
+  {
+    "name": "Gligar",
+    "number": "46",
+    "rarity": "Common",
+    "set_name": "Phantom Forces",
+    "set_series": "XY"
+  },
+  {
+    "name": "Gliscor",
+    "number": "47",
+    "rarity": "Rare",
+    "set_name": "Phantom Forces",
+    "set_series": "XY"
+  },
+  {
+    "name": "Roggenrola",
+    "number": "48",
+    "rarity": "Common",
+    "set_name": "Phantom Forces",
+    "set_series": "XY"
+  },
+  {
+    "name": "Boldore",
+    "number": "49",
+    "rarity": "Uncommon",
+    "set_name": "Phantom Forces",
+    "set_series": "XY"
+  },
+  {
+    "name": "Gigalith",
+    "number": "50",
+    "rarity": "Rare Holo",
+    "set_name": "Phantom Forces",
+    "set_series": "XY"
+  },
+  {
+    "name": "Murkrow",
+    "number": "51",
+    "rarity": "Common",
+    "set_name": "Phantom Forces",
+    "set_series": "XY"
+  },
+  {
+    "name": "Honchkrow",
+    "number": "52",
+    "rarity": "Rare",
+    "set_name": "Phantom Forces",
+    "set_series": "XY"
+  },
+  {
+    "name": "Poochyena",
+    "number": "53",
+    "rarity": "Common",
+    "set_name": "Phantom Forces",
+    "set_series": "XY"
+  },
+  {
+    "name": "Mightyena",
+    "number": "54",
+    "rarity": "Rare",
+    "set_name": "Phantom Forces",
+    "set_series": "XY"
+  },
+  {
+    "name": "Spiritomb",
+    "number": "55",
+    "rarity": "Rare",
+    "set_name": "Phantom Forces",
+    "set_series": "XY"
+  },
+  {
+    "name": "Purrloin",
+    "number": "56",
+    "rarity": "Common",
+    "set_name": "Phantom Forces",
+    "set_series": "XY"
+  },
+  {
+    "name": "Liepard",
+    "number": "57",
+    "rarity": "Uncommon",
+    "set_name": "Phantom Forces",
+    "set_series": "XY"
+  },
+  {
+    "name": "Malamar-EX",
+    "number": "58",
+    "rarity": "Rare Holo EX",
+    "set_name": "Phantom Forces",
+    "set_series": "XY"
+  },
+  {
+    "name": "Skarmory",
+    "number": "59",
+    "rarity": "Common",
+    "set_name": "Phantom Forces",
+    "set_series": "XY"
+  },
+  {
+    "name": "Bronzor",
+    "number": "60",
+    "rarity": "Common",
+    "set_name": "Phantom Forces",
+    "set_series": "XY"
+  },
+  {
+    "name": "Bronzong",
+    "number": "61",
+    "rarity": "Rare",
+    "set_name": "Phantom Forces",
+    "set_series": "XY"
+  },
+  {
+    "name": "Dialga-EX",
+    "number": "62",
+    "rarity": "Rare Holo EX",
+    "set_name": "Phantom Forces",
+    "set_series": "XY"
+  },
+  {
+    "name": "Heatran",
+    "number": "63",
+    "rarity": "Rare Holo",
+    "set_name": "Phantom Forces",
+    "set_series": "XY"
+  },
+  {
+    "name": "Escavalier",
+    "number": "64",
+    "rarity": "Rare",
+    "set_name": "Phantom Forces",
+    "set_series": "XY"
+  },
+  {
+    "name": "Aegislash-EX",
+    "number": "65",
+    "rarity": "Rare Holo EX",
+    "set_name": "Phantom Forces",
+    "set_series": "XY"
+  },
+  {
+    "name": "Aegislash-EX",
+    "number": "65a",
+    "rarity": "Rare Ultra",
+    "set_name": "Phantom Forces",
+    "set_series": "XY"
+  },
+  {
+    "name": "Klefki",
+    "number": "66",
+    "rarity": "Uncommon",
+    "set_name": "Phantom Forces",
+    "set_series": "XY"
+  },
+  {
+    "name": "Florges-EX",
+    "number": "67",
+    "rarity": "Rare Holo EX",
+    "set_name": "Phantom Forces",
+    "set_series": "XY"
+  },
+  {
+    "name": "Swirlix",
+    "number": "68",
+    "rarity": "Common",
+    "set_name": "Phantom Forces",
+    "set_series": "XY"
+  },
+  {
+    "name": "Slurpuff",
+    "number": "69",
+    "rarity": "Rare Holo",
+    "set_name": "Phantom Forces",
+    "set_series": "XY"
+  },
+  {
+    "name": "Dedenne",
+    "number": "70",
+    "rarity": "Common",
+    "set_name": "Phantom Forces",
+    "set_series": "XY"
+  },
+  {
+    "name": "Diancie",
+    "number": "71",
+    "rarity": "Rare Holo",
+    "set_name": "Phantom Forces",
+    "set_series": "XY"
+  },
+  {
+    "name": "Deino",
+    "number": "72",
+    "rarity": "Common",
+    "set_name": "Phantom Forces",
+    "set_series": "XY"
+  },
+  {
+    "name": "Zweilous",
+    "number": "73",
+    "rarity": "Uncommon",
+    "set_name": "Phantom Forces",
+    "set_series": "XY"
+  },
+  {
+    "name": "Hydreigon",
+    "number": "74",
+    "rarity": "Rare Holo",
+    "set_name": "Phantom Forces",
+    "set_series": "XY"
+  },
+  {
+    "name": "Goomy",
+    "number": "75",
+    "rarity": "Common",
+    "set_name": "Phantom Forces",
+    "set_series": "XY"
+  },
+  {
+    "name": "Sliggoo",
+    "number": "76",
+    "rarity": "Uncommon",
+    "set_name": "Phantom Forces",
+    "set_series": "XY"
+  },
+  {
+    "name": "Goodra",
+    "number": "77",
+    "rarity": "Rare Holo",
+    "set_name": "Phantom Forces",
+    "set_series": "XY"
+  },
+  {
+    "name": "Spearow",
+    "number": "78",
+    "rarity": "Common",
+    "set_name": "Phantom Forces",
+    "set_series": "XY"
+  },
+  {
+    "name": "Fearow",
+    "number": "79",
+    "rarity": "Uncommon",
+    "set_name": "Phantom Forces",
+    "set_series": "XY"
+  },
+  {
+    "name": "Chansey",
+    "number": "80",
+    "rarity": "Common",
+    "set_name": "Phantom Forces",
+    "set_series": "XY"
+  },
+  {
+    "name": "Blissey",
+    "number": "81",
+    "rarity": "Rare",
+    "set_name": "Phantom Forces",
+    "set_series": "XY"
+  },
+  {
+    "name": "Girafarig",
+    "number": "82",
+    "rarity": "Uncommon",
+    "set_name": "Phantom Forces",
+    "set_series": "XY"
+  },
+  {
+    "name": "Whismur",
+    "number": "83",
+    "rarity": "Common",
+    "set_name": "Phantom Forces",
+    "set_series": "XY"
+  },
+  {
+    "name": "Loudred",
+    "number": "84",
+    "rarity": "Uncommon",
+    "set_name": "Phantom Forces",
+    "set_series": "XY"
+  },
+  {
+    "name": "Exploud",
+    "number": "85",
+    "rarity": "Rare",
+    "set_name": "Phantom Forces",
+    "set_series": "XY"
+  },
+  {
+    "name": "Regigigas",
+    "number": "86",
+    "rarity": "Rare Holo",
+    "set_name": "Phantom Forces",
+    "set_series": "XY"
+  },
+  {
+    "name": "Bunnelby",
+    "number": "87",
+    "rarity": "Common",
+    "set_name": "Phantom Forces",
+    "set_series": "XY"
+  },
+  {
+    "name": "Diggersby",
+    "number": "88",
+    "rarity": "Rare",
+    "set_name": "Phantom Forces",
+    "set_series": "XY"
+  },
+  {
+    "name": "Fletchling",
+    "number": "89",
+    "rarity": "Common",
+    "set_name": "Phantom Forces",
+    "set_series": "XY"
+  },
+  {
+    "name": "Furfrou",
+    "number": "90",
+    "rarity": "Uncommon",
+    "set_name": "Phantom Forces",
+    "set_series": "XY"
+  },
+  {
+    "name": "AZ",
+    "number": "91",
+    "rarity": "Uncommon",
+    "set_name": "Phantom Forces",
+    "set_series": "XY"
+  },
+  {
+    "name": "Battle Compressor Team Flare Gear",
+    "number": "92",
+    "rarity": "Uncommon",
+    "set_name": "Phantom Forces",
+    "set_series": "XY"
+  },
+  {
+    "name": "Dimension Valley",
+    "number": "93",
+    "rarity": "Uncommon",
+    "set_name": "Phantom Forces",
+    "set_series": "XY"
+  },
+  {
+    "name": "Enhanced Hammer",
+    "number": "94",
+    "rarity": "Uncommon",
+    "set_name": "Phantom Forces",
+    "set_series": "XY"
+  },
+  {
+    "name": "Gengar Spirit Link",
+    "number": "95",
+    "rarity": "Uncommon",
+    "set_name": "Phantom Forces",
+    "set_series": "XY"
+  },
+  {
+    "name": "Hand Scope",
+    "number": "96",
+    "rarity": "Uncommon",
+    "set_name": "Phantom Forces",
+    "set_series": "XY"
+  },
+  {
+    "name": "Head Ringer Team Flare Hyper Gear",
+    "number": "97",
+    "rarity": "Rare Holo",
+    "set_name": "Phantom Forces",
+    "set_series": "XY"
+  },
+  {
+    "name": "Jamming Net Team Flare Hyper Gear",
+    "number": "98",
+    "rarity": "Rare Holo",
+    "set_name": "Phantom Forces",
+    "set_series": "XY"
+  },
+  {
+    "name": "Lysandre's Trump Card",
+    "number": "99",
+    "rarity": "Uncommon",
+    "set_name": "Phantom Forces",
+    "set_series": "XY"
+  },
+  {
+    "name": "Manectric Spirit Link",
+    "number": "100",
+    "rarity": "Uncommon",
+    "set_name": "Phantom Forces",
+    "set_series": "XY"
+  },
+  {
+    "name": "Professor Sycamore",
+    "number": "101",
+    "rarity": "Uncommon",
+    "set_name": "Phantom Forces",
+    "set_series": "XY"
+  },
+  {
+    "name": "Robo Substitute Team Flare Gear",
+    "number": "102",
+    "rarity": "Uncommon",
+    "set_name": "Phantom Forces",
+    "set_series": "XY"
+  },
+  {
+    "name": "Roller Skates",
+    "number": "103",
+    "rarity": "Uncommon",
+    "set_name": "Phantom Forces",
+    "set_series": "XY"
+  },
+  {
+    "name": "Shauna",
+    "number": "104",
+    "rarity": "Uncommon",
+    "set_name": "Phantom Forces",
+    "set_series": "XY"
+  },
+  {
+    "name": "Steel Shelter",
+    "number": "105",
+    "rarity": "Uncommon",
+    "set_name": "Phantom Forces",
+    "set_series": "XY"
+  },
+  {
+    "name": "Target Whistle Team Flare Gear",
+    "number": "106",
+    "rarity": "Uncommon",
+    "set_name": "Phantom Forces",
+    "set_series": "XY"
+  },
+  {
+    "name": "Tierno",
+    "number": "107",
+    "rarity": "Uncommon",
+    "set_name": "Phantom Forces",
+    "set_series": "XY"
+  },
+  {
+    "name": "Trick Coin",
+    "number": "108",
+    "rarity": "Uncommon",
+    "set_name": "Phantom Forces",
+    "set_series": "XY"
+  },
+  {
+    "name": "VS Seeker",
+    "number": "109",
+    "rarity": "Uncommon",
+    "set_name": "Phantom Forces",
+    "set_series": "XY"
+  },
+  {
+    "name": "Xerosic",
+    "number": "110",
+    "rarity": "Uncommon",
+    "set_name": "Phantom Forces",
+    "set_series": "XY"
+  },
+  {
+    "name": "Double Colorless Energy",
+    "number": "111",
+    "rarity": "Uncommon",
+    "set_name": "Phantom Forces",
+    "set_series": "XY"
+  },
+  {
+    "name": "Mystery Energy",
+    "number": "112",
+    "rarity": "Uncommon",
+    "set_name": "Phantom Forces",
+    "set_series": "XY"
+  },
+  {
+    "name": "Manectric-EX",
+    "number": "113",
+    "rarity": "Rare Ultra",
+    "set_name": "Phantom Forces",
+    "set_series": "XY"
+  },
+  {
+    "name": "Gengar-EX",
+    "number": "114",
+    "rarity": "Rare Ultra",
+    "set_name": "Phantom Forces",
+    "set_series": "XY"
+  },
+  {
+    "name": "Malamar-EX",
+    "number": "115",
+    "rarity": "Rare Ultra",
+    "set_name": "Phantom Forces",
+    "set_series": "XY"
+  },
+  {
+    "name": "Florges-EX",
+    "number": "116",
+    "rarity": "Rare Ultra",
+    "set_name": "Phantom Forces",
+    "set_series": "XY"
+  },
+  {
+    "name": "AZ",
+    "number": "117",
+    "rarity": "Rare Ultra",
+    "set_name": "Phantom Forces",
+    "set_series": "XY"
+  },
+  {
+    "name": "Lysandre's Trump Card",
+    "number": "118",
+    "rarity": "Rare Ultra",
+    "set_name": "Phantom Forces",
+    "set_series": "XY"
+  },
+  {
+    "name": "Xerosic",
+    "number": "119",
+    "rarity": "Rare Ultra",
+    "set_name": "Phantom Forces",
+    "set_series": "XY"
+  },
+  {
+    "name": "M Manectric-EX",
+    "number": "120",
+    "rarity": "Rare Secret",
+    "set_name": "Phantom Forces",
+    "set_series": "XY"
+  },
+  {
+    "name": "M Gengar-EX",
+    "number": "121",
+    "rarity": "Rare Secret",
+    "set_name": "Phantom Forces",
+    "set_series": "XY"
+  },
+  {
+    "name": "Dialga-EX",
+    "number": "122",
+    "rarity": "Rare Secret",
+    "set_name": "Phantom Forces",
+    "set_series": "XY"
+  }
+]

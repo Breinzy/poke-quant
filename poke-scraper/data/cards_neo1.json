@@ -1,0 +1,779 @@
+[
+  {
+    "name": "Ampharos",
+    "number": "1",
+    "rarity": "Rare Holo",
+    "set_name": "Neo Genesis",
+    "set_series": "Neo"
+  },
+  {
+    "name": "Azumarill",
+    "number": "2",
+    "rarity": "Rare Holo",
+    "set_name": "Neo Genesis",
+    "set_series": "Neo"
+  },
+  {
+    "name": "Bellossom",
+    "number": "3",
+    "rarity": "Rare Holo",
+    "set_name": "Neo Genesis",
+    "set_series": "Neo"
+  },
+  {
+    "name": "Feraligatr",
+    "number": "4",
+    "rarity": "Rare Holo",
+    "set_name": "Neo Genesis",
+    "set_series": "Neo"
+  },
+  {
+    "name": "Feraligatr",
+    "number": "5",
+    "rarity": "Rare Holo",
+    "set_name": "Neo Genesis",
+    "set_series": "Neo"
+  },
+  {
+    "name": "Heracross",
+    "number": "6",
+    "rarity": "Rare Holo",
+    "set_name": "Neo Genesis",
+    "set_series": "Neo"
+  },
+  {
+    "name": "Jumpluff",
+    "number": "7",
+    "rarity": "Rare Holo",
+    "set_name": "Neo Genesis",
+    "set_series": "Neo"
+  },
+  {
+    "name": "Kingdra",
+    "number": "8",
+    "rarity": "Rare Holo",
+    "set_name": "Neo Genesis",
+    "set_series": "Neo"
+  },
+  {
+    "name": "Lugia",
+    "number": "9",
+    "rarity": "Rare Holo",
+    "set_name": "Neo Genesis",
+    "set_series": "Neo"
+  },
+  {
+    "name": "Meganium",
+    "number": "10",
+    "rarity": "Rare Holo",
+    "set_name": "Neo Genesis",
+    "set_series": "Neo"
+  },
+  {
+    "name": "Meganium",
+    "number": "11",
+    "rarity": "Rare Holo",
+    "set_name": "Neo Genesis",
+    "set_series": "Neo"
+  },
+  {
+    "name": "Pichu",
+    "number": "12",
+    "rarity": "Rare Holo",
+    "set_name": "Neo Genesis",
+    "set_series": "Neo"
+  },
+  {
+    "name": "Skarmory",
+    "number": "13",
+    "rarity": "Rare Holo",
+    "set_name": "Neo Genesis",
+    "set_series": "Neo"
+  },
+  {
+    "name": "Slowking",
+    "number": "14",
+    "rarity": "Rare Holo",
+    "set_name": "Neo Genesis",
+    "set_series": "Neo"
+  },
+  {
+    "name": "Steelix",
+    "number": "15",
+    "rarity": "Rare Holo",
+    "set_name": "Neo Genesis",
+    "set_series": "Neo"
+  },
+  {
+    "name": "Togetic",
+    "number": "16",
+    "rarity": "Rare Holo",
+    "set_name": "Neo Genesis",
+    "set_series": "Neo"
+  },
+  {
+    "name": "Typhlosion",
+    "number": "17",
+    "rarity": "Rare Holo",
+    "set_name": "Neo Genesis",
+    "set_series": "Neo"
+  },
+  {
+    "name": "Typhlosion",
+    "number": "18",
+    "rarity": "Rare Holo",
+    "set_name": "Neo Genesis",
+    "set_series": "Neo"
+  },
+  {
+    "name": "Metal Energy",
+    "number": "19",
+    "rarity": "Rare Holo",
+    "set_name": "Neo Genesis",
+    "set_series": "Neo"
+  },
+  {
+    "name": "Cleffa",
+    "number": "20",
+    "rarity": "Rare",
+    "set_name": "Neo Genesis",
+    "set_series": "Neo"
+  },
+  {
+    "name": "Donphan",
+    "number": "21",
+    "rarity": "Rare",
+    "set_name": "Neo Genesis",
+    "set_series": "Neo"
+  },
+  {
+    "name": "Elekid",
+    "number": "22",
+    "rarity": "Rare",
+    "set_name": "Neo Genesis",
+    "set_series": "Neo"
+  },
+  {
+    "name": "Magby",
+    "number": "23",
+    "rarity": "Rare",
+    "set_name": "Neo Genesis",
+    "set_series": "Neo"
+  },
+  {
+    "name": "Murkrow",
+    "number": "24",
+    "rarity": "Rare",
+    "set_name": "Neo Genesis",
+    "set_series": "Neo"
+  },
+  {
+    "name": "Sneasel",
+    "number": "25",
+    "rarity": "Rare",
+    "set_name": "Neo Genesis",
+    "set_series": "Neo"
+  },
+  {
+    "name": "Aipom",
+    "number": "26",
+    "rarity": "Uncommon",
+    "set_name": "Neo Genesis",
+    "set_series": "Neo"
+  },
+  {
+    "name": "Ariados",
+    "number": "27",
+    "rarity": "Uncommon",
+    "set_name": "Neo Genesis",
+    "set_series": "Neo"
+  },
+  {
+    "name": "Bayleef",
+    "number": "28",
+    "rarity": "Uncommon",
+    "set_name": "Neo Genesis",
+    "set_series": "Neo"
+  },
+  {
+    "name": "Bayleef",
+    "number": "29",
+    "rarity": "Uncommon",
+    "set_name": "Neo Genesis",
+    "set_series": "Neo"
+  },
+  {
+    "name": "Clefairy",
+    "number": "30",
+    "rarity": "Uncommon",
+    "set_name": "Neo Genesis",
+    "set_series": "Neo"
+  },
+  {
+    "name": "Croconaw",
+    "number": "31",
+    "rarity": "Uncommon",
+    "set_name": "Neo Genesis",
+    "set_series": "Neo"
+  },
+  {
+    "name": "Croconaw",
+    "number": "32",
+    "rarity": "Uncommon",
+    "set_name": "Neo Genesis",
+    "set_series": "Neo"
+  },
+  {
+    "name": "Electabuzz",
+    "number": "33",
+    "rarity": "Uncommon",
+    "set_name": "Neo Genesis",
+    "set_series": "Neo"
+  },
+  {
+    "name": "Flaaffy",
+    "number": "34",
+    "rarity": "Uncommon",
+    "set_name": "Neo Genesis",
+    "set_series": "Neo"
+  },
+  {
+    "name": "Furret",
+    "number": "35",
+    "rarity": "Uncommon",
+    "set_name": "Neo Genesis",
+    "set_series": "Neo"
+  },
+  {
+    "name": "Gloom",
+    "number": "36",
+    "rarity": "Uncommon",
+    "set_name": "Neo Genesis",
+    "set_series": "Neo"
+  },
+  {
+    "name": "Granbull",
+    "number": "37",
+    "rarity": "Uncommon",
+    "set_name": "Neo Genesis",
+    "set_series": "Neo"
+  },
+  {
+    "name": "Lanturn",
+    "number": "38",
+    "rarity": "Uncommon",
+    "set_name": "Neo Genesis",
+    "set_series": "Neo"
+  },
+  {
+    "name": "Ledian",
+    "number": "39",
+    "rarity": "Uncommon",
+    "set_name": "Neo Genesis",
+    "set_series": "Neo"
+  },
+  {
+    "name": "Magmar",
+    "number": "40",
+    "rarity": "Uncommon",
+    "set_name": "Neo Genesis",
+    "set_series": "Neo"
+  },
+  {
+    "name": "Miltank",
+    "number": "41",
+    "rarity": "Uncommon",
+    "set_name": "Neo Genesis",
+    "set_series": "Neo"
+  },
+  {
+    "name": "Noctowl",
+    "number": "42",
+    "rarity": "Uncommon",
+    "set_name": "Neo Genesis",
+    "set_series": "Neo"
+  },
+  {
+    "name": "Phanpy",
+    "number": "43",
+    "rarity": "Uncommon",
+    "set_name": "Neo Genesis",
+    "set_series": "Neo"
+  },
+  {
+    "name": "Piloswine",
+    "number": "44",
+    "rarity": "Uncommon",
+    "set_name": "Neo Genesis",
+    "set_series": "Neo"
+  },
+  {
+    "name": "Quagsire",
+    "number": "45",
+    "rarity": "Uncommon",
+    "set_name": "Neo Genesis",
+    "set_series": "Neo"
+  },
+  {
+    "name": "Quilava",
+    "number": "46",
+    "rarity": "Uncommon",
+    "set_name": "Neo Genesis",
+    "set_series": "Neo"
+  },
+  {
+    "name": "Quilava",
+    "number": "47",
+    "rarity": "Uncommon",
+    "set_name": "Neo Genesis",
+    "set_series": "Neo"
+  },
+  {
+    "name": "Seadra",
+    "number": "48",
+    "rarity": "Uncommon",
+    "set_name": "Neo Genesis",
+    "set_series": "Neo"
+  },
+  {
+    "name": "Skiploom",
+    "number": "49",
+    "rarity": "Uncommon",
+    "set_name": "Neo Genesis",
+    "set_series": "Neo"
+  },
+  {
+    "name": "Sunflora",
+    "number": "50",
+    "rarity": "Uncommon",
+    "set_name": "Neo Genesis",
+    "set_series": "Neo"
+  },
+  {
+    "name": "Togepi",
+    "number": "51",
+    "rarity": "Uncommon",
+    "set_name": "Neo Genesis",
+    "set_series": "Neo"
+  },
+  {
+    "name": "Xatu",
+    "number": "52",
+    "rarity": "Uncommon",
+    "set_name": "Neo Genesis",
+    "set_series": "Neo"
+  },
+  {
+    "name": "Chikorita",
+    "number": "53",
+    "rarity": "Common",
+    "set_name": "Neo Genesis",
+    "set_series": "Neo"
+  },
+  {
+    "name": "Chikorita",
+    "number": "54",
+    "rarity": "Common",
+    "set_name": "Neo Genesis",
+    "set_series": "Neo"
+  },
+  {
+    "name": "Chinchou",
+    "number": "55",
+    "rarity": "Common",
+    "set_name": "Neo Genesis",
+    "set_series": "Neo"
+  },
+  {
+    "name": "Cyndaquil",
+    "number": "56",
+    "rarity": "Common",
+    "set_name": "Neo Genesis",
+    "set_series": "Neo"
+  },
+  {
+    "name": "Cyndaquil",
+    "number": "57",
+    "rarity": "Common",
+    "set_name": "Neo Genesis",
+    "set_series": "Neo"
+  },
+  {
+    "name": "Girafarig",
+    "number": "58",
+    "rarity": "Common",
+    "set_name": "Neo Genesis",
+    "set_series": "Neo"
+  },
+  {
+    "name": "Gligar",
+    "number": "59",
+    "rarity": "Common",
+    "set_name": "Neo Genesis",
+    "set_series": "Neo"
+  },
+  {
+    "name": "Hoothoot",
+    "number": "60",
+    "rarity": "Common",
+    "set_name": "Neo Genesis",
+    "set_series": "Neo"
+  },
+  {
+    "name": "Hoppip",
+    "number": "61",
+    "rarity": "Common",
+    "set_name": "Neo Genesis",
+    "set_series": "Neo"
+  },
+  {
+    "name": "Horsea",
+    "number": "62",
+    "rarity": "Common",
+    "set_name": "Neo Genesis",
+    "set_series": "Neo"
+  },
+  {
+    "name": "Ledyba",
+    "number": "63",
+    "rarity": "Common",
+    "set_name": "Neo Genesis",
+    "set_series": "Neo"
+  },
+  {
+    "name": "Mantine",
+    "number": "64",
+    "rarity": "Common",
+    "set_name": "Neo Genesis",
+    "set_series": "Neo"
+  },
+  {
+    "name": "Mareep",
+    "number": "65",
+    "rarity": "Common",
+    "set_name": "Neo Genesis",
+    "set_series": "Neo"
+  },
+  {
+    "name": "Marill",
+    "number": "66",
+    "rarity": "Common",
+    "set_name": "Neo Genesis",
+    "set_series": "Neo"
+  },
+  {
+    "name": "Natu",
+    "number": "67",
+    "rarity": "Common",
+    "set_name": "Neo Genesis",
+    "set_series": "Neo"
+  },
+  {
+    "name": "Oddish",
+    "number": "68",
+    "rarity": "Common",
+    "set_name": "Neo Genesis",
+    "set_series": "Neo"
+  },
+  {
+    "name": "Onix",
+    "number": "69",
+    "rarity": "Common",
+    "set_name": "Neo Genesis",
+    "set_series": "Neo"
+  },
+  {
+    "name": "Pikachu",
+    "number": "70",
+    "rarity": "Common",
+    "set_name": "Neo Genesis",
+    "set_series": "Neo"
+  },
+  {
+    "name": "Sentret",
+    "number": "71",
+    "rarity": "Common",
+    "set_name": "Neo Genesis",
+    "set_series": "Neo"
+  },
+  {
+    "name": "Shuckle",
+    "number": "72",
+    "rarity": "Common",
+    "set_name": "Neo Genesis",
+    "set_series": "Neo"
+  },
+  {
+    "name": "Slowpoke",
+    "number": "73",
+    "rarity": "Common",
+    "set_name": "Neo Genesis",
+    "set_series": "Neo"
+  },
+  {
+    "name": "Snubbull",
+    "number": "74",
+    "rarity": "Common",
+    "set_name": "Neo Genesis",
+    "set_series": "Neo"
+  },
+  {
+    "name": "Spinarak",
+    "number": "75",
+    "rarity": "Common",
+    "set_name": "Neo Genesis",
+    "set_series": "Neo"
+  },
+  {
+    "name": "Stantler",
+    "number": "76",
+    "rarity": "Common",
+    "set_name": "Neo Genesis",
+    "set_series": "Neo"
+  },
+  {
+    "name": "Sudowoodo",
+    "number": "77",
+    "rarity": "Common",
+    "set_name": "Neo Genesis",
+    "set_series": "Neo"
+  },
+  {
+    "name": "Sunkern",
+    "number": "78",
+    "rarity": "Common",
+    "set_name": "Neo Genesis",
+    "set_series": "Neo"
+  },
+  {
+    "name": "Swinub",
+    "number": "79",
+    "rarity": "Common",
+    "set_name": "Neo Genesis",
+    "set_series": "Neo"
+  },
+  {
+    "name": "Totodile",
+    "number": "80",
+    "rarity": "Common",
+    "set_name": "Neo Genesis",
+    "set_series": "Neo"
+  },
+  {
+    "name": "Totodile",
+    "number": "81",
+    "rarity": "Common",
+    "set_name": "Neo Genesis",
+    "set_series": "Neo"
+  },
+  {
+    "name": "Wooper",
+    "number": "82",
+    "rarity": "Common",
+    "set_name": "Neo Genesis",
+    "set_series": "Neo"
+  },
+  {
+    "name": "Arcade Game",
+    "number": "83",
+    "rarity": "Rare",
+    "set_name": "Neo Genesis",
+    "set_series": "Neo"
+  },
+  {
+    "name": "Ecogym",
+    "number": "84",
+    "rarity": "Rare",
+    "set_name": "Neo Genesis",
+    "set_series": "Neo"
+  },
+  {
+    "name": "Energy Charge",
+    "number": "85",
+    "rarity": "Rare",
+    "set_name": "Neo Genesis",
+    "set_series": "Neo"
+  },
+  {
+    "name": "Focus Band",
+    "number": "86",
+    "rarity": "Rare",
+    "set_name": "Neo Genesis",
+    "set_series": "Neo"
+  },
+  {
+    "name": "Mary",
+    "number": "87",
+    "rarity": "Rare",
+    "set_name": "Neo Genesis",
+    "set_series": "Neo"
+  },
+  {
+    "name": "Pok\u00e9Gear",
+    "number": "88",
+    "rarity": "Rare",
+    "set_name": "Neo Genesis",
+    "set_series": "Neo"
+  },
+  {
+    "name": "Super Energy Retrieval",
+    "number": "89",
+    "rarity": "Rare",
+    "set_name": "Neo Genesis",
+    "set_series": "Neo"
+  },
+  {
+    "name": "Time Capsule",
+    "number": "90",
+    "rarity": "Rare",
+    "set_name": "Neo Genesis",
+    "set_series": "Neo"
+  },
+  {
+    "name": "Bill's Teleporter",
+    "number": "91",
+    "rarity": "Uncommon",
+    "set_name": "Neo Genesis",
+    "set_series": "Neo"
+  },
+  {
+    "name": "Card-Flip Game",
+    "number": "92",
+    "rarity": "Uncommon",
+    "set_name": "Neo Genesis",
+    "set_series": "Neo"
+  },
+  {
+    "name": "Gold Berry",
+    "number": "93",
+    "rarity": "Uncommon",
+    "set_name": "Neo Genesis",
+    "set_series": "Neo"
+  },
+  {
+    "name": "Miracle Berry",
+    "number": "94",
+    "rarity": "Uncommon",
+    "set_name": "Neo Genesis",
+    "set_series": "Neo"
+  },
+  {
+    "name": "New Pok\u00e9dex",
+    "number": "95",
+    "rarity": "Uncommon",
+    "set_name": "Neo Genesis",
+    "set_series": "Neo"
+  },
+  {
+    "name": "Professor Elm",
+    "number": "96",
+    "rarity": "Uncommon",
+    "set_name": "Neo Genesis",
+    "set_series": "Neo"
+  },
+  {
+    "name": "Sprout Tower",
+    "number": "97",
+    "rarity": "Uncommon",
+    "set_name": "Neo Genesis",
+    "set_series": "Neo"
+  },
+  {
+    "name": "Super Scoop Up",
+    "number": "98",
+    "rarity": "Uncommon",
+    "set_name": "Neo Genesis",
+    "set_series": "Neo"
+  },
+  {
+    "name": "Berry",
+    "number": "99",
+    "rarity": "Common",
+    "set_name": "Neo Genesis",
+    "set_series": "Neo"
+  },
+  {
+    "name": "Double Gust",
+    "number": "100",
+    "rarity": "Common",
+    "set_name": "Neo Genesis",
+    "set_series": "Neo"
+  },
+  {
+    "name": "Moo-Moo Milk",
+    "number": "101",
+    "rarity": "Common",
+    "set_name": "Neo Genesis",
+    "set_series": "Neo"
+  },
+  {
+    "name": "Pok\u00e9mon March",
+    "number": "102",
+    "rarity": "Common",
+    "set_name": "Neo Genesis",
+    "set_series": "Neo"
+  },
+  {
+    "name": "Super Rod",
+    "number": "103",
+    "rarity": "Common",
+    "set_name": "Neo Genesis",
+    "set_series": "Neo"
+  },
+  {
+    "name": "Darkness Energy",
+    "number": "104",
+    "rarity": "Rare",
+    "set_name": "Neo Genesis",
+    "set_series": "Neo"
+  },
+  {
+    "name": "Recycle Energy",
+    "number": "105",
+    "rarity": "Rare",
+    "set_name": "Neo Genesis",
+    "set_series": "Neo"
+  },
+  {
+    "name": "Fighting Energy",
+    "number": "106",
+    "rarity": null,
+    "set_name": "Neo Genesis",
+    "set_series": "Neo"
+  },
+  {
+    "name": "Fire Energy",
+    "number": "107",
+    "rarity": null,
+    "set_name": "Neo Genesis",
+    "set_series": "Neo"
+  },
+  {
+    "name": "Grass Energy",
+    "number": "108",
+    "rarity": null,
+    "set_name": "Neo Genesis",
+    "set_series": "Neo"
+  },
+  {
+    "name": "Lightning Energy",
+    "number": "109",
+    "rarity": null,
+    "set_name": "Neo Genesis",
+    "set_series": "Neo"
+  },
+  {
+    "name": "Psychic Energy",
+    "number": "110",
+    "rarity": null,
+    "set_name": "Neo Genesis",
+    "set_series": "Neo"
+  },
+  {
+    "name": "Water Energy",
+    "number": "111",
+    "rarity": null,
+    "set_name": "Neo Genesis",
+    "set_series": "Neo"
+  }
+]

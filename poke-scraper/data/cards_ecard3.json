@@ -1,0 +1,1276 @@
+[
+  {
+    "name": "Alakazam",
+    "number": "H1",
+    "rarity": "Rare Holo",
+    "set_name": "Skyridge",
+    "set_series": "E-Card"
+  },
+  {
+    "name": "Arcanine",
+    "number": "H2",
+    "rarity": "Rare Holo",
+    "set_name": "Skyridge",
+    "set_series": "E-Card"
+  },
+  {
+    "name": "Articuno",
+    "number": "H3",
+    "rarity": "Rare Holo",
+    "set_name": "Skyridge",
+    "set_series": "E-Card"
+  },
+  {
+    "name": "Beedrill",
+    "number": "H4",
+    "rarity": "Rare Holo",
+    "set_name": "Skyridge",
+    "set_series": "E-Card"
+  },
+  {
+    "name": "Crobat",
+    "number": "H5",
+    "rarity": "Rare Holo",
+    "set_name": "Skyridge",
+    "set_series": "E-Card"
+  },
+  {
+    "name": "Dewgong",
+    "number": "H6",
+    "rarity": "Rare Holo",
+    "set_name": "Skyridge",
+    "set_series": "E-Card"
+  },
+  {
+    "name": "Flareon",
+    "number": "H7",
+    "rarity": "Rare Holo",
+    "set_name": "Skyridge",
+    "set_series": "E-Card"
+  },
+  {
+    "name": "Forretress",
+    "number": "H8",
+    "rarity": "Rare Holo",
+    "set_name": "Skyridge",
+    "set_series": "E-Card"
+  },
+  {
+    "name": "Gengar",
+    "number": "H9",
+    "rarity": "Rare Holo",
+    "set_name": "Skyridge",
+    "set_series": "E-Card"
+  },
+  {
+    "name": "Gyarados",
+    "number": "H10",
+    "rarity": "Rare Holo",
+    "set_name": "Skyridge",
+    "set_series": "E-Card"
+  },
+  {
+    "name": "Houndoom",
+    "number": "H11",
+    "rarity": "Rare Holo",
+    "set_name": "Skyridge",
+    "set_series": "E-Card"
+  },
+  {
+    "name": "Jolteon",
+    "number": "H12",
+    "rarity": "Rare Holo",
+    "set_name": "Skyridge",
+    "set_series": "E-Card"
+  },
+  {
+    "name": "Kabutops",
+    "number": "H13",
+    "rarity": "Rare Holo",
+    "set_name": "Skyridge",
+    "set_series": "E-Card"
+  },
+  {
+    "name": "Ledian",
+    "number": "H14",
+    "rarity": "Rare Holo",
+    "set_name": "Skyridge",
+    "set_series": "E-Card"
+  },
+  {
+    "name": "Machamp",
+    "number": "H15",
+    "rarity": "Rare Holo",
+    "set_name": "Skyridge",
+    "set_series": "E-Card"
+  },
+  {
+    "name": "Magcargo",
+    "number": "H16",
+    "rarity": "Rare Holo",
+    "set_name": "Skyridge",
+    "set_series": "E-Card"
+  },
+  {
+    "name": "Magcargo",
+    "number": "H17",
+    "rarity": "Rare Holo",
+    "set_name": "Skyridge",
+    "set_series": "E-Card"
+  },
+  {
+    "name": "Magneton",
+    "number": "H18",
+    "rarity": "Rare Holo",
+    "set_name": "Skyridge",
+    "set_series": "E-Card"
+  },
+  {
+    "name": "Magneton",
+    "number": "H19",
+    "rarity": "Rare Holo",
+    "set_name": "Skyridge",
+    "set_series": "E-Card"
+  },
+  {
+    "name": "Moltres",
+    "number": "H20",
+    "rarity": "Rare Holo",
+    "set_name": "Skyridge",
+    "set_series": "E-Card"
+  },
+  {
+    "name": "Nidoqueen",
+    "number": "H21",
+    "rarity": "Rare Holo",
+    "set_name": "Skyridge",
+    "set_series": "E-Card"
+  },
+  {
+    "name": "Piloswine",
+    "number": "H22",
+    "rarity": "Rare Holo",
+    "set_name": "Skyridge",
+    "set_series": "E-Card"
+  },
+  {
+    "name": "Politoed",
+    "number": "H23",
+    "rarity": "Rare Holo",
+    "set_name": "Skyridge",
+    "set_series": "E-Card"
+  },
+  {
+    "name": "Poliwrath",
+    "number": "H24",
+    "rarity": "Rare Holo",
+    "set_name": "Skyridge",
+    "set_series": "E-Card"
+  },
+  {
+    "name": "Raichu",
+    "number": "H25",
+    "rarity": "Rare Holo",
+    "set_name": "Skyridge",
+    "set_series": "E-Card"
+  },
+  {
+    "name": "Raikou",
+    "number": "H26",
+    "rarity": "Rare Holo",
+    "set_name": "Skyridge",
+    "set_series": "E-Card"
+  },
+  {
+    "name": "Rhydon",
+    "number": "H27",
+    "rarity": "Rare Holo",
+    "set_name": "Skyridge",
+    "set_series": "E-Card"
+  },
+  {
+    "name": "Starmie",
+    "number": "H28",
+    "rarity": "Rare Holo",
+    "set_name": "Skyridge",
+    "set_series": "E-Card"
+  },
+  {
+    "name": "Steelix",
+    "number": "H29",
+    "rarity": "Rare Holo",
+    "set_name": "Skyridge",
+    "set_series": "E-Card"
+  },
+  {
+    "name": "Umbreon",
+    "number": "H30",
+    "rarity": "Rare Holo",
+    "set_name": "Skyridge",
+    "set_series": "E-Card"
+  },
+  {
+    "name": "Vaporeon",
+    "number": "H31",
+    "rarity": "Rare Holo",
+    "set_name": "Skyridge",
+    "set_series": "E-Card"
+  },
+  {
+    "name": "Xatu",
+    "number": "H32",
+    "rarity": "Rare Holo",
+    "set_name": "Skyridge",
+    "set_series": "E-Card"
+  },
+  {
+    "name": "Aerodactyl",
+    "number": "1",
+    "rarity": "Rare",
+    "set_name": "Skyridge",
+    "set_series": "E-Card"
+  },
+  {
+    "name": "Alakazam",
+    "number": "2",
+    "rarity": "Rare",
+    "set_name": "Skyridge",
+    "set_series": "E-Card"
+  },
+  {
+    "name": "Arcanine",
+    "number": "3",
+    "rarity": "Rare",
+    "set_name": "Skyridge",
+    "set_series": "E-Card"
+  },
+  {
+    "name": "Articuno",
+    "number": "4",
+    "rarity": "Rare",
+    "set_name": "Skyridge",
+    "set_series": "E-Card"
+  },
+  {
+    "name": "Beedrill",
+    "number": "5",
+    "rarity": "Rare",
+    "set_name": "Skyridge",
+    "set_series": "E-Card"
+  },
+  {
+    "name": "Crobat",
+    "number": "6",
+    "rarity": "Rare",
+    "set_name": "Skyridge",
+    "set_series": "E-Card"
+  },
+  {
+    "name": "Dewgong",
+    "number": "7",
+    "rarity": "Rare",
+    "set_name": "Skyridge",
+    "set_series": "E-Card"
+  },
+  {
+    "name": "Flareon",
+    "number": "8",
+    "rarity": "Rare",
+    "set_name": "Skyridge",
+    "set_series": "E-Card"
+  },
+  {
+    "name": "Forretress",
+    "number": "9",
+    "rarity": "Rare",
+    "set_name": "Skyridge",
+    "set_series": "E-Card"
+  },
+  {
+    "name": "Gengar",
+    "number": "10",
+    "rarity": "Rare",
+    "set_name": "Skyridge",
+    "set_series": "E-Card"
+  },
+  {
+    "name": "Gyarados",
+    "number": "11",
+    "rarity": "Rare",
+    "set_name": "Skyridge",
+    "set_series": "E-Card"
+  },
+  {
+    "name": "Houndoom",
+    "number": "12",
+    "rarity": "Rare",
+    "set_name": "Skyridge",
+    "set_series": "E-Card"
+  },
+  {
+    "name": "Jolteon",
+    "number": "13",
+    "rarity": "Rare",
+    "set_name": "Skyridge",
+    "set_series": "E-Card"
+  },
+  {
+    "name": "Kabutops",
+    "number": "14",
+    "rarity": "Rare",
+    "set_name": "Skyridge",
+    "set_series": "E-Card"
+  },
+  {
+    "name": "Ledian",
+    "number": "15",
+    "rarity": "Rare",
+    "set_name": "Skyridge",
+    "set_series": "E-Card"
+  },
+  {
+    "name": "Machamp",
+    "number": "16",
+    "rarity": "Rare",
+    "set_name": "Skyridge",
+    "set_series": "E-Card"
+  },
+  {
+    "name": "Magcargo",
+    "number": "17",
+    "rarity": "Rare",
+    "set_name": "Skyridge",
+    "set_series": "E-Card"
+  },
+  {
+    "name": "Magcargo",
+    "number": "18",
+    "rarity": "Rare",
+    "set_name": "Skyridge",
+    "set_series": "E-Card"
+  },
+  {
+    "name": "Magneton",
+    "number": "19",
+    "rarity": "Rare",
+    "set_name": "Skyridge",
+    "set_series": "E-Card"
+  },
+  {
+    "name": "Magneton",
+    "number": "20",
+    "rarity": "Rare",
+    "set_name": "Skyridge",
+    "set_series": "E-Card"
+  },
+  {
+    "name": "Moltres",
+    "number": "21",
+    "rarity": "Rare",
+    "set_name": "Skyridge",
+    "set_series": "E-Card"
+  },
+  {
+    "name": "Nidoqueen",
+    "number": "22",
+    "rarity": "Rare",
+    "set_name": "Skyridge",
+    "set_series": "E-Card"
+  },
+  {
+    "name": "Omastar",
+    "number": "23",
+    "rarity": "Rare",
+    "set_name": "Skyridge",
+    "set_series": "E-Card"
+  },
+  {
+    "name": "Piloswine",
+    "number": "24",
+    "rarity": "Rare",
+    "set_name": "Skyridge",
+    "set_series": "E-Card"
+  },
+  {
+    "name": "Politoed",
+    "number": "25",
+    "rarity": "Rare",
+    "set_name": "Skyridge",
+    "set_series": "E-Card"
+  },
+  {
+    "name": "Poliwrath",
+    "number": "26",
+    "rarity": "Rare",
+    "set_name": "Skyridge",
+    "set_series": "E-Card"
+  },
+  {
+    "name": "Raichu",
+    "number": "27",
+    "rarity": "Rare",
+    "set_name": "Skyridge",
+    "set_series": "E-Card"
+  },
+  {
+    "name": "Raikou",
+    "number": "28",
+    "rarity": "Rare",
+    "set_name": "Skyridge",
+    "set_series": "E-Card"
+  },
+  {
+    "name": "Rhydon",
+    "number": "29",
+    "rarity": "Rare",
+    "set_name": "Skyridge",
+    "set_series": "E-Card"
+  },
+  {
+    "name": "Starmie",
+    "number": "30",
+    "rarity": "Rare",
+    "set_name": "Skyridge",
+    "set_series": "E-Card"
+  },
+  {
+    "name": "Steelix",
+    "number": "31",
+    "rarity": "Rare",
+    "set_name": "Skyridge",
+    "set_series": "E-Card"
+  },
+  {
+    "name": "Umbreon",
+    "number": "32",
+    "rarity": "Rare",
+    "set_name": "Skyridge",
+    "set_series": "E-Card"
+  },
+  {
+    "name": "Vaporeon",
+    "number": "33",
+    "rarity": "Rare",
+    "set_name": "Skyridge",
+    "set_series": "E-Card"
+  },
+  {
+    "name": "Wigglytuff",
+    "number": "34",
+    "rarity": "Rare",
+    "set_name": "Skyridge",
+    "set_series": "E-Card"
+  },
+  {
+    "name": "Xatu",
+    "number": "35",
+    "rarity": "Rare",
+    "set_name": "Skyridge",
+    "set_series": "E-Card"
+  },
+  {
+    "name": "Electrode",
+    "number": "36",
+    "rarity": "Uncommon",
+    "set_name": "Skyridge",
+    "set_series": "E-Card"
+  },
+  {
+    "name": "Kabuto",
+    "number": "37",
+    "rarity": "Uncommon",
+    "set_name": "Skyridge",
+    "set_series": "E-Card"
+  },
+  {
+    "name": "Machoke",
+    "number": "38",
+    "rarity": "Uncommon",
+    "set_name": "Skyridge",
+    "set_series": "E-Card"
+  },
+  {
+    "name": "Misdreavus",
+    "number": "39",
+    "rarity": "Uncommon",
+    "set_name": "Skyridge",
+    "set_series": "E-Card"
+  },
+  {
+    "name": "Noctowl",
+    "number": "40",
+    "rarity": "Uncommon",
+    "set_name": "Skyridge",
+    "set_series": "E-Card"
+  },
+  {
+    "name": "Omanyte",
+    "number": "41",
+    "rarity": "Uncommon",
+    "set_name": "Skyridge",
+    "set_series": "E-Card"
+  },
+  {
+    "name": "Persian",
+    "number": "42",
+    "rarity": "Uncommon",
+    "set_name": "Skyridge",
+    "set_series": "E-Card"
+  },
+  {
+    "name": "Piloswine",
+    "number": "43",
+    "rarity": "Uncommon",
+    "set_name": "Skyridge",
+    "set_series": "E-Card"
+  },
+  {
+    "name": "Starmie",
+    "number": "44",
+    "rarity": "Uncommon",
+    "set_name": "Skyridge",
+    "set_series": "E-Card"
+  },
+  {
+    "name": "Wobbuffet",
+    "number": "45",
+    "rarity": "Uncommon",
+    "set_name": "Skyridge",
+    "set_series": "E-Card"
+  },
+  {
+    "name": "Abra",
+    "number": "46",
+    "rarity": "Common",
+    "set_name": "Skyridge",
+    "set_series": "E-Card"
+  },
+  {
+    "name": "Buried Fossil",
+    "number": "47",
+    "rarity": "Common",
+    "set_name": "Skyridge",
+    "set_series": "E-Card"
+  },
+  {
+    "name": "Cleffa",
+    "number": "48",
+    "rarity": "Common",
+    "set_name": "Skyridge",
+    "set_series": "E-Card"
+  },
+  {
+    "name": "Delibird",
+    "number": "49",
+    "rarity": "Common",
+    "set_name": "Skyridge",
+    "set_series": "E-Card"
+  },
+  {
+    "name": "Diglett",
+    "number": "50",
+    "rarity": "Common",
+    "set_name": "Skyridge",
+    "set_series": "E-Card"
+  },
+  {
+    "name": "Ditto",
+    "number": "51",
+    "rarity": "Common",
+    "set_name": "Skyridge",
+    "set_series": "E-Card"
+  },
+  {
+    "name": "Dugtrio",
+    "number": "52",
+    "rarity": "Common",
+    "set_name": "Skyridge",
+    "set_series": "E-Card"
+  },
+  {
+    "name": "Dunsparce",
+    "number": "53",
+    "rarity": "Common",
+    "set_name": "Skyridge",
+    "set_series": "E-Card"
+  },
+  {
+    "name": "Eevee",
+    "number": "54",
+    "rarity": "Common",
+    "set_name": "Skyridge",
+    "set_series": "E-Card"
+  },
+  {
+    "name": "Farfetch'd",
+    "number": "55",
+    "rarity": "Common",
+    "set_name": "Skyridge",
+    "set_series": "E-Card"
+  },
+  {
+    "name": "Forretress",
+    "number": "56",
+    "rarity": "Common",
+    "set_name": "Skyridge",
+    "set_series": "E-Card"
+  },
+  {
+    "name": "Gastly",
+    "number": "57",
+    "rarity": "Common",
+    "set_name": "Skyridge",
+    "set_series": "E-Card"
+  },
+  {
+    "name": "Girafarig",
+    "number": "58",
+    "rarity": "Common",
+    "set_name": "Skyridge",
+    "set_series": "E-Card"
+  },
+  {
+    "name": "Gligar",
+    "number": "59",
+    "rarity": "Common",
+    "set_name": "Skyridge",
+    "set_series": "E-Card"
+  },
+  {
+    "name": "Golbat",
+    "number": "60",
+    "rarity": "Common",
+    "set_name": "Skyridge",
+    "set_series": "E-Card"
+  },
+  {
+    "name": "Granbull",
+    "number": "61",
+    "rarity": "Common",
+    "set_name": "Skyridge",
+    "set_series": "E-Card"
+  },
+  {
+    "name": "Growlithe",
+    "number": "62",
+    "rarity": "Common",
+    "set_name": "Skyridge",
+    "set_series": "E-Card"
+  },
+  {
+    "name": "Haunter",
+    "number": "63",
+    "rarity": "Common",
+    "set_name": "Skyridge",
+    "set_series": "E-Card"
+  },
+  {
+    "name": "Heracross",
+    "number": "64",
+    "rarity": "Common",
+    "set_name": "Skyridge",
+    "set_series": "E-Card"
+  },
+  {
+    "name": "Hoothoot",
+    "number": "65",
+    "rarity": "Common",
+    "set_name": "Skyridge",
+    "set_series": "E-Card"
+  },
+  {
+    "name": "Houndour",
+    "number": "66",
+    "rarity": "Common",
+    "set_name": "Skyridge",
+    "set_series": "E-Card"
+  },
+  {
+    "name": "Igglybuff",
+    "number": "67",
+    "rarity": "Common",
+    "set_name": "Skyridge",
+    "set_series": "E-Card"
+  },
+  {
+    "name": "Jigglypuff",
+    "number": "68",
+    "rarity": "Common",
+    "set_name": "Skyridge",
+    "set_series": "E-Card"
+  },
+  {
+    "name": "Kadabra",
+    "number": "69",
+    "rarity": "Common",
+    "set_name": "Skyridge",
+    "set_series": "E-Card"
+  },
+  {
+    "name": "Kakuna",
+    "number": "70",
+    "rarity": "Common",
+    "set_name": "Skyridge",
+    "set_series": "E-Card"
+  },
+  {
+    "name": "Lapras",
+    "number": "71",
+    "rarity": "Common",
+    "set_name": "Skyridge",
+    "set_series": "E-Card"
+  },
+  {
+    "name": "Ledyba",
+    "number": "72",
+    "rarity": "Common",
+    "set_name": "Skyridge",
+    "set_series": "E-Card"
+  },
+  {
+    "name": "Ledyba",
+    "number": "73",
+    "rarity": "Common",
+    "set_name": "Skyridge",
+    "set_series": "E-Card"
+  },
+  {
+    "name": "Machop",
+    "number": "74",
+    "rarity": "Common",
+    "set_name": "Skyridge",
+    "set_series": "E-Card"
+  },
+  {
+    "name": "Magikarp",
+    "number": "75",
+    "rarity": "Common",
+    "set_name": "Skyridge",
+    "set_series": "E-Card"
+  },
+  {
+    "name": "Magnemite",
+    "number": "76",
+    "rarity": "Common",
+    "set_name": "Skyridge",
+    "set_series": "E-Card"
+  },
+  {
+    "name": "Mantine",
+    "number": "77",
+    "rarity": "Common",
+    "set_name": "Skyridge",
+    "set_series": "E-Card"
+  },
+  {
+    "name": "Meowth",
+    "number": "78",
+    "rarity": "Common",
+    "set_name": "Skyridge",
+    "set_series": "E-Card"
+  },
+  {
+    "name": "Murkrow",
+    "number": "79",
+    "rarity": "Common",
+    "set_name": "Skyridge",
+    "set_series": "E-Card"
+  },
+  {
+    "name": "Natu",
+    "number": "80",
+    "rarity": "Common",
+    "set_name": "Skyridge",
+    "set_series": "E-Card"
+  },
+  {
+    "name": "Nidoran \u2640",
+    "number": "81",
+    "rarity": "Common",
+    "set_name": "Skyridge",
+    "set_series": "E-Card"
+  },
+  {
+    "name": "Nidoran \u2640",
+    "number": "82",
+    "rarity": "Common",
+    "set_name": "Skyridge",
+    "set_series": "E-Card"
+  },
+  {
+    "name": "Nidorina",
+    "number": "83",
+    "rarity": "Common",
+    "set_name": "Skyridge",
+    "set_series": "E-Card"
+  },
+  {
+    "name": "Pikachu",
+    "number": "84",
+    "rarity": "Common",
+    "set_name": "Skyridge",
+    "set_series": "E-Card"
+  },
+  {
+    "name": "Pineco",
+    "number": "85",
+    "rarity": "Common",
+    "set_name": "Skyridge",
+    "set_series": "E-Card"
+  },
+  {
+    "name": "Pineco",
+    "number": "86",
+    "rarity": "Common",
+    "set_name": "Skyridge",
+    "set_series": "E-Card"
+  },
+  {
+    "name": "Poliwag",
+    "number": "87",
+    "rarity": "Common",
+    "set_name": "Skyridge",
+    "set_series": "E-Card"
+  },
+  {
+    "name": "Poliwhirl",
+    "number": "88",
+    "rarity": "Common",
+    "set_name": "Skyridge",
+    "set_series": "E-Card"
+  },
+  {
+    "name": "Raticate",
+    "number": "89",
+    "rarity": "Common",
+    "set_name": "Skyridge",
+    "set_series": "E-Card"
+  },
+  {
+    "name": "Rattata",
+    "number": "90",
+    "rarity": "Common",
+    "set_name": "Skyridge",
+    "set_series": "E-Card"
+  },
+  {
+    "name": "Rhyhorn",
+    "number": "91",
+    "rarity": "Common",
+    "set_name": "Skyridge",
+    "set_series": "E-Card"
+  },
+  {
+    "name": "Sandshrew",
+    "number": "92",
+    "rarity": "Common",
+    "set_name": "Skyridge",
+    "set_series": "E-Card"
+  },
+  {
+    "name": "Sandslash",
+    "number": "93",
+    "rarity": "Common",
+    "set_name": "Skyridge",
+    "set_series": "E-Card"
+  },
+  {
+    "name": "Seel",
+    "number": "94",
+    "rarity": "Common",
+    "set_name": "Skyridge",
+    "set_series": "E-Card"
+  },
+  {
+    "name": "Seel",
+    "number": "95",
+    "rarity": "Common",
+    "set_name": "Skyridge",
+    "set_series": "E-Card"
+  },
+  {
+    "name": "Shuckle",
+    "number": "96",
+    "rarity": "Common",
+    "set_name": "Skyridge",
+    "set_series": "E-Card"
+  },
+  {
+    "name": "Skarmory",
+    "number": "97",
+    "rarity": "Common",
+    "set_name": "Skyridge",
+    "set_series": "E-Card"
+  },
+  {
+    "name": "Slugma",
+    "number": "98",
+    "rarity": "Common",
+    "set_name": "Skyridge",
+    "set_series": "E-Card"
+  },
+  {
+    "name": "Slugma",
+    "number": "99",
+    "rarity": "Common",
+    "set_name": "Skyridge",
+    "set_series": "E-Card"
+  },
+  {
+    "name": "Snorlax",
+    "number": "100",
+    "rarity": "Common",
+    "set_name": "Skyridge",
+    "set_series": "E-Card"
+  },
+  {
+    "name": "Snubbull",
+    "number": "101",
+    "rarity": "Common",
+    "set_name": "Skyridge",
+    "set_series": "E-Card"
+  },
+  {
+    "name": "Stantler",
+    "number": "102",
+    "rarity": "Common",
+    "set_name": "Skyridge",
+    "set_series": "E-Card"
+  },
+  {
+    "name": "Staryu",
+    "number": "103",
+    "rarity": "Common",
+    "set_name": "Skyridge",
+    "set_series": "E-Card"
+  },
+  {
+    "name": "Staryu",
+    "number": "104",
+    "rarity": "Common",
+    "set_name": "Skyridge",
+    "set_series": "E-Card"
+  },
+  {
+    "name": "Sunflora",
+    "number": "105",
+    "rarity": "Common",
+    "set_name": "Skyridge",
+    "set_series": "E-Card"
+  },
+  {
+    "name": "Sunkern",
+    "number": "106",
+    "rarity": "Common",
+    "set_name": "Skyridge",
+    "set_series": "E-Card"
+  },
+  {
+    "name": "Swinub",
+    "number": "107",
+    "rarity": "Common",
+    "set_name": "Skyridge",
+    "set_series": "E-Card"
+  },
+  {
+    "name": "Swinub",
+    "number": "108",
+    "rarity": "Common",
+    "set_name": "Skyridge",
+    "set_series": "E-Card"
+  },
+  {
+    "name": "Teddiursa",
+    "number": "109",
+    "rarity": "Common",
+    "set_name": "Skyridge",
+    "set_series": "E-Card"
+  },
+  {
+    "name": "Ursaring",
+    "number": "110",
+    "rarity": "Common",
+    "set_name": "Skyridge",
+    "set_series": "E-Card"
+  },
+  {
+    "name": "Venomoth",
+    "number": "111",
+    "rarity": "Common",
+    "set_name": "Skyridge",
+    "set_series": "E-Card"
+  },
+  {
+    "name": "Venonat",
+    "number": "112",
+    "rarity": "Common",
+    "set_name": "Skyridge",
+    "set_series": "E-Card"
+  },
+  {
+    "name": "Voltorb",
+    "number": "113",
+    "rarity": "Common",
+    "set_name": "Skyridge",
+    "set_series": "E-Card"
+  },
+  {
+    "name": "Weedle",
+    "number": "114",
+    "rarity": "Common",
+    "set_name": "Skyridge",
+    "set_series": "E-Card"
+  },
+  {
+    "name": "Weedle",
+    "number": "115",
+    "rarity": "Common",
+    "set_name": "Skyridge",
+    "set_series": "E-Card"
+  },
+  {
+    "name": "Yanma",
+    "number": "116",
+    "rarity": "Common",
+    "set_name": "Skyridge",
+    "set_series": "E-Card"
+  },
+  {
+    "name": "Zubat",
+    "number": "117",
+    "rarity": "Common",
+    "set_name": "Skyridge",
+    "set_series": "E-Card"
+  },
+  {
+    "name": "Zubat",
+    "number": "118",
+    "rarity": "Common",
+    "set_name": "Skyridge",
+    "set_series": "E-Card"
+  },
+  {
+    "name": "Ancient Ruins",
+    "number": "119",
+    "rarity": "Uncommon",
+    "set_name": "Skyridge",
+    "set_series": "E-Card"
+  },
+  {
+    "name": "Relic Hunter",
+    "number": "120",
+    "rarity": "Uncommon",
+    "set_name": "Skyridge",
+    "set_series": "E-Card"
+  },
+  {
+    "name": "Apricorn Maker",
+    "number": "121",
+    "rarity": "Uncommon",
+    "set_name": "Skyridge",
+    "set_series": "E-Card"
+  },
+  {
+    "name": "Crystal Shard",
+    "number": "122",
+    "rarity": "Uncommon",
+    "set_name": "Skyridge",
+    "set_series": "E-Card"
+  },
+  {
+    "name": "Desert Shaman",
+    "number": "123",
+    "rarity": "Uncommon",
+    "set_name": "Skyridge",
+    "set_series": "E-Card"
+  },
+  {
+    "name": "Fast Ball",
+    "number": "124",
+    "rarity": "Uncommon",
+    "set_name": "Skyridge",
+    "set_series": "E-Card"
+  },
+  {
+    "name": "Fisherman",
+    "number": "125",
+    "rarity": "Uncommon",
+    "set_name": "Skyridge",
+    "set_series": "E-Card"
+  },
+  {
+    "name": "Friend Ball",
+    "number": "126",
+    "rarity": "Uncommon",
+    "set_name": "Skyridge",
+    "set_series": "E-Card"
+  },
+  {
+    "name": "Hyper Potion",
+    "number": "127",
+    "rarity": "Uncommon",
+    "set_name": "Skyridge",
+    "set_series": "E-Card"
+  },
+  {
+    "name": "Lure Ball",
+    "number": "128",
+    "rarity": "Uncommon",
+    "set_name": "Skyridge",
+    "set_series": "E-Card"
+  },
+  {
+    "name": "Miracle Sphere \u03b1",
+    "number": "129",
+    "rarity": "Uncommon",
+    "set_name": "Skyridge",
+    "set_series": "E-Card"
+  },
+  {
+    "name": "Miracle Sphere \u03b2",
+    "number": "130",
+    "rarity": "Uncommon",
+    "set_name": "Skyridge",
+    "set_series": "E-Card"
+  },
+  {
+    "name": "Miracle Sphere \u03b3",
+    "number": "131",
+    "rarity": "Uncommon",
+    "set_name": "Skyridge",
+    "set_series": "E-Card"
+  },
+  {
+    "name": "Mirage Stadium",
+    "number": "132",
+    "rarity": "Uncommon",
+    "set_name": "Skyridge",
+    "set_series": "E-Card"
+  },
+  {
+    "name": "Mystery Plate \u03b1",
+    "number": "133",
+    "rarity": "Uncommon",
+    "set_name": "Skyridge",
+    "set_series": "E-Card"
+  },
+  {
+    "name": "Mystery Plate \u03b2",
+    "number": "134",
+    "rarity": "Uncommon",
+    "set_name": "Skyridge",
+    "set_series": "E-Card"
+  },
+  {
+    "name": "Mystery Plate \u03b3",
+    "number": "135",
+    "rarity": "Uncommon",
+    "set_name": "Skyridge",
+    "set_series": "E-Card"
+  },
+  {
+    "name": "Mystery Plate \u03b4",
+    "number": "136",
+    "rarity": "Uncommon",
+    "set_name": "Skyridge",
+    "set_series": "E-Card"
+  },
+  {
+    "name": "Mystery Zone",
+    "number": "137",
+    "rarity": "Uncommon",
+    "set_name": "Skyridge",
+    "set_series": "E-Card"
+  },
+  {
+    "name": "Oracle",
+    "number": "138",
+    "rarity": "Uncommon",
+    "set_name": "Skyridge",
+    "set_series": "E-Card"
+  },
+  {
+    "name": "Star Piece",
+    "number": "139",
+    "rarity": "Uncommon",
+    "set_name": "Skyridge",
+    "set_series": "E-Card"
+  },
+  {
+    "name": "Underground Expedition",
+    "number": "140",
+    "rarity": "Uncommon",
+    "set_name": "Skyridge",
+    "set_series": "E-Card"
+  },
+  {
+    "name": "Underground Lake",
+    "number": "141",
+    "rarity": "Uncommon",
+    "set_name": "Skyridge",
+    "set_series": "E-Card"
+  },
+  {
+    "name": "Bounce Energy",
+    "number": "142",
+    "rarity": "Uncommon",
+    "set_name": "Skyridge",
+    "set_series": "E-Card"
+  },
+  {
+    "name": "Cyclone Energy",
+    "number": "143",
+    "rarity": "Uncommon",
+    "set_name": "Skyridge",
+    "set_series": "E-Card"
+  },
+  {
+    "name": "Retro Energy",
+    "number": "144",
+    "rarity": "Uncommon",
+    "set_name": "Skyridge",
+    "set_series": "E-Card"
+  },
+  {
+    "name": "Celebi",
+    "number": "145",
+    "rarity": "Rare Secret",
+    "set_name": "Skyridge",
+    "set_series": "E-Card"
+  },
+  {
+    "name": "Charizard",
+    "number": "146",
+    "rarity": "Rare Secret",
+    "set_name": "Skyridge",
+    "set_series": "E-Card"
+  },
+  {
+    "name": "Crobat",
+    "number": "147",
+    "rarity": "Rare Secret",
+    "set_name": "Skyridge",
+    "set_series": "E-Card"
+  },
+  {
+    "name": "Golem",
+    "number": "148",
+    "rarity": "Rare Secret",
+    "set_name": "Skyridge",
+    "set_series": "E-Card"
+  },
+  {
+    "name": "Ho-oh",
+    "number": "149",
+    "rarity": "Rare Secret",
+    "set_name": "Skyridge",
+    "set_series": "E-Card"
+  },
+  {
+    "name": "Kabutops",
+    "number": "150",
+    "rarity": "Rare Secret",
+    "set_name": "Skyridge",
+    "set_series": "E-Card"
+  }
+]

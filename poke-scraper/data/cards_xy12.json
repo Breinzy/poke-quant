@@ -1,0 +1,793 @@
+[
+  {
+    "name": "Venusaur-EX",
+    "number": "1",
+    "rarity": "Rare Holo EX",
+    "set_name": "Evolutions",
+    "set_series": "XY"
+  },
+  {
+    "name": "M Venusaur-EX",
+    "number": "2",
+    "rarity": "Rare Holo EX",
+    "set_name": "Evolutions",
+    "set_series": "XY"
+  },
+  {
+    "name": "Caterpie",
+    "number": "3",
+    "rarity": "Common",
+    "set_name": "Evolutions",
+    "set_series": "XY"
+  },
+  {
+    "name": "Metapod",
+    "number": "4",
+    "rarity": "Uncommon",
+    "set_name": "Evolutions",
+    "set_series": "XY"
+  },
+  {
+    "name": "Weedle",
+    "number": "5",
+    "rarity": "Common",
+    "set_name": "Evolutions",
+    "set_series": "XY"
+  },
+  {
+    "name": "Kakuna",
+    "number": "6",
+    "rarity": "Uncommon",
+    "set_name": "Evolutions",
+    "set_series": "XY"
+  },
+  {
+    "name": "Beedrill",
+    "number": "7",
+    "rarity": "Rare",
+    "set_name": "Evolutions",
+    "set_series": "XY"
+  },
+  {
+    "name": "Tangela",
+    "number": "8",
+    "rarity": "Common",
+    "set_name": "Evolutions",
+    "set_series": "XY"
+  },
+  {
+    "name": "Charmander",
+    "number": "9",
+    "rarity": "Common",
+    "set_name": "Evolutions",
+    "set_series": "XY"
+  },
+  {
+    "name": "Charmeleon",
+    "number": "10",
+    "rarity": "Uncommon",
+    "set_name": "Evolutions",
+    "set_series": "XY"
+  },
+  {
+    "name": "Charizard",
+    "number": "11",
+    "rarity": "Rare Holo",
+    "set_name": "Evolutions",
+    "set_series": "XY"
+  },
+  {
+    "name": "Charizard-EX",
+    "number": "12",
+    "rarity": "Rare Holo EX",
+    "set_name": "Evolutions",
+    "set_series": "XY"
+  },
+  {
+    "name": "M Charizard-EX",
+    "number": "13",
+    "rarity": "Rare Holo EX",
+    "set_name": "Evolutions",
+    "set_series": "XY"
+  },
+  {
+    "name": "Vulpix",
+    "number": "14",
+    "rarity": "Common",
+    "set_name": "Evolutions",
+    "set_series": "XY"
+  },
+  {
+    "name": "Ninetales",
+    "number": "15",
+    "rarity": "Rare Holo",
+    "set_name": "Evolutions",
+    "set_series": "XY"
+  },
+  {
+    "name": "Ninetales BREAK",
+    "number": "16",
+    "rarity": "Rare BREAK",
+    "set_name": "Evolutions",
+    "set_series": "XY"
+  },
+  {
+    "name": "Growlithe",
+    "number": "17",
+    "rarity": "Common",
+    "set_name": "Evolutions",
+    "set_series": "XY"
+  },
+  {
+    "name": "Arcanine",
+    "number": "18",
+    "rarity": "Rare",
+    "set_name": "Evolutions",
+    "set_series": "XY"
+  },
+  {
+    "name": "Ponyta",
+    "number": "19",
+    "rarity": "Common",
+    "set_name": "Evolutions",
+    "set_series": "XY"
+  },
+  {
+    "name": "Magmar",
+    "number": "20",
+    "rarity": "Uncommon",
+    "set_name": "Evolutions",
+    "set_series": "XY"
+  },
+  {
+    "name": "Blastoise-EX",
+    "number": "21",
+    "rarity": "Rare Holo EX",
+    "set_name": "Evolutions",
+    "set_series": "XY"
+  },
+  {
+    "name": "M Blastoise-EX",
+    "number": "22",
+    "rarity": "Rare Holo EX",
+    "set_name": "Evolutions",
+    "set_series": "XY"
+  },
+  {
+    "name": "Poliwag",
+    "number": "23",
+    "rarity": "Common",
+    "set_name": "Evolutions",
+    "set_series": "XY"
+  },
+  {
+    "name": "Poliwhirl",
+    "number": "24",
+    "rarity": "Uncommon",
+    "set_name": "Evolutions",
+    "set_series": "XY"
+  },
+  {
+    "name": "Poliwrath",
+    "number": "25",
+    "rarity": "Rare Holo",
+    "set_name": "Evolutions",
+    "set_series": "XY"
+  },
+  {
+    "name": "Slowbro-EX",
+    "number": "26",
+    "rarity": "Rare Holo EX",
+    "set_name": "Evolutions",
+    "set_series": "XY"
+  },
+  {
+    "name": "M Slowbro-EX",
+    "number": "27",
+    "rarity": "Rare Holo EX",
+    "set_name": "Evolutions",
+    "set_series": "XY"
+  },
+  {
+    "name": "Seel",
+    "number": "28",
+    "rarity": "Common",
+    "set_name": "Evolutions",
+    "set_series": "XY"
+  },
+  {
+    "name": "Dewgong",
+    "number": "29",
+    "rarity": "Rare",
+    "set_name": "Evolutions",
+    "set_series": "XY"
+  },
+  {
+    "name": "Staryu",
+    "number": "30",
+    "rarity": "Common",
+    "set_name": "Evolutions",
+    "set_series": "XY"
+  },
+  {
+    "name": "Starmie",
+    "number": "31",
+    "rarity": "Rare",
+    "set_name": "Evolutions",
+    "set_series": "XY"
+  },
+  {
+    "name": "Starmie BREAK",
+    "number": "32",
+    "rarity": "Rare BREAK",
+    "set_name": "Evolutions",
+    "set_series": "XY"
+  },
+  {
+    "name": "Magikarp",
+    "number": "33",
+    "rarity": "Common",
+    "set_name": "Evolutions",
+    "set_series": "XY"
+  },
+  {
+    "name": "Gyarados",
+    "number": "34",
+    "rarity": "Rare Holo",
+    "set_name": "Evolutions",
+    "set_series": "XY"
+  },
+  {
+    "name": "Pikachu",
+    "number": "35",
+    "rarity": "Common",
+    "set_name": "Evolutions",
+    "set_series": "XY"
+  },
+  {
+    "name": "Raichu",
+    "number": "36",
+    "rarity": "Rare Holo",
+    "set_name": "Evolutions",
+    "set_series": "XY"
+  },
+  {
+    "name": "Magnemite",
+    "number": "37",
+    "rarity": "Common",
+    "set_name": "Evolutions",
+    "set_series": "XY"
+  },
+  {
+    "name": "Magneton",
+    "number": "38",
+    "rarity": "Rare Holo",
+    "set_name": "Evolutions",
+    "set_series": "XY"
+  },
+  {
+    "name": "Voltorb",
+    "number": "39",
+    "rarity": "Common",
+    "set_name": "Evolutions",
+    "set_series": "XY"
+  },
+  {
+    "name": "Electrode",
+    "number": "40",
+    "rarity": "Rare",
+    "set_name": "Evolutions",
+    "set_series": "XY"
+  },
+  {
+    "name": "Electabuzz",
+    "number": "41",
+    "rarity": "Common",
+    "set_name": "Evolutions",
+    "set_series": "XY"
+  },
+  {
+    "name": "Zapdos",
+    "number": "42",
+    "rarity": "Rare Holo",
+    "set_name": "Evolutions",
+    "set_series": "XY"
+  },
+  {
+    "name": "Nidoran \u2642",
+    "number": "43",
+    "rarity": "Common",
+    "set_name": "Evolutions",
+    "set_series": "XY"
+  },
+  {
+    "name": "Nidorino",
+    "number": "44",
+    "rarity": "Uncommon",
+    "set_name": "Evolutions",
+    "set_series": "XY"
+  },
+  {
+    "name": "Nidoking",
+    "number": "45",
+    "rarity": "Rare Holo",
+    "set_name": "Evolutions",
+    "set_series": "XY"
+  },
+  {
+    "name": "Nidoking BREAK",
+    "number": "46",
+    "rarity": "Rare BREAK",
+    "set_name": "Evolutions",
+    "set_series": "XY"
+  },
+  {
+    "name": "Gastly",
+    "number": "47",
+    "rarity": "Common",
+    "set_name": "Evolutions",
+    "set_series": "XY"
+  },
+  {
+    "name": "Haunter",
+    "number": "48",
+    "rarity": "Uncommon",
+    "set_name": "Evolutions",
+    "set_series": "XY"
+  },
+  {
+    "name": "Drowzee",
+    "number": "49",
+    "rarity": "Common",
+    "set_name": "Evolutions",
+    "set_series": "XY"
+  },
+  {
+    "name": "Koffing",
+    "number": "50",
+    "rarity": "Uncommon",
+    "set_name": "Evolutions",
+    "set_series": "XY"
+  },
+  {
+    "name": "Mewtwo",
+    "number": "51",
+    "rarity": "Rare",
+    "set_name": "Evolutions",
+    "set_series": "XY"
+  },
+  {
+    "name": "Mewtwo-EX",
+    "number": "52",
+    "rarity": "Rare Holo EX",
+    "set_name": "Evolutions",
+    "set_series": "XY"
+  },
+  {
+    "name": "Mew",
+    "number": "53",
+    "rarity": "Rare Holo",
+    "set_name": "Evolutions",
+    "set_series": "XY"
+  },
+  {
+    "name": "Sandshrew",
+    "number": "54",
+    "rarity": "Common",
+    "set_name": "Evolutions",
+    "set_series": "XY"
+  },
+  {
+    "name": "Diglett",
+    "number": "55",
+    "rarity": "Common",
+    "set_name": "Evolutions",
+    "set_series": "XY"
+  },
+  {
+    "name": "Dugtrio",
+    "number": "56",
+    "rarity": "Rare",
+    "set_name": "Evolutions",
+    "set_series": "XY"
+  },
+  {
+    "name": "Machop",
+    "number": "57",
+    "rarity": "Common",
+    "set_name": "Evolutions",
+    "set_series": "XY"
+  },
+  {
+    "name": "Machoke",
+    "number": "58",
+    "rarity": "Uncommon",
+    "set_name": "Evolutions",
+    "set_series": "XY"
+  },
+  {
+    "name": "Machamp",
+    "number": "59",
+    "rarity": "Rare Holo",
+    "set_name": "Evolutions",
+    "set_series": "XY"
+  },
+  {
+    "name": "Machamp BREAK",
+    "number": "60",
+    "rarity": "Rare BREAK",
+    "set_name": "Evolutions",
+    "set_series": "XY"
+  },
+  {
+    "name": "Onix",
+    "number": "61",
+    "rarity": "Common",
+    "set_name": "Evolutions",
+    "set_series": "XY"
+  },
+  {
+    "name": "Hitmonchan",
+    "number": "62",
+    "rarity": "Rare Holo",
+    "set_name": "Evolutions",
+    "set_series": "XY"
+  },
+  {
+    "name": "Clefairy",
+    "number": "63",
+    "rarity": "Rare Holo",
+    "set_name": "Evolutions",
+    "set_series": "XY"
+  },
+  {
+    "name": "Pidgeot-EX",
+    "number": "64",
+    "rarity": "Rare Holo EX",
+    "set_name": "Evolutions",
+    "set_series": "XY"
+  },
+  {
+    "name": "M Pidgeot-EX",
+    "number": "65",
+    "rarity": "Rare Holo EX",
+    "set_name": "Evolutions",
+    "set_series": "XY"
+  },
+  {
+    "name": "Rattata",
+    "number": "66",
+    "rarity": "Common",
+    "set_name": "Evolutions",
+    "set_series": "XY"
+  },
+  {
+    "name": "Raticate",
+    "number": "67",
+    "rarity": "Rare",
+    "set_name": "Evolutions",
+    "set_series": "XY"
+  },
+  {
+    "name": "Farfetch'd",
+    "number": "68",
+    "rarity": "Rare",
+    "set_name": "Evolutions",
+    "set_series": "XY"
+  },
+  {
+    "name": "Doduo",
+    "number": "69",
+    "rarity": "Common",
+    "set_name": "Evolutions",
+    "set_series": "XY"
+  },
+  {
+    "name": "Chansey",
+    "number": "70",
+    "rarity": "Rare Holo",
+    "set_name": "Evolutions",
+    "set_series": "XY"
+  },
+  {
+    "name": "Porygon",
+    "number": "71",
+    "rarity": "Uncommon",
+    "set_name": "Evolutions",
+    "set_series": "XY"
+  },
+  {
+    "name": "Dragonite-EX",
+    "number": "72",
+    "rarity": "Rare Holo EX",
+    "set_name": "Evolutions",
+    "set_series": "XY"
+  },
+  {
+    "name": "Blastoise Spirit Link",
+    "number": "73",
+    "rarity": "Uncommon",
+    "set_name": "Evolutions",
+    "set_series": "XY"
+  },
+  {
+    "name": "Brock's Grit",
+    "number": "74",
+    "rarity": "Uncommon",
+    "set_name": "Evolutions",
+    "set_series": "XY"
+  },
+  {
+    "name": "Charizard Spirit Link",
+    "number": "75",
+    "rarity": "Uncommon",
+    "set_name": "Evolutions",
+    "set_series": "XY"
+  },
+  {
+    "name": "Devolution Spray",
+    "number": "76",
+    "rarity": "Uncommon",
+    "set_name": "Evolutions",
+    "set_series": "XY"
+  },
+  {
+    "name": "Energy Retrieval",
+    "number": "77",
+    "rarity": "Uncommon",
+    "set_name": "Evolutions",
+    "set_series": "XY"
+  },
+  {
+    "name": "Full Heal",
+    "number": "78",
+    "rarity": "Uncommon",
+    "set_name": "Evolutions",
+    "set_series": "XY"
+  },
+  {
+    "name": "Maintenance",
+    "number": "79",
+    "rarity": "Uncommon",
+    "set_name": "Evolutions",
+    "set_series": "XY"
+  },
+  {
+    "name": "Misty's Determination",
+    "number": "80",
+    "rarity": "Uncommon",
+    "set_name": "Evolutions",
+    "set_series": "XY"
+  },
+  {
+    "name": "Pidgeot Spirit Link",
+    "number": "81",
+    "rarity": "Uncommon",
+    "set_name": "Evolutions",
+    "set_series": "XY"
+  },
+  {
+    "name": "Pok\u00e9dex",
+    "number": "82",
+    "rarity": "Uncommon",
+    "set_name": "Evolutions",
+    "set_series": "XY"
+  },
+  {
+    "name": "Potion",
+    "number": "83",
+    "rarity": "Uncommon",
+    "set_name": "Evolutions",
+    "set_series": "XY"
+  },
+  {
+    "name": "Professor Oak's Hint",
+    "number": "84",
+    "rarity": "Uncommon",
+    "set_name": "Evolutions",
+    "set_series": "XY"
+  },
+  {
+    "name": "Revive",
+    "number": "85",
+    "rarity": "Uncommon",
+    "set_name": "Evolutions",
+    "set_series": "XY"
+  },
+  {
+    "name": "Slowbro Spirit Link",
+    "number": "86",
+    "rarity": "Uncommon",
+    "set_name": "Evolutions",
+    "set_series": "XY"
+  },
+  {
+    "name": "Super Potion",
+    "number": "87",
+    "rarity": "Uncommon",
+    "set_name": "Evolutions",
+    "set_series": "XY"
+  },
+  {
+    "name": "Switch",
+    "number": "88",
+    "rarity": "Uncommon",
+    "set_name": "Evolutions",
+    "set_series": "XY"
+  },
+  {
+    "name": "Venusaur Spirit Link",
+    "number": "89",
+    "rarity": "Uncommon",
+    "set_name": "Evolutions",
+    "set_series": "XY"
+  },
+  {
+    "name": "Double Colorless Energy",
+    "number": "90",
+    "rarity": "Uncommon",
+    "set_name": "Evolutions",
+    "set_series": "XY"
+  },
+  {
+    "name": "Grass Energy",
+    "number": "91",
+    "rarity": "Common",
+    "set_name": "Evolutions",
+    "set_series": "XY"
+  },
+  {
+    "name": "Fire Energy",
+    "number": "92",
+    "rarity": "Common",
+    "set_name": "Evolutions",
+    "set_series": "XY"
+  },
+  {
+    "name": "Water Energy",
+    "number": "93",
+    "rarity": "Common",
+    "set_name": "Evolutions",
+    "set_series": "XY"
+  },
+  {
+    "name": "Lightning Energy",
+    "number": "94",
+    "rarity": "Common",
+    "set_name": "Evolutions",
+    "set_series": "XY"
+  },
+  {
+    "name": "Psychic Energy",
+    "number": "95",
+    "rarity": "Common",
+    "set_name": "Evolutions",
+    "set_series": "XY"
+  },
+  {
+    "name": "Fighting Energy",
+    "number": "96",
+    "rarity": "Common",
+    "set_name": "Evolutions",
+    "set_series": "XY"
+  },
+  {
+    "name": "Darkness Energy",
+    "number": "97",
+    "rarity": "Common",
+    "set_name": "Evolutions",
+    "set_series": "XY"
+  },
+  {
+    "name": "Metal Energy",
+    "number": "98",
+    "rarity": "Common",
+    "set_name": "Evolutions",
+    "set_series": "XY"
+  },
+  {
+    "name": "Fairy Energy",
+    "number": "99",
+    "rarity": "Common",
+    "set_name": "Evolutions",
+    "set_series": "XY"
+  },
+  {
+    "name": "M Venusaur-EX",
+    "number": "100",
+    "rarity": "Rare Ultra",
+    "set_name": "Evolutions",
+    "set_series": "XY"
+  },
+  {
+    "name": "M Charizard-EX",
+    "number": "101",
+    "rarity": "Rare Ultra",
+    "set_name": "Evolutions",
+    "set_series": "XY"
+  },
+  {
+    "name": "M Blastoise-EX",
+    "number": "102",
+    "rarity": "Rare Ultra",
+    "set_name": "Evolutions",
+    "set_series": "XY"
+  },
+  {
+    "name": "Mewtwo-EX",
+    "number": "103",
+    "rarity": "Rare Ultra",
+    "set_name": "Evolutions",
+    "set_series": "XY"
+  },
+  {
+    "name": "Pidgeot-EX",
+    "number": "104",
+    "rarity": "Rare Ultra",
+    "set_name": "Evolutions",
+    "set_series": "XY"
+  },
+  {
+    "name": "M Pidgeot-EX",
+    "number": "105",
+    "rarity": "Rare Ultra",
+    "set_name": "Evolutions",
+    "set_series": "XY"
+  },
+  {
+    "name": "Dragonite-EX",
+    "number": "106",
+    "rarity": "Rare Ultra",
+    "set_name": "Evolutions",
+    "set_series": "XY"
+  },
+  {
+    "name": "Brock's Grit",
+    "number": "107",
+    "rarity": "Rare Ultra",
+    "set_name": "Evolutions",
+    "set_series": "XY"
+  },
+  {
+    "name": "Misty's Determination",
+    "number": "108",
+    "rarity": "Rare Ultra",
+    "set_name": "Evolutions",
+    "set_series": "XY"
+  },
+  {
+    "name": "\u30ca\u30c3\u30b7\u30fc[Exeggutor]",
+    "number": "109",
+    "rarity": "Rare Secret",
+    "set_name": "Evolutions",
+    "set_series": "XY"
+  },
+  {
+    "name": "Flying Pikachu",
+    "number": "110",
+    "rarity": "Rare Secret",
+    "set_name": "Evolutions",
+    "set_series": "XY"
+  },
+  {
+    "name": "Surfing Pikachu",
+    "number": "111",
+    "rarity": "Rare Secret",
+    "set_name": "Evolutions",
+    "set_series": "XY"
+  },
+  {
+    "name": "Imakuni?'s Doduo",
+    "number": "112",
+    "rarity": "Rare Secret",
+    "set_name": "Evolutions",
+    "set_series": "XY"
+  },
+  {
+    "name": "Here Comes Team Rocket!",
+    "number": "113",
+    "rarity": "Rare Secret",
+    "set_name": "Evolutions",
+    "set_series": "XY"
+  }
+]

@@ -1,0 +1,1514 @@
+[
+  {
+    "name": "Beedrill V",
+    "number": "1",
+    "rarity": "Rare Holo V",
+    "set_name": "Astral Radiance",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Hisuian Voltorb",
+    "number": "2",
+    "rarity": "Common",
+    "set_name": "Astral Radiance",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Hisuian Electrode",
+    "number": "3",
+    "rarity": "Uncommon",
+    "set_name": "Astral Radiance",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Scyther",
+    "number": "4",
+    "rarity": "Common",
+    "set_name": "Astral Radiance",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Scyther",
+    "number": "5",
+    "rarity": "Common",
+    "set_name": "Astral Radiance",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Yanma",
+    "number": "6",
+    "rarity": "Common",
+    "set_name": "Astral Radiance",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Yanmega",
+    "number": "7",
+    "rarity": "Uncommon",
+    "set_name": "Astral Radiance",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Heracross",
+    "number": "8",
+    "rarity": "Common",
+    "set_name": "Astral Radiance",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Kricketot",
+    "number": "9",
+    "rarity": "Common",
+    "set_name": "Astral Radiance",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Kricketune",
+    "number": "10",
+    "rarity": "Uncommon",
+    "set_name": "Astral Radiance",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Combee",
+    "number": "11",
+    "rarity": "Common",
+    "set_name": "Astral Radiance",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Vespiquen",
+    "number": "12",
+    "rarity": "Rare",
+    "set_name": "Astral Radiance",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Leafeon",
+    "number": "13",
+    "rarity": "Rare",
+    "set_name": "Astral Radiance",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Shaymin",
+    "number": "14",
+    "rarity": "Rare",
+    "set_name": "Astral Radiance",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Petilil",
+    "number": "15",
+    "rarity": "Common",
+    "set_name": "Astral Radiance",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Hisuian Lilligant",
+    "number": "16",
+    "rarity": "Rare Holo",
+    "set_name": "Astral Radiance",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Hisuian Lilligant V",
+    "number": "17",
+    "rarity": "Rare Holo V",
+    "set_name": "Astral Radiance",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Hisuian Lilligant VSTAR",
+    "number": "18",
+    "rarity": "Rare Holo VSTAR",
+    "set_name": "Astral Radiance",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Rowlet",
+    "number": "19",
+    "rarity": "Common",
+    "set_name": "Astral Radiance",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Dartrix",
+    "number": "20",
+    "rarity": "Uncommon",
+    "set_name": "Astral Radiance",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Ponyta",
+    "number": "21",
+    "rarity": "Common",
+    "set_name": "Astral Radiance",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Rapidash",
+    "number": "22",
+    "rarity": "Rare",
+    "set_name": "Astral Radiance",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Cyndaquil",
+    "number": "23",
+    "rarity": "Common",
+    "set_name": "Astral Radiance",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Quilava",
+    "number": "24",
+    "rarity": "Uncommon",
+    "set_name": "Astral Radiance",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Heatran V",
+    "number": "25",
+    "rarity": "Rare Holo V",
+    "set_name": "Astral Radiance",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Heatran VMAX",
+    "number": "26",
+    "rarity": "Rare Holo VMAX",
+    "set_name": "Astral Radiance",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Radiant Heatran",
+    "number": "27",
+    "rarity": "Radiant Rare",
+    "set_name": "Astral Radiance",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Psyduck",
+    "number": "28",
+    "rarity": "Common",
+    "set_name": "Astral Radiance",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Golduck",
+    "number": "29",
+    "rarity": "Uncommon",
+    "set_name": "Astral Radiance",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Starmie V",
+    "number": "30",
+    "rarity": "Rare Holo V",
+    "set_name": "Astral Radiance",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Swinub",
+    "number": "31",
+    "rarity": "Common",
+    "set_name": "Astral Radiance",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Piloswine",
+    "number": "32",
+    "rarity": "Uncommon",
+    "set_name": "Astral Radiance",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Mamoswine",
+    "number": "33",
+    "rarity": "Rare",
+    "set_name": "Astral Radiance",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Mantine",
+    "number": "34",
+    "rarity": "Common",
+    "set_name": "Astral Radiance",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Barboach",
+    "number": "35",
+    "rarity": "Common",
+    "set_name": "Astral Radiance",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Whiscash",
+    "number": "36",
+    "rarity": "Uncommon",
+    "set_name": "Astral Radiance",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Regice",
+    "number": "37",
+    "rarity": "Rare",
+    "set_name": "Astral Radiance",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Glaceon",
+    "number": "38",
+    "rarity": "Rare",
+    "set_name": "Astral Radiance",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Origin Forme Palkia V",
+    "number": "39",
+    "rarity": "Rare Holo V",
+    "set_name": "Astral Radiance",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Origin Forme Palkia VSTAR",
+    "number": "40",
+    "rarity": "Rare Holo VSTAR",
+    "set_name": "Astral Radiance",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Oshawott",
+    "number": "41",
+    "rarity": "Common",
+    "set_name": "Astral Radiance",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Dewott",
+    "number": "42",
+    "rarity": "Uncommon",
+    "set_name": "Astral Radiance",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Hisuian Basculin",
+    "number": "43",
+    "rarity": "Common",
+    "set_name": "Astral Radiance",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Hisuian Basculegion",
+    "number": "44",
+    "rarity": "Rare",
+    "set_name": "Astral Radiance",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Keldeo",
+    "number": "45",
+    "rarity": "Rare Holo",
+    "set_name": "Astral Radiance",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Radiant Greninja",
+    "number": "46",
+    "rarity": "Radiant Rare",
+    "set_name": "Astral Radiance",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Bergmite",
+    "number": "47",
+    "rarity": "Common",
+    "set_name": "Astral Radiance",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Hisuian Avalugg",
+    "number": "48",
+    "rarity": "Rare",
+    "set_name": "Astral Radiance",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Galarian Mr. Rime V",
+    "number": "49",
+    "rarity": "Rare Holo V",
+    "set_name": "Astral Radiance",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Luxray V",
+    "number": "50",
+    "rarity": "Rare Holo V",
+    "set_name": "Astral Radiance",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Regieleki",
+    "number": "51",
+    "rarity": "Rare",
+    "set_name": "Astral Radiance",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Hisuian Typhlosion",
+    "number": "52",
+    "rarity": "Rare Holo",
+    "set_name": "Astral Radiance",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Hisuian Typhlosion V",
+    "number": "53",
+    "rarity": "Rare Holo V",
+    "set_name": "Astral Radiance",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Hisuian Typhlosion VSTAR",
+    "number": "54",
+    "rarity": "Rare Holo VSTAR",
+    "set_name": "Astral Radiance",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Togepi",
+    "number": "55",
+    "rarity": "Common",
+    "set_name": "Astral Radiance",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Togetic",
+    "number": "56",
+    "rarity": "Uncommon",
+    "set_name": "Astral Radiance",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Togekiss",
+    "number": "57",
+    "rarity": "Rare Holo",
+    "set_name": "Astral Radiance",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Misdreavus",
+    "number": "58",
+    "rarity": "Common",
+    "set_name": "Astral Radiance",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Mismagius",
+    "number": "59",
+    "rarity": "Rare",
+    "set_name": "Astral Radiance",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Ralts",
+    "number": "60",
+    "rarity": "Common",
+    "set_name": "Astral Radiance",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Kirlia",
+    "number": "61",
+    "rarity": "Uncommon",
+    "set_name": "Astral Radiance",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Gallade",
+    "number": "62",
+    "rarity": "Rare Holo",
+    "set_name": "Astral Radiance",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Drifloon",
+    "number": "63",
+    "rarity": "Common",
+    "set_name": "Astral Radiance",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Drifblim",
+    "number": "64",
+    "rarity": "Uncommon",
+    "set_name": "Astral Radiance",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Uxie",
+    "number": "65",
+    "rarity": "Uncommon",
+    "set_name": "Astral Radiance",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Mesprit",
+    "number": "66",
+    "rarity": "Rare Holo",
+    "set_name": "Astral Radiance",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Azelf",
+    "number": "67",
+    "rarity": "Uncommon",
+    "set_name": "Astral Radiance",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Diancie",
+    "number": "68",
+    "rarity": "Rare Holo",
+    "set_name": "Astral Radiance",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Wyrdeer",
+    "number": "69",
+    "rarity": "Rare Holo",
+    "set_name": "Astral Radiance",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Hisuian Growlithe",
+    "number": "70",
+    "rarity": "Common",
+    "set_name": "Astral Radiance",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Hisuian Arcanine",
+    "number": "71",
+    "rarity": "Rare",
+    "set_name": "Astral Radiance",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Machamp V",
+    "number": "72",
+    "rarity": "Rare Holo V",
+    "set_name": "Astral Radiance",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Machamp VMAX",
+    "number": "73",
+    "rarity": "Rare Holo VMAX",
+    "set_name": "Astral Radiance",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Sudowoodo",
+    "number": "74",
+    "rarity": "Common",
+    "set_name": "Astral Radiance",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Regirock",
+    "number": "75",
+    "rarity": "Rare",
+    "set_name": "Astral Radiance",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Cranidos",
+    "number": "76",
+    "rarity": "Uncommon",
+    "set_name": "Astral Radiance",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Rampardos",
+    "number": "77",
+    "rarity": "Rare Holo",
+    "set_name": "Astral Radiance",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Lucario V",
+    "number": "78",
+    "rarity": "Rare Holo V",
+    "set_name": "Astral Radiance",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Hippopotas",
+    "number": "79",
+    "rarity": "Common",
+    "set_name": "Astral Radiance",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Hippowdon",
+    "number": "80",
+    "rarity": "Uncommon",
+    "set_name": "Astral Radiance",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Radiant Hawlucha",
+    "number": "81",
+    "rarity": "Radiant Rare",
+    "set_name": "Astral Radiance",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Hisuian Decidueye",
+    "number": "82",
+    "rarity": "Rare Holo",
+    "set_name": "Astral Radiance",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Hisuian Decidueye V",
+    "number": "83",
+    "rarity": "Rare Holo V",
+    "set_name": "Astral Radiance",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Hisuian Decidueye VSTAR",
+    "number": "84",
+    "rarity": "Rare Holo VSTAR",
+    "set_name": "Astral Radiance",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Kleavor",
+    "number": "85",
+    "rarity": "Rare",
+    "set_name": "Astral Radiance",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Kleavor",
+    "number": "86",
+    "rarity": "Rare Holo",
+    "set_name": "Astral Radiance",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Kleavor V",
+    "number": "87",
+    "rarity": "Rare Holo V",
+    "set_name": "Astral Radiance",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Hisuian Qwilfish",
+    "number": "88",
+    "rarity": "Common",
+    "set_name": "Astral Radiance",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Hisuian Qwilfish",
+    "number": "89",
+    "rarity": "Common",
+    "set_name": "Astral Radiance",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Hisuian Overqwil",
+    "number": "90",
+    "rarity": "Uncommon",
+    "set_name": "Astral Radiance",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Hisuian Overqwil",
+    "number": "91",
+    "rarity": "Rare",
+    "set_name": "Astral Radiance",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Hisuian Sneasel",
+    "number": "92",
+    "rarity": "Common",
+    "set_name": "Astral Radiance",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Hisuian Sneasler",
+    "number": "93",
+    "rarity": "Rare Holo",
+    "set_name": "Astral Radiance",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Hisuian Sneasler V",
+    "number": "94",
+    "rarity": "Rare Holo V",
+    "set_name": "Astral Radiance",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Poochyena",
+    "number": "95",
+    "rarity": "Common",
+    "set_name": "Astral Radiance",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Mightyena",
+    "number": "96",
+    "rarity": "Rare",
+    "set_name": "Astral Radiance",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Absol",
+    "number": "97",
+    "rarity": "Rare Holo",
+    "set_name": "Astral Radiance",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Darkrai V",
+    "number": "98",
+    "rarity": "Rare Holo V",
+    "set_name": "Astral Radiance",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Darkrai VSTAR",
+    "number": "99",
+    "rarity": "Rare Holo VSTAR",
+    "set_name": "Astral Radiance",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Hisuian Samurott",
+    "number": "100",
+    "rarity": "Rare Holo",
+    "set_name": "Astral Radiance",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Hisuian Samurott V",
+    "number": "101",
+    "rarity": "Rare Holo V",
+    "set_name": "Astral Radiance",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Hisuian Samurott VSTAR",
+    "number": "102",
+    "rarity": "Rare Holo VSTAR",
+    "set_name": "Astral Radiance",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Nickit",
+    "number": "103",
+    "rarity": "Common",
+    "set_name": "Astral Radiance",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Thievul",
+    "number": "104",
+    "rarity": "Rare",
+    "set_name": "Astral Radiance",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Magnemite",
+    "number": "105",
+    "rarity": "Common",
+    "set_name": "Astral Radiance",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Magneton",
+    "number": "106",
+    "rarity": "Uncommon",
+    "set_name": "Astral Radiance",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Magnezone",
+    "number": "107",
+    "rarity": "Rare Holo",
+    "set_name": "Astral Radiance",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Registeel",
+    "number": "108",
+    "rarity": "Rare",
+    "set_name": "Astral Radiance",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Shieldon",
+    "number": "109",
+    "rarity": "Uncommon",
+    "set_name": "Astral Radiance",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Bastiodon",
+    "number": "110",
+    "rarity": "Rare Holo",
+    "set_name": "Astral Radiance",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Bronzor",
+    "number": "111",
+    "rarity": "Common",
+    "set_name": "Astral Radiance",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Bronzong",
+    "number": "112",
+    "rarity": "Uncommon",
+    "set_name": "Astral Radiance",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Origin Forme Dialga V",
+    "number": "113",
+    "rarity": "Rare Holo V",
+    "set_name": "Astral Radiance",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Origin Forme Dialga VSTAR",
+    "number": "114",
+    "rarity": "Rare Holo VSTAR",
+    "set_name": "Astral Radiance",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Pawniard",
+    "number": "115",
+    "rarity": "Common",
+    "set_name": "Astral Radiance",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Bisharp",
+    "number": "116",
+    "rarity": "Uncommon",
+    "set_name": "Astral Radiance",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Garchomp V",
+    "number": "117",
+    "rarity": "Rare Holo V",
+    "set_name": "Astral Radiance",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Regidrago",
+    "number": "118",
+    "rarity": "Rare",
+    "set_name": "Astral Radiance",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Eevee",
+    "number": "119",
+    "rarity": "Common",
+    "set_name": "Astral Radiance",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Hoothoot",
+    "number": "120",
+    "rarity": "Common",
+    "set_name": "Astral Radiance",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Noctowl",
+    "number": "121",
+    "rarity": "Uncommon",
+    "set_name": "Astral Radiance",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Teddiursa",
+    "number": "122",
+    "rarity": "Common",
+    "set_name": "Astral Radiance",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Ursaring",
+    "number": "123",
+    "rarity": "Uncommon",
+    "set_name": "Astral Radiance",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Ursaluna",
+    "number": "124",
+    "rarity": "Rare",
+    "set_name": "Astral Radiance",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Stantler",
+    "number": "125",
+    "rarity": "Common",
+    "set_name": "Astral Radiance",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Miltank",
+    "number": "126",
+    "rarity": "Rare Holo",
+    "set_name": "Astral Radiance",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Glameow",
+    "number": "127",
+    "rarity": "Common",
+    "set_name": "Astral Radiance",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Purugly",
+    "number": "128",
+    "rarity": "Uncommon",
+    "set_name": "Astral Radiance",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Chatot",
+    "number": "129",
+    "rarity": "Common",
+    "set_name": "Astral Radiance",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Regigigas",
+    "number": "130",
+    "rarity": "Rare Holo",
+    "set_name": "Astral Radiance",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Rufflet",
+    "number": "131",
+    "rarity": "Common",
+    "set_name": "Astral Radiance",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Hisuian Braviary",
+    "number": "132",
+    "rarity": "Rare",
+    "set_name": "Astral Radiance",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Oranguru V",
+    "number": "133",
+    "rarity": "Rare Holo V",
+    "set_name": "Astral Radiance",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Wyrdeer V",
+    "number": "134",
+    "rarity": "Rare Holo V",
+    "set_name": "Astral Radiance",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Adaman",
+    "number": "135",
+    "rarity": "Rare Holo",
+    "set_name": "Astral Radiance",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Canceling Cologne",
+    "number": "136",
+    "rarity": "Uncommon",
+    "set_name": "Astral Radiance",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Choy",
+    "number": "137",
+    "rarity": "Uncommon",
+    "set_name": "Astral Radiance",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Cyllene",
+    "number": "138",
+    "rarity": "Uncommon",
+    "set_name": "Astral Radiance",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Dark Patch",
+    "number": "139",
+    "rarity": "Uncommon",
+    "set_name": "Astral Radiance",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Energy Loto",
+    "number": "140",
+    "rarity": "Uncommon",
+    "set_name": "Astral Radiance",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Feather Ball",
+    "number": "141",
+    "rarity": "Uncommon",
+    "set_name": "Astral Radiance",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Gapejaw Bog",
+    "number": "142",
+    "rarity": "Uncommon",
+    "set_name": "Astral Radiance",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Gardenia's Vigor",
+    "number": "143",
+    "rarity": "Uncommon",
+    "set_name": "Astral Radiance",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Grant",
+    "number": "144",
+    "rarity": "Uncommon",
+    "set_name": "Astral Radiance",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Gutsy Pickaxe",
+    "number": "145",
+    "rarity": "Uncommon",
+    "set_name": "Astral Radiance",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Hisuian Heavy Ball",
+    "number": "146",
+    "rarity": "Uncommon",
+    "set_name": "Astral Radiance",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Irida",
+    "number": "147",
+    "rarity": "Rare Holo",
+    "set_name": "Astral Radiance",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Jubilife Village",
+    "number": "148",
+    "rarity": "Uncommon",
+    "set_name": "Astral Radiance",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Kamado",
+    "number": "149",
+    "rarity": "Uncommon",
+    "set_name": "Astral Radiance",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Roxanne",
+    "number": "150",
+    "rarity": "Uncommon",
+    "set_name": "Astral Radiance",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Spicy Seasoned Curry",
+    "number": "151",
+    "rarity": "Uncommon",
+    "set_name": "Astral Radiance",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Supereffective Glasses",
+    "number": "152",
+    "rarity": "Uncommon",
+    "set_name": "Astral Radiance",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Sweet Honey",
+    "number": "153",
+    "rarity": "Uncommon",
+    "set_name": "Astral Radiance",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Switch Cart",
+    "number": "154",
+    "rarity": "Uncommon",
+    "set_name": "Astral Radiance",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Temple of Sinnoh",
+    "number": "155",
+    "rarity": "Uncommon",
+    "set_name": "Astral Radiance",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Trekking Shoes",
+    "number": "156",
+    "rarity": "Uncommon",
+    "set_name": "Astral Radiance",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Unidentified Fossil",
+    "number": "157",
+    "rarity": "Uncommon",
+    "set_name": "Astral Radiance",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Wait and See Turbo",
+    "number": "158",
+    "rarity": "Uncommon",
+    "set_name": "Astral Radiance",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Zisu",
+    "number": "159",
+    "rarity": "Uncommon",
+    "set_name": "Astral Radiance",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Beedrill V",
+    "number": "160",
+    "rarity": "Rare Ultra",
+    "set_name": "Astral Radiance",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Beedrill V",
+    "number": "161",
+    "rarity": "Rare Ultra",
+    "set_name": "Astral Radiance",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Hisuian Lilligant V",
+    "number": "162",
+    "rarity": "Rare Ultra",
+    "set_name": "Astral Radiance",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Hisuian Lilligant V",
+    "number": "163",
+    "rarity": "Rare Ultra",
+    "set_name": "Astral Radiance",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Virizion V",
+    "number": "164",
+    "rarity": "Rare Ultra",
+    "set_name": "Astral Radiance",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Heatran V",
+    "number": "165",
+    "rarity": "Rare Ultra",
+    "set_name": "Astral Radiance",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Starmie V",
+    "number": "166",
+    "rarity": "Rare Ultra",
+    "set_name": "Astral Radiance",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Origin Forme Palkia V",
+    "number": "167",
+    "rarity": "Rare Ultra",
+    "set_name": "Astral Radiance",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Luxray V",
+    "number": "168",
+    "rarity": "Rare Ultra",
+    "set_name": "Astral Radiance",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Hisuian Typhlosion V",
+    "number": "169",
+    "rarity": "Rare Ultra",
+    "set_name": "Astral Radiance",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Jirachi V",
+    "number": "170",
+    "rarity": "Rare Ultra",
+    "set_name": "Astral Radiance",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Machamp V",
+    "number": "171",
+    "rarity": "Rare Ultra",
+    "set_name": "Astral Radiance",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Machamp V",
+    "number": "172",
+    "rarity": "Rare Ultra",
+    "set_name": "Astral Radiance",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Hisuian Decidueye V",
+    "number": "173",
+    "rarity": "Rare Ultra",
+    "set_name": "Astral Radiance",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Hisuian Sneasler V",
+    "number": "174",
+    "rarity": "Rare Ultra",
+    "set_name": "Astral Radiance",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Hisuian Sneasler V",
+    "number": "175",
+    "rarity": "Rare Ultra",
+    "set_name": "Astral Radiance",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Hisuian Samurott V",
+    "number": "176",
+    "rarity": "Rare Ultra",
+    "set_name": "Astral Radiance",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Origin Forme Dialga V",
+    "number": "177",
+    "rarity": "Rare Ultra",
+    "set_name": "Astral Radiance",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Garchomp V",
+    "number": "178",
+    "rarity": "Rare Ultra",
+    "set_name": "Astral Radiance",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Oranguru V",
+    "number": "179",
+    "rarity": "Rare Ultra",
+    "set_name": "Astral Radiance",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Wyrdeer V",
+    "number": "180",
+    "rarity": "Rare Ultra",
+    "set_name": "Astral Radiance",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Adaman",
+    "number": "181",
+    "rarity": "Rare Ultra",
+    "set_name": "Astral Radiance",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Choy",
+    "number": "182",
+    "rarity": "Rare Ultra",
+    "set_name": "Astral Radiance",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Cyllene",
+    "number": "183",
+    "rarity": "Rare Ultra",
+    "set_name": "Astral Radiance",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Gardenia's Vigor",
+    "number": "184",
+    "rarity": "Rare Ultra",
+    "set_name": "Astral Radiance",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Grant",
+    "number": "185",
+    "rarity": "Rare Ultra",
+    "set_name": "Astral Radiance",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Irida",
+    "number": "186",
+    "rarity": "Rare Ultra",
+    "set_name": "Astral Radiance",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Kamado",
+    "number": "187",
+    "rarity": "Rare Ultra",
+    "set_name": "Astral Radiance",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Roxanne",
+    "number": "188",
+    "rarity": "Rare Ultra",
+    "set_name": "Astral Radiance",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Zisu",
+    "number": "189",
+    "rarity": "Rare Ultra",
+    "set_name": "Astral Radiance",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Hisuian Lilligant VSTAR",
+    "number": "190",
+    "rarity": "Rare Rainbow",
+    "set_name": "Astral Radiance",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Heatran VMAX",
+    "number": "191",
+    "rarity": "Rare Rainbow",
+    "set_name": "Astral Radiance",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Origin Forme Palkia VSTAR",
+    "number": "192",
+    "rarity": "Rare Rainbow",
+    "set_name": "Astral Radiance",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Hisuian Typhlosion VSTAR",
+    "number": "193",
+    "rarity": "Rare Rainbow",
+    "set_name": "Astral Radiance",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Machamp VMAX",
+    "number": "194",
+    "rarity": "Rare Rainbow",
+    "set_name": "Astral Radiance",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Hisuian Decidueye VSTAR",
+    "number": "195",
+    "rarity": "Rare Rainbow",
+    "set_name": "Astral Radiance",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Kleavor VSTAR",
+    "number": "196",
+    "rarity": "Rare Rainbow",
+    "set_name": "Astral Radiance",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Hisuian Samurott VSTAR",
+    "number": "197",
+    "rarity": "Rare Rainbow",
+    "set_name": "Astral Radiance",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Origin Forme Dialga VSTAR",
+    "number": "198",
+    "rarity": "Rare Rainbow",
+    "set_name": "Astral Radiance",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Adaman",
+    "number": "199",
+    "rarity": "Rare Rainbow",
+    "set_name": "Astral Radiance",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Choy",
+    "number": "200",
+    "rarity": "Rare Rainbow",
+    "set_name": "Astral Radiance",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Cyllene",
+    "number": "201",
+    "rarity": "Rare Rainbow",
+    "set_name": "Astral Radiance",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Gardenia's Vigor",
+    "number": "202",
+    "rarity": "Rare Rainbow",
+    "set_name": "Astral Radiance",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Grant",
+    "number": "203",
+    "rarity": "Rare Rainbow",
+    "set_name": "Astral Radiance",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Irida",
+    "number": "204",
+    "rarity": "Rare Rainbow",
+    "set_name": "Astral Radiance",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Kamado",
+    "number": "205",
+    "rarity": "Rare Rainbow",
+    "set_name": "Astral Radiance",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Roxanne",
+    "number": "206",
+    "rarity": "Rare Rainbow",
+    "set_name": "Astral Radiance",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Zisu",
+    "number": "207",
+    "rarity": "Rare Rainbow",
+    "set_name": "Astral Radiance",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Origin Forme Palkia VSTAR",
+    "number": "208",
+    "rarity": "Rare Secret",
+    "set_name": "Astral Radiance",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Hisuian Samurott VSTAR",
+    "number": "209",
+    "rarity": "Rare Secret",
+    "set_name": "Astral Radiance",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Origin Forme Dialga VSTAR",
+    "number": "210",
+    "rarity": "Rare Secret",
+    "set_name": "Astral Radiance",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Choice Belt",
+    "number": "211",
+    "rarity": "Rare Secret",
+    "set_name": "Astral Radiance",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Jubilife Village",
+    "number": "212",
+    "rarity": "Rare Secret",
+    "set_name": "Astral Radiance",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Path to the Peak",
+    "number": "213",
+    "rarity": "Rare Secret",
+    "set_name": "Astral Radiance",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Temple of Sinnoh",
+    "number": "214",
+    "rarity": "Rare Secret",
+    "set_name": "Astral Radiance",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Trekking Shoes",
+    "number": "215",
+    "rarity": "Rare Secret",
+    "set_name": "Astral Radiance",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Double Turbo Energy",
+    "number": "216",
+    "rarity": "Rare Secret",
+    "set_name": "Astral Radiance",
+    "set_series": "Sword & Shield"
+  }
+]

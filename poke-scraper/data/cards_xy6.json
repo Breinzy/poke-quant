@@ -1,0 +1,786 @@
+[
+  {
+    "name": "Exeggcute",
+    "number": "1",
+    "rarity": "Common",
+    "set_name": "Roaring Skies",
+    "set_series": "XY"
+  },
+  {
+    "name": "Exeggutor",
+    "number": "2",
+    "rarity": "Uncommon",
+    "set_name": "Roaring Skies",
+    "set_series": "XY"
+  },
+  {
+    "name": "Wurmple",
+    "number": "3",
+    "rarity": "Common",
+    "set_name": "Roaring Skies",
+    "set_series": "XY"
+  },
+  {
+    "name": "Silcoon",
+    "number": "4",
+    "rarity": "Uncommon",
+    "set_name": "Roaring Skies",
+    "set_series": "XY"
+  },
+  {
+    "name": "Beautifly",
+    "number": "5",
+    "rarity": "Rare Holo",
+    "set_name": "Roaring Skies",
+    "set_series": "XY"
+  },
+  {
+    "name": "Cascoon",
+    "number": "6",
+    "rarity": "Common",
+    "set_name": "Roaring Skies",
+    "set_series": "XY"
+  },
+  {
+    "name": "Dustox",
+    "number": "7",
+    "rarity": "Uncommon",
+    "set_name": "Roaring Skies",
+    "set_series": "XY"
+  },
+  {
+    "name": "Dustox",
+    "number": "8",
+    "rarity": "Rare",
+    "set_name": "Roaring Skies",
+    "set_series": "XY"
+  },
+  {
+    "name": "Nincada",
+    "number": "9",
+    "rarity": "Common",
+    "set_name": "Roaring Skies",
+    "set_series": "XY"
+  },
+  {
+    "name": "Ninjask",
+    "number": "10",
+    "rarity": "Uncommon",
+    "set_name": "Roaring Skies",
+    "set_series": "XY"
+  },
+  {
+    "name": "Shedinja",
+    "number": "11",
+    "rarity": "Rare",
+    "set_name": "Roaring Skies",
+    "set_series": "XY"
+  },
+  {
+    "name": "Tropius",
+    "number": "12",
+    "rarity": "Uncommon",
+    "set_name": "Roaring Skies",
+    "set_series": "XY"
+  },
+  {
+    "name": "Victini",
+    "number": "13",
+    "rarity": "Rare",
+    "set_name": "Roaring Skies",
+    "set_series": "XY"
+  },
+  {
+    "name": "Fletchinder",
+    "number": "14",
+    "rarity": "Uncommon",
+    "set_name": "Roaring Skies",
+    "set_series": "XY"
+  },
+  {
+    "name": "Talonflame",
+    "number": "15",
+    "rarity": "Rare",
+    "set_name": "Roaring Skies",
+    "set_series": "XY"
+  },
+  {
+    "name": "Articuno",
+    "number": "16",
+    "rarity": "Rare",
+    "set_name": "Roaring Skies",
+    "set_series": "XY"
+  },
+  {
+    "name": "Articuno",
+    "number": "17",
+    "rarity": "Rare",
+    "set_name": "Roaring Skies",
+    "set_series": "XY"
+  },
+  {
+    "name": "Wingull",
+    "number": "18",
+    "rarity": "Common",
+    "set_name": "Roaring Skies",
+    "set_series": "XY"
+  },
+  {
+    "name": "Pelipper",
+    "number": "19",
+    "rarity": "Uncommon",
+    "set_name": "Roaring Skies",
+    "set_series": "XY"
+  },
+  {
+    "name": "Pikachu",
+    "number": "20",
+    "rarity": "Common",
+    "set_name": "Roaring Skies",
+    "set_series": "XY"
+  },
+  {
+    "name": "Voltorb",
+    "number": "21",
+    "rarity": "Common",
+    "set_name": "Roaring Skies",
+    "set_series": "XY"
+  },
+  {
+    "name": "Electrode",
+    "number": "22",
+    "rarity": "Uncommon",
+    "set_name": "Roaring Skies",
+    "set_series": "XY"
+  },
+  {
+    "name": "Zapdos",
+    "number": "23",
+    "rarity": "Rare",
+    "set_name": "Roaring Skies",
+    "set_series": "XY"
+  },
+  {
+    "name": "Electrike",
+    "number": "24",
+    "rarity": "Common",
+    "set_name": "Roaring Skies",
+    "set_series": "XY"
+  },
+  {
+    "name": "Manectric",
+    "number": "25",
+    "rarity": "Uncommon",
+    "set_name": "Roaring Skies",
+    "set_series": "XY"
+  },
+  {
+    "name": "Thundurus-EX",
+    "number": "26",
+    "rarity": "Rare Holo EX",
+    "set_name": "Roaring Skies",
+    "set_series": "XY"
+  },
+  {
+    "name": "Natu",
+    "number": "27",
+    "rarity": "Common",
+    "set_name": "Roaring Skies",
+    "set_series": "XY"
+  },
+  {
+    "name": "Natu",
+    "number": "28",
+    "rarity": "Common",
+    "set_name": "Roaring Skies",
+    "set_series": "XY"
+  },
+  {
+    "name": "Xatu",
+    "number": "29",
+    "rarity": "Rare",
+    "set_name": "Roaring Skies",
+    "set_series": "XY"
+  },
+  {
+    "name": "Shuppet",
+    "number": "30",
+    "rarity": "Common",
+    "set_name": "Roaring Skies",
+    "set_series": "XY"
+  },
+  {
+    "name": "Banette",
+    "number": "31",
+    "rarity": "Rare",
+    "set_name": "Roaring Skies",
+    "set_series": "XY"
+  },
+  {
+    "name": "Banette",
+    "number": "32",
+    "rarity": "Rare",
+    "set_name": "Roaring Skies",
+    "set_series": "XY"
+  },
+  {
+    "name": "Deoxys",
+    "number": "33",
+    "rarity": "Rare Holo",
+    "set_name": "Roaring Skies",
+    "set_series": "XY"
+  },
+  {
+    "name": "Gallade-EX",
+    "number": "34",
+    "rarity": "Rare Holo EX",
+    "set_name": "Roaring Skies",
+    "set_series": "XY"
+  },
+  {
+    "name": "M Gallade-EX",
+    "number": "35",
+    "rarity": "Rare Holo EX",
+    "set_name": "Roaring Skies",
+    "set_series": "XY"
+  },
+  {
+    "name": "Gligar",
+    "number": "36",
+    "rarity": "Common",
+    "set_name": "Roaring Skies",
+    "set_series": "XY"
+  },
+  {
+    "name": "Gliscor",
+    "number": "37",
+    "rarity": "Uncommon",
+    "set_name": "Roaring Skies",
+    "set_series": "XY"
+  },
+  {
+    "name": "Binacle",
+    "number": "38",
+    "rarity": "Common",
+    "set_name": "Roaring Skies",
+    "set_series": "XY"
+  },
+  {
+    "name": "Hawlucha",
+    "number": "39",
+    "rarity": "Common",
+    "set_name": "Roaring Skies",
+    "set_series": "XY"
+  },
+  {
+    "name": "Absol",
+    "number": "40",
+    "rarity": "Rare Holo",
+    "set_name": "Roaring Skies",
+    "set_series": "XY"
+  },
+  {
+    "name": "Inkay",
+    "number": "41",
+    "rarity": "Common",
+    "set_name": "Roaring Skies",
+    "set_series": "XY"
+  },
+  {
+    "name": "Jirachi",
+    "number": "42",
+    "rarity": "Rare Holo",
+    "set_name": "Roaring Skies",
+    "set_series": "XY"
+  },
+  {
+    "name": "Togepi",
+    "number": "43",
+    "rarity": "Common",
+    "set_name": "Roaring Skies",
+    "set_series": "XY"
+  },
+  {
+    "name": "Togetic",
+    "number": "44",
+    "rarity": "Uncommon",
+    "set_name": "Roaring Skies",
+    "set_series": "XY"
+  },
+  {
+    "name": "Togekiss",
+    "number": "45",
+    "rarity": "Rare",
+    "set_name": "Roaring Skies",
+    "set_series": "XY"
+  },
+  {
+    "name": "Togekiss",
+    "number": "46",
+    "rarity": "Rare Holo",
+    "set_name": "Roaring Skies",
+    "set_series": "XY"
+  },
+  {
+    "name": "Carbink",
+    "number": "47",
+    "rarity": "Rare",
+    "set_name": "Roaring Skies",
+    "set_series": "XY"
+  },
+  {
+    "name": "Klefki",
+    "number": "48",
+    "rarity": "Rare",
+    "set_name": "Roaring Skies",
+    "set_series": "XY"
+  },
+  {
+    "name": "Dratini",
+    "number": "49",
+    "rarity": "Common",
+    "set_name": "Roaring Skies",
+    "set_series": "XY"
+  },
+  {
+    "name": "Dragonair",
+    "number": "50",
+    "rarity": "Uncommon",
+    "set_name": "Roaring Skies",
+    "set_series": "XY"
+  },
+  {
+    "name": "Dragonite",
+    "number": "51",
+    "rarity": "Rare",
+    "set_name": "Roaring Skies",
+    "set_series": "XY"
+  },
+  {
+    "name": "Dragonite",
+    "number": "52",
+    "rarity": "Rare Holo",
+    "set_name": "Roaring Skies",
+    "set_series": "XY"
+  },
+  {
+    "name": "Altaria",
+    "number": "53",
+    "rarity": "Uncommon",
+    "set_name": "Roaring Skies",
+    "set_series": "XY"
+  },
+  {
+    "name": "Bagon",
+    "number": "54",
+    "rarity": "Common",
+    "set_name": "Roaring Skies",
+    "set_series": "XY"
+  },
+  {
+    "name": "Bagon",
+    "number": "55",
+    "rarity": "Common",
+    "set_name": "Roaring Skies",
+    "set_series": "XY"
+  },
+  {
+    "name": "Shelgon",
+    "number": "56",
+    "rarity": "Uncommon",
+    "set_name": "Roaring Skies",
+    "set_series": "XY"
+  },
+  {
+    "name": "Salamence",
+    "number": "57",
+    "rarity": "Rare Holo",
+    "set_name": "Roaring Skies",
+    "set_series": "XY"
+  },
+  {
+    "name": "Latios-EX",
+    "number": "58",
+    "rarity": "Rare Holo EX",
+    "set_name": "Roaring Skies",
+    "set_series": "XY"
+  },
+  {
+    "name": "M Latios-EX",
+    "number": "59",
+    "rarity": "Rare Holo EX",
+    "set_name": "Roaring Skies",
+    "set_series": "XY"
+  },
+  {
+    "name": "Rayquaza-EX",
+    "number": "60",
+    "rarity": "Rare Holo EX",
+    "set_name": "Roaring Skies",
+    "set_series": "XY"
+  },
+  {
+    "name": "M Rayquaza-EX",
+    "number": "61",
+    "rarity": "Rare Holo EX",
+    "set_name": "Roaring Skies",
+    "set_series": "XY"
+  },
+  {
+    "name": "Hydreigon-EX",
+    "number": "62",
+    "rarity": "Rare Holo EX",
+    "set_name": "Roaring Skies",
+    "set_series": "XY"
+  },
+  {
+    "name": "Reshiram",
+    "number": "63",
+    "rarity": "Rare Holo",
+    "set_name": "Roaring Skies",
+    "set_series": "XY"
+  },
+  {
+    "name": "Zekrom",
+    "number": "64",
+    "rarity": "Rare Holo",
+    "set_name": "Roaring Skies",
+    "set_series": "XY"
+  },
+  {
+    "name": "Spearow",
+    "number": "65",
+    "rarity": "Common",
+    "set_name": "Roaring Skies",
+    "set_series": "XY"
+  },
+  {
+    "name": "Fearow",
+    "number": "66",
+    "rarity": "Uncommon",
+    "set_name": "Roaring Skies",
+    "set_series": "XY"
+  },
+  {
+    "name": "Meowth",
+    "number": "67",
+    "rarity": "Common",
+    "set_name": "Roaring Skies",
+    "set_series": "XY"
+  },
+  {
+    "name": "Dunsparce",
+    "number": "68",
+    "rarity": "Common",
+    "set_name": "Roaring Skies",
+    "set_series": "XY"
+  },
+  {
+    "name": "Skarmory",
+    "number": "69",
+    "rarity": "Rare",
+    "set_name": "Roaring Skies",
+    "set_series": "XY"
+  },
+  {
+    "name": "Taillow",
+    "number": "70",
+    "rarity": "Common",
+    "set_name": "Roaring Skies",
+    "set_series": "XY"
+  },
+  {
+    "name": "Swellow",
+    "number": "71",
+    "rarity": "Rare",
+    "set_name": "Roaring Skies",
+    "set_series": "XY"
+  },
+  {
+    "name": "Swellow",
+    "number": "72",
+    "rarity": "Rare Holo",
+    "set_name": "Roaring Skies",
+    "set_series": "XY"
+  },
+  {
+    "name": "Swablu",
+    "number": "73",
+    "rarity": "Common",
+    "set_name": "Roaring Skies",
+    "set_series": "XY"
+  },
+  {
+    "name": "Altaria",
+    "number": "74",
+    "rarity": "Rare",
+    "set_name": "Roaring Skies",
+    "set_series": "XY"
+  },
+  {
+    "name": "Rayquaza-EX",
+    "number": "75",
+    "rarity": "Rare Holo EX",
+    "set_name": "Roaring Skies",
+    "set_series": "XY"
+  },
+  {
+    "name": "M Rayquaza-EX",
+    "number": "76",
+    "rarity": "Rare Holo EX",
+    "set_name": "Roaring Skies",
+    "set_series": "XY"
+  },
+  {
+    "name": "Shaymin-EX",
+    "number": "77",
+    "rarity": "Rare Holo EX",
+    "set_name": "Roaring Skies",
+    "set_series": "XY"
+  },
+  {
+    "name": "Shaymin-EX",
+    "number": "77a",
+    "rarity": "Rare Ultra",
+    "set_name": "Roaring Skies",
+    "set_series": "XY"
+  },
+  {
+    "name": "Pidove",
+    "number": "78",
+    "rarity": "Common",
+    "set_name": "Roaring Skies",
+    "set_series": "XY"
+  },
+  {
+    "name": "Tranquill",
+    "number": "79",
+    "rarity": "Uncommon",
+    "set_name": "Roaring Skies",
+    "set_series": "XY"
+  },
+  {
+    "name": "Unfezant",
+    "number": "80",
+    "rarity": "Uncommon",
+    "set_name": "Roaring Skies",
+    "set_series": "XY"
+  },
+  {
+    "name": "Unfezant",
+    "number": "81",
+    "rarity": "Rare",
+    "set_name": "Roaring Skies",
+    "set_series": "XY"
+  },
+  {
+    "name": "Fletchling",
+    "number": "82",
+    "rarity": "Common",
+    "set_name": "Roaring Skies",
+    "set_series": "XY"
+  },
+  {
+    "name": "Gallade Spirit Link",
+    "number": "83",
+    "rarity": "Uncommon",
+    "set_name": "Roaring Skies",
+    "set_series": "XY"
+  },
+  {
+    "name": "Healing Scarf",
+    "number": "84",
+    "rarity": "Uncommon",
+    "set_name": "Roaring Skies",
+    "set_series": "XY"
+  },
+  {
+    "name": "Latios Spirit Link",
+    "number": "85",
+    "rarity": "Uncommon",
+    "set_name": "Roaring Skies",
+    "set_series": "XY"
+  },
+  {
+    "name": "Mega Turbo",
+    "number": "86",
+    "rarity": "Uncommon",
+    "set_name": "Roaring Skies",
+    "set_series": "XY"
+  },
+  {
+    "name": "Rayquaza Spirit Link",
+    "number": "87",
+    "rarity": "Uncommon",
+    "set_name": "Roaring Skies",
+    "set_series": "XY"
+  },
+  {
+    "name": "Revive",
+    "number": "88",
+    "rarity": "Uncommon",
+    "set_name": "Roaring Skies",
+    "set_series": "XY"
+  },
+  {
+    "name": "Sky Field",
+    "number": "89",
+    "rarity": "Uncommon",
+    "set_name": "Roaring Skies",
+    "set_series": "XY"
+  },
+  {
+    "name": "Steven",
+    "number": "90",
+    "rarity": "Uncommon",
+    "set_name": "Roaring Skies",
+    "set_series": "XY"
+  },
+  {
+    "name": "Switch",
+    "number": "91",
+    "rarity": "Uncommon",
+    "set_name": "Roaring Skies",
+    "set_series": "XY"
+  },
+  {
+    "name": "Trainers' Mail",
+    "number": "92",
+    "rarity": "Uncommon",
+    "set_name": "Roaring Skies",
+    "set_series": "XY"
+  },
+  {
+    "name": "Trainers' Mail",
+    "number": "92a",
+    "rarity": "Uncommon",
+    "set_name": "Roaring Skies",
+    "set_series": "XY"
+  },
+  {
+    "name": "Ultra Ball",
+    "number": "93",
+    "rarity": "Uncommon",
+    "set_name": "Roaring Skies",
+    "set_series": "XY"
+  },
+  {
+    "name": "Wally",
+    "number": "94",
+    "rarity": "Uncommon",
+    "set_name": "Roaring Skies",
+    "set_series": "XY"
+  },
+  {
+    "name": "Wide Lens",
+    "number": "95",
+    "rarity": "Uncommon",
+    "set_name": "Roaring Skies",
+    "set_series": "XY"
+  },
+  {
+    "name": "Winona",
+    "number": "96",
+    "rarity": "Uncommon",
+    "set_name": "Roaring Skies",
+    "set_series": "XY"
+  },
+  {
+    "name": "Double Dragon Energy",
+    "number": "97",
+    "rarity": "Uncommon",
+    "set_name": "Roaring Skies",
+    "set_series": "XY"
+  },
+  {
+    "name": "Thundurus-EX",
+    "number": "98",
+    "rarity": "Rare Ultra",
+    "set_name": "Roaring Skies",
+    "set_series": "XY"
+  },
+  {
+    "name": "Gallade-EX",
+    "number": "99",
+    "rarity": "Rare Ultra",
+    "set_name": "Roaring Skies",
+    "set_series": "XY"
+  },
+  {
+    "name": "M Gallade-EX",
+    "number": "100",
+    "rarity": "Rare Ultra",
+    "set_name": "Roaring Skies",
+    "set_series": "XY"
+  },
+  {
+    "name": "Latios-EX",
+    "number": "101",
+    "rarity": "Rare Ultra",
+    "set_name": "Roaring Skies",
+    "set_series": "XY"
+  },
+  {
+    "name": "M Latios-EX",
+    "number": "102",
+    "rarity": "Rare Ultra",
+    "set_name": "Roaring Skies",
+    "set_series": "XY"
+  },
+  {
+    "name": "Hydreigon-EX",
+    "number": "103",
+    "rarity": "Rare Ultra",
+    "set_name": "Roaring Skies",
+    "set_series": "XY"
+  },
+  {
+    "name": "Rayquaza-EX",
+    "number": "104",
+    "rarity": "Rare Ultra",
+    "set_name": "Roaring Skies",
+    "set_series": "XY"
+  },
+  {
+    "name": "M Rayquaza-EX",
+    "number": "105",
+    "rarity": "Rare Ultra",
+    "set_name": "Roaring Skies",
+    "set_series": "XY"
+  },
+  {
+    "name": "Shaymin-EX",
+    "number": "106",
+    "rarity": "Rare Ultra",
+    "set_name": "Roaring Skies",
+    "set_series": "XY"
+  },
+  {
+    "name": "Wally",
+    "number": "107",
+    "rarity": "Rare Ultra",
+    "set_name": "Roaring Skies",
+    "set_series": "XY"
+  },
+  {
+    "name": "Winona",
+    "number": "108",
+    "rarity": "Rare Ultra",
+    "set_name": "Roaring Skies",
+    "set_series": "XY"
+  },
+  {
+    "name": "Energy Switch",
+    "number": "109",
+    "rarity": "Rare Secret",
+    "set_name": "Roaring Skies",
+    "set_series": "XY"
+  },
+  {
+    "name": "VS Seeker",
+    "number": "110",
+    "rarity": "Rare Secret",
+    "set_name": "Roaring Skies",
+    "set_series": "XY"
+  }
+]

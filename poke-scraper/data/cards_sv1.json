@@ -1,0 +1,1752 @@
+[
+  {
+    "name": "Scatterbug",
+    "number": "8",
+    "rarity": "Common",
+    "set_name": "Scarlet & Violet",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Pineco",
+    "number": "1",
+    "rarity": "Common",
+    "set_name": "Scarlet & Violet",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Cacturne",
+    "number": "6",
+    "rarity": "Uncommon",
+    "set_name": "Scarlet & Violet",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Gogoat",
+    "number": "12",
+    "rarity": "Common",
+    "set_name": "Scarlet & Violet",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Sprigatito",
+    "number": "13",
+    "rarity": "Common",
+    "set_name": "Scarlet & Violet",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Meowscarada",
+    "number": "15",
+    "rarity": "Rare",
+    "set_name": "Scarlet & Violet",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Tarountula",
+    "number": "16",
+    "rarity": "Common",
+    "set_name": "Scarlet & Violet",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Tarountula",
+    "number": "18",
+    "rarity": "Common",
+    "set_name": "Scarlet & Violet",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Smoliv",
+    "number": "20",
+    "rarity": "Common",
+    "set_name": "Scarlet & Violet",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Smoliv",
+    "number": "21",
+    "rarity": "Common",
+    "set_name": "Scarlet & Violet",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Spidops ex",
+    "number": "19",
+    "rarity": "Double Rare",
+    "set_name": "Scarlet & Violet",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Arboliva",
+    "number": "23",
+    "rarity": "Rare",
+    "set_name": "Scarlet & Violet",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Toedscool",
+    "number": "24",
+    "rarity": "Common",
+    "set_name": "Scarlet & Violet",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Heracross",
+    "number": "2",
+    "rarity": "Uncommon",
+    "set_name": "Scarlet & Violet",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Breloom",
+    "number": "4",
+    "rarity": "Uncommon",
+    "set_name": "Scarlet & Violet",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Tropius",
+    "number": "7",
+    "rarity": "Common",
+    "set_name": "Scarlet & Violet",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Vivillon",
+    "number": "10",
+    "rarity": "Uncommon",
+    "set_name": "Scarlet & Violet",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Skiddo",
+    "number": "11",
+    "rarity": "Common",
+    "set_name": "Scarlet & Violet",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Floragato",
+    "number": "14",
+    "rarity": "Uncommon",
+    "set_name": "Scarlet & Violet",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Toedscruel",
+    "number": "26",
+    "rarity": "Uncommon",
+    "set_name": "Scarlet & Violet",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Shroomish",
+    "number": "3",
+    "rarity": "Common",
+    "set_name": "Scarlet & Violet",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Cacnea",
+    "number": "5",
+    "rarity": "Common",
+    "set_name": "Scarlet & Violet",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Spewpa",
+    "number": "9",
+    "rarity": "Common",
+    "set_name": "Scarlet & Violet",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Tarountula",
+    "number": "17",
+    "rarity": "Common",
+    "set_name": "Scarlet & Violet",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Dolliv",
+    "number": "22",
+    "rarity": "Common",
+    "set_name": "Scarlet & Violet",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Toedscool",
+    "number": "25",
+    "rarity": "Common",
+    "set_name": "Scarlet & Violet",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Gyarados ex",
+    "number": "45",
+    "rarity": "Double Rare",
+    "set_name": "Scarlet & Violet",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Scovillain",
+    "number": "29",
+    "rarity": "Uncommon",
+    "set_name": "Scarlet & Violet",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Bruxish",
+    "number": "51",
+    "rarity": "Common",
+    "set_name": "Scarlet & Violet",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Wiglett",
+    "number": "56",
+    "rarity": "Common",
+    "set_name": "Scarlet & Violet",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Crocalor",
+    "number": "37",
+    "rarity": "Uncommon",
+    "set_name": "Scarlet & Violet",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Wugtrio",
+    "number": "57",
+    "rarity": "Uncommon",
+    "set_name": "Scarlet & Violet",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Skeledirge",
+    "number": "38",
+    "rarity": "Rare",
+    "set_name": "Scarlet & Violet",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Cetoddle",
+    "number": "59",
+    "rarity": "Common",
+    "set_name": "Scarlet & Violet",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Charcadet",
+    "number": "40",
+    "rarity": "Common",
+    "set_name": "Scarlet & Violet",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Buizel",
+    "number": "46",
+    "rarity": "Common",
+    "set_name": "Scarlet & Violet",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Cetitan",
+    "number": "60",
+    "rarity": "Uncommon",
+    "set_name": "Scarlet & Violet",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Clauncher",
+    "number": "49",
+    "rarity": "Common",
+    "set_name": "Scarlet & Violet",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Clawitzer",
+    "number": "50",
+    "rarity": "Common",
+    "set_name": "Scarlet & Violet",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Quaxwell",
+    "number": "53",
+    "rarity": "Uncommon",
+    "set_name": "Scarlet & Violet",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Quaquaval",
+    "number": "54",
+    "rarity": "Rare",
+    "set_name": "Scarlet & Violet",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Wiglett",
+    "number": "55",
+    "rarity": "Common",
+    "set_name": "Scarlet & Violet",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Capsakid",
+    "number": "27",
+    "rarity": "Common",
+    "set_name": "Scarlet & Violet",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Growlithe",
+    "number": "30",
+    "rarity": "Common",
+    "set_name": "Scarlet & Violet",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Capsakid",
+    "number": "28",
+    "rarity": "Common",
+    "set_name": "Scarlet & Violet",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Arcanine ex",
+    "number": "32",
+    "rarity": "Double Rare",
+    "set_name": "Scarlet & Violet",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Torkoal",
+    "number": "35",
+    "rarity": "Uncommon",
+    "set_name": "Scarlet & Violet",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Fuecoco",
+    "number": "36",
+    "rarity": "Common",
+    "set_name": "Scarlet & Violet",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Charcadet",
+    "number": "39",
+    "rarity": "Common",
+    "set_name": "Scarlet & Violet",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Slowbro",
+    "number": "43",
+    "rarity": "Rare",
+    "set_name": "Scarlet & Violet",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Floatzel",
+    "number": "47",
+    "rarity": "Uncommon",
+    "set_name": "Scarlet & Violet",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Alomomola",
+    "number": "48",
+    "rarity": "Common",
+    "set_name": "Scarlet & Violet",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Growlithe",
+    "number": "31",
+    "rarity": "Common",
+    "set_name": "Scarlet & Violet",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Houndour",
+    "number": "33",
+    "rarity": "Common",
+    "set_name": "Scarlet & Violet",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Houndoom",
+    "number": "34",
+    "rarity": "Common",
+    "set_name": "Scarlet & Violet",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Armarouge",
+    "number": "41",
+    "rarity": "Rare",
+    "set_name": "Scarlet & Violet",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Slowpoke",
+    "number": "42",
+    "rarity": "Common",
+    "set_name": "Scarlet & Violet",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Magikarp",
+    "number": "44",
+    "rarity": "Common",
+    "set_name": "Scarlet & Violet",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Quaxly",
+    "number": "52",
+    "rarity": "Common",
+    "set_name": "Scarlet & Violet",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Cetoddle",
+    "number": "58",
+    "rarity": "Common",
+    "set_name": "Scarlet & Violet",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Dondozo",
+    "number": "61",
+    "rarity": "Rare",
+    "set_name": "Scarlet & Violet",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Magnemite",
+    "number": "63",
+    "rarity": "Common",
+    "set_name": "Scarlet & Violet",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Magneton",
+    "number": "64",
+    "rarity": "Common",
+    "set_name": "Scarlet & Violet",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Tatsugiri",
+    "number": "62",
+    "rarity": "Uncommon",
+    "set_name": "Scarlet & Violet",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Rotom",
+    "number": "69",
+    "rarity": "Common",
+    "set_name": "Scarlet & Violet",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Mareep",
+    "number": "66",
+    "rarity": "Common",
+    "set_name": "Scarlet & Violet",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Pawmot",
+    "number": "76",
+    "rarity": "Rare",
+    "set_name": "Scarlet & Violet",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Pawmo",
+    "number": "75",
+    "rarity": "Common",
+    "set_name": "Scarlet & Violet",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Miraidon",
+    "number": "80",
+    "rarity": "Rare",
+    "set_name": "Scarlet & Violet",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Wattrel",
+    "number": "77",
+    "rarity": "Common",
+    "set_name": "Scarlet & Violet",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Miraidon ex",
+    "number": "81",
+    "rarity": "Double Rare",
+    "set_name": "Scarlet & Violet",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Wattrel",
+    "number": "78",
+    "rarity": "Common",
+    "set_name": "Scarlet & Violet",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Hypno",
+    "number": "83",
+    "rarity": "Uncommon",
+    "set_name": "Scarlet & Violet",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Kilowattrel",
+    "number": "79",
+    "rarity": "Uncommon",
+    "set_name": "Scarlet & Violet",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Gardevoir ex",
+    "number": "86",
+    "rarity": "Double Rare",
+    "set_name": "Scarlet & Violet",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Dedenne",
+    "number": "94",
+    "rarity": "Common",
+    "set_name": "Scarlet & Violet",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Drowzee",
+    "number": "82",
+    "rarity": "Common",
+    "set_name": "Scarlet & Violet",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Klefki",
+    "number": "96",
+    "rarity": "Rare",
+    "set_name": "Scarlet & Violet",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Ralts",
+    "number": "84",
+    "rarity": "Common",
+    "set_name": "Scarlet & Violet",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Fidough",
+    "number": "97",
+    "rarity": "Common",
+    "set_name": "Scarlet & Violet",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Kirlia",
+    "number": "85",
+    "rarity": "Common",
+    "set_name": "Scarlet & Violet",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Fidough",
+    "number": "98",
+    "rarity": "Common",
+    "set_name": "Scarlet & Violet",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Shuppet",
+    "number": "87",
+    "rarity": "Common",
+    "set_name": "Scarlet & Violet",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Flittle",
+    "number": "101",
+    "rarity": "Common",
+    "set_name": "Scarlet & Violet",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Drifloon",
+    "number": "89",
+    "rarity": "Common",
+    "set_name": "Scarlet & Violet",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Drifblim",
+    "number": "90",
+    "rarity": "Uncommon",
+    "set_name": "Scarlet & Violet",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Flab\u00e9b\u00e9",
+    "number": "91",
+    "rarity": "Common",
+    "set_name": "Scarlet & Violet",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Magnezone ex",
+    "number": "65",
+    "rarity": "Double Rare",
+    "set_name": "Scarlet & Violet",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Flaaffy",
+    "number": "67",
+    "rarity": "Uncommon",
+    "set_name": "Scarlet & Violet",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Toxel",
+    "number": "71",
+    "rarity": "Common",
+    "set_name": "Scarlet & Violet",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Toxtricity",
+    "number": "72",
+    "rarity": "Uncommon",
+    "set_name": "Scarlet & Violet",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Pawmi",
+    "number": "74",
+    "rarity": "Common",
+    "set_name": "Scarlet & Violet",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Florges",
+    "number": "93",
+    "rarity": "Uncommon",
+    "set_name": "Scarlet & Violet",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Flittle",
+    "number": "100",
+    "rarity": "Common",
+    "set_name": "Scarlet & Violet",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Pachirisu",
+    "number": "68",
+    "rarity": "Uncommon",
+    "set_name": "Scarlet & Violet",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Rotom",
+    "number": "70",
+    "rarity": "Common",
+    "set_name": "Scarlet & Violet",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Pawmi",
+    "number": "73",
+    "rarity": "Common",
+    "set_name": "Scarlet & Violet",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Banette ex",
+    "number": "88",
+    "rarity": "Double Rare",
+    "set_name": "Scarlet & Violet",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Floette",
+    "number": "92",
+    "rarity": "Common",
+    "set_name": "Scarlet & Violet",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Dedenne",
+    "number": "95",
+    "rarity": "Common",
+    "set_name": "Scarlet & Violet",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Dachsbun",
+    "number": "99",
+    "rarity": "Uncommon",
+    "set_name": "Scarlet & Violet",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Flittle",
+    "number": "102",
+    "rarity": "Common",
+    "set_name": "Scarlet & Violet",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Greavard",
+    "number": "105",
+    "rarity": "Common",
+    "set_name": "Scarlet & Violet",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Greavard",
+    "number": "104",
+    "rarity": "Common",
+    "set_name": "Scarlet & Violet",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Espathra",
+    "number": "103",
+    "rarity": "Uncommon",
+    "set_name": "Scarlet & Violet",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Houndstone",
+    "number": "106",
+    "rarity": "Rare",
+    "set_name": "Scarlet & Violet",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Mankey",
+    "number": "107",
+    "rarity": "Common",
+    "set_name": "Scarlet & Violet",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Primeape",
+    "number": "108",
+    "rarity": "Common",
+    "set_name": "Scarlet & Violet",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Annihilape",
+    "number": "109",
+    "rarity": "Rare",
+    "set_name": "Scarlet & Violet",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Medicham",
+    "number": "111",
+    "rarity": "Uncommon",
+    "set_name": "Scarlet & Violet",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Meditite",
+    "number": "110",
+    "rarity": "Common",
+    "set_name": "Scarlet & Violet",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Riolu",
+    "number": "113",
+    "rarity": "Common",
+    "set_name": "Scarlet & Violet",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Riolu",
+    "number": "112",
+    "rarity": "Common",
+    "set_name": "Scarlet & Violet",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Lucario",
+    "number": "114",
+    "rarity": "Uncommon",
+    "set_name": "Scarlet & Violet",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Sandile",
+    "number": "115",
+    "rarity": "Common",
+    "set_name": "Scarlet & Violet",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Krookodile",
+    "number": "117",
+    "rarity": "Uncommon",
+    "set_name": "Scarlet & Violet",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Hawlucha",
+    "number": "118",
+    "rarity": "Rare",
+    "set_name": "Scarlet & Violet",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Krokorok",
+    "number": "116",
+    "rarity": "Common",
+    "set_name": "Scarlet & Violet",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Silicobra",
+    "number": "119",
+    "rarity": "Common",
+    "set_name": "Scarlet & Violet",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Sandaconda",
+    "number": "120",
+    "rarity": "Uncommon",
+    "set_name": "Scarlet & Violet",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Stonjourner",
+    "number": "121",
+    "rarity": "Uncommon",
+    "set_name": "Scarlet & Violet",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Great Tusk ex",
+    "number": "123",
+    "rarity": "Double Rare",
+    "set_name": "Scarlet & Violet",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Klawf",
+    "number": "122",
+    "rarity": "Rare",
+    "set_name": "Scarlet & Violet",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Koraidon",
+    "number": "124",
+    "rarity": "Rare",
+    "set_name": "Scarlet & Violet",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Koraidon ex",
+    "number": "125",
+    "rarity": "Double Rare",
+    "set_name": "Scarlet & Violet",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Grimer",
+    "number": "126",
+    "rarity": "Common",
+    "set_name": "Scarlet & Violet",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Muk",
+    "number": "127",
+    "rarity": "Uncommon",
+    "set_name": "Scarlet & Violet",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Seviper",
+    "number": "128",
+    "rarity": "Common",
+    "set_name": "Scarlet & Violet",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Pawniard",
+    "number": "132",
+    "rarity": "Common",
+    "set_name": "Scarlet & Violet",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Spiritomb",
+    "number": "129",
+    "rarity": "Uncommon",
+    "set_name": "Scarlet & Violet",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Croagunk",
+    "number": "130",
+    "rarity": "Common",
+    "set_name": "Scarlet & Violet",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Toxicroak ex",
+    "number": "131",
+    "rarity": "Double Rare",
+    "set_name": "Scarlet & Violet",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Bisharp",
+    "number": "133",
+    "rarity": "Common",
+    "set_name": "Scarlet & Violet",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Kingambit",
+    "number": "134",
+    "rarity": "Rare",
+    "set_name": "Scarlet & Violet",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Maschiff",
+    "number": "135",
+    "rarity": "Common",
+    "set_name": "Scarlet & Violet",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Maschiff",
+    "number": "136",
+    "rarity": "Common",
+    "set_name": "Scarlet & Violet",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Forretress",
+    "number": "139",
+    "rarity": "Uncommon",
+    "set_name": "Scarlet & Violet",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Mabosstiff",
+    "number": "137",
+    "rarity": "Uncommon",
+    "set_name": "Scarlet & Violet",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Bombirdier",
+    "number": "138",
+    "rarity": "Uncommon",
+    "set_name": "Scarlet & Violet",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Varoom",
+    "number": "140",
+    "rarity": "Common",
+    "set_name": "Scarlet & Violet",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Revavroom",
+    "number": "142",
+    "rarity": "Rare",
+    "set_name": "Scarlet & Violet",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Varoom",
+    "number": "141",
+    "rarity": "Common",
+    "set_name": "Scarlet & Violet",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Iron Treads ex",
+    "number": "143",
+    "rarity": "Double Rare",
+    "set_name": "Scarlet & Violet",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Chansey",
+    "number": "144",
+    "rarity": "Common",
+    "set_name": "Scarlet & Violet",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Blissey",
+    "number": "145",
+    "rarity": "Uncommon",
+    "set_name": "Scarlet & Violet",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Zangoose",
+    "number": "146",
+    "rarity": "Common",
+    "set_name": "Scarlet & Violet",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Starly",
+    "number": "148",
+    "rarity": "Common",
+    "set_name": "Scarlet & Violet",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Zangoose",
+    "number": "147",
+    "rarity": "Uncommon",
+    "set_name": "Scarlet & Violet",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Skwovet",
+    "number": "151",
+    "rarity": "Common",
+    "set_name": "Scarlet & Violet",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Staravia",
+    "number": "149",
+    "rarity": "Common",
+    "set_name": "Scarlet & Violet",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Staraptor",
+    "number": "150",
+    "rarity": "Uncommon",
+    "set_name": "Scarlet & Violet",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Indeedee",
+    "number": "153",
+    "rarity": "Rare",
+    "set_name": "Scarlet & Violet",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Greedent",
+    "number": "152",
+    "rarity": "Uncommon",
+    "set_name": "Scarlet & Violet",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Lechonk",
+    "number": "154",
+    "rarity": "Common",
+    "set_name": "Scarlet & Violet",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Oinkologne ex",
+    "number": "158",
+    "rarity": "Double Rare",
+    "set_name": "Scarlet & Violet",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Oinkologne",
+    "number": "157",
+    "rarity": "Uncommon",
+    "set_name": "Scarlet & Violet",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Lechonk",
+    "number": "155",
+    "rarity": "Common",
+    "set_name": "Scarlet & Violet",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Lechonk",
+    "number": "156",
+    "rarity": "Common",
+    "set_name": "Scarlet & Violet",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Tandemaus",
+    "number": "159",
+    "rarity": "Common",
+    "set_name": "Scarlet & Violet",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Tandemaus",
+    "number": "160",
+    "rarity": "Common",
+    "set_name": "Scarlet & Violet",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Squawkabilly",
+    "number": "162",
+    "rarity": "Common",
+    "set_name": "Scarlet & Violet",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Maushold",
+    "number": "161",
+    "rarity": "Uncommon",
+    "set_name": "Scarlet & Violet",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Cyclizar",
+    "number": "164",
+    "rarity": "Rare",
+    "set_name": "Scarlet & Violet",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Cyclizar",
+    "number": "163",
+    "rarity": "Uncommon",
+    "set_name": "Scarlet & Violet",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Flamigo",
+    "number": "165",
+    "rarity": "Uncommon",
+    "set_name": "Scarlet & Violet",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Arven",
+    "number": "166",
+    "rarity": "Uncommon",
+    "set_name": "Scarlet & Violet",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Beach Court",
+    "number": "167",
+    "rarity": "Uncommon",
+    "set_name": "Scarlet & Violet",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Energy Switch",
+    "number": "173",
+    "rarity": "Common",
+    "set_name": "Scarlet & Violet",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Defiance Band",
+    "number": "169",
+    "rarity": "Uncommon",
+    "set_name": "Scarlet & Violet",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Energy Retrieval",
+    "number": "171",
+    "rarity": "Common",
+    "set_name": "Scarlet & Violet",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Energy Search",
+    "number": "172",
+    "rarity": "Common",
+    "set_name": "Scarlet & Violet",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Exp. Share",
+    "number": "174",
+    "rarity": "Uncommon",
+    "set_name": "Scarlet & Violet",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Crushing Hammer",
+    "number": "168",
+    "rarity": "Common",
+    "set_name": "Scarlet & Violet",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Electric Generator",
+    "number": "170",
+    "rarity": "Uncommon",
+    "set_name": "Scarlet & Violet",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Judge",
+    "number": "176",
+    "rarity": "Uncommon",
+    "set_name": "Scarlet & Violet",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Mesagoza",
+    "number": "178",
+    "rarity": "Uncommon",
+    "set_name": "Scarlet & Violet",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Jacq",
+    "number": "175",
+    "rarity": "Uncommon",
+    "set_name": "Scarlet & Violet",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Katy",
+    "number": "177",
+    "rarity": "Uncommon",
+    "set_name": "Scarlet & Violet",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Miriam",
+    "number": "179",
+    "rarity": "Uncommon",
+    "set_name": "Scarlet & Violet",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Nemona",
+    "number": "180",
+    "rarity": "Common",
+    "set_name": "Scarlet & Violet",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Nest Ball",
+    "number": "181",
+    "rarity": "Uncommon",
+    "set_name": "Scarlet & Violet",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Penny",
+    "number": "183",
+    "rarity": "Uncommon",
+    "set_name": "Scarlet & Violet",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Pal Pad",
+    "number": "182",
+    "rarity": "Common",
+    "set_name": "Scarlet & Violet",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Picnic Basket",
+    "number": "184",
+    "rarity": "Uncommon",
+    "set_name": "Scarlet & Violet",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Pok\u00e9 Ball",
+    "number": "185",
+    "rarity": "Common",
+    "set_name": "Scarlet & Violet",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Pok\u00e9mon Catcher",
+    "number": "187",
+    "rarity": "Common",
+    "set_name": "Scarlet & Violet",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Potion",
+    "number": "188",
+    "rarity": "Common",
+    "set_name": "Scarlet & Violet",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Pok\u00e9gear 3.0",
+    "number": "186",
+    "rarity": "Common",
+    "set_name": "Scarlet & Violet",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Professor's Research (Professor Sada)",
+    "number": "189",
+    "rarity": "Rare",
+    "set_name": "Scarlet & Violet",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Rare Candy",
+    "number": "191",
+    "rarity": "Common",
+    "set_name": "Scarlet & Violet",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Professor's Research (Professor Turo)",
+    "number": "190",
+    "rarity": "Rare",
+    "set_name": "Scarlet & Violet",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Rock Chestplate",
+    "number": "192",
+    "rarity": "Uncommon",
+    "set_name": "Scarlet & Violet",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Rocky Helmet",
+    "number": "193",
+    "rarity": "Uncommon",
+    "set_name": "Scarlet & Violet",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Switch",
+    "number": "194",
+    "rarity": "Common",
+    "set_name": "Scarlet & Violet",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Team Star Grunt",
+    "number": "195",
+    "rarity": "Uncommon",
+    "set_name": "Scarlet & Violet",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Ultra Ball",
+    "number": "196",
+    "rarity": "Uncommon",
+    "set_name": "Scarlet & Violet",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Youngster",
+    "number": "198",
+    "rarity": "Uncommon",
+    "set_name": "Scarlet & Violet",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Dolliv",
+    "number": "200",
+    "rarity": "Illustration Rare",
+    "set_name": "Scarlet & Violet",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Vitality Band",
+    "number": "197",
+    "rarity": "Uncommon",
+    "set_name": "Scarlet & Violet",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Tarountula",
+    "number": "199",
+    "rarity": "Illustration Rare",
+    "set_name": "Scarlet & Violet",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Toedscool",
+    "number": "201",
+    "rarity": "Illustration Rare",
+    "set_name": "Scarlet & Violet",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Armarouge",
+    "number": "203",
+    "rarity": "Illustration Rare",
+    "set_name": "Scarlet & Violet",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Scovillain",
+    "number": "202",
+    "rarity": "Illustration Rare",
+    "set_name": "Scarlet & Violet",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Wiglett",
+    "number": "206",
+    "rarity": "Illustration Rare",
+    "set_name": "Scarlet & Violet",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Slowpoke",
+    "number": "204",
+    "rarity": "Illustration Rare",
+    "set_name": "Scarlet & Violet",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Clauncher",
+    "number": "205",
+    "rarity": "Illustration Rare",
+    "set_name": "Scarlet & Violet",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Pawmot",
+    "number": "209",
+    "rarity": "Illustration Rare",
+    "set_name": "Scarlet & Violet",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Pachirisu",
+    "number": "208",
+    "rarity": "Illustration Rare",
+    "set_name": "Scarlet & Violet",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Drowzee",
+    "number": "210",
+    "rarity": "Illustration Rare",
+    "set_name": "Scarlet & Violet",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Dondozo",
+    "number": "207",
+    "rarity": "Illustration Rare",
+    "set_name": "Scarlet & Violet",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Greavard",
+    "number": "214",
+    "rarity": "Illustration Rare",
+    "set_name": "Scarlet & Violet",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Riolu",
+    "number": "215",
+    "rarity": "Illustration Rare",
+    "set_name": "Scarlet & Violet",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Ralts",
+    "number": "211",
+    "rarity": "Illustration Rare",
+    "set_name": "Scarlet & Violet",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Kirlia",
+    "number": "212",
+    "rarity": "Illustration Rare",
+    "set_name": "Scarlet & Violet",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Fidough",
+    "number": "213",
+    "rarity": "Illustration Rare",
+    "set_name": "Scarlet & Violet",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Klawf",
+    "number": "217",
+    "rarity": "Illustration Rare",
+    "set_name": "Scarlet & Violet",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Mabosstiff",
+    "number": "218",
+    "rarity": "Illustration Rare",
+    "set_name": "Scarlet & Violet",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Sandile",
+    "number": "216",
+    "rarity": "Illustration Rare",
+    "set_name": "Scarlet & Violet",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Bombirdier",
+    "number": "219",
+    "rarity": "Illustration Rare",
+    "set_name": "Scarlet & Violet",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Kingambit",
+    "number": "220",
+    "rarity": "Illustration Rare",
+    "set_name": "Scarlet & Violet",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Starly",
+    "number": "221",
+    "rarity": "Illustration Rare",
+    "set_name": "Scarlet & Violet",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Skwovet",
+    "number": "222",
+    "rarity": "Illustration Rare",
+    "set_name": "Scarlet & Violet",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Arcanine ex",
+    "number": "224",
+    "rarity": "Ultra Rare",
+    "set_name": "Scarlet & Violet",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Magnezone ex",
+    "number": "226",
+    "rarity": "Ultra Rare",
+    "set_name": "Scarlet & Violet",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Gyarados ex",
+    "number": "225",
+    "rarity": "Ultra Rare",
+    "set_name": "Scarlet & Violet",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Spidops ex",
+    "number": "223",
+    "rarity": "Ultra Rare",
+    "set_name": "Scarlet & Violet",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Gardevoir ex",
+    "number": "228",
+    "rarity": "Ultra Rare",
+    "set_name": "Scarlet & Violet",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Miraidon ex",
+    "number": "227",
+    "rarity": "Ultra Rare",
+    "set_name": "Scarlet & Violet",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Banette ex",
+    "number": "229",
+    "rarity": "Ultra Rare",
+    "set_name": "Scarlet & Violet",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Koraidon ex",
+    "number": "231",
+    "rarity": "Ultra Rare",
+    "set_name": "Scarlet & Violet",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Great Tusk ex",
+    "number": "230",
+    "rarity": "Ultra Rare",
+    "set_name": "Scarlet & Violet",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Iron Treads ex",
+    "number": "233",
+    "rarity": "Ultra Rare",
+    "set_name": "Scarlet & Violet",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Toxicroak ex",
+    "number": "232",
+    "rarity": "Ultra Rare",
+    "set_name": "Scarlet & Violet",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Oinkologne ex",
+    "number": "234",
+    "rarity": "Ultra Rare",
+    "set_name": "Scarlet & Violet",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Arven",
+    "number": "235",
+    "rarity": "Ultra Rare",
+    "set_name": "Scarlet & Violet",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Katy",
+    "number": "237",
+    "rarity": "Ultra Rare",
+    "set_name": "Scarlet & Violet",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Jacq",
+    "number": "236",
+    "rarity": "Ultra Rare",
+    "set_name": "Scarlet & Violet",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Miriam",
+    "number": "238",
+    "rarity": "Ultra Rare",
+    "set_name": "Scarlet & Violet",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Professor's Research (Professor Turo)",
+    "number": "241",
+    "rarity": "Ultra Rare",
+    "set_name": "Scarlet & Violet",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Professor's Research (Professor Sada)",
+    "number": "240",
+    "rarity": "Ultra Rare",
+    "set_name": "Scarlet & Violet",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Penny",
+    "number": "239",
+    "rarity": "Ultra Rare",
+    "set_name": "Scarlet & Violet",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Team Star Grunt",
+    "number": "242",
+    "rarity": "Ultra Rare",
+    "set_name": "Scarlet & Violet",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Spidops ex",
+    "number": "243",
+    "rarity": "Special Illustration Rare",
+    "set_name": "Scarlet & Violet",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Miraidon ex",
+    "number": "244",
+    "rarity": "Special Illustration Rare",
+    "set_name": "Scarlet & Violet",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Gardevoir ex",
+    "number": "245",
+    "rarity": "Special Illustration Rare",
+    "set_name": "Scarlet & Violet",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Great Tusk ex",
+    "number": "246",
+    "rarity": "Special Illustration Rare",
+    "set_name": "Scarlet & Violet",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Iron Treads ex",
+    "number": "248",
+    "rarity": "Special Illustration Rare",
+    "set_name": "Scarlet & Violet",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Koraidon ex",
+    "number": "247",
+    "rarity": "Special Illustration Rare",
+    "set_name": "Scarlet & Violet",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Arven",
+    "number": "249",
+    "rarity": "Special Illustration Rare",
+    "set_name": "Scarlet & Violet",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Jacq",
+    "number": "250",
+    "rarity": "Special Illustration Rare",
+    "set_name": "Scarlet & Violet",
+    "set_series": "Scarlet & Violet"
+  }
+]

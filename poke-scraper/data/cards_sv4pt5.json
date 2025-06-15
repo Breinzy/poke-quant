@@ -1,0 +1,1717 @@
+[
+  {
+    "name": "Pineco",
+    "number": "1",
+    "rarity": "Common",
+    "set_name": "Paldean Fates",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Forretress ex",
+    "number": "2",
+    "rarity": "Double Rare",
+    "set_name": "Paldean Fates",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Magmar",
+    "number": "9",
+    "rarity": "Common",
+    "set_name": "Paldean Fates",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Maractus",
+    "number": "3",
+    "rarity": "Common",
+    "set_name": "Paldean Fates",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Magmortar",
+    "number": "10",
+    "rarity": "Rare",
+    "set_name": "Paldean Fates",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Heat Rotom",
+    "number": "13",
+    "rarity": "Rare",
+    "set_name": "Paldean Fates",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Lapras",
+    "number": "16",
+    "rarity": "Common",
+    "set_name": "Paldean Fates",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Pikachu",
+    "number": "18",
+    "rarity": "Common",
+    "set_name": "Paldean Fates",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Camerupt",
+    "number": "12",
+    "rarity": "Uncommon",
+    "set_name": "Paldean Fates",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Charcadet",
+    "number": "14",
+    "rarity": "Common",
+    "set_name": "Paldean Fates",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Kilowattrel",
+    "number": "22",
+    "rarity": "Uncommon",
+    "set_name": "Paldean Fates",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Exeggcute",
+    "number": "23",
+    "rarity": "Common",
+    "set_name": "Paldean Fates",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Natu",
+    "number": "25",
+    "rarity": "Common",
+    "set_name": "Paldean Fates",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Toedscool",
+    "number": "4",
+    "rarity": "Common",
+    "set_name": "Paldean Fates",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Toedscruel ex",
+    "number": "5",
+    "rarity": "Double Rare",
+    "set_name": "Paldean Fates",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Espathra ex",
+    "number": "6",
+    "rarity": "Double Rare",
+    "set_name": "Paldean Fates",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Charmander",
+    "number": "7",
+    "rarity": "Common",
+    "set_name": "Paldean Fates",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Frigibax",
+    "number": "17",
+    "rarity": "Common",
+    "set_name": "Paldean Fates",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Raichu",
+    "number": "19",
+    "rarity": "Rare",
+    "set_name": "Paldean Fates",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Chinchou",
+    "number": "20",
+    "rarity": "Common",
+    "set_name": "Paldean Fates",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Charmeleon",
+    "number": "8",
+    "rarity": "Uncommon",
+    "set_name": "Paldean Fates",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Numel",
+    "number": "11",
+    "rarity": "Common",
+    "set_name": "Paldean Fates",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Armarouge",
+    "number": "15",
+    "rarity": "Rare",
+    "set_name": "Paldean Fates",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Lanturn",
+    "number": "21",
+    "rarity": "Uncommon",
+    "set_name": "Paldean Fates",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Exeggutor",
+    "number": "24",
+    "rarity": "Rare",
+    "set_name": "Paldean Fates",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Xatu",
+    "number": "26",
+    "rarity": "Rare",
+    "set_name": "Paldean Fates",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Gardevoir ex",
+    "number": "29",
+    "rarity": "Double Rare",
+    "set_name": "Paldean Fates",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Chimecho",
+    "number": "30",
+    "rarity": "Common",
+    "set_name": "Paldean Fates",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Houndstone",
+    "number": "43",
+    "rarity": "Rare",
+    "set_name": "Paldean Fates",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Annihilape",
+    "number": "47",
+    "rarity": "Rare",
+    "set_name": "Paldean Fates",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Scraggy",
+    "number": "60",
+    "rarity": "Common",
+    "set_name": "Paldean Fates",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Woobat",
+    "number": "32",
+    "rarity": "Common",
+    "set_name": "Paldean Fates",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Lechonk",
+    "number": "71",
+    "rarity": "Common",
+    "set_name": "Paldean Fates",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Electric Generator",
+    "number": "79",
+    "rarity": "Uncommon",
+    "set_name": "Paldean Fates",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Swoobat",
+    "number": "33",
+    "rarity": "Uncommon",
+    "set_name": "Paldean Fates",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Nest Ball",
+    "number": "84",
+    "rarity": "Uncommon",
+    "set_name": "Paldean Fates",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Dedenne",
+    "number": "36",
+    "rarity": "Common",
+    "set_name": "Paldean Fates",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Paldean Student",
+    "number": "85",
+    "rarity": "Common",
+    "set_name": "Paldean Fates",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Fidough",
+    "number": "38",
+    "rarity": "Common",
+    "set_name": "Paldean Fates",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Paldean Student",
+    "number": "86",
+    "rarity": "Common",
+    "set_name": "Paldean Fates",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Dachsbun",
+    "number": "39",
+    "rarity": "Uncommon",
+    "set_name": "Paldean Fates",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Technical Machine: Crisis Punch",
+    "number": "90",
+    "rarity": "Uncommon",
+    "set_name": "Paldean Fates",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Flittle",
+    "number": "41",
+    "rarity": "Common",
+    "set_name": "Paldean Fates",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Ultra Ball",
+    "number": "91",
+    "rarity": "Uncommon",
+    "set_name": "Paldean Fates",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Gimmighoul",
+    "number": "44",
+    "rarity": "Common",
+    "set_name": "Paldean Fates",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Scyther",
+    "number": "95",
+    "rarity": "Shiny Rare",
+    "set_name": "Paldean Fates",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Barboach",
+    "number": "50",
+    "rarity": "Common",
+    "set_name": "Paldean Fates",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Pineco",
+    "number": "99",
+    "rarity": "Shiny Rare",
+    "set_name": "Paldean Fates",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Clobbopus",
+    "number": "51",
+    "rarity": "Common",
+    "set_name": "Paldean Fates",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Snover",
+    "number": "100",
+    "rarity": "Shiny Rare",
+    "set_name": "Paldean Fates",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Grapploct",
+    "number": "52",
+    "rarity": "Uncommon",
+    "set_name": "Paldean Fates",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Abomasnow",
+    "number": "101",
+    "rarity": "Shiny Rare",
+    "set_name": "Paldean Fates",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Paldean Wooper",
+    "number": "58",
+    "rarity": "Common",
+    "set_name": "Paldean Fates",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Varoom",
+    "number": "64",
+    "rarity": "Common",
+    "set_name": "Paldean Fates",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Cyclizar",
+    "number": "70",
+    "rarity": "Rare",
+    "set_name": "Paldean Fates",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Oinkologne",
+    "number": "72",
+    "rarity": "Uncommon",
+    "set_name": "Paldean Fates",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Tandemaus",
+    "number": "73",
+    "rarity": "Common",
+    "set_name": "Paldean Fates",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Clive",
+    "number": "78",
+    "rarity": "Uncommon",
+    "set_name": "Paldean Fates",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Nemona",
+    "number": "82",
+    "rarity": "Common",
+    "set_name": "Paldean Fates",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Professor's Research",
+    "number": "87",
+    "rarity": "Rare",
+    "set_name": "Paldean Fates",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Professor's Research",
+    "number": "88",
+    "rarity": "Rare",
+    "set_name": "Paldean Fates",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Rare Candy",
+    "number": "89",
+    "rarity": "Common",
+    "set_name": "Paldean Fates",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Gloom",
+    "number": "93",
+    "rarity": "Shiny Rare",
+    "set_name": "Paldean Fates",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Smoliv",
+    "number": "102",
+    "rarity": "Shiny Rare",
+    "set_name": "Paldean Fates",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Ralts",
+    "number": "27",
+    "rarity": "Common",
+    "set_name": "Paldean Fates",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Mime Jr.",
+    "number": "31",
+    "rarity": "Common",
+    "set_name": "Paldean Fates",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Cottonee",
+    "number": "34",
+    "rarity": "Common",
+    "set_name": "Paldean Fates",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Ceruledge",
+    "number": "40",
+    "rarity": "Rare",
+    "set_name": "Paldean Fates",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Primeape",
+    "number": "46",
+    "rarity": "Uncommon",
+    "set_name": "Paldean Fates",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Donphan",
+    "number": "49",
+    "rarity": "Uncommon",
+    "set_name": "Paldean Fates",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Great Tusk ex",
+    "number": "53",
+    "rarity": "Double Rare",
+    "set_name": "Paldean Fates",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Scrafty",
+    "number": "61",
+    "rarity": "Uncommon",
+    "set_name": "Paldean Fates",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Revavroom",
+    "number": "65",
+    "rarity": "Rare",
+    "set_name": "Paldean Fates",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Noibat",
+    "number": "68",
+    "rarity": "Common",
+    "set_name": "Paldean Fates",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Noivern ex",
+    "number": "69",
+    "rarity": "Double Rare",
+    "set_name": "Paldean Fates",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Artazon",
+    "number": "76",
+    "rarity": "Uncommon",
+    "set_name": "Paldean Fates",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Atticus",
+    "number": "77",
+    "rarity": "Uncommon",
+    "set_name": "Paldean Fates",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Oddish",
+    "number": "92",
+    "rarity": "Shiny Rare",
+    "set_name": "Paldean Fates",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Hoppip",
+    "number": "96",
+    "rarity": "Shiny Rare",
+    "set_name": "Paldean Fates",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Skiploom",
+    "number": "97",
+    "rarity": "Shiny Rare",
+    "set_name": "Paldean Fates",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Jumpluff",
+    "number": "98",
+    "rarity": "Shiny Rare",
+    "set_name": "Paldean Fates",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Dolliv",
+    "number": "103",
+    "rarity": "Shiny Rare",
+    "set_name": "Paldean Fates",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Arboliva",
+    "number": "104",
+    "rarity": "Shiny Rare",
+    "set_name": "Paldean Fates",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Kirlia",
+    "number": "28",
+    "rarity": "Uncommon",
+    "set_name": "Paldean Fates",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Whimsicott",
+    "number": "35",
+    "rarity": "Uncommon",
+    "set_name": "Paldean Fates",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Mimikyu",
+    "number": "37",
+    "rarity": "Rare",
+    "set_name": "Paldean Fates",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Greavard",
+    "number": "42",
+    "rarity": "Common",
+    "set_name": "Paldean Fates",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Mankey",
+    "number": "45",
+    "rarity": "Common",
+    "set_name": "Paldean Fates",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Phanpy",
+    "number": "48",
+    "rarity": "Common",
+    "set_name": "Paldean Fates",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Charizard ex",
+    "number": "54",
+    "rarity": "Double Rare",
+    "set_name": "Paldean Fates",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Gastly",
+    "number": "55",
+    "rarity": "Common",
+    "set_name": "Paldean Fates",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Haunter",
+    "number": "56",
+    "rarity": "Common",
+    "set_name": "Paldean Fates",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Gengar",
+    "number": "57",
+    "rarity": "Uncommon",
+    "set_name": "Paldean Fates",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Paldean Clodsire ex",
+    "number": "59",
+    "rarity": "Double Rare",
+    "set_name": "Paldean Fates",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Maschiff",
+    "number": "62",
+    "rarity": "Common",
+    "set_name": "Paldean Fates",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Mabosstiff",
+    "number": "63",
+    "rarity": "Rare",
+    "set_name": "Paldean Fates",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Iron Treads ex",
+    "number": "66",
+    "rarity": "Double Rare",
+    "set_name": "Paldean Fates",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Gholdengo",
+    "number": "67",
+    "rarity": "Rare",
+    "set_name": "Paldean Fates",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Maushold",
+    "number": "74",
+    "rarity": "Uncommon",
+    "set_name": "Paldean Fates",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Squawkabilly ex",
+    "number": "75",
+    "rarity": "Double Rare",
+    "set_name": "Paldean Fates",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Iono",
+    "number": "80",
+    "rarity": "Uncommon",
+    "set_name": "Paldean Fates",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Moonlit Hill",
+    "number": "81",
+    "rarity": "Uncommon",
+    "set_name": "Paldean Fates",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Nemona's Backpack",
+    "number": "83",
+    "rarity": "Uncommon",
+    "set_name": "Paldean Fates",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Vileplume",
+    "number": "94",
+    "rarity": "Shiny Rare",
+    "set_name": "Paldean Fates",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Charmander",
+    "number": "109",
+    "rarity": "Shiny Rare",
+    "set_name": "Paldean Fates",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Entei",
+    "number": "112",
+    "rarity": "Shiny Rare",
+    "set_name": "Paldean Fates",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Oricorio",
+    "number": "113",
+    "rarity": "Shiny Rare",
+    "set_name": "Paldean Fates",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Rellor",
+    "number": "108",
+    "rarity": "Shiny Rare",
+    "set_name": "Paldean Fates",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Charcadet",
+    "number": "114",
+    "rarity": "Shiny Rare",
+    "set_name": "Paldean Fates",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Armarouge",
+    "number": "115",
+    "rarity": "Shiny Rare",
+    "set_name": "Paldean Fates",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Slowpoke",
+    "number": "116",
+    "rarity": "Shiny Rare",
+    "set_name": "Paldean Fates",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Slowbro",
+    "number": "117",
+    "rarity": "Shiny Rare",
+    "set_name": "Paldean Fates",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Toedscool",
+    "number": "105",
+    "rarity": "Shiny Rare",
+    "set_name": "Paldean Fates",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Charmeleon",
+    "number": "110",
+    "rarity": "Shiny Rare",
+    "set_name": "Paldean Fates",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Paldean Tauros",
+    "number": "111",
+    "rarity": "Shiny Rare",
+    "set_name": "Paldean Fates",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Staryu",
+    "number": "118",
+    "rarity": "Shiny Rare",
+    "set_name": "Paldean Fates",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Capsakid",
+    "number": "106",
+    "rarity": "Shiny Rare",
+    "set_name": "Paldean Fates",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Scovillain",
+    "number": "107",
+    "rarity": "Shiny Rare",
+    "set_name": "Paldean Fates",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Starmie",
+    "number": "119",
+    "rarity": "Shiny Rare",
+    "set_name": "Paldean Fates",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Wugtrio",
+    "number": "122",
+    "rarity": "Shiny Rare",
+    "set_name": "Paldean Fates",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Palafin",
+    "number": "124",
+    "rarity": "Shiny Rare",
+    "set_name": "Paldean Fates",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Frigibax",
+    "number": "128",
+    "rarity": "Shiny Rare",
+    "set_name": "Paldean Fates",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Electrode",
+    "number": "134",
+    "rarity": "Shiny Rare",
+    "set_name": "Paldean Fates",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Luxio",
+    "number": "136",
+    "rarity": "Shiny Rare",
+    "set_name": "Paldean Fates",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Thundurus",
+    "number": "139",
+    "rarity": "Shiny Rare",
+    "set_name": "Paldean Fates",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Tatsugiri",
+    "number": "127",
+    "rarity": "Shiny Rare",
+    "set_name": "Paldean Fates",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Arctibax",
+    "number": "129",
+    "rarity": "Shiny Rare",
+    "set_name": "Paldean Fates",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Baxcalibur",
+    "number": "130",
+    "rarity": "Shiny Rare",
+    "set_name": "Paldean Fates",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Voltorb",
+    "number": "133",
+    "rarity": "Shiny Rare",
+    "set_name": "Paldean Fates",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Paldean Tauros",
+    "number": "120",
+    "rarity": "Shiny Rare",
+    "set_name": "Paldean Fates",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Veluza",
+    "number": "125",
+    "rarity": "Shiny Rare",
+    "set_name": "Paldean Fates",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Dondozo",
+    "number": "126",
+    "rarity": "Shiny Rare",
+    "set_name": "Paldean Fates",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Pikachu",
+    "number": "131",
+    "rarity": "Shiny Rare",
+    "set_name": "Paldean Fates",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Pachirisu",
+    "number": "138",
+    "rarity": "Shiny Rare",
+    "set_name": "Paldean Fates",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Wiglett",
+    "number": "121",
+    "rarity": "Shiny Rare",
+    "set_name": "Paldean Fates",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Finizen",
+    "number": "123",
+    "rarity": "Shiny Rare",
+    "set_name": "Paldean Fates",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Raichu",
+    "number": "132",
+    "rarity": "Shiny Rare",
+    "set_name": "Paldean Fates",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Shinx",
+    "number": "135",
+    "rarity": "Shiny Rare",
+    "set_name": "Paldean Fates",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Luxray",
+    "number": "137",
+    "rarity": "Shiny Rare",
+    "set_name": "Paldean Fates",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Pawmi",
+    "number": "142",
+    "rarity": "Shiny Rare",
+    "set_name": "Paldean Fates",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Pawmot",
+    "number": "144",
+    "rarity": "Shiny Rare",
+    "set_name": "Paldean Fates",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Wattrel",
+    "number": "145",
+    "rarity": "Shiny Rare",
+    "set_name": "Paldean Fates",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Toxtricity",
+    "number": "141",
+    "rarity": "Shiny Rare",
+    "set_name": "Paldean Fates",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Kilowattrel",
+    "number": "146",
+    "rarity": "Shiny Rare",
+    "set_name": "Paldean Fates",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Toxel",
+    "number": "140",
+    "rarity": "Shiny Rare",
+    "set_name": "Paldean Fates",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Pawmo",
+    "number": "143",
+    "rarity": "Shiny Rare",
+    "set_name": "Paldean Fates",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Wigglytuff",
+    "number": "147",
+    "rarity": "Shiny Rare",
+    "set_name": "Paldean Fates",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Abra",
+    "number": "148",
+    "rarity": "Shiny Rare",
+    "set_name": "Paldean Fates",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Natu",
+    "number": "151",
+    "rarity": "Shiny Rare",
+    "set_name": "Paldean Fates",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Xatu",
+    "number": "152",
+    "rarity": "Shiny Rare",
+    "set_name": "Paldean Fates",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Ralts",
+    "number": "153",
+    "rarity": "Shiny Rare",
+    "set_name": "Paldean Fates",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Kirlia",
+    "number": "154",
+    "rarity": "Shiny Rare",
+    "set_name": "Paldean Fates",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Drifloon",
+    "number": "155",
+    "rarity": "Shiny Rare",
+    "set_name": "Paldean Fates",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Drifblim",
+    "number": "156",
+    "rarity": "Shiny Rare",
+    "set_name": "Paldean Fates",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Spiritomb",
+    "number": "158",
+    "rarity": "Shiny Rare",
+    "set_name": "Paldean Fates",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Tinkatink",
+    "number": "165",
+    "rarity": "Shiny Rare",
+    "set_name": "Paldean Fates",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Annihilape",
+    "number": "171",
+    "rarity": "Shiny Rare",
+    "set_name": "Paldean Fates",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Nacli",
+    "number": "176",
+    "rarity": "Shiny Rare",
+    "set_name": "Paldean Fates",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Garganacl",
+    "number": "178",
+    "rarity": "Shiny Rare",
+    "set_name": "Paldean Fates",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Paldean Wooper",
+    "number": "180",
+    "rarity": "Shiny Rare",
+    "set_name": "Paldean Fates",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Pawniard",
+    "number": "185",
+    "rarity": "Shiny Rare",
+    "set_name": "Paldean Fates",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Bisharp",
+    "number": "186",
+    "rarity": "Shiny Rare",
+    "set_name": "Paldean Fates",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Mabosstiff",
+    "number": "188",
+    "rarity": "Shiny Rare",
+    "set_name": "Paldean Fates",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Shroodle",
+    "number": "189",
+    "rarity": "Shiny Rare",
+    "set_name": "Paldean Fates",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Grafaiai",
+    "number": "190",
+    "rarity": "Shiny Rare",
+    "set_name": "Paldean Fates",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Flittle",
+    "number": "164",
+    "rarity": "Shiny Rare",
+    "set_name": "Paldean Fates",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Tinkaton",
+    "number": "167",
+    "rarity": "Shiny Rare",
+    "set_name": "Paldean Fates",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Weavile",
+    "number": "183",
+    "rarity": "Shiny Rare",
+    "set_name": "Paldean Fates",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Scizor",
+    "number": "191",
+    "rarity": "Shiny Rare",
+    "set_name": "Paldean Fates",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Mime Jr.",
+    "number": "157",
+    "rarity": "Shiny Rare",
+    "set_name": "Paldean Fates",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Mimikyu",
+    "number": "160",
+    "rarity": "Shiny Rare",
+    "set_name": "Paldean Fates",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Dachsbun",
+    "number": "161",
+    "rarity": "Shiny Rare",
+    "set_name": "Paldean Fates",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Ceruledge",
+    "number": "162",
+    "rarity": "Shiny Rare",
+    "set_name": "Paldean Fates",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Houndstone",
+    "number": "168",
+    "rarity": "Shiny Rare",
+    "set_name": "Paldean Fates",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Primeape",
+    "number": "170",
+    "rarity": "Shiny Rare",
+    "set_name": "Paldean Fates",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Hawlucha",
+    "number": "175",
+    "rarity": "Shiny Rare",
+    "set_name": "Paldean Fates",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Naclstack",
+    "number": "177",
+    "rarity": "Shiny Rare",
+    "set_name": "Paldean Fates",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Murkrow",
+    "number": "181",
+    "rarity": "Shiny Rare",
+    "set_name": "Paldean Fates",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Sneasel",
+    "number": "182",
+    "rarity": "Shiny Rare",
+    "set_name": "Paldean Fates",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Sableye",
+    "number": "184",
+    "rarity": "Shiny Rare",
+    "set_name": "Paldean Fates",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Kadabra",
+    "number": "149",
+    "rarity": "Shiny Rare",
+    "set_name": "Paldean Fates",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Cleffa",
+    "number": "150",
+    "rarity": "Shiny Rare",
+    "set_name": "Paldean Fates",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Klefki",
+    "number": "159",
+    "rarity": "Shiny Rare",
+    "set_name": "Paldean Fates",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Rabsca",
+    "number": "163",
+    "rarity": "Shiny Rare",
+    "set_name": "Paldean Fates",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Tinkatuff",
+    "number": "166",
+    "rarity": "Shiny Rare",
+    "set_name": "Paldean Fates",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Mankey",
+    "number": "169",
+    "rarity": "Shiny Rare",
+    "set_name": "Paldean Fates",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Paldean Tauros",
+    "number": "172",
+    "rarity": "Shiny Rare",
+    "set_name": "Paldean Fates",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Riolu",
+    "number": "173",
+    "rarity": "Shiny Rare",
+    "set_name": "Paldean Fates",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Lucario",
+    "number": "174",
+    "rarity": "Shiny Rare",
+    "set_name": "Paldean Fates",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Glimmet",
+    "number": "179",
+    "rarity": "Shiny Rare",
+    "set_name": "Paldean Fates",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Kingambit",
+    "number": "187",
+    "rarity": "Shiny Rare",
+    "set_name": "Paldean Fates",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Varoom",
+    "number": "192",
+    "rarity": "Shiny Rare",
+    "set_name": "Paldean Fates",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Revavroom",
+    "number": "193",
+    "rarity": "Shiny Rare",
+    "set_name": "Paldean Fates",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Pidgey",
+    "number": "196",
+    "rarity": "Shiny Rare",
+    "set_name": "Paldean Fates",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Jigglypuff",
+    "number": "198",
+    "rarity": "Shiny Rare",
+    "set_name": "Paldean Fates",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Doduo",
+    "number": "199",
+    "rarity": "Shiny Rare",
+    "set_name": "Paldean Fates",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Noibat",
+    "number": "194",
+    "rarity": "Shiny Rare",
+    "set_name": "Paldean Fates",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Cyclizar",
+    "number": "195",
+    "rarity": "Shiny Rare",
+    "set_name": "Paldean Fates",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Pidgeotto",
+    "number": "197",
+    "rarity": "Shiny Rare",
+    "set_name": "Paldean Fates",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Dodrio",
+    "number": "200",
+    "rarity": "Shiny Rare",
+    "set_name": "Paldean Fates",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Ditto",
+    "number": "201",
+    "rarity": "Shiny Rare",
+    "set_name": "Paldean Fates",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Snorlax",
+    "number": "202",
+    "rarity": "Shiny Rare",
+    "set_name": "Paldean Fates",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Wingull",
+    "number": "203",
+    "rarity": "Shiny Rare",
+    "set_name": "Paldean Fates",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Pelipper",
+    "number": "204",
+    "rarity": "Shiny Rare",
+    "set_name": "Paldean Fates",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Maushold",
+    "number": "210",
+    "rarity": "Shiny Rare",
+    "set_name": "Paldean Fates",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Oinkologne",
+    "number": "208",
+    "rarity": "Shiny Rare",
+    "set_name": "Paldean Fates",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Tandemaus",
+    "number": "209",
+    "rarity": "Shiny Rare",
+    "set_name": "Paldean Fates",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Toedscruel ex",
+    "number": "213",
+    "rarity": "Shiny Ultra Rare",
+    "set_name": "Paldean Fates",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Palafin",
+    "number": "225",
+    "rarity": "Illustration Rare",
+    "set_name": "Paldean Fates",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Mew ex",
+    "number": "232",
+    "rarity": "Special Illustration Rare",
+    "set_name": "Paldean Fates",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Nemona",
+    "number": "238",
+    "rarity": "Special Illustration Rare",
+    "set_name": "Paldean Fates",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Forretress ex",
+    "number": "212",
+    "rarity": "Shiny Ultra Rare",
+    "set_name": "Paldean Fates",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Espathra ex",
+    "number": "214",
+    "rarity": "Shiny Ultra Rare",
+    "set_name": "Paldean Fates",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Pawmi",
+    "number": "226",
+    "rarity": "Illustration Rare",
+    "set_name": "Paldean Fates",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Clive",
+    "number": "227",
+    "rarity": "Ultra Rare",
+    "set_name": "Paldean Fates",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Judge",
+    "number": "228",
+    "rarity": "Ultra Rare",
+    "set_name": "Paldean Fates",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Paldean Student",
+    "number": "230",
+    "rarity": "Ultra Rare",
+    "set_name": "Paldean Fates",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Paldean Student",
+    "number": "231",
+    "rarity": "Ultra Rare",
+    "set_name": "Paldean Fates",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Arven",
+    "number": "235",
+    "rarity": "Special Illustration Rare",
+    "set_name": "Paldean Fates",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Miraidon ex",
+    "number": "243",
+    "rarity": "Hyper Rare",
+    "set_name": "Paldean Fates",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Flamigo",
+    "number": "211",
+    "rarity": "Shiny Rare",
+    "set_name": "Paldean Fates",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Alakazam ex",
+    "number": "215",
+    "rarity": "Shiny Ultra Rare",
+    "set_name": "Paldean Fates",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Mew ex",
+    "number": "216",
+    "rarity": "Shiny Ultra Rare",
+    "set_name": "Paldean Fates",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Gardevoir ex",
+    "number": "217",
+    "rarity": "Shiny Ultra Rare",
+    "set_name": "Paldean Fates",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Glimmora ex",
+    "number": "218",
+    "rarity": "Shiny Ultra Rare",
+    "set_name": "Paldean Fates",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Paldean Clodsire ex",
+    "number": "219",
+    "rarity": "Shiny Ultra Rare",
+    "set_name": "Paldean Fates",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Noivern ex",
+    "number": "220",
+    "rarity": "Shiny Ultra Rare",
+    "set_name": "Paldean Fates",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Wugtrio",
+    "number": "224",
+    "rarity": "Illustration Rare",
+    "set_name": "Paldean Fates",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Gardevoir ex",
+    "number": "233",
+    "rarity": "Special Illustration Rare",
+    "set_name": "Paldean Fates",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Clive",
+    "number": "236",
+    "rarity": "Special Illustration Rare",
+    "set_name": "Paldean Fates",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Chien-Pao ex",
+    "number": "242",
+    "rarity": "Hyper Rare",
+    "set_name": "Paldean Fates",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Ting-Lu ex",
+    "number": "244",
+    "rarity": "Hyper Rare",
+    "set_name": "Paldean Fates",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Skwovet",
+    "number": "205",
+    "rarity": "Shiny Rare",
+    "set_name": "Paldean Fates",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Greedent",
+    "number": "206",
+    "rarity": "Shiny Rare",
+    "set_name": "Paldean Fates",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Lechonk",
+    "number": "207",
+    "rarity": "Shiny Rare",
+    "set_name": "Paldean Fates",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Pidgeot ex",
+    "number": "221",
+    "rarity": "Shiny Ultra Rare",
+    "set_name": "Paldean Fates",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Wigglytuff ex",
+    "number": "222",
+    "rarity": "Shiny Ultra Rare",
+    "set_name": "Paldean Fates",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Squawkabilly ex",
+    "number": "223",
+    "rarity": "Shiny Ultra Rare",
+    "set_name": "Paldean Fates",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Nemona",
+    "number": "229",
+    "rarity": "Ultra Rare",
+    "set_name": "Paldean Fates",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Charizard ex",
+    "number": "234",
+    "rarity": "Special Illustration Rare",
+    "set_name": "Paldean Fates",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Iono",
+    "number": "237",
+    "rarity": "Special Illustration Rare",
+    "set_name": "Paldean Fates",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Penny",
+    "number": "239",
+    "rarity": "Special Illustration Rare",
+    "set_name": "Paldean Fates",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Wo-Chien ex",
+    "number": "240",
+    "rarity": "Hyper Rare",
+    "set_name": "Paldean Fates",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Chi-Yu ex",
+    "number": "241",
+    "rarity": "Hyper Rare",
+    "set_name": "Paldean Fates",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Koraidon ex",
+    "number": "245",
+    "rarity": "Hyper Rare",
+    "set_name": "Paldean Fates",
+    "set_series": "Scarlet & Violet"
+  }
+]

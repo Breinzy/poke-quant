@@ -1,0 +1,800 @@
+[
+  {
+    "name": "Bellsprout",
+    "number": "1",
+    "rarity": "Common",
+    "set_name": "Furious Fists",
+    "set_series": "XY"
+  },
+  {
+    "name": "Weepinbell",
+    "number": "2",
+    "rarity": "Uncommon",
+    "set_name": "Furious Fists",
+    "set_series": "XY"
+  },
+  {
+    "name": "Victreebel",
+    "number": "3",
+    "rarity": "Rare Holo",
+    "set_name": "Furious Fists",
+    "set_series": "XY"
+  },
+  {
+    "name": "Heracross-EX",
+    "number": "4",
+    "rarity": "Rare Holo EX",
+    "set_name": "Furious Fists",
+    "set_series": "XY"
+  },
+  {
+    "name": "M Heracross-EX",
+    "number": "5",
+    "rarity": "Rare Holo EX",
+    "set_name": "Furious Fists",
+    "set_series": "XY"
+  },
+  {
+    "name": "Shroomish",
+    "number": "6",
+    "rarity": "Common",
+    "set_name": "Furious Fists",
+    "set_series": "XY"
+  },
+  {
+    "name": "Leafeon",
+    "number": "7",
+    "rarity": "Rare",
+    "set_name": "Furious Fists",
+    "set_series": "XY"
+  },
+  {
+    "name": "Shelmet",
+    "number": "8",
+    "rarity": "Common",
+    "set_name": "Furious Fists",
+    "set_series": "XY"
+  },
+  {
+    "name": "Accelgor",
+    "number": "9",
+    "rarity": "Uncommon",
+    "set_name": "Furious Fists",
+    "set_series": "XY"
+  },
+  {
+    "name": "Magmar",
+    "number": "10",
+    "rarity": "Common",
+    "set_name": "Furious Fists",
+    "set_series": "XY"
+  },
+  {
+    "name": "Magmortar",
+    "number": "11",
+    "rarity": "Rare",
+    "set_name": "Furious Fists",
+    "set_series": "XY"
+  },
+  {
+    "name": "Torchic",
+    "number": "12",
+    "rarity": "Common",
+    "set_name": "Furious Fists",
+    "set_series": "XY"
+  },
+  {
+    "name": "Combusken",
+    "number": "13",
+    "rarity": "Uncommon",
+    "set_name": "Furious Fists",
+    "set_series": "XY"
+  },
+  {
+    "name": "Blaziken",
+    "number": "14",
+    "rarity": "Rare Holo",
+    "set_name": "Furious Fists",
+    "set_series": "XY"
+  },
+  {
+    "name": "Poliwag",
+    "number": "15",
+    "rarity": "Common",
+    "set_name": "Furious Fists",
+    "set_series": "XY"
+  },
+  {
+    "name": "Poliwhirl",
+    "number": "16",
+    "rarity": "Uncommon",
+    "set_name": "Furious Fists",
+    "set_series": "XY"
+  },
+  {
+    "name": "Poliwrath",
+    "number": "17",
+    "rarity": "Rare Holo",
+    "set_name": "Furious Fists",
+    "set_series": "XY"
+  },
+  {
+    "name": "Politoed",
+    "number": "18",
+    "rarity": "Rare",
+    "set_name": "Furious Fists",
+    "set_series": "XY"
+  },
+  {
+    "name": "Glaceon",
+    "number": "19",
+    "rarity": "Rare",
+    "set_name": "Furious Fists",
+    "set_series": "XY"
+  },
+  {
+    "name": "Seismitoad-EX",
+    "number": "20",
+    "rarity": "Rare Holo EX",
+    "set_name": "Furious Fists",
+    "set_series": "XY"
+  },
+  {
+    "name": "Cubchoo",
+    "number": "21",
+    "rarity": "Common",
+    "set_name": "Furious Fists",
+    "set_series": "XY"
+  },
+  {
+    "name": "Beartic",
+    "number": "22",
+    "rarity": "Rare",
+    "set_name": "Furious Fists",
+    "set_series": "XY"
+  },
+  {
+    "name": "Clauncher",
+    "number": "23",
+    "rarity": "Common",
+    "set_name": "Furious Fists",
+    "set_series": "XY"
+  },
+  {
+    "name": "Clawitzer",
+    "number": "24",
+    "rarity": "Rare Holo",
+    "set_name": "Furious Fists",
+    "set_series": "XY"
+  },
+  {
+    "name": "Amaura",
+    "number": "25",
+    "rarity": "Uncommon",
+    "set_name": "Furious Fists",
+    "set_series": "XY"
+  },
+  {
+    "name": "Aurorus",
+    "number": "26",
+    "rarity": "Rare",
+    "set_name": "Furious Fists",
+    "set_series": "XY"
+  },
+  {
+    "name": "Pikachu",
+    "number": "27",
+    "rarity": "Common",
+    "set_name": "Furious Fists",
+    "set_series": "XY"
+  },
+  {
+    "name": "Raichu",
+    "number": "28",
+    "rarity": "Uncommon",
+    "set_name": "Furious Fists",
+    "set_series": "XY"
+  },
+  {
+    "name": "Electabuzz",
+    "number": "29",
+    "rarity": "Common",
+    "set_name": "Furious Fists",
+    "set_series": "XY"
+  },
+  {
+    "name": "Electivire",
+    "number": "30",
+    "rarity": "Rare",
+    "set_name": "Furious Fists",
+    "set_series": "XY"
+  },
+  {
+    "name": "Plusle",
+    "number": "31",
+    "rarity": "Common",
+    "set_name": "Furious Fists",
+    "set_series": "XY"
+  },
+  {
+    "name": "Minun",
+    "number": "32",
+    "rarity": "Common",
+    "set_name": "Furious Fists",
+    "set_series": "XY"
+  },
+  {
+    "name": "Thundurus",
+    "number": "33",
+    "rarity": "Rare",
+    "set_name": "Furious Fists",
+    "set_series": "XY"
+  },
+  {
+    "name": "Dedenne",
+    "number": "34",
+    "rarity": "Uncommon",
+    "set_name": "Furious Fists",
+    "set_series": "XY"
+  },
+  {
+    "name": "Drowzee",
+    "number": "35",
+    "rarity": "Common",
+    "set_name": "Furious Fists",
+    "set_series": "XY"
+  },
+  {
+    "name": "Hypno",
+    "number": "36",
+    "rarity": "Rare",
+    "set_name": "Furious Fists",
+    "set_series": "XY"
+  },
+  {
+    "name": "Jynx",
+    "number": "37",
+    "rarity": "Rare",
+    "set_name": "Furious Fists",
+    "set_series": "XY"
+  },
+  {
+    "name": "Skorupi",
+    "number": "38",
+    "rarity": "Common",
+    "set_name": "Furious Fists",
+    "set_series": "XY"
+  },
+  {
+    "name": "Gothita",
+    "number": "39",
+    "rarity": "Common",
+    "set_name": "Furious Fists",
+    "set_series": "XY"
+  },
+  {
+    "name": "Gothorita",
+    "number": "40",
+    "rarity": "Uncommon",
+    "set_name": "Furious Fists",
+    "set_series": "XY"
+  },
+  {
+    "name": "Gothitelle",
+    "number": "41",
+    "rarity": "Rare",
+    "set_name": "Furious Fists",
+    "set_series": "XY"
+  },
+  {
+    "name": "Golett",
+    "number": "42",
+    "rarity": "Common",
+    "set_name": "Furious Fists",
+    "set_series": "XY"
+  },
+  {
+    "name": "Golurk",
+    "number": "43",
+    "rarity": "Rare",
+    "set_name": "Furious Fists",
+    "set_series": "XY"
+  },
+  {
+    "name": "Machop",
+    "number": "44",
+    "rarity": "Common",
+    "set_name": "Furious Fists",
+    "set_series": "XY"
+  },
+  {
+    "name": "Machoke",
+    "number": "45",
+    "rarity": "Uncommon",
+    "set_name": "Furious Fists",
+    "set_series": "XY"
+  },
+  {
+    "name": "Machamp",
+    "number": "46",
+    "rarity": "Rare Holo",
+    "set_name": "Furious Fists",
+    "set_series": "XY"
+  },
+  {
+    "name": "Hitmonlee",
+    "number": "47",
+    "rarity": "Uncommon",
+    "set_name": "Furious Fists",
+    "set_series": "XY"
+  },
+  {
+    "name": "Hitmonchan",
+    "number": "48",
+    "rarity": "Uncommon",
+    "set_name": "Furious Fists",
+    "set_series": "XY"
+  },
+  {
+    "name": "Hitmontop",
+    "number": "49",
+    "rarity": "Uncommon",
+    "set_name": "Furious Fists",
+    "set_series": "XY"
+  },
+  {
+    "name": "Breloom",
+    "number": "50",
+    "rarity": "Rare",
+    "set_name": "Furious Fists",
+    "set_series": "XY"
+  },
+  {
+    "name": "Makuhita",
+    "number": "51",
+    "rarity": "Common",
+    "set_name": "Furious Fists",
+    "set_series": "XY"
+  },
+  {
+    "name": "Hariyama",
+    "number": "52",
+    "rarity": "Rare",
+    "set_name": "Furious Fists",
+    "set_series": "XY"
+  },
+  {
+    "name": "Trapinch",
+    "number": "53",
+    "rarity": "Common",
+    "set_name": "Furious Fists",
+    "set_series": "XY"
+  },
+  {
+    "name": "Lucario-EX",
+    "number": "54",
+    "rarity": "Rare Holo EX",
+    "set_name": "Furious Fists",
+    "set_series": "XY"
+  },
+  {
+    "name": "M Lucario-EX",
+    "number": "55",
+    "rarity": "Rare Holo EX",
+    "set_name": "Furious Fists",
+    "set_series": "XY"
+  },
+  {
+    "name": "M Lucario-EX",
+    "number": "55a",
+    "rarity": "Rare Ultra",
+    "set_name": "Furious Fists",
+    "set_series": "XY"
+  },
+  {
+    "name": "Mienfoo",
+    "number": "56",
+    "rarity": "Common",
+    "set_name": "Furious Fists",
+    "set_series": "XY"
+  },
+  {
+    "name": "Mienshao",
+    "number": "57",
+    "rarity": "Uncommon",
+    "set_name": "Furious Fists",
+    "set_series": "XY"
+  },
+  {
+    "name": "Landorus",
+    "number": "58",
+    "rarity": "Rare Holo",
+    "set_name": "Furious Fists",
+    "set_series": "XY"
+  },
+  {
+    "name": "Pancham",
+    "number": "59",
+    "rarity": "Uncommon",
+    "set_name": "Furious Fists",
+    "set_series": "XY"
+  },
+  {
+    "name": "Pancham",
+    "number": "60",
+    "rarity": "Common",
+    "set_name": "Furious Fists",
+    "set_series": "XY"
+  },
+  {
+    "name": "Tyrunt",
+    "number": "61",
+    "rarity": "Uncommon",
+    "set_name": "Furious Fists",
+    "set_series": "XY"
+  },
+  {
+    "name": "Tyrantrum",
+    "number": "62",
+    "rarity": "Rare",
+    "set_name": "Furious Fists",
+    "set_series": "XY"
+  },
+  {
+    "name": "Hawlucha",
+    "number": "63",
+    "rarity": "Rare Holo",
+    "set_name": "Furious Fists",
+    "set_series": "XY"
+  },
+  {
+    "name": "Hawlucha-EX",
+    "number": "64",
+    "rarity": "Rare Holo EX",
+    "set_name": "Furious Fists",
+    "set_series": "XY"
+  },
+  {
+    "name": "Drapion",
+    "number": "65",
+    "rarity": "Rare",
+    "set_name": "Furious Fists",
+    "set_series": "XY"
+  },
+  {
+    "name": "Scraggy",
+    "number": "66",
+    "rarity": "Common",
+    "set_name": "Furious Fists",
+    "set_series": "XY"
+  },
+  {
+    "name": "Scrafty",
+    "number": "67",
+    "rarity": "Uncommon",
+    "set_name": "Furious Fists",
+    "set_series": "XY"
+  },
+  {
+    "name": "Pangoro",
+    "number": "68",
+    "rarity": "Rare",
+    "set_name": "Furious Fists",
+    "set_series": "XY"
+  },
+  {
+    "name": "Clefairy",
+    "number": "69",
+    "rarity": "Common",
+    "set_name": "Furious Fists",
+    "set_series": "XY"
+  },
+  {
+    "name": "Clefairy",
+    "number": "70",
+    "rarity": "Common",
+    "set_name": "Furious Fists",
+    "set_series": "XY"
+  },
+  {
+    "name": "Clefable",
+    "number": "71",
+    "rarity": "Uncommon",
+    "set_name": "Furious Fists",
+    "set_series": "XY"
+  },
+  {
+    "name": "Sylveon",
+    "number": "72",
+    "rarity": "Rare",
+    "set_name": "Furious Fists",
+    "set_series": "XY"
+  },
+  {
+    "name": "Klefki",
+    "number": "73",
+    "rarity": "Uncommon",
+    "set_name": "Furious Fists",
+    "set_series": "XY"
+  },
+  {
+    "name": "Dragonite-EX",
+    "number": "74",
+    "rarity": "Rare Holo EX",
+    "set_name": "Furious Fists",
+    "set_series": "XY"
+  },
+  {
+    "name": "Vibrava",
+    "number": "75",
+    "rarity": "Uncommon",
+    "set_name": "Furious Fists",
+    "set_series": "XY"
+  },
+  {
+    "name": "Flygon",
+    "number": "76",
+    "rarity": "Rare",
+    "set_name": "Furious Fists",
+    "set_series": "XY"
+  },
+  {
+    "name": "Noivern",
+    "number": "77",
+    "rarity": "Rare Holo",
+    "set_name": "Furious Fists",
+    "set_series": "XY"
+  },
+  {
+    "name": "Lickitung",
+    "number": "78",
+    "rarity": "Common",
+    "set_name": "Furious Fists",
+    "set_series": "XY"
+  },
+  {
+    "name": "Lickilicky",
+    "number": "79",
+    "rarity": "Uncommon",
+    "set_name": "Furious Fists",
+    "set_series": "XY"
+  },
+  {
+    "name": "Eevee",
+    "number": "80",
+    "rarity": "Common",
+    "set_name": "Furious Fists",
+    "set_series": "XY"
+  },
+  {
+    "name": "Slakoth",
+    "number": "81",
+    "rarity": "Common",
+    "set_name": "Furious Fists",
+    "set_series": "XY"
+  },
+  {
+    "name": "Vigoroth",
+    "number": "82",
+    "rarity": "Uncommon",
+    "set_name": "Furious Fists",
+    "set_series": "XY"
+  },
+  {
+    "name": "Slaking",
+    "number": "83",
+    "rarity": "Rare Holo",
+    "set_name": "Furious Fists",
+    "set_series": "XY"
+  },
+  {
+    "name": "Patrat",
+    "number": "84",
+    "rarity": "Common",
+    "set_name": "Furious Fists",
+    "set_series": "XY"
+  },
+  {
+    "name": "Watchog",
+    "number": "85",
+    "rarity": "Uncommon",
+    "set_name": "Furious Fists",
+    "set_series": "XY"
+  },
+  {
+    "name": "Tornadus",
+    "number": "86",
+    "rarity": "Rare",
+    "set_name": "Furious Fists",
+    "set_series": "XY"
+  },
+  {
+    "name": "Noibat",
+    "number": "87",
+    "rarity": "Common",
+    "set_name": "Furious Fists",
+    "set_series": "XY"
+  },
+  {
+    "name": "Battle Reporter",
+    "number": "88",
+    "rarity": "Uncommon",
+    "set_name": "Furious Fists",
+    "set_series": "XY"
+  },
+  {
+    "name": "Energy Switch",
+    "number": "89",
+    "rarity": "Uncommon",
+    "set_name": "Furious Fists",
+    "set_series": "XY"
+  },
+  {
+    "name": "Fighting Stadium",
+    "number": "90",
+    "rarity": "Uncommon",
+    "set_name": "Furious Fists",
+    "set_series": "XY"
+  },
+  {
+    "name": "Focus Sash",
+    "number": "91",
+    "rarity": "Uncommon",
+    "set_name": "Furious Fists",
+    "set_series": "XY"
+  },
+  {
+    "name": "Fossil Researcher",
+    "number": "92",
+    "rarity": "Uncommon",
+    "set_name": "Furious Fists",
+    "set_series": "XY"
+  },
+  {
+    "name": "Full Heal",
+    "number": "93",
+    "rarity": "Uncommon",
+    "set_name": "Furious Fists",
+    "set_series": "XY"
+  },
+  {
+    "name": "Jaw Fossil",
+    "number": "94",
+    "rarity": "Uncommon",
+    "set_name": "Furious Fists",
+    "set_series": "XY"
+  },
+  {
+    "name": "Korrina",
+    "number": "95",
+    "rarity": "Uncommon",
+    "set_name": "Furious Fists",
+    "set_series": "XY"
+  },
+  {
+    "name": "Maintenance",
+    "number": "96",
+    "rarity": "Uncommon",
+    "set_name": "Furious Fists",
+    "set_series": "XY"
+  },
+  {
+    "name": "Mountain Ring",
+    "number": "97",
+    "rarity": "Uncommon",
+    "set_name": "Furious Fists",
+    "set_series": "XY"
+  },
+  {
+    "name": "Sail Fossil",
+    "number": "98",
+    "rarity": "Uncommon",
+    "set_name": "Furious Fists",
+    "set_series": "XY"
+  },
+  {
+    "name": "Sparkling Robe",
+    "number": "99",
+    "rarity": "Uncommon",
+    "set_name": "Furious Fists",
+    "set_series": "XY"
+  },
+  {
+    "name": "Super Scoop Up",
+    "number": "100",
+    "rarity": "Uncommon",
+    "set_name": "Furious Fists",
+    "set_series": "XY"
+  },
+  {
+    "name": "Tool Retriever",
+    "number": "101",
+    "rarity": "Uncommon",
+    "set_name": "Furious Fists",
+    "set_series": "XY"
+  },
+  {
+    "name": "Training Center",
+    "number": "102",
+    "rarity": "Uncommon",
+    "set_name": "Furious Fists",
+    "set_series": "XY"
+  },
+  {
+    "name": "Herbal Energy",
+    "number": "103",
+    "rarity": "Uncommon",
+    "set_name": "Furious Fists",
+    "set_series": "XY"
+  },
+  {
+    "name": "Strong Energy",
+    "number": "104",
+    "rarity": "Uncommon",
+    "set_name": "Furious Fists",
+    "set_series": "XY"
+  },
+  {
+    "name": "Heracross-EX",
+    "number": "105",
+    "rarity": "Rare Ultra",
+    "set_name": "Furious Fists",
+    "set_series": "XY"
+  },
+  {
+    "name": "Seismitoad-EX",
+    "number": "106",
+    "rarity": "Rare Ultra",
+    "set_name": "Furious Fists",
+    "set_series": "XY"
+  },
+  {
+    "name": "Lucario-EX",
+    "number": "107",
+    "rarity": "Rare Ultra",
+    "set_name": "Furious Fists",
+    "set_series": "XY"
+  },
+  {
+    "name": "Dragonite-EX",
+    "number": "108",
+    "rarity": "Rare Ultra",
+    "set_name": "Furious Fists",
+    "set_series": "XY"
+  },
+  {
+    "name": "Battle Reporter",
+    "number": "109",
+    "rarity": "Rare Ultra",
+    "set_name": "Furious Fists",
+    "set_series": "XY"
+  },
+  {
+    "name": "Fossil Researcher",
+    "number": "110",
+    "rarity": "Rare Ultra",
+    "set_name": "Furious Fists",
+    "set_series": "XY"
+  },
+  {
+    "name": "Korrina",
+    "number": "111",
+    "rarity": "Rare Ultra",
+    "set_name": "Furious Fists",
+    "set_series": "XY"
+  },
+  {
+    "name": "M Heracross-EX",
+    "number": "112",
+    "rarity": "Rare Secret",
+    "set_name": "Furious Fists",
+    "set_series": "XY"
+  },
+  {
+    "name": "M Lucario-EX",
+    "number": "113",
+    "rarity": "Rare Secret",
+    "set_name": "Furious Fists",
+    "set_series": "XY"
+  }
+]

@@ -1,0 +1,1262 @@
+[
+  {
+    "name": "Bellsprout",
+    "number": "1",
+    "rarity": "Common",
+    "set_name": "Guardians Rising",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Weepinbell",
+    "number": "2",
+    "rarity": "Uncommon",
+    "set_name": "Guardians Rising",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Victreebel",
+    "number": "3",
+    "rarity": "Rare",
+    "set_name": "Guardians Rising",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Petilil",
+    "number": "4",
+    "rarity": "Common",
+    "set_name": "Guardians Rising",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Lilligant",
+    "number": "5",
+    "rarity": "Rare",
+    "set_name": "Guardians Rising",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Phantump",
+    "number": "6",
+    "rarity": "Common",
+    "set_name": "Guardians Rising",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Trevenant",
+    "number": "7",
+    "rarity": "Rare",
+    "set_name": "Guardians Rising",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Wimpod",
+    "number": "8",
+    "rarity": "Common",
+    "set_name": "Guardians Rising",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Golisopod",
+    "number": "9",
+    "rarity": "Rare Holo",
+    "set_name": "Guardians Rising",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Victini",
+    "number": "10",
+    "rarity": "Rare Holo",
+    "set_name": "Guardians Rising",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Litwick",
+    "number": "11",
+    "rarity": "Common",
+    "set_name": "Guardians Rising",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Lampent",
+    "number": "12",
+    "rarity": "Uncommon",
+    "set_name": "Guardians Rising",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Chandelure",
+    "number": "13",
+    "rarity": "Rare Holo",
+    "set_name": "Guardians Rising",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Oricorio",
+    "number": "14",
+    "rarity": "Rare",
+    "set_name": "Guardians Rising",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Salandit",
+    "number": "15",
+    "rarity": "Common",
+    "set_name": "Guardians Rising",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Salazzle",
+    "number": "16",
+    "rarity": "Rare",
+    "set_name": "Guardians Rising",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Turtonator",
+    "number": "17",
+    "rarity": "Rare",
+    "set_name": "Guardians Rising",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Turtonator-GX",
+    "number": "18",
+    "rarity": "Rare Holo GX",
+    "set_name": "Guardians Rising",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Alolan Sandshrew",
+    "number": "19",
+    "rarity": "Common",
+    "set_name": "Guardians Rising",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Alolan Sandshrew",
+    "number": "19a",
+    "rarity": "Common",
+    "set_name": "Guardians Rising",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Alolan Sandslash",
+    "number": "20",
+    "rarity": "Rare",
+    "set_name": "Guardians Rising",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Alolan Vulpix",
+    "number": "21",
+    "rarity": "Common",
+    "set_name": "Guardians Rising",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Alolan Vulpix",
+    "number": "21a",
+    "rarity": "Common",
+    "set_name": "Guardians Rising",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Alolan Ninetales-GX",
+    "number": "22",
+    "rarity": "Rare Holo GX",
+    "set_name": "Guardians Rising",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Tentacool",
+    "number": "23",
+    "rarity": "Common",
+    "set_name": "Guardians Rising",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Tentacruel",
+    "number": "24",
+    "rarity": "Uncommon",
+    "set_name": "Guardians Rising",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Politoed",
+    "number": "25",
+    "rarity": "Rare Holo",
+    "set_name": "Guardians Rising",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Delibird",
+    "number": "26",
+    "rarity": "Common",
+    "set_name": "Guardians Rising",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Carvanha",
+    "number": "27",
+    "rarity": "Common",
+    "set_name": "Guardians Rising",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Sharpedo",
+    "number": "28",
+    "rarity": "Rare",
+    "set_name": "Guardians Rising",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Wailmer",
+    "number": "29",
+    "rarity": "Common",
+    "set_name": "Guardians Rising",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Wailord",
+    "number": "30",
+    "rarity": "Rare",
+    "set_name": "Guardians Rising",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Snorunt",
+    "number": "31",
+    "rarity": "Common",
+    "set_name": "Guardians Rising",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Glalie",
+    "number": "32",
+    "rarity": "Uncommon",
+    "set_name": "Guardians Rising",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Vanillite",
+    "number": "33",
+    "rarity": "Common",
+    "set_name": "Guardians Rising",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Vanillish",
+    "number": "34",
+    "rarity": "Uncommon",
+    "set_name": "Guardians Rising",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Vanilluxe",
+    "number": "35",
+    "rarity": "Rare",
+    "set_name": "Guardians Rising",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Alomomola",
+    "number": "36",
+    "rarity": "Uncommon",
+    "set_name": "Guardians Rising",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Wishiwashi",
+    "number": "37",
+    "rarity": "Common",
+    "set_name": "Guardians Rising",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Wishiwashi-GX",
+    "number": "38",
+    "rarity": "Rare Holo GX",
+    "set_name": "Guardians Rising",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Mareanie",
+    "number": "39",
+    "rarity": "Uncommon",
+    "set_name": "Guardians Rising",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Alolan Geodude",
+    "number": "40",
+    "rarity": "Common",
+    "set_name": "Guardians Rising",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Alolan Graveler",
+    "number": "41",
+    "rarity": "Uncommon",
+    "set_name": "Guardians Rising",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Alolan Golem",
+    "number": "42",
+    "rarity": "Rare Holo",
+    "set_name": "Guardians Rising",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Helioptile",
+    "number": "43",
+    "rarity": "Common",
+    "set_name": "Guardians Rising",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Heliolisk",
+    "number": "44",
+    "rarity": "Rare",
+    "set_name": "Guardians Rising",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Vikavolt-GX",
+    "number": "45",
+    "rarity": "Rare Holo GX",
+    "set_name": "Guardians Rising",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Oricorio",
+    "number": "46",
+    "rarity": "Rare",
+    "set_name": "Guardians Rising",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Tapu Koko-GX",
+    "number": "47",
+    "rarity": "Rare Holo GX",
+    "set_name": "Guardians Rising",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Slowpoke",
+    "number": "48",
+    "rarity": "Common",
+    "set_name": "Guardians Rising",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Slowbro",
+    "number": "49",
+    "rarity": "Uncommon",
+    "set_name": "Guardians Rising",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Trubbish",
+    "number": "50",
+    "rarity": "Common",
+    "set_name": "Guardians Rising",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Garbodor",
+    "number": "51",
+    "rarity": "Rare",
+    "set_name": "Guardians Rising",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Garbodor",
+    "number": "51a",
+    "rarity": "Rare",
+    "set_name": "Guardians Rising",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Gothita",
+    "number": "52",
+    "rarity": "Common",
+    "set_name": "Guardians Rising",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Gothorita",
+    "number": "53",
+    "rarity": "Uncommon",
+    "set_name": "Guardians Rising",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Gothitelle",
+    "number": "54",
+    "rarity": "Rare",
+    "set_name": "Guardians Rising",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Oricorio",
+    "number": "55",
+    "rarity": "Rare",
+    "set_name": "Guardians Rising",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Oricorio",
+    "number": "56",
+    "rarity": "Rare",
+    "set_name": "Guardians Rising",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Toxapex-GX",
+    "number": "57",
+    "rarity": "Rare Holo GX",
+    "set_name": "Guardians Rising",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Mimikyu",
+    "number": "58",
+    "rarity": "Rare Holo",
+    "set_name": "Guardians Rising",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Dhelmise",
+    "number": "59",
+    "rarity": "Rare Holo",
+    "set_name": "Guardians Rising",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Tapu Lele-GX",
+    "number": "60",
+    "rarity": "Rare Holo GX",
+    "set_name": "Guardians Rising",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Tapu Lele-GX",
+    "number": "60a",
+    "rarity": "Rare Holo GX",
+    "set_name": "Guardians Rising",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Lunala",
+    "number": "61",
+    "rarity": "Rare",
+    "set_name": "Guardians Rising",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Machop",
+    "number": "62",
+    "rarity": "Common",
+    "set_name": "Guardians Rising",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Machop",
+    "number": "63",
+    "rarity": "Common",
+    "set_name": "Guardians Rising",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Machoke",
+    "number": "64",
+    "rarity": "Uncommon",
+    "set_name": "Guardians Rising",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Machamp",
+    "number": "65",
+    "rarity": "Rare Holo",
+    "set_name": "Guardians Rising",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Sudowoodo",
+    "number": "66",
+    "rarity": "Uncommon",
+    "set_name": "Guardians Rising",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Gligar",
+    "number": "67",
+    "rarity": "Common",
+    "set_name": "Guardians Rising",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Gliscor",
+    "number": "68",
+    "rarity": "Uncommon",
+    "set_name": "Guardians Rising",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Nosepass",
+    "number": "69",
+    "rarity": "Common",
+    "set_name": "Guardians Rising",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Barboach",
+    "number": "70",
+    "rarity": "Common",
+    "set_name": "Guardians Rising",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Whiscash",
+    "number": "71",
+    "rarity": "Rare",
+    "set_name": "Guardians Rising",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Pancham",
+    "number": "72",
+    "rarity": "Common",
+    "set_name": "Guardians Rising",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Rockruff",
+    "number": "73",
+    "rarity": "Common",
+    "set_name": "Guardians Rising",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Lycanroc-GX",
+    "number": "74",
+    "rarity": "Rare Holo GX",
+    "set_name": "Guardians Rising",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Mudbray",
+    "number": "75",
+    "rarity": "Common",
+    "set_name": "Guardians Rising",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Mudsdale",
+    "number": "76",
+    "rarity": "Rare Holo",
+    "set_name": "Guardians Rising",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Minior",
+    "number": "77",
+    "rarity": "Rare Holo",
+    "set_name": "Guardians Rising",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Murkrow",
+    "number": "78",
+    "rarity": "Common",
+    "set_name": "Guardians Rising",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Honchkrow",
+    "number": "79",
+    "rarity": "Rare",
+    "set_name": "Guardians Rising",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Sableye",
+    "number": "80",
+    "rarity": "Uncommon",
+    "set_name": "Guardians Rising",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Absol",
+    "number": "81",
+    "rarity": "Rare Holo",
+    "set_name": "Guardians Rising",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Pangoro",
+    "number": "82",
+    "rarity": "Rare",
+    "set_name": "Guardians Rising",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Beldum",
+    "number": "83",
+    "rarity": "Common",
+    "set_name": "Guardians Rising",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Metang",
+    "number": "84",
+    "rarity": "Uncommon",
+    "set_name": "Guardians Rising",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Metagross-GX",
+    "number": "85",
+    "rarity": "Rare Holo GX",
+    "set_name": "Guardians Rising",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Probopass",
+    "number": "86",
+    "rarity": "Rare",
+    "set_name": "Guardians Rising",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Solgaleo",
+    "number": "87",
+    "rarity": "Rare",
+    "set_name": "Guardians Rising",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Clefairy",
+    "number": "88",
+    "rarity": "Common",
+    "set_name": "Guardians Rising",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Clefable",
+    "number": "89",
+    "rarity": "Uncommon",
+    "set_name": "Guardians Rising",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Cottonee",
+    "number": "90",
+    "rarity": "Common",
+    "set_name": "Guardians Rising",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Whimsicott",
+    "number": "91",
+    "rarity": "Uncommon",
+    "set_name": "Guardians Rising",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Sylveon-GX",
+    "number": "92",
+    "rarity": "Rare Holo GX",
+    "set_name": "Guardians Rising",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Sylveon-GX",
+    "number": "92a",
+    "rarity": "Rare Holo GX",
+    "set_name": "Guardians Rising",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Comfey",
+    "number": "93",
+    "rarity": "Rare Holo",
+    "set_name": "Guardians Rising",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Goomy",
+    "number": "94",
+    "rarity": "Common",
+    "set_name": "Guardians Rising",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Sliggoo",
+    "number": "95",
+    "rarity": "Uncommon",
+    "set_name": "Guardians Rising",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Goodra",
+    "number": "96",
+    "rarity": "Rare Holo",
+    "set_name": "Guardians Rising",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Drampa",
+    "number": "97",
+    "rarity": "Rare Holo",
+    "set_name": "Guardians Rising",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Jangmo-o",
+    "number": "98",
+    "rarity": "Common",
+    "set_name": "Guardians Rising",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Hakamo-o",
+    "number": "99",
+    "rarity": "Uncommon",
+    "set_name": "Guardians Rising",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Kommo-o-GX",
+    "number": "100",
+    "rarity": "Rare Holo GX",
+    "set_name": "Guardians Rising",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Chansey",
+    "number": "101",
+    "rarity": "Common",
+    "set_name": "Guardians Rising",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Blissey",
+    "number": "102",
+    "rarity": "Rare Holo",
+    "set_name": "Guardians Rising",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Taillow",
+    "number": "103",
+    "rarity": "Common",
+    "set_name": "Guardians Rising",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Swellow",
+    "number": "104",
+    "rarity": "Rare",
+    "set_name": "Guardians Rising",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Castform",
+    "number": "105",
+    "rarity": "Common",
+    "set_name": "Guardians Rising",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Rayquaza",
+    "number": "106",
+    "rarity": "Rare",
+    "set_name": "Guardians Rising",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Patrat",
+    "number": "107",
+    "rarity": "Common",
+    "set_name": "Guardians Rising",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Watchog",
+    "number": "108",
+    "rarity": "Uncommon",
+    "set_name": "Guardians Rising",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Fletchling",
+    "number": "109",
+    "rarity": "Common",
+    "set_name": "Guardians Rising",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Fletchinder",
+    "number": "110",
+    "rarity": "Uncommon",
+    "set_name": "Guardians Rising",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Talonflame",
+    "number": "111",
+    "rarity": "Rare",
+    "set_name": "Guardians Rising",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Stufful",
+    "number": "112",
+    "rarity": "Common",
+    "set_name": "Guardians Rising",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Bewear",
+    "number": "113",
+    "rarity": "Uncommon",
+    "set_name": "Guardians Rising",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Komala",
+    "number": "114",
+    "rarity": "Uncommon",
+    "set_name": "Guardians Rising",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Drampa-GX",
+    "number": "115",
+    "rarity": "Rare Holo GX",
+    "set_name": "Guardians Rising",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Aether Paradise Conservation Area",
+    "number": "116",
+    "rarity": "Uncommon",
+    "set_name": "Guardians Rising",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Altar of the Moone",
+    "number": "117",
+    "rarity": "Uncommon",
+    "set_name": "Guardians Rising",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Altar of the Sunne",
+    "number": "118",
+    "rarity": "Uncommon",
+    "set_name": "Guardians Rising",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Aqua Patch",
+    "number": "119",
+    "rarity": "Uncommon",
+    "set_name": "Guardians Rising",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Brooklet Hill",
+    "number": "120",
+    "rarity": "Uncommon",
+    "set_name": "Guardians Rising",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Choice Band",
+    "number": "121",
+    "rarity": "Uncommon",
+    "set_name": "Guardians Rising",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Choice Band",
+    "number": "121a",
+    "rarity": "Uncommon",
+    "set_name": "Guardians Rising",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Energy Loto",
+    "number": "122",
+    "rarity": "Uncommon",
+    "set_name": "Guardians Rising",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Energy Recycler",
+    "number": "123",
+    "rarity": "Uncommon",
+    "set_name": "Guardians Rising",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Enhanced Hammer",
+    "number": "124",
+    "rarity": "Uncommon",
+    "set_name": "Guardians Rising",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Enhanced Hammer",
+    "number": "124a",
+    "rarity": "Uncommon",
+    "set_name": "Guardians Rising",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Field Blower",
+    "number": "125",
+    "rarity": "Uncommon",
+    "set_name": "Guardians Rising",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Field Blower",
+    "number": "125a",
+    "rarity": "Uncommon",
+    "set_name": "Guardians Rising",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Hala",
+    "number": "126",
+    "rarity": "Uncommon",
+    "set_name": "Guardians Rising",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Mallow",
+    "number": "127",
+    "rarity": "Uncommon",
+    "set_name": "Guardians Rising",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Max Potion",
+    "number": "128",
+    "rarity": "Uncommon",
+    "set_name": "Guardians Rising",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Max Potion",
+    "number": "128a",
+    "rarity": "Uncommon",
+    "set_name": "Guardians Rising",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Multi Switch",
+    "number": "129",
+    "rarity": "Uncommon",
+    "set_name": "Guardians Rising",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Rescue Stretcher",
+    "number": "130",
+    "rarity": "Uncommon",
+    "set_name": "Guardians Rising",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Rescue Stretcher",
+    "number": "130a",
+    "rarity": "Uncommon",
+    "set_name": "Guardians Rising",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Turtonator-GX",
+    "number": "131",
+    "rarity": "Rare Ultra",
+    "set_name": "Guardians Rising",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Alolan Ninetales-GX",
+    "number": "132",
+    "rarity": "Rare Ultra",
+    "set_name": "Guardians Rising",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Wishiwashi-GX",
+    "number": "133",
+    "rarity": "Rare Ultra",
+    "set_name": "Guardians Rising",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Vikavolt-GX",
+    "number": "134",
+    "rarity": "Rare Ultra",
+    "set_name": "Guardians Rising",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Tapu Koko-GX",
+    "number": "135",
+    "rarity": "Rare Ultra",
+    "set_name": "Guardians Rising",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Toxapex-GX",
+    "number": "136",
+    "rarity": "Rare Ultra",
+    "set_name": "Guardians Rising",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Tapu Lele-GX",
+    "number": "137",
+    "rarity": "Rare Ultra",
+    "set_name": "Guardians Rising",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Lycanroc-GX",
+    "number": "138",
+    "rarity": "Rare Ultra",
+    "set_name": "Guardians Rising",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Metagross-GX",
+    "number": "139",
+    "rarity": "Rare Ultra",
+    "set_name": "Guardians Rising",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Sylveon-GX",
+    "number": "140",
+    "rarity": "Rare Ultra",
+    "set_name": "Guardians Rising",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Kommo-o-GX",
+    "number": "141",
+    "rarity": "Rare Ultra",
+    "set_name": "Guardians Rising",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Drampa-GX",
+    "number": "142",
+    "rarity": "Rare Ultra",
+    "set_name": "Guardians Rising",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Hala",
+    "number": "143",
+    "rarity": "Rare Ultra",
+    "set_name": "Guardians Rising",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Hau",
+    "number": "144",
+    "rarity": "Rare Ultra",
+    "set_name": "Guardians Rising",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Mallow",
+    "number": "145",
+    "rarity": "Rare Ultra",
+    "set_name": "Guardians Rising",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Decidueye-GX",
+    "number": "146",
+    "rarity": "Rare Rainbow",
+    "set_name": "Guardians Rising",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Incineroar-GX",
+    "number": "147",
+    "rarity": "Rare Rainbow",
+    "set_name": "Guardians Rising",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Turtonator-GX",
+    "number": "148",
+    "rarity": "Rare Rainbow",
+    "set_name": "Guardians Rising",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Primarina-GX",
+    "number": "149",
+    "rarity": "Rare Rainbow",
+    "set_name": "Guardians Rising",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Alolan Ninetales-GX",
+    "number": "150",
+    "rarity": "Rare Rainbow",
+    "set_name": "Guardians Rising",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Wishiwashi-GX",
+    "number": "151",
+    "rarity": "Rare Rainbow",
+    "set_name": "Guardians Rising",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Vikavolt-GX",
+    "number": "152",
+    "rarity": "Rare Rainbow",
+    "set_name": "Guardians Rising",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Tapu Koko-GX",
+    "number": "153",
+    "rarity": "Rare Rainbow",
+    "set_name": "Guardians Rising",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Toxapex-GX",
+    "number": "154",
+    "rarity": "Rare Rainbow",
+    "set_name": "Guardians Rising",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Tapu Lele-GX",
+    "number": "155",
+    "rarity": "Rare Rainbow",
+    "set_name": "Guardians Rising",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Lycanroc-GX",
+    "number": "156",
+    "rarity": "Rare Rainbow",
+    "set_name": "Guardians Rising",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Metagross-GX",
+    "number": "157",
+    "rarity": "Rare Rainbow",
+    "set_name": "Guardians Rising",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Metagross-GX",
+    "number": "157a",
+    "rarity": "Rare Ultra",
+    "set_name": "Guardians Rising",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Sylveon-GX",
+    "number": "158",
+    "rarity": "Rare Rainbow",
+    "set_name": "Guardians Rising",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Kommo-o-GX",
+    "number": "159",
+    "rarity": "Rare Rainbow",
+    "set_name": "Guardians Rising",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Drampa-GX",
+    "number": "160",
+    "rarity": "Rare Rainbow",
+    "set_name": "Guardians Rising",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Aqua Patch",
+    "number": "161",
+    "rarity": "Rare Secret",
+    "set_name": "Guardians Rising",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Enhanced Hammer",
+    "number": "162",
+    "rarity": "Rare Secret",
+    "set_name": "Guardians Rising",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Field Blower",
+    "number": "163",
+    "rarity": "Rare Secret",
+    "set_name": "Guardians Rising",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Max Potion",
+    "number": "164",
+    "rarity": "Rare Secret",
+    "set_name": "Guardians Rising",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Rare Candy",
+    "number": "165",
+    "rarity": "Rare Secret",
+    "set_name": "Guardians Rising",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Double Colorless Energy",
+    "number": "166",
+    "rarity": "Rare Secret",
+    "set_name": "Guardians Rising",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Grass Energy",
+    "number": "167",
+    "rarity": "Rare Secret",
+    "set_name": "Guardians Rising",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Lightning Energy",
+    "number": "168",
+    "rarity": "Rare Secret",
+    "set_name": "Guardians Rising",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Fighting Energy",
+    "number": "169",
+    "rarity": "Rare Secret",
+    "set_name": "Guardians Rising",
+    "set_series": "Sun & Moon"
+  }
+]

@@ -1,0 +1,1752 @@
+[
+  {
+    "name": "Grookey",
+    "number": "SWSH001",
+    "rarity": "Promo",
+    "set_name": "SWSH Black Star Promos",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Scorbunny",
+    "number": "SWSH002",
+    "rarity": "Promo",
+    "set_name": "SWSH Black Star Promos",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Sobble",
+    "number": "SWSH003",
+    "rarity": "Promo",
+    "set_name": "SWSH Black Star Promos",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Meowth V",
+    "number": "SWSH004",
+    "rarity": "Promo",
+    "set_name": "SWSH Black Star Promos",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Meowth VMAX",
+    "number": "SWSH005",
+    "rarity": "Promo",
+    "set_name": "SWSH Black Star Promos",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Rillaboom",
+    "number": "SWSH006",
+    "rarity": "Promo",
+    "set_name": "SWSH Black Star Promos",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Frosmoth",
+    "number": "SWSH007",
+    "rarity": "Promo",
+    "set_name": "SWSH Black Star Promos",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Galarian Perrserker",
+    "number": "SWSH008",
+    "rarity": "Promo",
+    "set_name": "SWSH Black Star Promos",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Cinccino",
+    "number": "SWSH009",
+    "rarity": "Promo",
+    "set_name": "SWSH Black Star Promos",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Gossifleur",
+    "number": "SWSH010",
+    "rarity": "Promo",
+    "set_name": "SWSH Black Star Promos",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Wooloo",
+    "number": "SWSH011",
+    "rarity": "Promo",
+    "set_name": "SWSH Black Star Promos",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Morpeko",
+    "number": "SWSH012",
+    "rarity": "Promo",
+    "set_name": "SWSH Black Star Promos",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Galarian Ponyta",
+    "number": "SWSH013",
+    "rarity": "Promo",
+    "set_name": "SWSH Black Star Promos",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Rillaboom V",
+    "number": "SWSH014",
+    "rarity": "Promo",
+    "set_name": "SWSH Black Star Promos",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Cinderace V",
+    "number": "SWSH015",
+    "rarity": "Promo",
+    "set_name": "SWSH Black Star Promos",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Inteleon V",
+    "number": "SWSH016",
+    "rarity": "Promo",
+    "set_name": "SWSH Black Star Promos",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Toxtricity V",
+    "number": "SWSH017",
+    "rarity": "Promo",
+    "set_name": "SWSH Black Star Promos",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Zacian V",
+    "number": "SWSH018",
+    "rarity": "Promo",
+    "set_name": "SWSH Black Star Promos",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Zamazenta V",
+    "number": "SWSH019",
+    "rarity": "Promo",
+    "set_name": "SWSH Black Star Promos",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Pikachu",
+    "number": "SWSH020",
+    "rarity": "Promo",
+    "set_name": "SWSH Black Star Promos",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Polteageist V",
+    "number": "SWSH021",
+    "rarity": "Promo",
+    "set_name": "SWSH Black Star Promos",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Flapple",
+    "number": "SWSH022",
+    "rarity": "Promo",
+    "set_name": "SWSH Black Star Promos",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Luxray",
+    "number": "SWSH023",
+    "rarity": "Promo",
+    "set_name": "SWSH Black Star Promos",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Coalossal",
+    "number": "SWSH024",
+    "rarity": "Promo",
+    "set_name": "SWSH Black Star Promos",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Garbodor",
+    "number": "SWSH025",
+    "rarity": "Promo",
+    "set_name": "SWSH Black Star Promos",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Mantine",
+    "number": "SWSH026",
+    "rarity": "Promo",
+    "set_name": "SWSH Black Star Promos",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Noctowl",
+    "number": "SWSH027",
+    "rarity": "Promo",
+    "set_name": "SWSH Black Star Promos",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Duraludon",
+    "number": "SWSH028",
+    "rarity": "Promo",
+    "set_name": "SWSH Black Star Promos",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Rayquaza",
+    "number": "SWSH029",
+    "rarity": "Promo",
+    "set_name": "SWSH Black Star Promos",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Copperajah V",
+    "number": "SWSH030",
+    "rarity": "Promo",
+    "set_name": "SWSH Black Star Promos",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Morpeko",
+    "number": "SWSH031",
+    "rarity": "Promo",
+    "set_name": "SWSH Black Star Promos",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Snorlax",
+    "number": "SWSH032",
+    "rarity": "Promo",
+    "set_name": "SWSH Black Star Promos",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Zacian",
+    "number": "SWSH033",
+    "rarity": "Promo",
+    "set_name": "SWSH Black Star Promos",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Zamazenta",
+    "number": "SWSH034",
+    "rarity": "Promo",
+    "set_name": "SWSH Black Star Promos",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Decidueye",
+    "number": "SWSH035",
+    "rarity": "Promo",
+    "set_name": "SWSH Black Star Promos",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Arctozolt",
+    "number": "SWSH036",
+    "rarity": "Promo",
+    "set_name": "SWSH Black Star Promos",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Hydreigon",
+    "number": "SWSH037",
+    "rarity": "Promo",
+    "set_name": "SWSH Black Star Promos",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Kangaskhan",
+    "number": "SWSH038",
+    "rarity": "Promo",
+    "set_name": "SWSH Black Star Promos",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Pikachu",
+    "number": "SWSH039",
+    "rarity": "Promo",
+    "set_name": "SWSH Black Star Promos",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Hatenna",
+    "number": "SWSH040",
+    "rarity": "Promo",
+    "set_name": "SWSH Black Star Promos",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Flareon",
+    "number": "SWSH041",
+    "rarity": "Promo",
+    "set_name": "SWSH Black Star Promos",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Eevee",
+    "number": "SWSH042",
+    "rarity": "Promo",
+    "set_name": "SWSH Black Star Promos",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Galarian Sirfetch'd V",
+    "number": "SWSH043",
+    "rarity": "Promo",
+    "set_name": "SWSH Black Star Promos",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Eternatus V",
+    "number": "SWSH044",
+    "rarity": "Promo",
+    "set_name": "SWSH Black Star Promos",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Eternatus VMAX",
+    "number": "SWSH045",
+    "rarity": "Promo",
+    "set_name": "SWSH Black Star Promos",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Eldegoss",
+    "number": "SWSH046",
+    "rarity": "Promo",
+    "set_name": "SWSH Black Star Promos",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Drednaw",
+    "number": "SWSH047",
+    "rarity": "Promo",
+    "set_name": "SWSH Black Star Promos",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Centiskorch",
+    "number": "SWSH048",
+    "rarity": "Promo",
+    "set_name": "SWSH Black Star Promos",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Dubwool V",
+    "number": "SWSH049",
+    "rarity": "Promo",
+    "set_name": "SWSH Black Star Promos",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Charizard V",
+    "number": "SWSH050",
+    "rarity": "Promo",
+    "set_name": "SWSH Black Star Promos",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Lapras",
+    "number": "SWSH051",
+    "rarity": "Promo",
+    "set_name": "SWSH Black Star Promos",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Gengar",
+    "number": "SWSH052",
+    "rarity": "Promo",
+    "set_name": "SWSH Black Star Promos",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Machamp",
+    "number": "SWSH053",
+    "rarity": "Promo",
+    "set_name": "SWSH Black Star Promos",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Coalossal",
+    "number": "SWSH054",
+    "rarity": "Promo",
+    "set_name": "SWSH Black Star Promos",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Hatterene V",
+    "number": "SWSH055",
+    "rarity": "Promo",
+    "set_name": "SWSH Black Star Promos",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Morpeko V",
+    "number": "SWSH056",
+    "rarity": "Promo",
+    "set_name": "SWSH Black Star Promos",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Grimmsnarl V",
+    "number": "SWSH057",
+    "rarity": "Promo",
+    "set_name": "SWSH Black Star Promos",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Alcremie",
+    "number": "SWSH058",
+    "rarity": "Promo",
+    "set_name": "SWSH Black Star Promos",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Galarian Obstagoon",
+    "number": "SWSH059",
+    "rarity": "Promo",
+    "set_name": "SWSH Black Star Promos",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Duraludon",
+    "number": "SWSH060",
+    "rarity": "Promo",
+    "set_name": "SWSH Black Star Promos",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Pikachu V",
+    "number": "SWSH063",
+    "rarity": "Promo",
+    "set_name": "SWSH Black Star Promos",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Eternatus V",
+    "number": "SWSH064",
+    "rarity": "Promo",
+    "set_name": "SWSH Black Star Promos",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Eevee V",
+    "number": "SWSH065",
+    "rarity": "Promo",
+    "set_name": "SWSH Black Star Promos",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Charizard",
+    "number": "SWSH066",
+    "rarity": "Promo",
+    "set_name": "SWSH Black Star Promos",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Donphan",
+    "number": "SWSH067",
+    "rarity": "Promo",
+    "set_name": "SWSH Black Star Promos",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Snorlax",
+    "number": "SWSH068",
+    "rarity": "Promo",
+    "set_name": "SWSH Black Star Promos",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Lugia",
+    "number": "SWSH069",
+    "rarity": "Promo",
+    "set_name": "SWSH Black Star Promos",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Grookey",
+    "number": "SWSH070",
+    "rarity": "Promo",
+    "set_name": "SWSH Black Star Promos",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Scorbunny",
+    "number": "SWSH071",
+    "rarity": "Promo",
+    "set_name": "SWSH Black Star Promos",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Vaporeon",
+    "number": "SWSH072",
+    "rarity": "Promo",
+    "set_name": "SWSH Black Star Promos",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Sobble",
+    "number": "SWSH073",
+    "rarity": "Promo",
+    "set_name": "SWSH Black Star Promos",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Special Delivery Pikachu",
+    "number": "SWSH074",
+    "rarity": "Promo",
+    "set_name": "SWSH Black Star Promos",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Pikachu V",
+    "number": "SWSH061",
+    "rarity": "Promo",
+    "set_name": "SWSH Black Star Promos",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Zacian V",
+    "number": "SWSH076",
+    "rarity": "Promo",
+    "set_name": "SWSH Black Star Promos",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Zamazenta V",
+    "number": "SWSH077",
+    "rarity": "Promo",
+    "set_name": "SWSH Black Star Promos",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Orbeetle V",
+    "number": "SWSH078",
+    "rarity": "Promo",
+    "set_name": "SWSH Black Star Promos",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Galarian Mr. Rime",
+    "number": "SWSH079",
+    "rarity": "Promo",
+    "set_name": "SWSH Black Star Promos",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Dedenne",
+    "number": "SWSH080",
+    "rarity": "Promo",
+    "set_name": "SWSH Black Star Promos",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Polteageist",
+    "number": "SWSH081",
+    "rarity": "Promo",
+    "set_name": "SWSH Black Star Promos",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Bunnelby",
+    "number": "SWSH082",
+    "rarity": "Promo",
+    "set_name": "SWSH Black Star Promos",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Alakazam V",
+    "number": "SWSH083",
+    "rarity": "Promo",
+    "set_name": "SWSH Black Star Promos",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Eldegoss V",
+    "number": "SWSH084",
+    "rarity": "Promo",
+    "set_name": "SWSH Black Star Promos",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Boltund V",
+    "number": "SWSH085",
+    "rarity": "Promo",
+    "set_name": "SWSH Black Star Promos",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Cramorant V",
+    "number": "SWSH086",
+    "rarity": "Promo",
+    "set_name": "SWSH Black Star Promos",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Eevee VMAX",
+    "number": "SWSH087",
+    "rarity": "Promo",
+    "set_name": "SWSH Black Star Promos",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Dragapult V",
+    "number": "SWSH096",
+    "rarity": "Promo",
+    "set_name": "SWSH Black Star Promos",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Dragapult VMAX",
+    "number": "SWSH097",
+    "rarity": "Promo",
+    "set_name": "SWSH Black Star Promos",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Crobat V",
+    "number": "SWSH098",
+    "rarity": "Promo",
+    "set_name": "SWSH Black Star Promos",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Crobat VMAX",
+    "number": "SWSH099",
+    "rarity": "Promo",
+    "set_name": "SWSH Black Star Promos",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Venusaur V",
+    "number": "SWSH100",
+    "rarity": "Promo",
+    "set_name": "SWSH Black Star Promos",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Blastoise V",
+    "number": "SWSH101",
+    "rarity": "Promo",
+    "set_name": "SWSH Black Star Promos",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Cherrim",
+    "number": "SWSH088",
+    "rarity": "Promo",
+    "set_name": "SWSH Black Star Promos",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Octillery",
+    "number": "SWSH089",
+    "rarity": "Promo",
+    "set_name": "SWSH Black Star Promos",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Houndoom",
+    "number": "SWSH090",
+    "rarity": "Promo",
+    "set_name": "SWSH Black Star Promos",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Bronzong",
+    "number": "SWSH091",
+    "rarity": "Promo",
+    "set_name": "SWSH Black Star Promos",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Charmander",
+    "number": "SWSH092",
+    "rarity": "Promo",
+    "set_name": "SWSH Black Star Promos",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Arrokuda",
+    "number": "SWSH093",
+    "rarity": "Promo",
+    "set_name": "SWSH Black Star Promos",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Jolteon",
+    "number": "SWSH094",
+    "rarity": "Promo",
+    "set_name": "SWSH Black Star Promos",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Eevee",
+    "number": "SWSH095",
+    "rarity": "Promo",
+    "set_name": "SWSH Black Star Promos",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Venusaur VMAX",
+    "number": "SWSH102",
+    "rarity": "Promo",
+    "set_name": "SWSH Black Star Promos",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Blastoise VMAX",
+    "number": "SWSH103",
+    "rarity": "Promo",
+    "set_name": "SWSH Black Star Promos",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Single Strike Urshifu V",
+    "number": "SWSH106",
+    "rarity": "Promo",
+    "set_name": "SWSH Black Star Promos",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Rapid Strike Urshifu V",
+    "number": "SWSH107",
+    "rarity": "Promo",
+    "set_name": "SWSH Black Star Promos",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Victini V",
+    "number": "SWSH104",
+    "rarity": "Promo",
+    "set_name": "SWSH Black Star Promos",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Gardevoir V",
+    "number": "SWSH105",
+    "rarity": "Promo",
+    "set_name": "SWSH Black Star Promos",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Empoleon V",
+    "number": "SWSH108",
+    "rarity": "Promo",
+    "set_name": "SWSH Black Star Promos",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Tyranitar V",
+    "number": "SWSH109",
+    "rarity": "Promo",
+    "set_name": "SWSH Black Star Promos",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Galarian Rapidash V",
+    "number": "SWSH111",
+    "rarity": "Promo",
+    "set_name": "SWSH Black Star Promos",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Cinderace",
+    "number": "SWSH112",
+    "rarity": "Promo",
+    "set_name": "SWSH Black Star Promos",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Inteleon",
+    "number": "SWSH113",
+    "rarity": "Promo",
+    "set_name": "SWSH Black Star Promos",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Cresselia",
+    "number": "SWSH114",
+    "rarity": "Promo",
+    "set_name": "SWSH Black Star Promos",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Passimian",
+    "number": "SWSH115",
+    "rarity": "Promo",
+    "set_name": "SWSH Black Star Promos",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Morpeko",
+    "number": "SWSH116",
+    "rarity": "Promo",
+    "set_name": "SWSH Black Star Promos",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Phanpy",
+    "number": "SWSH117",
+    "rarity": "Promo",
+    "set_name": "SWSH Black Star Promos",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Eevee",
+    "number": "SWSH118",
+    "rarity": "Promo",
+    "set_name": "SWSH Black Star Promos",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Snorlax",
+    "number": "SWSH119",
+    "rarity": "Promo",
+    "set_name": "SWSH Black Star Promos",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Professor's Research",
+    "number": "SWSH178",
+    "rarity": "Promo",
+    "set_name": "SWSH Black Star Promos",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Umbreon",
+    "number": "SWSH129",
+    "rarity": "Promo",
+    "set_name": "SWSH Black Star Promos",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Marnie",
+    "number": "SWSH120",
+    "rarity": "Promo",
+    "set_name": "SWSH Black Star Promos",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Eevee",
+    "number": "SWSH127",
+    "rarity": "Promo",
+    "set_name": "SWSH Black Star Promos",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Shadow Rider Calyrex V",
+    "number": "SWSH131",
+    "rarity": "Promo",
+    "set_name": "SWSH Black Star Promos",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Galarian Articuno",
+    "number": "SWSH123",
+    "rarity": "Promo",
+    "set_name": "SWSH Black Star Promos",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Marnie",
+    "number": "SWSH121",
+    "rarity": "Promo",
+    "set_name": "SWSH Black Star Promos",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Flaaffy",
+    "number": "SWSH122",
+    "rarity": "Promo",
+    "set_name": "SWSH Black Star Promos",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Eiscue",
+    "number": "SWSH128",
+    "rarity": "Promo",
+    "set_name": "SWSH Black Star Promos",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Galarian Moltres",
+    "number": "SWSH125",
+    "rarity": "Promo",
+    "set_name": "SWSH Black Star Promos",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Ice Rider Calyrex V",
+    "number": "SWSH130",
+    "rarity": "Promo",
+    "set_name": "SWSH Black Star Promos",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Galarian Zapdos",
+    "number": "SWSH124",
+    "rarity": "Promo",
+    "set_name": "SWSH Black Star Promos",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Crobat V",
+    "number": "SWSH110",
+    "rarity": "Promo",
+    "set_name": "SWSH Black Star Promos",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Galarian Slowpoke",
+    "number": "SWSH126",
+    "rarity": "Promo",
+    "set_name": "SWSH Black Star Promos",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Pikachu VMAX",
+    "number": "SWSH062",
+    "rarity": "Promo",
+    "set_name": "SWSH Black Star Promos",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Dragapult",
+    "number": "SWSH132",
+    "rarity": "Promo",
+    "set_name": "SWSH Black Star Promos",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Lance's Charizard V",
+    "number": "SWSH133",
+    "rarity": "Promo",
+    "set_name": "SWSH Black Star Promos",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Dark Sylveon V",
+    "number": "SWSH134",
+    "rarity": "Promo",
+    "set_name": "SWSH Black Star Promos",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Zacian LV.X",
+    "number": "SWSH135",
+    "rarity": "Promo",
+    "set_name": "SWSH Black Star Promos",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Mimikyu \u03b4",
+    "number": "SWSH136",
+    "rarity": "Promo",
+    "set_name": "SWSH Black Star Promos",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Light Toxtricity",
+    "number": "SWSH137",
+    "rarity": "Promo",
+    "set_name": "SWSH Black Star Promos",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Hydreigon C",
+    "number": "SWSH138",
+    "rarity": "Promo",
+    "set_name": "SWSH Black Star Promos",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Pikachu V-UNION",
+    "number": "SWSH139",
+    "rarity": "Promo",
+    "set_name": "SWSH Black Star Promos",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Pikachu V-UNION",
+    "number": "SWSH140",
+    "rarity": "Promo",
+    "set_name": "SWSH Black Star Promos",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Pikachu V-UNION",
+    "number": "SWSH141",
+    "rarity": "Promo",
+    "set_name": "SWSH Black Star Promos",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Pikachu V-UNION",
+    "number": "SWSH142",
+    "rarity": "Promo",
+    "set_name": "SWSH Black Star Promos",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Pikachu V",
+    "number": "SWSH143",
+    "rarity": "Promo",
+    "set_name": "SWSH Black Star Promos",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Greninja \u2605",
+    "number": "SWSH144",
+    "rarity": "Promo",
+    "set_name": "SWSH Black Star Promos",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Pikachu V",
+    "number": "SWSH145",
+    "rarity": "Promo",
+    "set_name": "SWSH Black Star Promos",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Pok\u00e9 Ball",
+    "number": "SWSH146",
+    "rarity": "Promo",
+    "set_name": "SWSH Black Star Promos",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Rayquaza V",
+    "number": "SWSH147",
+    "rarity": "Promo",
+    "set_name": "SWSH Black Star Promos",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Noivern V",
+    "number": "SWSH148",
+    "rarity": "Promo",
+    "set_name": "SWSH Black Star Promos",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Flareon V",
+    "number": "SWSH149",
+    "rarity": "Promo",
+    "set_name": "SWSH Black Star Promos",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Vaporeon V",
+    "number": "SWSH150",
+    "rarity": "Promo",
+    "set_name": "SWSH Black Star Promos",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Jolteon V",
+    "number": "SWSH151",
+    "rarity": "Promo",
+    "set_name": "SWSH Black Star Promos",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Dragonite V",
+    "number": "SWSH154",
+    "rarity": "Promo",
+    "set_name": "SWSH Black Star Promos",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Greninja V-UNION",
+    "number": "SWSH155",
+    "rarity": "Promo",
+    "set_name": "SWSH Black Star Promos",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Greninja V-UNION",
+    "number": "SWSH156",
+    "rarity": "Promo",
+    "set_name": "SWSH Black Star Promos",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Greninja V-UNION",
+    "number": "SWSH157",
+    "rarity": "Promo",
+    "set_name": "SWSH Black Star Promos",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Greninja V-UNION",
+    "number": "SWSH158",
+    "rarity": "Promo",
+    "set_name": "SWSH Black Star Promos",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Mewtwo V-UNION",
+    "number": "SWSH159",
+    "rarity": "Promo",
+    "set_name": "SWSH Black Star Promos",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Mewtwo V-UNION",
+    "number": "SWSH160",
+    "rarity": "Promo",
+    "set_name": "SWSH Black Star Promos",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Mewtwo V-UNION",
+    "number": "SWSH161",
+    "rarity": "Promo",
+    "set_name": "SWSH Black Star Promos",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Mewtwo V-UNION",
+    "number": "SWSH162",
+    "rarity": "Promo",
+    "set_name": "SWSH Black Star Promos",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Zacian V-UNION",
+    "number": "SWSH163",
+    "rarity": "Promo",
+    "set_name": "SWSH Black Star Promos",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Zacian V-UNION",
+    "number": "SWSH164",
+    "rarity": "Promo",
+    "set_name": "SWSH Black Star Promos",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Zacian V-UNION",
+    "number": "SWSH165",
+    "rarity": "Promo",
+    "set_name": "SWSH Black Star Promos",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Zacian V-UNION",
+    "number": "SWSH166",
+    "rarity": "Promo",
+    "set_name": "SWSH Black Star Promos",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Professor Burnet",
+    "number": "SWSH167",
+    "rarity": "Promo",
+    "set_name": "SWSH Black Star Promos",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Oricorio",
+    "number": "SWSH168",
+    "rarity": "Promo",
+    "set_name": "SWSH Black Star Promos",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Pyukumuku",
+    "number": "SWSH169",
+    "rarity": "Promo",
+    "set_name": "SWSH Black Star Promos",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Deoxys",
+    "number": "SWSH170",
+    "rarity": "Promo",
+    "set_name": "SWSH Black Star Promos",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Latias",
+    "number": "SWSH171",
+    "rarity": "Promo",
+    "set_name": "SWSH Black Star Promos",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Tepig",
+    "number": "SWSH172",
+    "rarity": "Promo",
+    "set_name": "SWSH Black Star Promos",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Blitzle",
+    "number": "SWSH173",
+    "rarity": "Promo",
+    "set_name": "SWSH Black Star Promos",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Espeon",
+    "number": "SWSH174",
+    "rarity": "Promo",
+    "set_name": "SWSH Black Star Promos",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Eevee",
+    "number": "SWSH175",
+    "rarity": "Promo",
+    "set_name": "SWSH Black Star Promos",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Hoopa V",
+    "number": "SWSH176",
+    "rarity": "Promo",
+    "set_name": "SWSH Black Star Promos",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Flareon V",
+    "number": "SWSH179",
+    "rarity": "Promo",
+    "set_name": "SWSH Black Star Promos",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Flareon VMAX",
+    "number": "SWSH180",
+    "rarity": "Promo",
+    "set_name": "SWSH Black Star Promos",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Vaporeon V",
+    "number": "SWSH181",
+    "rarity": "Promo",
+    "set_name": "SWSH Black Star Promos",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Vaporeon VMAX",
+    "number": "SWSH182",
+    "rarity": "Promo",
+    "set_name": "SWSH Black Star Promos",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Jolteon V",
+    "number": "SWSH183",
+    "rarity": "Promo",
+    "set_name": "SWSH Black Star Promos",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Jolteon VMAX",
+    "number": "SWSH184",
+    "rarity": "Promo",
+    "set_name": "SWSH Black Star Promos",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Leafeon V",
+    "number": "SWSH194",
+    "rarity": "Promo",
+    "set_name": "SWSH Black Star Promos",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Leafeon VSTAR",
+    "number": "SWSH195",
+    "rarity": "Promo",
+    "set_name": "SWSH Black Star Promos",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Glaceon V",
+    "number": "SWSH196",
+    "rarity": "Promo",
+    "set_name": "SWSH Black Star Promos",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Glaceon VSTAR",
+    "number": "SWSH197",
+    "rarity": "Promo",
+    "set_name": "SWSH Black Star Promos",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Moltres",
+    "number": "SWSH185",
+    "rarity": "Promo",
+    "set_name": "SWSH Black Star Promos",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Lucario",
+    "number": "SWSH186",
+    "rarity": "Promo",
+    "set_name": "SWSH Black Star Promos",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Liepard",
+    "number": "SWSH187",
+    "rarity": "Promo",
+    "set_name": "SWSH Black Star Promos",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Bibarel",
+    "number": "SWSH188",
+    "rarity": "Promo",
+    "set_name": "SWSH Black Star Promos",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Flapple",
+    "number": "SWSH189",
+    "rarity": "Promo",
+    "set_name": "SWSH Black Star Promos",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Eevee",
+    "number": "SWSH190",
+    "rarity": "Promo",
+    "set_name": "SWSH Black Star Promos",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Leafeon",
+    "number": "SWSH191",
+    "rarity": "Promo",
+    "set_name": "SWSH Black Star Promos",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Glaceon",
+    "number": "SWSH192",
+    "rarity": "Promo",
+    "set_name": "SWSH Black Star Promos",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Galarian Obstagoon",
+    "number": "SWSH193",
+    "rarity": "Promo",
+    "set_name": "SWSH Black Star Promos",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Pikachu V",
+    "number": "SWSH198",
+    "rarity": "Promo",
+    "set_name": "SWSH Black Star Promos",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Lycanroc V",
+    "number": "SWSH199",
+    "rarity": "Promo",
+    "set_name": "SWSH Black Star Promos",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Corviknight V",
+    "number": "SWSH200",
+    "rarity": "Promo",
+    "set_name": "SWSH Black Star Promos",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Espeon V",
+    "number": "SWSH201",
+    "rarity": "Promo",
+    "set_name": "SWSH Black Star Promos",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Sylveon V",
+    "number": "SWSH202",
+    "rarity": "Promo",
+    "set_name": "SWSH Black Star Promos",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Umbreon V",
+    "number": "SWSH203",
+    "rarity": "Promo",
+    "set_name": "SWSH Black Star Promos",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Arceus V",
+    "number": "SWSH204",
+    "rarity": "Promo",
+    "set_name": "SWSH Black Star Promos",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Lucario V",
+    "number": "SWSH213",
+    "rarity": "Promo",
+    "set_name": "SWSH Black Star Promos",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Lucario VSTAR",
+    "number": "SWSH214",
+    "rarity": "Promo",
+    "set_name": "SWSH Black Star Promos",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Morpeko V-UNION",
+    "number": "SWSH215",
+    "rarity": "Promo",
+    "set_name": "SWSH Black Star Promos",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Morpeko V-UNION",
+    "number": "SWSH216",
+    "rarity": "Promo",
+    "set_name": "SWSH Black Star Promos",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Morpeko V-UNION",
+    "number": "SWSH217",
+    "rarity": "Promo",
+    "set_name": "SWSH Black Star Promos",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Morpeko V-UNION",
+    "number": "SWSH218",
+    "rarity": "Promo",
+    "set_name": "SWSH Black Star Promos",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Boltund V",
+    "number": "SWSH219",
+    "rarity": "Promo",
+    "set_name": "SWSH Black Star Promos",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Rowlet",
+    "number": "SWSH220",
+    "rarity": "Promo",
+    "set_name": "SWSH Black Star Promos",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Cyndaquil",
+    "number": "SWSH221",
+    "rarity": "Promo",
+    "set_name": "SWSH Black Star Promos",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Oshawott",
+    "number": "SWSH222",
+    "rarity": "Promo",
+    "set_name": "SWSH Black Star Promos",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Special Delivery Bidoof",
+    "number": "SWSH177",
+    "rarity": "Promo",
+    "set_name": "SWSH Black Star Promos",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Hisuian Basculegion",
+    "number": "SWSH205",
+    "rarity": "Promo",
+    "set_name": "SWSH Black Star Promos",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Wyrdeer",
+    "number": "SWSH206",
+    "rarity": "Promo",
+    "set_name": "SWSH Black Star Promos",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Hisuian Samurott",
+    "number": "SWSH207",
+    "rarity": "Promo",
+    "set_name": "SWSH Black Star Promos",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Magnezone",
+    "number": "SWSH208",
+    "rarity": "Promo",
+    "set_name": "SWSH Black Star Promos",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Toxel",
+    "number": "SWSH209",
+    "rarity": "Promo",
+    "set_name": "SWSH Black Star Promos",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Oricorio",
+    "number": "SWSH210",
+    "rarity": "Promo",
+    "set_name": "SWSH Black Star Promos",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Sylveon",
+    "number": "SWSH211",
+    "rarity": "Promo",
+    "set_name": "SWSH Black Star Promos",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Eevee",
+    "number": "SWSH212",
+    "rarity": "Promo",
+    "set_name": "SWSH Black Star Promos",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Kleavor V",
+    "number": "SWSH248",
+    "rarity": "Promo",
+    "set_name": "SWSH Black Star Promos",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Kleavor VSTAR",
+    "number": "SWSH249",
+    "rarity": "Promo",
+    "set_name": "SWSH Black Star Promos",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Professor's Research",
+    "number": "SWSH152",
+    "rarity": "Promo",
+    "set_name": "SWSH Black Star Promos",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Mewtwo V",
+    "number": "SWSH223",
+    "rarity": "Promo",
+    "set_name": "SWSH Black Star Promos",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Melmetal V",
+    "number": "SWSH224",
+    "rarity": "Promo",
+    "set_name": "SWSH Black Star Promos",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Alolan Exeggutor V",
+    "number": "SWSH225",
+    "rarity": "Promo",
+    "set_name": "SWSH Black Star Promos",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Spark",
+    "number": "SWSH226",
+    "rarity": "Promo",
+    "set_name": "SWSH Black Star Promos",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Blanche",
+    "number": "SWSH227",
+    "rarity": "Promo",
+    "set_name": "SWSH Black Star Promos",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Candela",
+    "number": "SWSH228",
+    "rarity": "Promo",
+    "set_name": "SWSH Black Star Promos",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Mewtwo V",
+    "number": "SWSH229",
+    "rarity": "Promo",
+    "set_name": "SWSH Black Star Promos",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Radiant Eevee",
+    "number": "SWSH230",
+    "rarity": "Promo",
+    "set_name": "SWSH Black Star Promos",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Bulbasaur",
+    "number": "SWSH231",
+    "rarity": "Promo",
+    "set_name": "SWSH Black Star Promos",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Charmander",
+    "number": "SWSH232",
+    "rarity": "Promo",
+    "set_name": "SWSH Black Star Promos",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Squirtle",
+    "number": "SWSH233",
+    "rarity": "Promo",
+    "set_name": "SWSH Black Star Promos",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Pikachu",
+    "number": "SWSH234",
+    "rarity": "Promo",
+    "set_name": "SWSH Black Star Promos",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Hisuian Typhlosion V",
+    "number": "SWSH237",
+    "rarity": "Promo",
+    "set_name": "SWSH Black Star Promos",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Hisuian Decidueye V",
+    "number": "SWSH238",
+    "rarity": "Promo",
+    "set_name": "SWSH Black Star Promos",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Hisuian Samurott V",
+    "number": "SWSH239",
+    "rarity": "Promo",
+    "set_name": "SWSH Black Star Promos",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Lumineon V",
+    "number": "SWSH250",
+    "rarity": "Promo",
+    "set_name": "SWSH Black Star Promos",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Pikachu",
+    "number": "SWSH153",
+    "rarity": "Promo",
+    "set_name": "SWSH Black Star Promos",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Dragonite V",
+    "number": "SWSH235",
+    "rarity": "Promo",
+    "set_name": "SWSH Black Star Promos",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Dragonite VSTAR",
+    "number": "SWSH236",
+    "rarity": "Promo",
+    "set_name": "SWSH Black Star Promos",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Finneon",
+    "number": "SWSH240",
+    "rarity": "Promo",
+    "set_name": "SWSH Black Star Promos",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Gengar",
+    "number": "SWSH241",
+    "rarity": "Promo",
+    "set_name": "SWSH Black Star Promos",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Comfey",
+    "number": "SWSH242",
+    "rarity": "Promo",
+    "set_name": "SWSH Black Star Promos",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Machamp",
+    "number": "SWSH243",
+    "rarity": "Promo",
+    "set_name": "SWSH Black Star Promos",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Scorbunny",
+    "number": "SWSH244",
+    "rarity": "Promo",
+    "set_name": "SWSH Black Star Promos",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Croagunk",
+    "number": "SWSH245",
+    "rarity": "Promo",
+    "set_name": "SWSH Black Star Promos",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Weavile",
+    "number": "SWSH246",
+    "rarity": "Promo",
+    "set_name": "SWSH Black Star Promos",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Regigigas",
+    "number": "SWSH247",
+    "rarity": "Promo",
+    "set_name": "SWSH Black Star Promos",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Infernape V",
+    "number": "SWSH252",
+    "rarity": "Promo",
+    "set_name": "SWSH Black Star Promos",
+    "set_series": "Sword & Shield"
+  }
+]

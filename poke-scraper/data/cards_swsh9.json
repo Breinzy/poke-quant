@@ -1,0 +1,1304 @@
+[
+  {
+    "name": "Exeggcute",
+    "number": "1",
+    "rarity": "Common",
+    "set_name": "Brilliant Stars",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Exeggutor",
+    "number": "2",
+    "rarity": "Uncommon",
+    "set_name": "Brilliant Stars",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Shroomish",
+    "number": "3",
+    "rarity": "Common",
+    "set_name": "Brilliant Stars",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Breloom",
+    "number": "4",
+    "rarity": "Rare",
+    "set_name": "Brilliant Stars",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Tropius",
+    "number": "5",
+    "rarity": "Uncommon",
+    "set_name": "Brilliant Stars",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Turtwig",
+    "number": "6",
+    "rarity": "Common",
+    "set_name": "Brilliant Stars",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Grotle",
+    "number": "7",
+    "rarity": "Uncommon",
+    "set_name": "Brilliant Stars",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Torterra",
+    "number": "8",
+    "rarity": "Rare Holo",
+    "set_name": "Brilliant Stars",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Burmy",
+    "number": "9",
+    "rarity": "Common",
+    "set_name": "Brilliant Stars",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Wormadam",
+    "number": "10",
+    "rarity": "Rare",
+    "set_name": "Brilliant Stars",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Mothim",
+    "number": "11",
+    "rarity": "Rare",
+    "set_name": "Brilliant Stars",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Cherubi",
+    "number": "12",
+    "rarity": "Common",
+    "set_name": "Brilliant Stars",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Shaymin V",
+    "number": "13",
+    "rarity": "Rare Holo V",
+    "set_name": "Brilliant Stars",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Shaymin VSTAR",
+    "number": "14",
+    "rarity": "Rare Holo VSTAR",
+    "set_name": "Brilliant Stars",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Karrablast",
+    "number": "15",
+    "rarity": "Common",
+    "set_name": "Brilliant Stars",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Zarude V",
+    "number": "16",
+    "rarity": "Rare Holo V",
+    "set_name": "Brilliant Stars",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Charizard V",
+    "number": "17",
+    "rarity": "Rare Holo V",
+    "set_name": "Brilliant Stars",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Charizard VSTAR",
+    "number": "18",
+    "rarity": "Rare Holo VSTAR",
+    "set_name": "Brilliant Stars",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Magmar",
+    "number": "19",
+    "rarity": "Common",
+    "set_name": "Brilliant Stars",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Magmortar",
+    "number": "20",
+    "rarity": "Rare",
+    "set_name": "Brilliant Stars",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Moltres",
+    "number": "21",
+    "rarity": "Rare Holo",
+    "set_name": "Brilliant Stars",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Entei V",
+    "number": "22",
+    "rarity": "Rare Holo V",
+    "set_name": "Brilliant Stars",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Torkoal",
+    "number": "23",
+    "rarity": "Uncommon",
+    "set_name": "Brilliant Stars",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Chimchar",
+    "number": "24",
+    "rarity": "Common",
+    "set_name": "Brilliant Stars",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Monferno",
+    "number": "25",
+    "rarity": "Uncommon",
+    "set_name": "Brilliant Stars",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Infernape",
+    "number": "26",
+    "rarity": "Rare Holo",
+    "set_name": "Brilliant Stars",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Simisear V",
+    "number": "27",
+    "rarity": "Rare Holo V",
+    "set_name": "Brilliant Stars",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Kingler V",
+    "number": "28",
+    "rarity": "Rare Holo V",
+    "set_name": "Brilliant Stars",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Kingler VMAX",
+    "number": "29",
+    "rarity": "Rare Holo VMAX",
+    "set_name": "Brilliant Stars",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Staryu",
+    "number": "30",
+    "rarity": "Common",
+    "set_name": "Brilliant Stars",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Lapras",
+    "number": "31",
+    "rarity": "Rare",
+    "set_name": "Brilliant Stars",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Corphish",
+    "number": "32",
+    "rarity": "Common",
+    "set_name": "Brilliant Stars",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Crawdaunt",
+    "number": "33",
+    "rarity": "Uncommon",
+    "set_name": "Brilliant Stars",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Snorunt",
+    "number": "34",
+    "rarity": "Common",
+    "set_name": "Brilliant Stars",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Piplup",
+    "number": "35",
+    "rarity": "Common",
+    "set_name": "Brilliant Stars",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Prinplup",
+    "number": "36",
+    "rarity": "Uncommon",
+    "set_name": "Brilliant Stars",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Empoleon",
+    "number": "37",
+    "rarity": "Rare Holo",
+    "set_name": "Brilliant Stars",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Buizel",
+    "number": "38",
+    "rarity": "Common",
+    "set_name": "Brilliant Stars",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Floatzel",
+    "number": "39",
+    "rarity": "Uncommon",
+    "set_name": "Brilliant Stars",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Lumineon V",
+    "number": "40",
+    "rarity": "Rare Holo V",
+    "set_name": "Brilliant Stars",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Manaphy",
+    "number": "41",
+    "rarity": "Rare",
+    "set_name": "Brilliant Stars",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Cubchoo",
+    "number": "42",
+    "rarity": "Common",
+    "set_name": "Brilliant Stars",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Beartic",
+    "number": "43",
+    "rarity": "Uncommon",
+    "set_name": "Brilliant Stars",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Eiscue",
+    "number": "44",
+    "rarity": "Rare",
+    "set_name": "Brilliant Stars",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Raichu V",
+    "number": "45",
+    "rarity": "Rare Holo V",
+    "set_name": "Brilliant Stars",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Electabuzz",
+    "number": "46",
+    "rarity": "Common",
+    "set_name": "Brilliant Stars",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Electivire",
+    "number": "47",
+    "rarity": "Rare",
+    "set_name": "Brilliant Stars",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Raikou V",
+    "number": "48",
+    "rarity": "Rare Holo V",
+    "set_name": "Brilliant Stars",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Shinx",
+    "number": "49",
+    "rarity": "Common",
+    "set_name": "Brilliant Stars",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Luxio",
+    "number": "50",
+    "rarity": "Uncommon",
+    "set_name": "Brilliant Stars",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Luxray",
+    "number": "51",
+    "rarity": "Rare",
+    "set_name": "Brilliant Stars",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Pachirisu",
+    "number": "52",
+    "rarity": "Uncommon",
+    "set_name": "Brilliant Stars",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Clefairy",
+    "number": "53",
+    "rarity": "Common",
+    "set_name": "Brilliant Stars",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Clefable",
+    "number": "54",
+    "rarity": "Rare",
+    "set_name": "Brilliant Stars",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Starmie",
+    "number": "55",
+    "rarity": "Uncommon",
+    "set_name": "Brilliant Stars",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Mewtwo",
+    "number": "56",
+    "rarity": "Rare",
+    "set_name": "Brilliant Stars",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Granbull V",
+    "number": "57",
+    "rarity": "Rare Holo V",
+    "set_name": "Brilliant Stars",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Baltoy",
+    "number": "58",
+    "rarity": "Common",
+    "set_name": "Brilliant Stars",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Claydol",
+    "number": "59",
+    "rarity": "Uncommon",
+    "set_name": "Brilliant Stars",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Duskull",
+    "number": "60",
+    "rarity": "Common",
+    "set_name": "Brilliant Stars",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Dusclops",
+    "number": "61",
+    "rarity": "Uncommon",
+    "set_name": "Brilliant Stars",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Dusknoir",
+    "number": "62",
+    "rarity": "Rare Holo",
+    "set_name": "Brilliant Stars",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Chimecho",
+    "number": "63",
+    "rarity": "Common",
+    "set_name": "Brilliant Stars",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Whimsicott V",
+    "number": "64",
+    "rarity": "Rare Holo V",
+    "set_name": "Brilliant Stars",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Whimsicott VSTAR",
+    "number": "65",
+    "rarity": "Rare Holo VSTAR",
+    "set_name": "Brilliant Stars",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Sigilyph",
+    "number": "66",
+    "rarity": "Uncommon",
+    "set_name": "Brilliant Stars",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Dedenne",
+    "number": "67",
+    "rarity": "Common",
+    "set_name": "Brilliant Stars",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Mimikyu V",
+    "number": "68",
+    "rarity": "Rare Holo V",
+    "set_name": "Brilliant Stars",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Mimikyu VMAX",
+    "number": "69",
+    "rarity": "Rare Holo VMAX",
+    "set_name": "Brilliant Stars",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Milcery",
+    "number": "70",
+    "rarity": "Common",
+    "set_name": "Brilliant Stars",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Alcremie",
+    "number": "71",
+    "rarity": "Rare",
+    "set_name": "Brilliant Stars",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Hitmontop",
+    "number": "72",
+    "rarity": "Uncommon",
+    "set_name": "Brilliant Stars",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Nosepass",
+    "number": "73",
+    "rarity": "Common",
+    "set_name": "Brilliant Stars",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Trapinch",
+    "number": "74",
+    "rarity": "Common",
+    "set_name": "Brilliant Stars",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Vibrava",
+    "number": "75",
+    "rarity": "Uncommon",
+    "set_name": "Brilliant Stars",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Flygon",
+    "number": "76",
+    "rarity": "Rare",
+    "set_name": "Brilliant Stars",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Wormadam",
+    "number": "77",
+    "rarity": "Rare",
+    "set_name": "Brilliant Stars",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Riolu",
+    "number": "78",
+    "rarity": "Common",
+    "set_name": "Brilliant Stars",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Lucario",
+    "number": "79",
+    "rarity": "Rare Holo",
+    "set_name": "Brilliant Stars",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Throh",
+    "number": "80",
+    "rarity": "Common",
+    "set_name": "Brilliant Stars",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Sawk",
+    "number": "81",
+    "rarity": "Common",
+    "set_name": "Brilliant Stars",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Golett",
+    "number": "82",
+    "rarity": "Common",
+    "set_name": "Brilliant Stars",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Golurk",
+    "number": "83",
+    "rarity": "Rare",
+    "set_name": "Brilliant Stars",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Grimer",
+    "number": "84",
+    "rarity": "Common",
+    "set_name": "Brilliant Stars",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Muk",
+    "number": "85",
+    "rarity": "Rare",
+    "set_name": "Brilliant Stars",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Sneasel",
+    "number": "86",
+    "rarity": "Common",
+    "set_name": "Brilliant Stars",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Weavile",
+    "number": "87",
+    "rarity": "Uncommon",
+    "set_name": "Brilliant Stars",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Honchkrow V",
+    "number": "88",
+    "rarity": "Rare Holo V",
+    "set_name": "Brilliant Stars",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Spiritomb",
+    "number": "89",
+    "rarity": "Common",
+    "set_name": "Brilliant Stars",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Purrloin",
+    "number": "90",
+    "rarity": "Common",
+    "set_name": "Brilliant Stars",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Liepard",
+    "number": "91",
+    "rarity": "Rare",
+    "set_name": "Brilliant Stars",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Impidimp",
+    "number": "92",
+    "rarity": "Common",
+    "set_name": "Brilliant Stars",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Morgrem",
+    "number": "93",
+    "rarity": "Uncommon",
+    "set_name": "Brilliant Stars",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Grimmsnarl",
+    "number": "94",
+    "rarity": "Rare",
+    "set_name": "Brilliant Stars",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Morpeko V",
+    "number": "95",
+    "rarity": "Rare Holo V",
+    "set_name": "Brilliant Stars",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Aggron V",
+    "number": "96",
+    "rarity": "Rare Holo V",
+    "set_name": "Brilliant Stars",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Aggron VMAX",
+    "number": "97",
+    "rarity": "Rare Holo VMAX",
+    "set_name": "Brilliant Stars",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Wormadam",
+    "number": "98",
+    "rarity": "Rare",
+    "set_name": "Brilliant Stars",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Probopass",
+    "number": "99",
+    "rarity": "Uncommon",
+    "set_name": "Brilliant Stars",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Heatran",
+    "number": "100",
+    "rarity": "Rare",
+    "set_name": "Brilliant Stars",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Escavalier",
+    "number": "101",
+    "rarity": "Rare",
+    "set_name": "Brilliant Stars",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Klink",
+    "number": "102",
+    "rarity": "Common",
+    "set_name": "Brilliant Stars",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Klang",
+    "number": "103",
+    "rarity": "Uncommon",
+    "set_name": "Brilliant Stars",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Klinklang",
+    "number": "104",
+    "rarity": "Rare",
+    "set_name": "Brilliant Stars",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Zamazenta V",
+    "number": "105",
+    "rarity": "Rare Holo V",
+    "set_name": "Brilliant Stars",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Flygon V",
+    "number": "106",
+    "rarity": "Rare Holo V",
+    "set_name": "Brilliant Stars",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Gible",
+    "number": "107",
+    "rarity": "Common",
+    "set_name": "Brilliant Stars",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Gabite",
+    "number": "108",
+    "rarity": "Uncommon",
+    "set_name": "Brilliant Stars",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Garchomp",
+    "number": "109",
+    "rarity": "Rare Holo",
+    "set_name": "Brilliant Stars",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Axew",
+    "number": "110",
+    "rarity": "Common",
+    "set_name": "Brilliant Stars",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Fraxure",
+    "number": "111",
+    "rarity": "Uncommon",
+    "set_name": "Brilliant Stars",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Haxorus",
+    "number": "112",
+    "rarity": "Rare",
+    "set_name": "Brilliant Stars",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Druddigon",
+    "number": "113",
+    "rarity": "Rare",
+    "set_name": "Brilliant Stars",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Dracovish V",
+    "number": "114",
+    "rarity": "Rare Holo V",
+    "set_name": "Brilliant Stars",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Farfetch'd",
+    "number": "115",
+    "rarity": "Common",
+    "set_name": "Brilliant Stars",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Castform",
+    "number": "116",
+    "rarity": "Common",
+    "set_name": "Brilliant Stars",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Starly",
+    "number": "117",
+    "rarity": "Common",
+    "set_name": "Brilliant Stars",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Staravia",
+    "number": "118",
+    "rarity": "Uncommon",
+    "set_name": "Brilliant Stars",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Staraptor",
+    "number": "119",
+    "rarity": "Rare",
+    "set_name": "Brilliant Stars",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Bidoof",
+    "number": "120",
+    "rarity": "Common",
+    "set_name": "Brilliant Stars",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Bibarel",
+    "number": "121",
+    "rarity": "Rare Holo",
+    "set_name": "Brilliant Stars",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Arceus V",
+    "number": "122",
+    "rarity": "Rare Holo V",
+    "set_name": "Brilliant Stars",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Arceus VSTAR",
+    "number": "123",
+    "rarity": "Rare Holo VSTAR",
+    "set_name": "Brilliant Stars",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Minccino",
+    "number": "124",
+    "rarity": "Common",
+    "set_name": "Brilliant Stars",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Cinccino",
+    "number": "125",
+    "rarity": "Uncommon",
+    "set_name": "Brilliant Stars",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Tornadus",
+    "number": "126",
+    "rarity": "Rare",
+    "set_name": "Brilliant Stars",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Hawlucha",
+    "number": "127",
+    "rarity": "Common",
+    "set_name": "Brilliant Stars",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Drampa V",
+    "number": "128",
+    "rarity": "Rare Holo V",
+    "set_name": "Brilliant Stars",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Acerola's Premonition",
+    "number": "129",
+    "rarity": "Uncommon",
+    "set_name": "Brilliant Stars",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Barry",
+    "number": "130",
+    "rarity": "Uncommon",
+    "set_name": "Brilliant Stars",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Blunder Policy",
+    "number": "131",
+    "rarity": "Uncommon",
+    "set_name": "Brilliant Stars",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Boss's Orders",
+    "number": "132",
+    "rarity": "Rare Holo",
+    "set_name": "Brilliant Stars",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Caf\u00e9 Master",
+    "number": "133",
+    "rarity": "Uncommon",
+    "set_name": "Brilliant Stars",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Cheren's Care",
+    "number": "134",
+    "rarity": "Uncommon",
+    "set_name": "Brilliant Stars",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Choice Belt",
+    "number": "135",
+    "rarity": "Uncommon",
+    "set_name": "Brilliant Stars",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Cleansing Gloves",
+    "number": "136",
+    "rarity": "Uncommon",
+    "set_name": "Brilliant Stars",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Collapsed Stadium",
+    "number": "137",
+    "rarity": "Uncommon",
+    "set_name": "Brilliant Stars",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Cynthia's Ambition",
+    "number": "138",
+    "rarity": "Uncommon",
+    "set_name": "Brilliant Stars",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Fresh Water Set",
+    "number": "139",
+    "rarity": "Uncommon",
+    "set_name": "Brilliant Stars",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Friends in Galar",
+    "number": "140",
+    "rarity": "Uncommon",
+    "set_name": "Brilliant Stars",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Gloria",
+    "number": "141",
+    "rarity": "Uncommon",
+    "set_name": "Brilliant Stars",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Hunting Gloves",
+    "number": "142",
+    "rarity": "Uncommon",
+    "set_name": "Brilliant Stars",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Kindler",
+    "number": "143",
+    "rarity": "Uncommon",
+    "set_name": "Brilliant Stars",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Magma Basin",
+    "number": "144",
+    "rarity": "Uncommon",
+    "set_name": "Brilliant Stars",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Marnie's Pride",
+    "number": "145",
+    "rarity": "Uncommon",
+    "set_name": "Brilliant Stars",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Pot Helmet",
+    "number": "146",
+    "rarity": "Uncommon",
+    "set_name": "Brilliant Stars",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Professor's Research",
+    "number": "147",
+    "rarity": "Rare Holo",
+    "set_name": "Brilliant Stars",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Roseanne's Backup",
+    "number": "148",
+    "rarity": "Uncommon",
+    "set_name": "Brilliant Stars",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Team Yell's Cheer",
+    "number": "149",
+    "rarity": "Uncommon",
+    "set_name": "Brilliant Stars",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Ultra Ball",
+    "number": "150",
+    "rarity": "Uncommon",
+    "set_name": "Brilliant Stars",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Double Turbo Energy",
+    "number": "151",
+    "rarity": "Uncommon",
+    "set_name": "Brilliant Stars",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Shaymin V",
+    "number": "152",
+    "rarity": "Rare Ultra",
+    "set_name": "Brilliant Stars",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Charizard V",
+    "number": "153",
+    "rarity": "Rare Ultra",
+    "set_name": "Brilliant Stars",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Charizard V",
+    "number": "154",
+    "rarity": "Rare Ultra",
+    "set_name": "Brilliant Stars",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Lumineon V",
+    "number": "155",
+    "rarity": "Rare Ultra",
+    "set_name": "Brilliant Stars",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Lumineon V",
+    "number": "156",
+    "rarity": "Rare Ultra",
+    "set_name": "Brilliant Stars",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Pikachu V",
+    "number": "157",
+    "rarity": "Rare Ultra",
+    "set_name": "Brilliant Stars",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Raichu V",
+    "number": "158",
+    "rarity": "Rare Ultra",
+    "set_name": "Brilliant Stars",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Granbull V",
+    "number": "159",
+    "rarity": "Rare Ultra",
+    "set_name": "Brilliant Stars",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Whimsicott V",
+    "number": "160",
+    "rarity": "Rare Ultra",
+    "set_name": "Brilliant Stars",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Honchkrow V",
+    "number": "161",
+    "rarity": "Rare Ultra",
+    "set_name": "Brilliant Stars",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Honchkrow V",
+    "number": "162",
+    "rarity": "Rare Ultra",
+    "set_name": "Brilliant Stars",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Zamazenta V",
+    "number": "163",
+    "rarity": "Rare Ultra",
+    "set_name": "Brilliant Stars",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Flygon V",
+    "number": "164",
+    "rarity": "Rare Ultra",
+    "set_name": "Brilliant Stars",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Arceus V",
+    "number": "165",
+    "rarity": "Rare Ultra",
+    "set_name": "Brilliant Stars",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Arceus V",
+    "number": "166",
+    "rarity": "Rare Ultra",
+    "set_name": "Brilliant Stars",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Barry",
+    "number": "167",
+    "rarity": "Rare Ultra",
+    "set_name": "Brilliant Stars",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Cheren's Care",
+    "number": "168",
+    "rarity": "Rare Ultra",
+    "set_name": "Brilliant Stars",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Cynthia's Ambition",
+    "number": "169",
+    "rarity": "Rare Ultra",
+    "set_name": "Brilliant Stars",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Kindler",
+    "number": "170",
+    "rarity": "Rare Ultra",
+    "set_name": "Brilliant Stars",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Marnie's Pride",
+    "number": "171",
+    "rarity": "Rare Ultra",
+    "set_name": "Brilliant Stars",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Roseanne's Backup",
+    "number": "172",
+    "rarity": "Rare Ultra",
+    "set_name": "Brilliant Stars",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Shaymin VSTAR",
+    "number": "173",
+    "rarity": "Rare Rainbow",
+    "set_name": "Brilliant Stars",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Charizard VSTAR",
+    "number": "174",
+    "rarity": "Rare Rainbow",
+    "set_name": "Brilliant Stars",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Whimsicott VSTAR",
+    "number": "175",
+    "rarity": "Rare Rainbow",
+    "set_name": "Brilliant Stars",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Arceus VSTAR",
+    "number": "176",
+    "rarity": "Rare Rainbow",
+    "set_name": "Brilliant Stars",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Cheren's Care",
+    "number": "177",
+    "rarity": "Rare Rainbow",
+    "set_name": "Brilliant Stars",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Cynthia's Ambition",
+    "number": "178",
+    "rarity": "Rare Rainbow",
+    "set_name": "Brilliant Stars",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Kindler",
+    "number": "179",
+    "rarity": "Rare Rainbow",
+    "set_name": "Brilliant Stars",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Roseanne's Backup",
+    "number": "180",
+    "rarity": "Rare Rainbow",
+    "set_name": "Brilliant Stars",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Galarian Articuno V",
+    "number": "181",
+    "rarity": "Rare Secret",
+    "set_name": "Brilliant Stars",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Galarian Zapdos V",
+    "number": "182",
+    "rarity": "Rare Secret",
+    "set_name": "Brilliant Stars",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Galarian Moltres V",
+    "number": "183",
+    "rarity": "Rare Secret",
+    "set_name": "Brilliant Stars",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Arceus VSTAR",
+    "number": "184",
+    "rarity": "Rare Secret",
+    "set_name": "Brilliant Stars",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Magma Basin",
+    "number": "185",
+    "rarity": "Rare Secret",
+    "set_name": "Brilliant Stars",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Ultra Ball",
+    "number": "186",
+    "rarity": "Rare Secret",
+    "set_name": "Brilliant Stars",
+    "set_series": "Sword & Shield"
+  }
+]

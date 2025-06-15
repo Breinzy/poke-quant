@@ -1,0 +1,660 @@
+[
+  {
+    "name": "Scyther",
+    "number": "SV1",
+    "rarity": "Rare Shiny",
+    "set_name": "Hidden Fates Shiny Vault",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Rowlet",
+    "number": "SV2",
+    "rarity": "Rare Shiny",
+    "set_name": "Hidden Fates Shiny Vault",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Dartrix",
+    "number": "SV3",
+    "rarity": "Rare Shiny",
+    "set_name": "Hidden Fates Shiny Vault",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Wimpod",
+    "number": "SV4",
+    "rarity": "Rare Shiny",
+    "set_name": "Hidden Fates Shiny Vault",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Pheromosa",
+    "number": "SV5",
+    "rarity": "Rare Shiny",
+    "set_name": "Hidden Fates Shiny Vault",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Charmander",
+    "number": "SV6",
+    "rarity": "Rare Shiny",
+    "set_name": "Hidden Fates Shiny Vault",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Charmeleon",
+    "number": "SV7",
+    "rarity": "Rare Shiny",
+    "set_name": "Hidden Fates Shiny Vault",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Alolan Vulpix",
+    "number": "SV8",
+    "rarity": "Rare Shiny",
+    "set_name": "Hidden Fates Shiny Vault",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Wooper",
+    "number": "SV9",
+    "rarity": "Rare Shiny",
+    "set_name": "Hidden Fates Shiny Vault",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Quagsire",
+    "number": "SV10",
+    "rarity": "Rare Shiny",
+    "set_name": "Hidden Fates Shiny Vault",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Froakie",
+    "number": "SV11",
+    "rarity": "Rare Shiny",
+    "set_name": "Hidden Fates Shiny Vault",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Frogadier",
+    "number": "SV12",
+    "rarity": "Rare Shiny",
+    "set_name": "Hidden Fates Shiny Vault",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Voltorb",
+    "number": "SV13",
+    "rarity": "Rare Shiny",
+    "set_name": "Hidden Fates Shiny Vault",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Xurkitree",
+    "number": "SV14",
+    "rarity": "Rare Shiny",
+    "set_name": "Hidden Fates Shiny Vault",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Seviper",
+    "number": "SV15",
+    "rarity": "Rare Shiny",
+    "set_name": "Hidden Fates Shiny Vault",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Shuppet",
+    "number": "SV16",
+    "rarity": "Rare Shiny",
+    "set_name": "Hidden Fates Shiny Vault",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Inkay",
+    "number": "SV17",
+    "rarity": "Rare Shiny",
+    "set_name": "Hidden Fates Shiny Vault",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Malamar",
+    "number": "SV18",
+    "rarity": "Rare Shiny",
+    "set_name": "Hidden Fates Shiny Vault",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Poipole",
+    "number": "SV19",
+    "rarity": "Rare Shiny",
+    "set_name": "Hidden Fates Shiny Vault",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Sudowoodo",
+    "number": "SV20",
+    "rarity": "Rare Shiny",
+    "set_name": "Hidden Fates Shiny Vault",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Riolu",
+    "number": "SV21",
+    "rarity": "Rare Shiny",
+    "set_name": "Hidden Fates Shiny Vault",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Lucario",
+    "number": "SV22",
+    "rarity": "Rare Shiny",
+    "set_name": "Hidden Fates Shiny Vault",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Rockruff",
+    "number": "SV23",
+    "rarity": "Rare Shiny",
+    "set_name": "Hidden Fates Shiny Vault",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Buzzwole",
+    "number": "SV24",
+    "rarity": "Rare Shiny",
+    "set_name": "Hidden Fates Shiny Vault",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Zorua",
+    "number": "SV25",
+    "rarity": "Rare Shiny",
+    "set_name": "Hidden Fates Shiny Vault",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Guzzlord",
+    "number": "SV26",
+    "rarity": "Rare Shiny",
+    "set_name": "Hidden Fates Shiny Vault",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Magnemite",
+    "number": "SV27",
+    "rarity": "Rare Shiny",
+    "set_name": "Hidden Fates Shiny Vault",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Magneton",
+    "number": "SV28",
+    "rarity": "Rare Shiny",
+    "set_name": "Hidden Fates Shiny Vault",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Magnezone",
+    "number": "SV29",
+    "rarity": "Rare Shiny",
+    "set_name": "Hidden Fates Shiny Vault",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Beldum",
+    "number": "SV30",
+    "rarity": "Rare Shiny",
+    "set_name": "Hidden Fates Shiny Vault",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Metang",
+    "number": "SV31",
+    "rarity": "Rare Shiny",
+    "set_name": "Hidden Fates Shiny Vault",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Celesteela",
+    "number": "SV32",
+    "rarity": "Rare Shiny",
+    "set_name": "Hidden Fates Shiny Vault",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Kartana",
+    "number": "SV33",
+    "rarity": "Rare Shiny",
+    "set_name": "Hidden Fates Shiny Vault",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Ralts",
+    "number": "SV34",
+    "rarity": "Rare Shiny",
+    "set_name": "Hidden Fates Shiny Vault",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Kirlia",
+    "number": "SV35",
+    "rarity": "Rare Shiny",
+    "set_name": "Hidden Fates Shiny Vault",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Diancie",
+    "number": "SV36",
+    "rarity": "Rare Shiny",
+    "set_name": "Hidden Fates Shiny Vault",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Altaria",
+    "number": "SV37",
+    "rarity": "Rare Shiny",
+    "set_name": "Hidden Fates Shiny Vault",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Gible",
+    "number": "SV38",
+    "rarity": "Rare Shiny",
+    "set_name": "Hidden Fates Shiny Vault",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Gabite",
+    "number": "SV39",
+    "rarity": "Rare Shiny",
+    "set_name": "Hidden Fates Shiny Vault",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Garchomp",
+    "number": "SV40",
+    "rarity": "Rare Shiny",
+    "set_name": "Hidden Fates Shiny Vault",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Eevee",
+    "number": "SV41",
+    "rarity": "Rare Shiny",
+    "set_name": "Hidden Fates Shiny Vault",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Swablu",
+    "number": "SV42",
+    "rarity": "Rare Shiny",
+    "set_name": "Hidden Fates Shiny Vault",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Noibat",
+    "number": "SV43",
+    "rarity": "Rare Shiny",
+    "set_name": "Hidden Fates Shiny Vault",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Oranguru",
+    "number": "SV44",
+    "rarity": "Rare Shiny",
+    "set_name": "Hidden Fates Shiny Vault",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Type: Null",
+    "number": "SV45",
+    "rarity": "Rare Shiny",
+    "set_name": "Hidden Fates Shiny Vault",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Leafeon-GX",
+    "number": "SV46",
+    "rarity": "Rare Shiny GX",
+    "set_name": "Hidden Fates Shiny Vault",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Decidueye-GX",
+    "number": "SV47",
+    "rarity": "Rare Shiny GX",
+    "set_name": "Hidden Fates Shiny Vault",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Golisopod-GX",
+    "number": "SV48",
+    "rarity": "Rare Shiny GX",
+    "set_name": "Hidden Fates Shiny Vault",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Charizard-GX",
+    "number": "SV49",
+    "rarity": "Rare Shiny GX",
+    "set_name": "Hidden Fates Shiny Vault",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Ho-Oh-GX",
+    "number": "SV50",
+    "rarity": "Rare Shiny GX",
+    "set_name": "Hidden Fates Shiny Vault",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Reshiram-GX",
+    "number": "SV51",
+    "rarity": "Rare Shiny GX",
+    "set_name": "Hidden Fates Shiny Vault",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Turtonator-GX",
+    "number": "SV52",
+    "rarity": "Rare Shiny GX",
+    "set_name": "Hidden Fates Shiny Vault",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Alolan Ninetales-GX",
+    "number": "SV53",
+    "rarity": "Rare Shiny GX",
+    "set_name": "Hidden Fates Shiny Vault",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Articuno-GX",
+    "number": "SV54",
+    "rarity": "Rare Shiny GX",
+    "set_name": "Hidden Fates Shiny Vault",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Glaceon-GX",
+    "number": "SV55",
+    "rarity": "Rare Shiny GX",
+    "set_name": "Hidden Fates Shiny Vault",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Greninja-GX",
+    "number": "SV56",
+    "rarity": "Rare Shiny GX",
+    "set_name": "Hidden Fates Shiny Vault",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Electrode-GX",
+    "number": "SV57",
+    "rarity": "Rare Shiny GX",
+    "set_name": "Hidden Fates Shiny Vault",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Xurkitree-GX",
+    "number": "SV58",
+    "rarity": "Rare Shiny GX",
+    "set_name": "Hidden Fates Shiny Vault",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Mewtwo-GX",
+    "number": "SV59",
+    "rarity": "Rare Shiny GX",
+    "set_name": "Hidden Fates Shiny Vault",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Espeon-GX",
+    "number": "SV60",
+    "rarity": "Rare Shiny GX",
+    "set_name": "Hidden Fates Shiny Vault",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Banette-GX",
+    "number": "SV61",
+    "rarity": "Rare Shiny GX",
+    "set_name": "Hidden Fates Shiny Vault",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Nihilego-GX",
+    "number": "SV62",
+    "rarity": "Rare Shiny GX",
+    "set_name": "Hidden Fates Shiny Vault",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Naganadel-GX",
+    "number": "SV63",
+    "rarity": "Rare Shiny GX",
+    "set_name": "Hidden Fates Shiny Vault",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Lucario-GX",
+    "number": "SV64",
+    "rarity": "Rare Shiny GX",
+    "set_name": "Hidden Fates Shiny Vault",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Zygarde-GX",
+    "number": "SV65",
+    "rarity": "Rare Shiny GX",
+    "set_name": "Hidden Fates Shiny Vault",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Lycanroc-GX",
+    "number": "SV66",
+    "rarity": "Rare Shiny GX",
+    "set_name": "Hidden Fates Shiny Vault",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Lycanroc-GX",
+    "number": "SV67",
+    "rarity": "Rare Shiny GX",
+    "set_name": "Hidden Fates Shiny Vault",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Buzzwole-GX",
+    "number": "SV68",
+    "rarity": "Rare Shiny GX",
+    "set_name": "Hidden Fates Shiny Vault",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Umbreon-GX",
+    "number": "SV69",
+    "rarity": "Rare Shiny GX",
+    "set_name": "Hidden Fates Shiny Vault",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Darkrai-GX",
+    "number": "SV70",
+    "rarity": "Rare Shiny GX",
+    "set_name": "Hidden Fates Shiny Vault",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Guzzlord-GX",
+    "number": "SV71",
+    "rarity": "Rare Shiny GX",
+    "set_name": "Hidden Fates Shiny Vault",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Scizor-GX",
+    "number": "SV72",
+    "rarity": "Rare Shiny GX",
+    "set_name": "Hidden Fates Shiny Vault",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Kartana-GX",
+    "number": "SV73",
+    "rarity": "Rare Shiny GX",
+    "set_name": "Hidden Fates Shiny Vault",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Stakataka-GX",
+    "number": "SV74",
+    "rarity": "Rare Shiny GX",
+    "set_name": "Hidden Fates Shiny Vault",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Gardevoir-GX",
+    "number": "SV75",
+    "rarity": "Rare Shiny GX",
+    "set_name": "Hidden Fates Shiny Vault",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Sylveon-GX",
+    "number": "SV76",
+    "rarity": "Rare Shiny GX",
+    "set_name": "Hidden Fates Shiny Vault",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Altaria-GX",
+    "number": "SV77",
+    "rarity": "Rare Shiny GX",
+    "set_name": "Hidden Fates Shiny Vault",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Noivern-GX",
+    "number": "SV78",
+    "rarity": "Rare Shiny GX",
+    "set_name": "Hidden Fates Shiny Vault",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Silvally-GX",
+    "number": "SV79",
+    "rarity": "Rare Shiny GX",
+    "set_name": "Hidden Fates Shiny Vault",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Drampa-GX",
+    "number": "SV80",
+    "rarity": "Rare Shiny GX",
+    "set_name": "Hidden Fates Shiny Vault",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Aether Foundation Employee",
+    "number": "SV81",
+    "rarity": "Rare Ultra",
+    "set_name": "Hidden Fates Shiny Vault",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Cynthia",
+    "number": "SV82",
+    "rarity": "Rare Ultra",
+    "set_name": "Hidden Fates Shiny Vault",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Fisherman",
+    "number": "SV83",
+    "rarity": "Rare Ultra",
+    "set_name": "Hidden Fates Shiny Vault",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Guzma",
+    "number": "SV84",
+    "rarity": "Rare Ultra",
+    "set_name": "Hidden Fates Shiny Vault",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Hiker",
+    "number": "SV85",
+    "rarity": "Rare Ultra",
+    "set_name": "Hidden Fates Shiny Vault",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Lady",
+    "number": "SV86",
+    "rarity": "Rare Ultra",
+    "set_name": "Hidden Fates Shiny Vault",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Aether Paradise Conservation Area",
+    "number": "SV87",
+    "rarity": "Rare Secret",
+    "set_name": "Hidden Fates Shiny Vault",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Brooklet Hill",
+    "number": "SV88",
+    "rarity": "Rare Secret",
+    "set_name": "Hidden Fates Shiny Vault",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Mt. Coronet",
+    "number": "SV89",
+    "rarity": "Rare Secret",
+    "set_name": "Hidden Fates Shiny Vault",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Shrine of Punishment",
+    "number": "SV90",
+    "rarity": "Rare Secret",
+    "set_name": "Hidden Fates Shiny Vault",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Tapu Bulu-GX",
+    "number": "SV91",
+    "rarity": "Rare Secret",
+    "set_name": "Hidden Fates Shiny Vault",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Tapu Fini-GX",
+    "number": "SV92",
+    "rarity": "Rare Secret",
+    "set_name": "Hidden Fates Shiny Vault",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Tapu Koko-GX",
+    "number": "SV93",
+    "rarity": "Rare Secret",
+    "set_name": "Hidden Fates Shiny Vault",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Tapu Lele-GX",
+    "number": "SV94",
+    "rarity": "Rare Secret",
+    "set_name": "Hidden Fates Shiny Vault",
+    "set_series": "Sun & Moon"
+  }
+]

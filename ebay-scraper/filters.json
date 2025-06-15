@@ -1,0 +1,29 @@
+{
+  "search_presets": {
+    "high_value_cards": {
+      "keywords": ["charizard", "pikachu", "rayquaza", "lugia"],
+      "sets": ["base set", "evolving skies", "brilliant stars"],
+      "grading": ["PSA 10", "BGS 10", "CGC 10"],
+      "min_price": 100
+    },
+    "modern_sets": {
+      "keywords": ["pokemon card"],
+      "sets": ["scarlet violet", "sword shield", "sun moon"],
+      "condition": ["mint", "near mint", "graded"],
+      "exclude": ["damaged", "heavily played"]
+    },
+    "vintage_cards": {
+      "keywords": ["pokemon card vintage"],
+      "sets": ["base set", "jungle", "fossil", "team rocket"],
+      "years": ["1998", "1999", "2000"],
+      "condition": ["any"]
+    }
+  },
+  "default_filters": {
+    "sold_only": true,
+    "completed_listings": true,
+    "sort_by": "newest",
+    "max_pages": 5,
+    "rate_limit_delay": 3.5
+  }
+} 

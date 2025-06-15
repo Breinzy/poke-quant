@@ -1,0 +1,1584 @@
+[
+  {
+    "name": "Tangela",
+    "number": "1",
+    "rarity": "Common",
+    "set_name": "Twilight Masquerade",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Tangrowth",
+    "number": "2",
+    "rarity": "Common",
+    "set_name": "Twilight Masquerade",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Pinsir",
+    "number": "3",
+    "rarity": "Common",
+    "set_name": "Twilight Masquerade",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Spinarak",
+    "number": "4",
+    "rarity": "Common",
+    "set_name": "Twilight Masquerade",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Sunflora",
+    "number": "7",
+    "rarity": "Uncommon",
+    "set_name": "Twilight Masquerade",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Sunkern",
+    "number": "6",
+    "rarity": "Common",
+    "set_name": "Twilight Masquerade",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Ariados",
+    "number": "5",
+    "rarity": "Uncommon",
+    "set_name": "Twilight Masquerade",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Heracross",
+    "number": "8",
+    "rarity": "Uncommon",
+    "set_name": "Twilight Masquerade",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Volbeat",
+    "number": "9",
+    "rarity": "Common",
+    "set_name": "Twilight Masquerade",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Illumise",
+    "number": "10",
+    "rarity": "Common",
+    "set_name": "Twilight Masquerade",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Leafeon",
+    "number": "11",
+    "rarity": "Uncommon",
+    "set_name": "Twilight Masquerade",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Phantump",
+    "number": "12",
+    "rarity": "Common",
+    "set_name": "Twilight Masquerade",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Trevenant",
+    "number": "13",
+    "rarity": "Common",
+    "set_name": "Twilight Masquerade",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Rillaboom",
+    "number": "16",
+    "rarity": "Uncommon",
+    "set_name": "Twilight Masquerade",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Dipplin",
+    "number": "18",
+    "rarity": "Uncommon",
+    "set_name": "Twilight Masquerade",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Sinistcha ex",
+    "number": "23",
+    "rarity": "Double Rare",
+    "set_name": "Twilight Masquerade",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Grookey",
+    "number": "14",
+    "rarity": "Common",
+    "set_name": "Twilight Masquerade",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Thwackey",
+    "number": "15",
+    "rarity": "Common",
+    "set_name": "Twilight Masquerade",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Applin",
+    "number": "17",
+    "rarity": "Common",
+    "set_name": "Twilight Masquerade",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Iron Leaves",
+    "number": "19",
+    "rarity": "Rare",
+    "set_name": "Twilight Masquerade",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Poltchageist",
+    "number": "20",
+    "rarity": "Common",
+    "set_name": "Twilight Masquerade",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Poltchageist",
+    "number": "21",
+    "rarity": "Common",
+    "set_name": "Twilight Masquerade",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Sinistcha",
+    "number": "22",
+    "rarity": "Rare",
+    "set_name": "Twilight Masquerade",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Teal Mask Ogerpon",
+    "number": "24",
+    "rarity": "Rare",
+    "set_name": "Twilight Masquerade",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Teal Mask Ogerpon ex",
+    "number": "25",
+    "rarity": "Double Rare",
+    "set_name": "Twilight Masquerade",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Vulpix",
+    "number": "26",
+    "rarity": "Common",
+    "set_name": "Twilight Masquerade",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Ninetales",
+    "number": "27",
+    "rarity": "Common",
+    "set_name": "Twilight Masquerade",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Slugma",
+    "number": "28",
+    "rarity": "Common",
+    "set_name": "Twilight Masquerade",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Magcargo ex",
+    "number": "29",
+    "rarity": "Double Rare",
+    "set_name": "Twilight Masquerade",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Torkoal",
+    "number": "30",
+    "rarity": "Common",
+    "set_name": "Twilight Masquerade",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Chimchar",
+    "number": "31",
+    "rarity": "Common",
+    "set_name": "Twilight Masquerade",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Monferno",
+    "number": "32",
+    "rarity": "Common",
+    "set_name": "Twilight Masquerade",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Infernape",
+    "number": "33",
+    "rarity": "Rare",
+    "set_name": "Twilight Masquerade",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Darumaka",
+    "number": "34",
+    "rarity": "Common",
+    "set_name": "Twilight Masquerade",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Darmanitan",
+    "number": "35",
+    "rarity": "Uncommon",
+    "set_name": "Twilight Masquerade",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Litwick",
+    "number": "36",
+    "rarity": "Common",
+    "set_name": "Twilight Masquerade",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Lampent",
+    "number": "37",
+    "rarity": "Common",
+    "set_name": "Twilight Masquerade",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Chandelure",
+    "number": "38",
+    "rarity": "Rare",
+    "set_name": "Twilight Masquerade",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Chi-Yu",
+    "number": "39",
+    "rarity": "Uncommon",
+    "set_name": "Twilight Masquerade",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Hearthflame Mask Ogerpon ex",
+    "number": "40",
+    "rarity": "Double Rare",
+    "set_name": "Twilight Masquerade",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Poliwag",
+    "number": "41",
+    "rarity": "Common",
+    "set_name": "Twilight Masquerade",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Poliwhirl",
+    "number": "42",
+    "rarity": "Common",
+    "set_name": "Twilight Masquerade",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Poliwrath",
+    "number": "43",
+    "rarity": "Uncommon",
+    "set_name": "Twilight Masquerade",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Goldeen",
+    "number": "44",
+    "rarity": "Common",
+    "set_name": "Twilight Masquerade",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Seaking",
+    "number": "45",
+    "rarity": "Common",
+    "set_name": "Twilight Masquerade",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Jynx",
+    "number": "46",
+    "rarity": "Common",
+    "set_name": "Twilight Masquerade",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Corphish",
+    "number": "47",
+    "rarity": "Common",
+    "set_name": "Twilight Masquerade",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Crawdaunt",
+    "number": "48",
+    "rarity": "Common",
+    "set_name": "Twilight Masquerade",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Feebas",
+    "number": "49",
+    "rarity": "Common",
+    "set_name": "Twilight Masquerade",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Milotic",
+    "number": "50",
+    "rarity": "Uncommon",
+    "set_name": "Twilight Masquerade",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Snorunt",
+    "number": "51",
+    "rarity": "Common",
+    "set_name": "Twilight Masquerade",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Glalie",
+    "number": "52",
+    "rarity": "Uncommon",
+    "set_name": "Twilight Masquerade",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Froslass",
+    "number": "53",
+    "rarity": "Rare",
+    "set_name": "Twilight Masquerade",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Froakie",
+    "number": "56",
+    "rarity": "Common",
+    "set_name": "Twilight Masquerade",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Frogadier",
+    "number": "57",
+    "rarity": "Common",
+    "set_name": "Twilight Masquerade",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Glaceon",
+    "number": "54",
+    "rarity": "Uncommon",
+    "set_name": "Twilight Masquerade",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Phione",
+    "number": "55",
+    "rarity": "Common",
+    "set_name": "Twilight Masquerade",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Cramorant",
+    "number": "58",
+    "rarity": "Uncommon",
+    "set_name": "Twilight Masquerade",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Iron Bundle",
+    "number": "62",
+    "rarity": "Uncommon",
+    "set_name": "Twilight Masquerade",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Finizen",
+    "number": "59",
+    "rarity": "Common",
+    "set_name": "Twilight Masquerade",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Palafin",
+    "number": "60",
+    "rarity": "Uncommon",
+    "set_name": "Twilight Masquerade",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Palafin ex",
+    "number": "61",
+    "rarity": "Double Rare",
+    "set_name": "Twilight Masquerade",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Walking Wake",
+    "number": "63",
+    "rarity": "Rare",
+    "set_name": "Twilight Masquerade",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Wellspring Mask Ogerpon ex",
+    "number": "64",
+    "rarity": "Double Rare",
+    "set_name": "Twilight Masquerade",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Zapdos",
+    "number": "65",
+    "rarity": "Rare",
+    "set_name": "Twilight Masquerade",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Shinx",
+    "number": "66",
+    "rarity": "Common",
+    "set_name": "Twilight Masquerade",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Luxio",
+    "number": "67",
+    "rarity": "Common",
+    "set_name": "Twilight Masquerade",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Emolga",
+    "number": "69",
+    "rarity": "Common",
+    "set_name": "Twilight Masquerade",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Luxray ex",
+    "number": "68",
+    "rarity": "Double Rare",
+    "set_name": "Twilight Masquerade",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Helioptile",
+    "number": "70",
+    "rarity": "Common",
+    "set_name": "Twilight Masquerade",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Heliolisk",
+    "number": "71",
+    "rarity": "Common",
+    "set_name": "Twilight Masquerade",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Morpeko",
+    "number": "72",
+    "rarity": "Uncommon",
+    "set_name": "Twilight Masquerade",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Tadbulb",
+    "number": "73",
+    "rarity": "Common",
+    "set_name": "Twilight Masquerade",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Bellibolt",
+    "number": "74",
+    "rarity": "Uncommon",
+    "set_name": "Twilight Masquerade",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Wattrel",
+    "number": "75",
+    "rarity": "Common",
+    "set_name": "Twilight Masquerade",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Kilowattrel",
+    "number": "76",
+    "rarity": "Uncommon",
+    "set_name": "Twilight Masquerade",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Iron Thorns ex",
+    "number": "77",
+    "rarity": "Double Rare",
+    "set_name": "Twilight Masquerade",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Clefairy",
+    "number": "78",
+    "rarity": "Common",
+    "set_name": "Twilight Masquerade",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Clefable",
+    "number": "79",
+    "rarity": "Uncommon",
+    "set_name": "Twilight Masquerade",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Abra",
+    "number": "80",
+    "rarity": "Common",
+    "set_name": "Twilight Masquerade",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Kadabra",
+    "number": "81",
+    "rarity": "Common",
+    "set_name": "Twilight Masquerade",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Alakazam",
+    "number": "82",
+    "rarity": "Rare",
+    "set_name": "Twilight Masquerade",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Girafarig",
+    "number": "83",
+    "rarity": "Common",
+    "set_name": "Twilight Masquerade",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Farigiraf",
+    "number": "84",
+    "rarity": "Uncommon",
+    "set_name": "Twilight Masquerade",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Floette",
+    "number": "87",
+    "rarity": "Common",
+    "set_name": "Twilight Masquerade",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Chimecho",
+    "number": "85",
+    "rarity": "Common",
+    "set_name": "Twilight Masquerade",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Flab\u00e9b\u00e9",
+    "number": "86",
+    "rarity": "Common",
+    "set_name": "Twilight Masquerade",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Swirlix",
+    "number": "89",
+    "rarity": "Common",
+    "set_name": "Twilight Masquerade",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Florges",
+    "number": "88",
+    "rarity": "Uncommon",
+    "set_name": "Twilight Masquerade",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Slurpuff",
+    "number": "90",
+    "rarity": "Uncommon",
+    "set_name": "Twilight Masquerade",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Sandygast",
+    "number": "91",
+    "rarity": "Common",
+    "set_name": "Twilight Masquerade",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Palossand",
+    "number": "92",
+    "rarity": "Common",
+    "set_name": "Twilight Masquerade",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Enamorus",
+    "number": "93",
+    "rarity": "Rare",
+    "set_name": "Twilight Masquerade",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Scream Tail ex",
+    "number": "94",
+    "rarity": "Double Rare",
+    "set_name": "Twilight Masquerade",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Munkidori",
+    "number": "95",
+    "rarity": "Rare",
+    "set_name": "Twilight Masquerade",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Fezandipiti",
+    "number": "96",
+    "rarity": "Rare",
+    "set_name": "Twilight Masquerade",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Sandshrew",
+    "number": "97",
+    "rarity": "Common",
+    "set_name": "Twilight Masquerade",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Hisuian Growlithe",
+    "number": "99",
+    "rarity": "Common",
+    "set_name": "Twilight Masquerade",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Sandslash",
+    "number": "98",
+    "rarity": "Uncommon",
+    "set_name": "Twilight Masquerade",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Hisuian Arcanine",
+    "number": "100",
+    "rarity": "Rare",
+    "set_name": "Twilight Masquerade",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Nosepass",
+    "number": "101",
+    "rarity": "Common",
+    "set_name": "Twilight Masquerade",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Probopass",
+    "number": "102",
+    "rarity": "Uncommon",
+    "set_name": "Twilight Masquerade",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Timburr",
+    "number": "103",
+    "rarity": "Common",
+    "set_name": "Twilight Masquerade",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Gurdurr",
+    "number": "104",
+    "rarity": "Common",
+    "set_name": "Twilight Masquerade",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Conkeldurr",
+    "number": "105",
+    "rarity": "Uncommon",
+    "set_name": "Twilight Masquerade",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Greninja ex",
+    "number": "106",
+    "rarity": "Double Rare",
+    "set_name": "Twilight Masquerade",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Hawlucha",
+    "number": "107",
+    "rarity": "Common",
+    "set_name": "Twilight Masquerade",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Glimmet",
+    "number": "108",
+    "rarity": "Common",
+    "set_name": "Twilight Masquerade",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Glimmora",
+    "number": "109",
+    "rarity": "Uncommon",
+    "set_name": "Twilight Masquerade",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Ting-Lu",
+    "number": "110",
+    "rarity": "Rare",
+    "set_name": "Twilight Masquerade",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Okidogi",
+    "number": "111",
+    "rarity": "Rare",
+    "set_name": "Twilight Masquerade",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Cornerstone Mask Ogerpon ex",
+    "number": "112",
+    "rarity": "Double Rare",
+    "set_name": "Twilight Masquerade",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Poochyena",
+    "number": "113",
+    "rarity": "Common",
+    "set_name": "Twilight Masquerade",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Mightyena",
+    "number": "114",
+    "rarity": "Uncommon",
+    "set_name": "Twilight Masquerade",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Venipede",
+    "number": "115",
+    "rarity": "Common",
+    "set_name": "Twilight Masquerade",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Whirlipede",
+    "number": "116",
+    "rarity": "Common",
+    "set_name": "Twilight Masquerade",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Scolipede",
+    "number": "117",
+    "rarity": "Uncommon",
+    "set_name": "Twilight Masquerade",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Brute Bonnet",
+    "number": "118",
+    "rarity": "Uncommon",
+    "set_name": "Twilight Masquerade",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Skarmory",
+    "number": "119",
+    "rarity": "Common",
+    "set_name": "Twilight Masquerade",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Aron",
+    "number": "120",
+    "rarity": "Common",
+    "set_name": "Twilight Masquerade",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Lairon",
+    "number": "121",
+    "rarity": "Common",
+    "set_name": "Twilight Masquerade",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Aggron",
+    "number": "122",
+    "rarity": "Uncommon",
+    "set_name": "Twilight Masquerade",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Heatran",
+    "number": "123",
+    "rarity": "Rare",
+    "set_name": "Twilight Masquerade",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Varoom",
+    "number": "124",
+    "rarity": "Common",
+    "set_name": "Twilight Masquerade",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Revavroom",
+    "number": "125",
+    "rarity": "Uncommon",
+    "set_name": "Twilight Masquerade",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Applin",
+    "number": "126",
+    "rarity": "Common",
+    "set_name": "Twilight Masquerade",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Dipplin",
+    "number": "127",
+    "rarity": "Uncommon",
+    "set_name": "Twilight Masquerade",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Dreepy",
+    "number": "128",
+    "rarity": "Common",
+    "set_name": "Twilight Masquerade",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Drakloak",
+    "number": "129",
+    "rarity": "Common",
+    "set_name": "Twilight Masquerade",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Dragapult ex",
+    "number": "130",
+    "rarity": "Double Rare",
+    "set_name": "Twilight Masquerade",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Tatsugiri",
+    "number": "131",
+    "rarity": "Uncommon",
+    "set_name": "Twilight Masquerade",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Farfetch'd",
+    "number": "132",
+    "rarity": "Common",
+    "set_name": "Twilight Masquerade",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Chansey",
+    "number": "133",
+    "rarity": "Common",
+    "set_name": "Twilight Masquerade",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Blissey ex",
+    "number": "134",
+    "rarity": "Double Rare",
+    "set_name": "Twilight Masquerade",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Eevee",
+    "number": "135",
+    "rarity": "Common",
+    "set_name": "Twilight Masquerade",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Snorlax",
+    "number": "136",
+    "rarity": "Uncommon",
+    "set_name": "Twilight Masquerade",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Aipom",
+    "number": "137",
+    "rarity": "Common",
+    "set_name": "Twilight Masquerade",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Ambipom",
+    "number": "138",
+    "rarity": "Uncommon",
+    "set_name": "Twilight Masquerade",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Ducklett",
+    "number": "139",
+    "rarity": "Common",
+    "set_name": "Twilight Masquerade",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Swanna",
+    "number": "140",
+    "rarity": "Uncommon",
+    "set_name": "Twilight Masquerade",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Bloodmoon Ursaluna ex",
+    "number": "141",
+    "rarity": "Double Rare",
+    "set_name": "Twilight Masquerade",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Accompanying Flute",
+    "number": "142",
+    "rarity": "Uncommon",
+    "set_name": "Twilight Masquerade",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Bug Catching Set",
+    "number": "143",
+    "rarity": "Uncommon",
+    "set_name": "Twilight Masquerade",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Caretaker",
+    "number": "144",
+    "rarity": "Common",
+    "set_name": "Twilight Masquerade",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Carmine",
+    "number": "145",
+    "rarity": "Uncommon",
+    "set_name": "Twilight Masquerade",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Community Center",
+    "number": "146",
+    "rarity": "Uncommon",
+    "set_name": "Twilight Masquerade",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Cook",
+    "number": "147",
+    "rarity": "Uncommon",
+    "set_name": "Twilight Masquerade",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Enhanced Hammer",
+    "number": "148",
+    "rarity": "Uncommon",
+    "set_name": "Twilight Masquerade",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Festival Grounds",
+    "number": "149",
+    "rarity": "Uncommon",
+    "set_name": "Twilight Masquerade",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Hassel",
+    "number": "151",
+    "rarity": "Uncommon",
+    "set_name": "Twilight Masquerade",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Handheld Fan",
+    "number": "150",
+    "rarity": "Uncommon",
+    "set_name": "Twilight Masquerade",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Hyper Aroma",
+    "number": "152",
+    "rarity": "ACE SPEC Rare",
+    "set_name": "Twilight Masquerade",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Jamming Tower",
+    "number": "153",
+    "rarity": "Uncommon",
+    "set_name": "Twilight Masquerade",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Kieran",
+    "number": "154",
+    "rarity": "Uncommon",
+    "set_name": "Twilight Masquerade",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Lana's Aid",
+    "number": "155",
+    "rarity": "Uncommon",
+    "set_name": "Twilight Masquerade",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Love Ball",
+    "number": "156",
+    "rarity": "Uncommon",
+    "set_name": "Twilight Masquerade",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Lucian",
+    "number": "157",
+    "rarity": "Uncommon",
+    "set_name": "Twilight Masquerade",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Lucky Helmet",
+    "number": "158",
+    "rarity": "Uncommon",
+    "set_name": "Twilight Masquerade",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Ogre's Mask",
+    "number": "159",
+    "rarity": "Uncommon",
+    "set_name": "Twilight Masquerade",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Perrin",
+    "number": "160",
+    "rarity": "Uncommon",
+    "set_name": "Twilight Masquerade",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Raifort",
+    "number": "161",
+    "rarity": "Uncommon",
+    "set_name": "Twilight Masquerade",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Scoop Up Cyclone",
+    "number": "162",
+    "rarity": "ACE SPEC Rare",
+    "set_name": "Twilight Masquerade",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Secret Box",
+    "number": "163",
+    "rarity": "ACE SPEC Rare",
+    "set_name": "Twilight Masquerade",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Survival Brace",
+    "number": "164",
+    "rarity": "ACE SPEC Rare",
+    "set_name": "Twilight Masquerade",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Unfair Stamp",
+    "number": "165",
+    "rarity": "ACE SPEC Rare",
+    "set_name": "Twilight Masquerade",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Boomerang Energy",
+    "number": "166",
+    "rarity": "Uncommon",
+    "set_name": "Twilight Masquerade",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Legacy Energy",
+    "number": "167",
+    "rarity": "ACE SPEC Rare",
+    "set_name": "Twilight Masquerade",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Pinsir",
+    "number": "168",
+    "rarity": "Illustration Rare",
+    "set_name": "Twilight Masquerade",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Sunflora",
+    "number": "169",
+    "rarity": "Illustration Rare",
+    "set_name": "Twilight Masquerade",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Dipplin",
+    "number": "170",
+    "rarity": "Illustration Rare",
+    "set_name": "Twilight Masquerade",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Poltchageist",
+    "number": "171",
+    "rarity": "Illustration Rare",
+    "set_name": "Twilight Masquerade",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Torkoal",
+    "number": "172",
+    "rarity": "Illustration Rare",
+    "set_name": "Twilight Masquerade",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Infernape",
+    "number": "173",
+    "rarity": "Illustration Rare",
+    "set_name": "Twilight Masquerade",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Froslass",
+    "number": "174",
+    "rarity": "Illustration Rare",
+    "set_name": "Twilight Masquerade",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Phione",
+    "number": "175",
+    "rarity": "Illustration Rare",
+    "set_name": "Twilight Masquerade",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Cramorant",
+    "number": "176",
+    "rarity": "Illustration Rare",
+    "set_name": "Twilight Masquerade",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Wattrel",
+    "number": "178",
+    "rarity": "Illustration Rare",
+    "set_name": "Twilight Masquerade",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Chimecho",
+    "number": "179",
+    "rarity": "Illustration Rare",
+    "set_name": "Twilight Masquerade",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Heliolisk",
+    "number": "177",
+    "rarity": "Illustration Rare",
+    "set_name": "Twilight Masquerade",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Enamorus",
+    "number": "180",
+    "rarity": "Illustration Rare",
+    "set_name": "Twilight Masquerade",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Hisuian Growlithe",
+    "number": "181",
+    "rarity": "Illustration Rare",
+    "set_name": "Twilight Masquerade",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Probopass",
+    "number": "182",
+    "rarity": "Illustration Rare",
+    "set_name": "Twilight Masquerade",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Timburr",
+    "number": "183",
+    "rarity": "Illustration Rare",
+    "set_name": "Twilight Masquerade",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Lairon",
+    "number": "184",
+    "rarity": "Illustration Rare",
+    "set_name": "Twilight Masquerade",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Applin",
+    "number": "185",
+    "rarity": "Illustration Rare",
+    "set_name": "Twilight Masquerade",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Tatsugiri",
+    "number": "186",
+    "rarity": "Illustration Rare",
+    "set_name": "Twilight Masquerade",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Chansey",
+    "number": "187",
+    "rarity": "Illustration Rare",
+    "set_name": "Twilight Masquerade",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Eevee",
+    "number": "188",
+    "rarity": "Illustration Rare",
+    "set_name": "Twilight Masquerade",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Sinistcha ex",
+    "number": "189",
+    "rarity": "Ultra Rare",
+    "set_name": "Twilight Masquerade",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Teal Mask Ogerpon ex",
+    "number": "190",
+    "rarity": "Ultra Rare",
+    "set_name": "Twilight Masquerade",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Magcargo ex",
+    "number": "191",
+    "rarity": "Ultra Rare",
+    "set_name": "Twilight Masquerade",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Wellspring Mask Ogerpon ex",
+    "number": "194",
+    "rarity": "Ultra Rare",
+    "set_name": "Twilight Masquerade",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Hearthflame Mask Ogerpon ex",
+    "number": "192",
+    "rarity": "Ultra Rare",
+    "set_name": "Twilight Masquerade",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Palafin ex",
+    "number": "193",
+    "rarity": "Ultra Rare",
+    "set_name": "Twilight Masquerade",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Luxray ex",
+    "number": "195",
+    "rarity": "Ultra Rare",
+    "set_name": "Twilight Masquerade",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Iron Thorns ex",
+    "number": "196",
+    "rarity": "Ultra Rare",
+    "set_name": "Twilight Masquerade",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Scream Tail ex",
+    "number": "197",
+    "rarity": "Ultra Rare",
+    "set_name": "Twilight Masquerade",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Greninja ex",
+    "number": "198",
+    "rarity": "Ultra Rare",
+    "set_name": "Twilight Masquerade",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Cornerstone Mask Ogerpon ex",
+    "number": "199",
+    "rarity": "Ultra Rare",
+    "set_name": "Twilight Masquerade",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Dragapult ex",
+    "number": "200",
+    "rarity": "Ultra Rare",
+    "set_name": "Twilight Masquerade",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Blissey ex",
+    "number": "201",
+    "rarity": "Ultra Rare",
+    "set_name": "Twilight Masquerade",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Bloodmoon Ursaluna ex",
+    "number": "202",
+    "rarity": "Ultra Rare",
+    "set_name": "Twilight Masquerade",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Caretaker",
+    "number": "203",
+    "rarity": "Ultra Rare",
+    "set_name": "Twilight Masquerade",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Carmine",
+    "number": "204",
+    "rarity": "Ultra Rare",
+    "set_name": "Twilight Masquerade",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Hassel",
+    "number": "205",
+    "rarity": "Ultra Rare",
+    "set_name": "Twilight Masquerade",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Kieran",
+    "number": "206",
+    "rarity": "Ultra Rare",
+    "set_name": "Twilight Masquerade",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Lana's Aid",
+    "number": "207",
+    "rarity": "Ultra Rare",
+    "set_name": "Twilight Masquerade",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Lucian",
+    "number": "208",
+    "rarity": "Ultra Rare",
+    "set_name": "Twilight Masquerade",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Perrin",
+    "number": "209",
+    "rarity": "Ultra Rare",
+    "set_name": "Twilight Masquerade",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Teal Mask Ogerpon ex",
+    "number": "211",
+    "rarity": "Special Illustration Rare",
+    "set_name": "Twilight Masquerade",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Sinistcha ex",
+    "number": "210",
+    "rarity": "Special Illustration Rare",
+    "set_name": "Twilight Masquerade",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Greninja ex",
+    "number": "214",
+    "rarity": "Special Illustration Rare",
+    "set_name": "Twilight Masquerade",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Hearthflame Mask Ogerpon ex",
+    "number": "212",
+    "rarity": "Special Illustration Rare",
+    "set_name": "Twilight Masquerade",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Wellspring Mask Ogerpon ex",
+    "number": "213",
+    "rarity": "Special Illustration Rare",
+    "set_name": "Twilight Masquerade",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Cornerstone Mask Ogerpon ex",
+    "number": "215",
+    "rarity": "Special Illustration Rare",
+    "set_name": "Twilight Masquerade",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Bloodmoon Ursaluna ex",
+    "number": "216",
+    "rarity": "Special Illustration Rare",
+    "set_name": "Twilight Masquerade",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Kieran",
+    "number": "218",
+    "rarity": "Special Illustration Rare",
+    "set_name": "Twilight Masquerade",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Lana's Aid",
+    "number": "219",
+    "rarity": "Special Illustration Rare",
+    "set_name": "Twilight Masquerade",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Carmine",
+    "number": "217",
+    "rarity": "Special Illustration Rare",
+    "set_name": "Twilight Masquerade",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Perrin",
+    "number": "220",
+    "rarity": "Special Illustration Rare",
+    "set_name": "Twilight Masquerade",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Teal Mask Ogerpon ex",
+    "number": "221",
+    "rarity": "Hyper Rare",
+    "set_name": "Twilight Masquerade",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Bloodmoon Ursaluna ex",
+    "number": "222",
+    "rarity": "Hyper Rare",
+    "set_name": "Twilight Masquerade",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Buddy-Buddy Poffin",
+    "number": "223",
+    "rarity": "Hyper Rare",
+    "set_name": "Twilight Masquerade",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Enhanced Hammer",
+    "number": "224",
+    "rarity": "Hyper Rare",
+    "set_name": "Twilight Masquerade",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Rescue Board",
+    "number": "225",
+    "rarity": "Hyper Rare",
+    "set_name": "Twilight Masquerade",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Luminous Energy",
+    "number": "226",
+    "rarity": "Hyper Rare",
+    "set_name": "Twilight Masquerade",
+    "set_series": "Scarlet & Violet"
+  }
+]

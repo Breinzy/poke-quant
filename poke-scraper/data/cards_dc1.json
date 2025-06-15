@@ -1,0 +1,240 @@
+[
+  {
+    "name": "Team Magma's Numel",
+    "number": "1",
+    "rarity": "Common",
+    "set_name": "Double Crisis",
+    "set_series": "XY"
+  },
+  {
+    "name": "Team Magma's Camerupt",
+    "number": "2",
+    "rarity": "Rare Holo",
+    "set_name": "Double Crisis",
+    "set_series": "XY"
+  },
+  {
+    "name": "Team Aqua's Spheal",
+    "number": "3",
+    "rarity": "Common",
+    "set_name": "Double Crisis",
+    "set_series": "XY"
+  },
+  {
+    "name": "Team Aqua's Sealeo",
+    "number": "4",
+    "rarity": "Common",
+    "set_name": "Double Crisis",
+    "set_series": "XY"
+  },
+  {
+    "name": "Team Aqua's Walrein",
+    "number": "5",
+    "rarity": "Rare Holo",
+    "set_name": "Double Crisis",
+    "set_series": "XY"
+  },
+  {
+    "name": "Team Aqua's Kyogre-EX",
+    "number": "6",
+    "rarity": "Rare Ultra",
+    "set_name": "Double Crisis",
+    "set_series": "XY"
+  },
+  {
+    "name": "Team Aqua's Grimer",
+    "number": "7",
+    "rarity": "Common",
+    "set_name": "Double Crisis",
+    "set_series": "XY"
+  },
+  {
+    "name": "Team Aqua's Muk",
+    "number": "8",
+    "rarity": "Rare Holo",
+    "set_name": "Double Crisis",
+    "set_series": "XY"
+  },
+  {
+    "name": "Team Aqua's Seviper",
+    "number": "9",
+    "rarity": "Common",
+    "set_name": "Double Crisis",
+    "set_series": "XY"
+  },
+  {
+    "name": "Team Magma's Baltoy",
+    "number": "10",
+    "rarity": "Common",
+    "set_name": "Double Crisis",
+    "set_series": "XY"
+  },
+  {
+    "name": "Team Magma's Claydol",
+    "number": "11",
+    "rarity": "Rare Holo",
+    "set_name": "Double Crisis",
+    "set_series": "XY"
+  },
+  {
+    "name": "Team Magma's Aron",
+    "number": "12",
+    "rarity": "Common",
+    "set_name": "Double Crisis",
+    "set_series": "XY"
+  },
+  {
+    "name": "Team Magma's Lairon",
+    "number": "13",
+    "rarity": "Common",
+    "set_name": "Double Crisis",
+    "set_series": "XY"
+  },
+  {
+    "name": "Team Magma's Aggron",
+    "number": "14",
+    "rarity": "Rare Holo",
+    "set_name": "Double Crisis",
+    "set_series": "XY"
+  },
+  {
+    "name": "Team Magma's Groudon-EX",
+    "number": "15",
+    "rarity": "Rare Ultra",
+    "set_name": "Double Crisis",
+    "set_series": "XY"
+  },
+  {
+    "name": "Team Aqua's Poochyena",
+    "number": "16",
+    "rarity": "Common",
+    "set_name": "Double Crisis",
+    "set_series": "XY"
+  },
+  {
+    "name": "Team Magma's Poochyena",
+    "number": "17",
+    "rarity": "Common",
+    "set_name": "Double Crisis",
+    "set_series": "XY"
+  },
+  {
+    "name": "Team Aqua's Mightyena",
+    "number": "18",
+    "rarity": "Common",
+    "set_name": "Double Crisis",
+    "set_series": "XY"
+  },
+  {
+    "name": "Team Magma's Mightyena",
+    "number": "19",
+    "rarity": "Common",
+    "set_name": "Double Crisis",
+    "set_series": "XY"
+  },
+  {
+    "name": "Team Aqua's Carvanha",
+    "number": "20",
+    "rarity": "Common",
+    "set_name": "Double Crisis",
+    "set_series": "XY"
+  },
+  {
+    "name": "Team Aqua's Sharpedo",
+    "number": "21",
+    "rarity": "Rare Holo",
+    "set_name": "Double Crisis",
+    "set_series": "XY"
+  },
+  {
+    "name": "Team Magma's Zangoose",
+    "number": "22",
+    "rarity": "Common",
+    "set_name": "Double Crisis",
+    "set_series": "XY"
+  },
+  {
+    "name": "Aqua Diffuser",
+    "number": "23",
+    "rarity": "Uncommon",
+    "set_name": "Double Crisis",
+    "set_series": "XY"
+  },
+  {
+    "name": "Magma Pointer",
+    "number": "24",
+    "rarity": "Uncommon",
+    "set_name": "Double Crisis",
+    "set_series": "XY"
+  },
+  {
+    "name": "Team Aqua Admin",
+    "number": "25",
+    "rarity": "Uncommon",
+    "set_name": "Double Crisis",
+    "set_series": "XY"
+  },
+  {
+    "name": "Team Aqua Grunt",
+    "number": "26",
+    "rarity": "Uncommon",
+    "set_name": "Double Crisis",
+    "set_series": "XY"
+  },
+  {
+    "name": "Team Aqua's Great Ball",
+    "number": "27",
+    "rarity": "Uncommon",
+    "set_name": "Double Crisis",
+    "set_series": "XY"
+  },
+  {
+    "name": "Team Aqua's Secret Base",
+    "number": "28",
+    "rarity": "Uncommon",
+    "set_name": "Double Crisis",
+    "set_series": "XY"
+  },
+  {
+    "name": "Team Magma Admin",
+    "number": "29",
+    "rarity": "Uncommon",
+    "set_name": "Double Crisis",
+    "set_series": "XY"
+  },
+  {
+    "name": "Team Magma Grunt",
+    "number": "30",
+    "rarity": "Uncommon",
+    "set_name": "Double Crisis",
+    "set_series": "XY"
+  },
+  {
+    "name": "Team Magma's Great Ball",
+    "number": "31",
+    "rarity": "Uncommon",
+    "set_name": "Double Crisis",
+    "set_series": "XY"
+  },
+  {
+    "name": "Team Magma's Secret Base",
+    "number": "32",
+    "rarity": "Uncommon",
+    "set_name": "Double Crisis",
+    "set_series": "XY"
+  },
+  {
+    "name": "Double Aqua Energy",
+    "number": "33",
+    "rarity": "Uncommon",
+    "set_name": "Double Crisis",
+    "set_series": "XY"
+  },
+  {
+    "name": "Double Magma Energy",
+    "number": "34",
+    "rarity": "Uncommon",
+    "set_name": "Double Crisis",
+    "set_series": "XY"
+  }
+]

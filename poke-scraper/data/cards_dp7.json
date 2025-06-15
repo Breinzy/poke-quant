@@ -1,0 +1,744 @@
+[
+  {
+    "name": "Dusknoir",
+    "number": "1",
+    "rarity": "Rare Holo",
+    "set_name": "Stormfront",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Empoleon",
+    "number": "2",
+    "rarity": "Rare Holo",
+    "set_name": "Stormfront",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Infernape",
+    "number": "3",
+    "rarity": "Rare Holo",
+    "set_name": "Stormfront",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Lumineon",
+    "number": "4",
+    "rarity": "Rare Holo",
+    "set_name": "Stormfront",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Magnezone",
+    "number": "5",
+    "rarity": "Rare Holo",
+    "set_name": "Stormfront",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Magnezone",
+    "number": "6",
+    "rarity": "Rare Holo",
+    "set_name": "Stormfront",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Mismagius",
+    "number": "7",
+    "rarity": "Rare Holo",
+    "set_name": "Stormfront",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Raichu",
+    "number": "8",
+    "rarity": "Rare Holo",
+    "set_name": "Stormfront",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Regigigas",
+    "number": "9",
+    "rarity": "Rare Holo",
+    "set_name": "Stormfront",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Sceptile",
+    "number": "10",
+    "rarity": "Rare Holo",
+    "set_name": "Stormfront",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Torterra",
+    "number": "11",
+    "rarity": "Rare Holo",
+    "set_name": "Stormfront",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Abomasnow",
+    "number": "12",
+    "rarity": "Rare",
+    "set_name": "Stormfront",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Bronzong",
+    "number": "13",
+    "rarity": "Rare",
+    "set_name": "Stormfront",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Cherrim",
+    "number": "14",
+    "rarity": "Rare",
+    "set_name": "Stormfront",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Drapion",
+    "number": "15",
+    "rarity": "Rare",
+    "set_name": "Stormfront",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Drifblim",
+    "number": "16",
+    "rarity": "Rare",
+    "set_name": "Stormfront",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Dusknoir",
+    "number": "17",
+    "rarity": "Rare",
+    "set_name": "Stormfront",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Gengar",
+    "number": "18",
+    "rarity": "Rare",
+    "set_name": "Stormfront",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Gyarados",
+    "number": "19",
+    "rarity": "Rare",
+    "set_name": "Stormfront",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Machamp",
+    "number": "20",
+    "rarity": "Rare",
+    "set_name": "Stormfront",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Mamoswine",
+    "number": "21",
+    "rarity": "Rare",
+    "set_name": "Stormfront",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Rapidash",
+    "number": "22",
+    "rarity": "Rare",
+    "set_name": "Stormfront",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Roserade",
+    "number": "23",
+    "rarity": "Rare",
+    "set_name": "Stormfront",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Salamence",
+    "number": "24",
+    "rarity": "Rare",
+    "set_name": "Stormfront",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Scizor",
+    "number": "25",
+    "rarity": "Rare",
+    "set_name": "Stormfront",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Skuntank",
+    "number": "26",
+    "rarity": "Rare",
+    "set_name": "Stormfront",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Staraptor",
+    "number": "27",
+    "rarity": "Rare",
+    "set_name": "Stormfront",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Steelix",
+    "number": "28",
+    "rarity": "Rare",
+    "set_name": "Stormfront",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Tangrowth",
+    "number": "29",
+    "rarity": "Rare",
+    "set_name": "Stormfront",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Tyranitar",
+    "number": "30",
+    "rarity": "Rare",
+    "set_name": "Stormfront",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Vespiquen",
+    "number": "31",
+    "rarity": "Rare",
+    "set_name": "Stormfront",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Bibarel",
+    "number": "32",
+    "rarity": "Uncommon",
+    "set_name": "Stormfront",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Budew",
+    "number": "33",
+    "rarity": "Uncommon",
+    "set_name": "Stormfront",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Dusclops",
+    "number": "34",
+    "rarity": "Uncommon",
+    "set_name": "Stormfront",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Dusclops",
+    "number": "35",
+    "rarity": "Uncommon",
+    "set_name": "Stormfront",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Electrode",
+    "number": "36",
+    "rarity": "Uncommon",
+    "set_name": "Stormfront",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Electrode",
+    "number": "37",
+    "rarity": "Uncommon",
+    "set_name": "Stormfront",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Farfetch'd",
+    "number": "38",
+    "rarity": "Uncommon",
+    "set_name": "Stormfront",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Grovyle",
+    "number": "39",
+    "rarity": "Uncommon",
+    "set_name": "Stormfront",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Haunter",
+    "number": "40",
+    "rarity": "Uncommon",
+    "set_name": "Stormfront",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Machoke",
+    "number": "41",
+    "rarity": "Uncommon",
+    "set_name": "Stormfront",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Magneton",
+    "number": "42",
+    "rarity": "Uncommon",
+    "set_name": "Stormfront",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Magneton",
+    "number": "43",
+    "rarity": "Uncommon",
+    "set_name": "Stormfront",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Miltank",
+    "number": "44",
+    "rarity": "Uncommon",
+    "set_name": "Stormfront",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Pichu",
+    "number": "45",
+    "rarity": "Uncommon",
+    "set_name": "Stormfront",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Piloswine",
+    "number": "46",
+    "rarity": "Uncommon",
+    "set_name": "Stormfront",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Pupitar",
+    "number": "47",
+    "rarity": "Uncommon",
+    "set_name": "Stormfront",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Sableye",
+    "number": "48",
+    "rarity": "Uncommon",
+    "set_name": "Stormfront",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Scyther",
+    "number": "49",
+    "rarity": "Uncommon",
+    "set_name": "Stormfront",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Shelgon",
+    "number": "50",
+    "rarity": "Uncommon",
+    "set_name": "Stormfront",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Skarmory",
+    "number": "51",
+    "rarity": "Uncommon",
+    "set_name": "Stormfront",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Staravia",
+    "number": "52",
+    "rarity": "Uncommon",
+    "set_name": "Stormfront",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Bagon",
+    "number": "53",
+    "rarity": "Common",
+    "set_name": "Stormfront",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Bidoof",
+    "number": "54",
+    "rarity": "Common",
+    "set_name": "Stormfront",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Bronzor",
+    "number": "55",
+    "rarity": "Common",
+    "set_name": "Stormfront",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Cherubi",
+    "number": "56",
+    "rarity": "Common",
+    "set_name": "Stormfront",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Combee",
+    "number": "57",
+    "rarity": "Common",
+    "set_name": "Stormfront",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Drifloon",
+    "number": "58",
+    "rarity": "Common",
+    "set_name": "Stormfront",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Duskull",
+    "number": "59",
+    "rarity": "Common",
+    "set_name": "Stormfront",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Duskull",
+    "number": "60",
+    "rarity": "Common",
+    "set_name": "Stormfront",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Finneon",
+    "number": "61",
+    "rarity": "Common",
+    "set_name": "Stormfront",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Gastly",
+    "number": "62",
+    "rarity": "Common",
+    "set_name": "Stormfront",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Larvitar",
+    "number": "63",
+    "rarity": "Common",
+    "set_name": "Stormfront",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Machop",
+    "number": "64",
+    "rarity": "Common",
+    "set_name": "Stormfront",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Magikarp",
+    "number": "65",
+    "rarity": "Common",
+    "set_name": "Stormfront",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Magnemite",
+    "number": "66",
+    "rarity": "Common",
+    "set_name": "Stormfront",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Magnemite",
+    "number": "67",
+    "rarity": "Common",
+    "set_name": "Stormfront",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Misdreavus",
+    "number": "68",
+    "rarity": "Common",
+    "set_name": "Stormfront",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Onix",
+    "number": "69",
+    "rarity": "Common",
+    "set_name": "Stormfront",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Pikachu",
+    "number": "70",
+    "rarity": "Common",
+    "set_name": "Stormfront",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Ponyta",
+    "number": "71",
+    "rarity": "Common",
+    "set_name": "Stormfront",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Roselia",
+    "number": "72",
+    "rarity": "Common",
+    "set_name": "Stormfront",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Skorupi",
+    "number": "73",
+    "rarity": "Common",
+    "set_name": "Stormfront",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Snover",
+    "number": "74",
+    "rarity": "Common",
+    "set_name": "Stormfront",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Starly",
+    "number": "75",
+    "rarity": "Common",
+    "set_name": "Stormfront",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Stunky",
+    "number": "76",
+    "rarity": "Common",
+    "set_name": "Stormfront",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Swinub",
+    "number": "77",
+    "rarity": "Common",
+    "set_name": "Stormfront",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Tangela",
+    "number": "78",
+    "rarity": "Common",
+    "set_name": "Stormfront",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Treecko",
+    "number": "79",
+    "rarity": "Common",
+    "set_name": "Stormfront",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Voltorb",
+    "number": "80",
+    "rarity": "Common",
+    "set_name": "Stormfront",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Voltorb",
+    "number": "81",
+    "rarity": "Common",
+    "set_name": "Stormfront",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Conductive Quarry",
+    "number": "82",
+    "rarity": "Uncommon",
+    "set_name": "Stormfront",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Energy Link",
+    "number": "83",
+    "rarity": "Uncommon",
+    "set_name": "Stormfront",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Energy Switch",
+    "number": "84",
+    "rarity": "Uncommon",
+    "set_name": "Stormfront",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Great Ball",
+    "number": "85",
+    "rarity": "Uncommon",
+    "set_name": "Stormfront",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Luxury Ball",
+    "number": "86",
+    "rarity": "Uncommon",
+    "set_name": "Stormfront",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Marley's Request",
+    "number": "87",
+    "rarity": "Uncommon",
+    "set_name": "Stormfront",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Pok\u00e9 Blower +",
+    "number": "88",
+    "rarity": "Uncommon",
+    "set_name": "Stormfront",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Pok\u00e9 Drawer +",
+    "number": "89",
+    "rarity": "Uncommon",
+    "set_name": "Stormfront",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Pok\u00e9 Healer +",
+    "number": "90",
+    "rarity": "Uncommon",
+    "set_name": "Stormfront",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Premier Ball",
+    "number": "91",
+    "rarity": "Uncommon",
+    "set_name": "Stormfront",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Potion",
+    "number": "92",
+    "rarity": "Common",
+    "set_name": "Stormfront",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Switch",
+    "number": "93",
+    "rarity": "Common",
+    "set_name": "Stormfront",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Cyclone Energy",
+    "number": "94",
+    "rarity": "Uncommon",
+    "set_name": "Stormfront",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Warp Energy",
+    "number": "95",
+    "rarity": "Uncommon",
+    "set_name": "Stormfront",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Dusknoir LV.X",
+    "number": "96",
+    "rarity": "Rare Holo LV.X",
+    "set_name": "Stormfront",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Heatran LV.X",
+    "number": "97",
+    "rarity": "Rare Holo LV.X",
+    "set_name": "Stormfront",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Machamp LV.X",
+    "number": "98",
+    "rarity": "Rare Holo LV.X",
+    "set_name": "Stormfront",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Raichu LV.X",
+    "number": "99",
+    "rarity": "Rare Holo LV.X",
+    "set_name": "Stormfront",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Regigigas LV.X",
+    "number": "100",
+    "rarity": "Rare Holo LV.X",
+    "set_name": "Stormfront",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Charmander",
+    "number": "101",
+    "rarity": "Rare Secret",
+    "set_name": "Stormfront",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Charmeleon",
+    "number": "102",
+    "rarity": "Rare Secret",
+    "set_name": "Stormfront",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Charizard",
+    "number": "103",
+    "rarity": "Rare Secret",
+    "set_name": "Stormfront",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Drifloon",
+    "number": "SH1",
+    "rarity": "Rare",
+    "set_name": "Stormfront",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Duskull",
+    "number": "SH2",
+    "rarity": "Rare",
+    "set_name": "Stormfront",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Voltorb",
+    "number": "SH3",
+    "rarity": "Rare",
+    "set_name": "Stormfront",
+    "set_series": "Diamond & Pearl"
+  }
+]

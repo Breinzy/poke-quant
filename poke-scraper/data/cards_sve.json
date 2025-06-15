@@ -1,0 +1,114 @@
+[
+  {
+    "name": "Basic Water Energy",
+    "number": "3",
+    "rarity": "Common",
+    "set_name": "Scarlet & Violet Energies",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Basic Grass Energy",
+    "number": "1",
+    "rarity": "Common",
+    "set_name": "Scarlet & Violet Energies",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Basic Darkness Energy",
+    "number": "7",
+    "rarity": "Common",
+    "set_name": "Scarlet & Violet Energies",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Basic Lightning Energy",
+    "number": "4",
+    "rarity": "Common",
+    "set_name": "Scarlet & Violet Energies",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Basic Metal Energy",
+    "number": "8",
+    "rarity": "Common",
+    "set_name": "Scarlet & Violet Energies",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Basic Fire Energy",
+    "number": "2",
+    "rarity": "Common",
+    "set_name": "Scarlet & Violet Energies",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Basic Psychic Energy",
+    "number": "5",
+    "rarity": "Common",
+    "set_name": "Scarlet & Violet Energies",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Basic Fighting Energy",
+    "number": "6",
+    "rarity": "Common",
+    "set_name": "Scarlet & Violet Energies",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Basic Fire Energy",
+    "number": "10",
+    "rarity": null,
+    "set_name": "Scarlet & Violet Energies",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Basic Water Energy",
+    "number": "11",
+    "rarity": null,
+    "set_name": "Scarlet & Violet Energies",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Basic Lightning Energy",
+    "number": "12",
+    "rarity": null,
+    "set_name": "Scarlet & Violet Energies",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Basic Metal Energy",
+    "number": "16",
+    "rarity": null,
+    "set_name": "Scarlet & Violet Energies",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Basic Grass Energy",
+    "number": "9",
+    "rarity": null,
+    "set_name": "Scarlet & Violet Energies",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Basic Fighting Energy",
+    "number": "14",
+    "rarity": null,
+    "set_name": "Scarlet & Violet Energies",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Basic Psychic Energy",
+    "number": "13",
+    "rarity": null,
+    "set_name": "Scarlet & Violet Energies",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Basic Darkness Energy",
+    "number": "15",
+    "rarity": null,
+    "set_name": "Scarlet & Violet Energies",
+    "set_series": "Scarlet & Violet"
+  }
+]

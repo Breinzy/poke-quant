@@ -1,0 +1,1682 @@
+[
+  {
+    "name": "Tangela",
+    "number": "1",
+    "rarity": "Common",
+    "set_name": "Lost Thunder",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Tangrowth",
+    "number": "2",
+    "rarity": "Rare",
+    "set_name": "Lost Thunder",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Scyther",
+    "number": "3",
+    "rarity": "Common",
+    "set_name": "Lost Thunder",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Pinsir",
+    "number": "4",
+    "rarity": "Uncommon",
+    "set_name": "Lost Thunder",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Chikorita",
+    "number": "5",
+    "rarity": "Common",
+    "set_name": "Lost Thunder",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Chikorita",
+    "number": "6",
+    "rarity": "Common",
+    "set_name": "Lost Thunder",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Bayleef",
+    "number": "7",
+    "rarity": "Uncommon",
+    "set_name": "Lost Thunder",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Meganium",
+    "number": "8",
+    "rarity": "Rare Holo",
+    "set_name": "Lost Thunder",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Spinarak",
+    "number": "9",
+    "rarity": "Common",
+    "set_name": "Lost Thunder",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Ariados",
+    "number": "10",
+    "rarity": "Uncommon",
+    "set_name": "Lost Thunder",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Hoppip",
+    "number": "11",
+    "rarity": "Common",
+    "set_name": "Lost Thunder",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Hoppip",
+    "number": "12",
+    "rarity": "Common",
+    "set_name": "Lost Thunder",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Skiploom",
+    "number": "13",
+    "rarity": "Uncommon",
+    "set_name": "Lost Thunder",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Jumpluff",
+    "number": "14",
+    "rarity": "Rare Holo",
+    "set_name": "Lost Thunder",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Pineco",
+    "number": "15",
+    "rarity": "Common",
+    "set_name": "Lost Thunder",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Shuckle",
+    "number": "16",
+    "rarity": "Uncommon",
+    "set_name": "Lost Thunder",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Shuckle-GX",
+    "number": "17",
+    "rarity": "Rare Holo GX",
+    "set_name": "Lost Thunder",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Heracross",
+    "number": "18",
+    "rarity": "Uncommon",
+    "set_name": "Lost Thunder",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Celebi \u25c7",
+    "number": "19",
+    "rarity": "Rare Prism Star",
+    "set_name": "Lost Thunder",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Treecko",
+    "number": "20",
+    "rarity": "Common",
+    "set_name": "Lost Thunder",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Grovyle",
+    "number": "21",
+    "rarity": "Uncommon",
+    "set_name": "Lost Thunder",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Sceptile-GX",
+    "number": "22",
+    "rarity": "Rare Holo GX",
+    "set_name": "Lost Thunder",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Wurmple",
+    "number": "23",
+    "rarity": "Common",
+    "set_name": "Lost Thunder",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Wurmple",
+    "number": "24",
+    "rarity": "Common",
+    "set_name": "Lost Thunder",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Silcoon",
+    "number": "25",
+    "rarity": "Uncommon",
+    "set_name": "Lost Thunder",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Beautifly",
+    "number": "26",
+    "rarity": "Rare",
+    "set_name": "Lost Thunder",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Cascoon",
+    "number": "27",
+    "rarity": "Uncommon",
+    "set_name": "Lost Thunder",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Dustox",
+    "number": "28",
+    "rarity": "Rare",
+    "set_name": "Lost Thunder",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Nincada",
+    "number": "29",
+    "rarity": "Common",
+    "set_name": "Lost Thunder",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Ninjask",
+    "number": "30",
+    "rarity": "Uncommon",
+    "set_name": "Lost Thunder",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Combee",
+    "number": "31",
+    "rarity": "Common",
+    "set_name": "Lost Thunder",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Vespiquen",
+    "number": "32",
+    "rarity": "Uncommon",
+    "set_name": "Lost Thunder",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Shaymin",
+    "number": "33",
+    "rarity": "Rare Holo",
+    "set_name": "Lost Thunder",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Virizion-GX",
+    "number": "34",
+    "rarity": "Rare Holo GX",
+    "set_name": "Lost Thunder",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Skiddo",
+    "number": "35",
+    "rarity": "Common",
+    "set_name": "Lost Thunder",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Gogoat",
+    "number": "36",
+    "rarity": "Uncommon",
+    "set_name": "Lost Thunder",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Tapu Bulu",
+    "number": "37",
+    "rarity": "Rare Holo",
+    "set_name": "Lost Thunder",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Moltres",
+    "number": "38",
+    "rarity": "Rare",
+    "set_name": "Lost Thunder",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Cyndaquil",
+    "number": "39",
+    "rarity": "Common",
+    "set_name": "Lost Thunder",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Cyndaquil",
+    "number": "40",
+    "rarity": "Common",
+    "set_name": "Lost Thunder",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Quilava",
+    "number": "41",
+    "rarity": "Uncommon",
+    "set_name": "Lost Thunder",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Typhlosion",
+    "number": "42",
+    "rarity": "Rare Holo",
+    "set_name": "Lost Thunder",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Slugma",
+    "number": "43",
+    "rarity": "Common",
+    "set_name": "Lost Thunder",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Magcargo-GX",
+    "number": "44",
+    "rarity": "Rare Holo GX",
+    "set_name": "Lost Thunder",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Houndour",
+    "number": "45",
+    "rarity": "Common",
+    "set_name": "Lost Thunder",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Houndoom",
+    "number": "46",
+    "rarity": "Rare",
+    "set_name": "Lost Thunder",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Entei",
+    "number": "47",
+    "rarity": "Rare",
+    "set_name": "Lost Thunder",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Heatran",
+    "number": "48",
+    "rarity": "Rare Holo",
+    "set_name": "Lost Thunder",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Victini",
+    "number": "49",
+    "rarity": "Rare",
+    "set_name": "Lost Thunder",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Litleo",
+    "number": "50",
+    "rarity": "Common",
+    "set_name": "Lost Thunder",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Pyroar",
+    "number": "51",
+    "rarity": "Rare",
+    "set_name": "Lost Thunder",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Blacephalon-GX",
+    "number": "52",
+    "rarity": "Rare Holo GX",
+    "set_name": "Lost Thunder",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Alolan Vulpix",
+    "number": "53",
+    "rarity": "Common",
+    "set_name": "Lost Thunder",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Slowpoke",
+    "number": "54",
+    "rarity": "Common",
+    "set_name": "Lost Thunder",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Slowking",
+    "number": "55",
+    "rarity": "Rare",
+    "set_name": "Lost Thunder",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Lapras",
+    "number": "56",
+    "rarity": "Rare",
+    "set_name": "Lost Thunder",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Delibird",
+    "number": "57",
+    "rarity": "Uncommon",
+    "set_name": "Lost Thunder",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Mantine",
+    "number": "58",
+    "rarity": "Uncommon",
+    "set_name": "Lost Thunder",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Suicune",
+    "number": "59",
+    "rarity": "Rare Holo",
+    "set_name": "Lost Thunder",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Suicune-GX",
+    "number": "60",
+    "rarity": "Rare Holo GX",
+    "set_name": "Lost Thunder",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Cubchoo",
+    "number": "61",
+    "rarity": "Common",
+    "set_name": "Lost Thunder",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Beartic",
+    "number": "62",
+    "rarity": "Rare",
+    "set_name": "Lost Thunder",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "White Kyurem",
+    "number": "63",
+    "rarity": "Rare Holo",
+    "set_name": "Lost Thunder",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Popplio",
+    "number": "64",
+    "rarity": "Common",
+    "set_name": "Lost Thunder",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Popplio",
+    "number": "65",
+    "rarity": "Common",
+    "set_name": "Lost Thunder",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Brionne",
+    "number": "66",
+    "rarity": "Uncommon",
+    "set_name": "Lost Thunder",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Primarina",
+    "number": "67",
+    "rarity": "Rare",
+    "set_name": "Lost Thunder",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Mareanie",
+    "number": "68",
+    "rarity": "Common",
+    "set_name": "Lost Thunder",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Toxapex",
+    "number": "69",
+    "rarity": "Rare",
+    "set_name": "Lost Thunder",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Bruxish",
+    "number": "70",
+    "rarity": "Common",
+    "set_name": "Lost Thunder",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Electabuzz",
+    "number": "71",
+    "rarity": "Uncommon",
+    "set_name": "Lost Thunder",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Electivire",
+    "number": "72",
+    "rarity": "Rare",
+    "set_name": "Lost Thunder",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Chinchou",
+    "number": "73",
+    "rarity": "Common",
+    "set_name": "Lost Thunder",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Lanturn",
+    "number": "74",
+    "rarity": "Rare",
+    "set_name": "Lost Thunder",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Mareep",
+    "number": "75",
+    "rarity": "Common",
+    "set_name": "Lost Thunder",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Mareep",
+    "number": "76",
+    "rarity": "Common",
+    "set_name": "Lost Thunder",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Flaaffy",
+    "number": "77",
+    "rarity": "Uncommon",
+    "set_name": "Lost Thunder",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Ampharos",
+    "number": "78",
+    "rarity": "Rare Holo",
+    "set_name": "Lost Thunder",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Raikou",
+    "number": "79",
+    "rarity": "Rare",
+    "set_name": "Lost Thunder",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Pachirisu",
+    "number": "80",
+    "rarity": "Common",
+    "set_name": "Lost Thunder",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Blitzle",
+    "number": "81",
+    "rarity": "Common",
+    "set_name": "Lost Thunder",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Zebstrika",
+    "number": "82",
+    "rarity": "Rare",
+    "set_name": "Lost Thunder",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Stunfisk",
+    "number": "83",
+    "rarity": "Common",
+    "set_name": "Lost Thunder",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Dedenne",
+    "number": "84",
+    "rarity": "Common",
+    "set_name": "Lost Thunder",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Tapu Koko",
+    "number": "85",
+    "rarity": "Rare Holo",
+    "set_name": "Lost Thunder",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Zeraora-GX",
+    "number": "86",
+    "rarity": "Rare Holo GX",
+    "set_name": "Lost Thunder",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Natu",
+    "number": "87",
+    "rarity": "Common",
+    "set_name": "Lost Thunder",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Xatu",
+    "number": "88",
+    "rarity": "Uncommon",
+    "set_name": "Lost Thunder",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Espeon",
+    "number": "89",
+    "rarity": "Rare",
+    "set_name": "Lost Thunder",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Unown",
+    "number": "90",
+    "rarity": "Rare",
+    "set_name": "Lost Thunder",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Unown",
+    "number": "91",
+    "rarity": "Rare",
+    "set_name": "Lost Thunder",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Unown",
+    "number": "92",
+    "rarity": "Rare",
+    "set_name": "Lost Thunder",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Wobbuffet",
+    "number": "93",
+    "rarity": "Rare",
+    "set_name": "Lost Thunder",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Girafarig",
+    "number": "94",
+    "rarity": "Uncommon",
+    "set_name": "Lost Thunder",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Shedinja",
+    "number": "95",
+    "rarity": "Rare",
+    "set_name": "Lost Thunder",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Sableye",
+    "number": "96",
+    "rarity": "Uncommon",
+    "set_name": "Lost Thunder",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Giratina",
+    "number": "97",
+    "rarity": "Rare Holo",
+    "set_name": "Lost Thunder",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Sigilyph-GX",
+    "number": "98",
+    "rarity": "Rare Holo GX",
+    "set_name": "Lost Thunder",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Yamask",
+    "number": "99",
+    "rarity": "Common",
+    "set_name": "Lost Thunder",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Cofagrigus",
+    "number": "100",
+    "rarity": "Rare",
+    "set_name": "Lost Thunder",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Litwick",
+    "number": "101",
+    "rarity": "Common",
+    "set_name": "Lost Thunder",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Lampent",
+    "number": "102",
+    "rarity": "Uncommon",
+    "set_name": "Lost Thunder",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Chandelure",
+    "number": "103",
+    "rarity": "Rare Holo",
+    "set_name": "Lost Thunder",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Meloetta",
+    "number": "104",
+    "rarity": "Rare",
+    "set_name": "Lost Thunder",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Mareanie",
+    "number": "105",
+    "rarity": "Common",
+    "set_name": "Lost Thunder",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Nihilego",
+    "number": "106",
+    "rarity": "Rare Holo",
+    "set_name": "Lost Thunder",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Poipole",
+    "number": "107",
+    "rarity": "Common",
+    "set_name": "Lost Thunder",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Naganadel",
+    "number": "108",
+    "rarity": "Rare Holo",
+    "set_name": "Lost Thunder",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Onix",
+    "number": "109",
+    "rarity": "Common",
+    "set_name": "Lost Thunder",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Sudowoodo",
+    "number": "110",
+    "rarity": "Uncommon",
+    "set_name": "Lost Thunder",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Phanpy",
+    "number": "111",
+    "rarity": "Common",
+    "set_name": "Lost Thunder",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Donphan",
+    "number": "112",
+    "rarity": "Rare",
+    "set_name": "Lost Thunder",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Hitmontop",
+    "number": "113",
+    "rarity": "Uncommon",
+    "set_name": "Lost Thunder",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Larvitar",
+    "number": "114",
+    "rarity": "Common",
+    "set_name": "Lost Thunder",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Larvitar",
+    "number": "115",
+    "rarity": "Common",
+    "set_name": "Lost Thunder",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Pupitar",
+    "number": "116",
+    "rarity": "Uncommon",
+    "set_name": "Lost Thunder",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Carbink",
+    "number": "117",
+    "rarity": "Common",
+    "set_name": "Lost Thunder",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Alolan Meowth",
+    "number": "118",
+    "rarity": "Common",
+    "set_name": "Lost Thunder",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Alolan Persian",
+    "number": "119",
+    "rarity": "Rare",
+    "set_name": "Lost Thunder",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Umbreon",
+    "number": "120",
+    "rarity": "Rare",
+    "set_name": "Lost Thunder",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Tyranitar-GX",
+    "number": "121",
+    "rarity": "Rare Holo GX",
+    "set_name": "Lost Thunder",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Alolan Diglett",
+    "number": "122",
+    "rarity": "Common",
+    "set_name": "Lost Thunder",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Alolan Dugtrio",
+    "number": "123",
+    "rarity": "Uncommon",
+    "set_name": "Lost Thunder",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Forretress",
+    "number": "124",
+    "rarity": "Rare",
+    "set_name": "Lost Thunder",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Steelix",
+    "number": "125",
+    "rarity": "Rare",
+    "set_name": "Lost Thunder",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Scizor",
+    "number": "126",
+    "rarity": "Rare Holo",
+    "set_name": "Lost Thunder",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Dialga",
+    "number": "127",
+    "rarity": "Rare Holo",
+    "set_name": "Lost Thunder",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Durant",
+    "number": "128",
+    "rarity": "Common",
+    "set_name": "Lost Thunder",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Cobalion",
+    "number": "129",
+    "rarity": "Rare Holo",
+    "set_name": "Lost Thunder",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Genesect-GX",
+    "number": "130",
+    "rarity": "Rare Holo GX",
+    "set_name": "Lost Thunder",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Magearna",
+    "number": "131",
+    "rarity": "Uncommon",
+    "set_name": "Lost Thunder",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Alolan Ninetales-GX",
+    "number": "132",
+    "rarity": "Rare Holo GX",
+    "set_name": "Lost Thunder",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Jigglypuff",
+    "number": "133",
+    "rarity": "Common",
+    "set_name": "Lost Thunder",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Wigglytuff",
+    "number": "134",
+    "rarity": "Rare",
+    "set_name": "Lost Thunder",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Marill",
+    "number": "135",
+    "rarity": "Common",
+    "set_name": "Lost Thunder",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Azumarill",
+    "number": "136",
+    "rarity": "Rare",
+    "set_name": "Lost Thunder",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Snubbull",
+    "number": "137",
+    "rarity": "Common",
+    "set_name": "Lost Thunder",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Granbull",
+    "number": "138",
+    "rarity": "Rare",
+    "set_name": "Lost Thunder",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Ralts",
+    "number": "139",
+    "rarity": "Common",
+    "set_name": "Lost Thunder",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Kirlia",
+    "number": "140",
+    "rarity": "Uncommon",
+    "set_name": "Lost Thunder",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Gardevoir",
+    "number": "141",
+    "rarity": "Rare Holo",
+    "set_name": "Lost Thunder",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Dedenne",
+    "number": "142",
+    "rarity": "Uncommon",
+    "set_name": "Lost Thunder",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Carbink",
+    "number": "143",
+    "rarity": "Uncommon",
+    "set_name": "Lost Thunder",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Xerneas \u25c7",
+    "number": "144",
+    "rarity": "Rare Prism Star",
+    "set_name": "Lost Thunder",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Cutiefly",
+    "number": "145",
+    "rarity": "Common",
+    "set_name": "Lost Thunder",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Ribombee",
+    "number": "146",
+    "rarity": "Rare",
+    "set_name": "Lost Thunder",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Morelull",
+    "number": "147",
+    "rarity": "Common",
+    "set_name": "Lost Thunder",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Shiinotic",
+    "number": "148",
+    "rarity": "Uncommon",
+    "set_name": "Lost Thunder",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Mimikyu-GX",
+    "number": "149",
+    "rarity": "Rare Holo GX",
+    "set_name": "Lost Thunder",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Tapu Lele",
+    "number": "150",
+    "rarity": "Rare Holo",
+    "set_name": "Lost Thunder",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Tapu Fini",
+    "number": "151",
+    "rarity": "Rare Holo",
+    "set_name": "Lost Thunder",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Chansey",
+    "number": "152",
+    "rarity": "Common",
+    "set_name": "Lost Thunder",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Blissey",
+    "number": "153",
+    "rarity": "Rare Holo",
+    "set_name": "Lost Thunder",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Ditto \u25c7",
+    "number": "154",
+    "rarity": "Rare Prism Star",
+    "set_name": "Lost Thunder",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Eevee",
+    "number": "155",
+    "rarity": "Common",
+    "set_name": "Lost Thunder",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Stantler",
+    "number": "156",
+    "rarity": "Uncommon",
+    "set_name": "Lost Thunder",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Smeargle",
+    "number": "157",
+    "rarity": "Rare",
+    "set_name": "Lost Thunder",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Miltank",
+    "number": "158",
+    "rarity": "Rare",
+    "set_name": "Lost Thunder",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Lugia-GX",
+    "number": "159",
+    "rarity": "Rare Holo GX",
+    "set_name": "Lost Thunder",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Ho-Oh",
+    "number": "160",
+    "rarity": "Rare",
+    "set_name": "Lost Thunder",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Kecleon",
+    "number": "161",
+    "rarity": "Uncommon",
+    "set_name": "Lost Thunder",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Kecleon",
+    "number": "162",
+    "rarity": "Uncommon",
+    "set_name": "Lost Thunder",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Pikipek",
+    "number": "163",
+    "rarity": "Common",
+    "set_name": "Lost Thunder",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Pikipek",
+    "number": "164",
+    "rarity": "Common",
+    "set_name": "Lost Thunder",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Trumbeak",
+    "number": "165",
+    "rarity": "Uncommon",
+    "set_name": "Lost Thunder",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Toucannon",
+    "number": "166",
+    "rarity": "Rare",
+    "set_name": "Lost Thunder",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Adventure Bag",
+    "number": "167",
+    "rarity": "Uncommon",
+    "set_name": "Lost Thunder",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Aether Foundation Employee",
+    "number": "168",
+    "rarity": "Uncommon",
+    "set_name": "Lost Thunder",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Choice Helmet",
+    "number": "169",
+    "rarity": "Uncommon",
+    "set_name": "Lost Thunder",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Counter Gain",
+    "number": "170",
+    "rarity": "Uncommon",
+    "set_name": "Lost Thunder",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Custom Catcher",
+    "number": "171",
+    "rarity": "Uncommon",
+    "set_name": "Lost Thunder",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Electropower",
+    "number": "172",
+    "rarity": "Uncommon",
+    "set_name": "Lost Thunder",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Electropower",
+    "number": "172a",
+    "rarity": "Uncommon",
+    "set_name": "Lost Thunder",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Faba",
+    "number": "173",
+    "rarity": "Uncommon",
+    "set_name": "Lost Thunder",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Fairy Charm Grass",
+    "number": "174",
+    "rarity": "Uncommon",
+    "set_name": "Lost Thunder",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Fairy Charm Psychic",
+    "number": "175",
+    "rarity": "Uncommon",
+    "set_name": "Lost Thunder",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Fairy Charm Fighting",
+    "number": "176",
+    "rarity": "Uncommon",
+    "set_name": "Lost Thunder",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Fairy Charm Dragon",
+    "number": "177",
+    "rarity": "Uncommon",
+    "set_name": "Lost Thunder",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Heat Factory \u25c7",
+    "number": "178",
+    "rarity": "Rare Prism Star",
+    "set_name": "Lost Thunder",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Kahili",
+    "number": "179",
+    "rarity": "Uncommon",
+    "set_name": "Lost Thunder",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Life Forest \u25c7",
+    "number": "180",
+    "rarity": "Rare Prism Star",
+    "set_name": "Lost Thunder",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Lost Blender",
+    "number": "181",
+    "rarity": "Uncommon",
+    "set_name": "Lost Thunder",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Lusamine \u25c7",
+    "number": "182",
+    "rarity": "Rare Prism Star",
+    "set_name": "Lost Thunder",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Mina",
+    "number": "183",
+    "rarity": "Uncommon",
+    "set_name": "Lost Thunder",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Mixed Herbs",
+    "number": "184",
+    "rarity": "Uncommon",
+    "set_name": "Lost Thunder",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Moomoo Milk",
+    "number": "185",
+    "rarity": "Uncommon",
+    "set_name": "Lost Thunder",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Morty",
+    "number": "186",
+    "rarity": "Uncommon",
+    "set_name": "Lost Thunder",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Net Ball",
+    "number": "187",
+    "rarity": "Uncommon",
+    "set_name": "Lost Thunder",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Net Ball",
+    "number": "187a",
+    "rarity": "Uncommon",
+    "set_name": "Lost Thunder",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Professor Elm's Lecture",
+    "number": "188",
+    "rarity": "Uncommon",
+    "set_name": "Lost Thunder",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Professor Elm's Lecture",
+    "number": "188a",
+    "rarity": "Uncommon",
+    "set_name": "Lost Thunder",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Sightseer",
+    "number": "189",
+    "rarity": "Uncommon",
+    "set_name": "Lost Thunder",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Sightseer",
+    "number": "189a",
+    "rarity": "Uncommon",
+    "set_name": "Lost Thunder",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Spell Tag",
+    "number": "190",
+    "rarity": "Uncommon",
+    "set_name": "Lost Thunder",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Thunder Mountain \u25c7",
+    "number": "191",
+    "rarity": "Rare Prism Star",
+    "set_name": "Lost Thunder",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Wait and See Hammer",
+    "number": "192",
+    "rarity": "Uncommon",
+    "set_name": "Lost Thunder",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Whitney",
+    "number": "193",
+    "rarity": "Uncommon",
+    "set_name": "Lost Thunder",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Memory Energy",
+    "number": "194",
+    "rarity": "Uncommon",
+    "set_name": "Lost Thunder",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Shuckle-GX",
+    "number": "195",
+    "rarity": "Rare Ultra",
+    "set_name": "Lost Thunder",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Sceptile-GX",
+    "number": "196",
+    "rarity": "Rare Ultra",
+    "set_name": "Lost Thunder",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Virizion-GX",
+    "number": "197",
+    "rarity": "Rare Ultra",
+    "set_name": "Lost Thunder",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Magcargo-GX",
+    "number": "198",
+    "rarity": "Rare Ultra",
+    "set_name": "Lost Thunder",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Blacephalon-GX",
+    "number": "199",
+    "rarity": "Rare Ultra",
+    "set_name": "Lost Thunder",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Suicune-GX",
+    "number": "200",
+    "rarity": "Rare Ultra",
+    "set_name": "Lost Thunder",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Zeraora-GX",
+    "number": "201",
+    "rarity": "Rare Ultra",
+    "set_name": "Lost Thunder",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Sigilyph-GX",
+    "number": "202",
+    "rarity": "Rare Ultra",
+    "set_name": "Lost Thunder",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Tyranitar-GX",
+    "number": "203",
+    "rarity": "Rare Ultra",
+    "set_name": "Lost Thunder",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Genesect-GX",
+    "number": "204",
+    "rarity": "Rare Ultra",
+    "set_name": "Lost Thunder",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Alolan Ninetales-GX",
+    "number": "205",
+    "rarity": "Rare Ultra",
+    "set_name": "Lost Thunder",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Mimikyu-GX",
+    "number": "206",
+    "rarity": "Rare Ultra",
+    "set_name": "Lost Thunder",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Lugia-GX",
+    "number": "207",
+    "rarity": "Rare Ultra",
+    "set_name": "Lost Thunder",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Faba",
+    "number": "208",
+    "rarity": "Rare Ultra",
+    "set_name": "Lost Thunder",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Judge",
+    "number": "209",
+    "rarity": "Rare Ultra",
+    "set_name": "Lost Thunder",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Kahili",
+    "number": "210",
+    "rarity": "Rare Ultra",
+    "set_name": "Lost Thunder",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Mina",
+    "number": "211",
+    "rarity": "Rare Ultra",
+    "set_name": "Lost Thunder",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Morty",
+    "number": "212",
+    "rarity": "Rare Ultra",
+    "set_name": "Lost Thunder",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Professor Elm's Lecture",
+    "number": "213",
+    "rarity": "Rare Ultra",
+    "set_name": "Lost Thunder",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Whitney",
+    "number": "214",
+    "rarity": "Rare Ultra",
+    "set_name": "Lost Thunder",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Shuckle-GX",
+    "number": "215",
+    "rarity": "Rare Rainbow",
+    "set_name": "Lost Thunder",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Sceptile-GX",
+    "number": "216",
+    "rarity": "Rare Rainbow",
+    "set_name": "Lost Thunder",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Virizion-GX",
+    "number": "217",
+    "rarity": "Rare Rainbow",
+    "set_name": "Lost Thunder",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Magcargo-GX",
+    "number": "218",
+    "rarity": "Rare Rainbow",
+    "set_name": "Lost Thunder",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Blacephalon-GX",
+    "number": "219",
+    "rarity": "Rare Rainbow",
+    "set_name": "Lost Thunder",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Suicune-GX",
+    "number": "220",
+    "rarity": "Rare Rainbow",
+    "set_name": "Lost Thunder",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Zeraora-GX",
+    "number": "221",
+    "rarity": "Rare Rainbow",
+    "set_name": "Lost Thunder",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Sigilyph-GX",
+    "number": "222",
+    "rarity": "Rare Rainbow",
+    "set_name": "Lost Thunder",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Tyranitar-GX",
+    "number": "223",
+    "rarity": "Rare Rainbow",
+    "set_name": "Lost Thunder",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Genesect-GX",
+    "number": "224",
+    "rarity": "Rare Rainbow",
+    "set_name": "Lost Thunder",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Alolan Ninetales-GX",
+    "number": "225",
+    "rarity": "Rare Rainbow",
+    "set_name": "Lost Thunder",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Mimikyu-GX",
+    "number": "226",
+    "rarity": "Rare Rainbow",
+    "set_name": "Lost Thunder",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Lugia-GX",
+    "number": "227",
+    "rarity": "Rare Rainbow",
+    "set_name": "Lost Thunder",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Adventure Bag",
+    "number": "228",
+    "rarity": "Rare Secret",
+    "set_name": "Lost Thunder",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Choice Helmet",
+    "number": "229",
+    "rarity": "Rare Secret",
+    "set_name": "Lost Thunder",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Counter Gain",
+    "number": "230",
+    "rarity": "Rare Secret",
+    "set_name": "Lost Thunder",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Custom Catcher",
+    "number": "231",
+    "rarity": "Rare Secret",
+    "set_name": "Lost Thunder",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Electropower",
+    "number": "232",
+    "rarity": "Rare Secret",
+    "set_name": "Lost Thunder",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Lost Blender",
+    "number": "233",
+    "rarity": "Rare Secret",
+    "set_name": "Lost Thunder",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Net Ball",
+    "number": "234",
+    "rarity": "Rare Secret",
+    "set_name": "Lost Thunder",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Spell Tag",
+    "number": "235",
+    "rarity": "Rare Secret",
+    "set_name": "Lost Thunder",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Wait and See Hammer",
+    "number": "236",
+    "rarity": "Rare Secret",
+    "set_name": "Lost Thunder",
+    "set_series": "Sun & Moon"
+  }
+]

@@ -1,0 +1,709 @@
+[
+  {
+    "name": "Oddish",
+    "number": "1",
+    "rarity": "Common",
+    "set_name": "Ancient Origins",
+    "set_series": "XY"
+  },
+  {
+    "name": "Gloom",
+    "number": "2",
+    "rarity": "Uncommon",
+    "set_name": "Ancient Origins",
+    "set_series": "XY"
+  },
+  {
+    "name": "Vileplume",
+    "number": "3",
+    "rarity": "Rare",
+    "set_name": "Ancient Origins",
+    "set_series": "XY"
+  },
+  {
+    "name": "Bellossom",
+    "number": "4",
+    "rarity": "Uncommon",
+    "set_name": "Ancient Origins",
+    "set_series": "XY"
+  },
+  {
+    "name": "Spinarak",
+    "number": "5",
+    "rarity": "Common",
+    "set_name": "Ancient Origins",
+    "set_series": "XY"
+  },
+  {
+    "name": "Ariados",
+    "number": "6",
+    "rarity": "Uncommon",
+    "set_name": "Ancient Origins",
+    "set_series": "XY"
+  },
+  {
+    "name": "Sceptile-EX",
+    "number": "7",
+    "rarity": "Rare Holo EX",
+    "set_name": "Ancient Origins",
+    "set_series": "XY"
+  },
+  {
+    "name": "M Sceptile-EX",
+    "number": "8",
+    "rarity": "Rare Holo EX",
+    "set_name": "Ancient Origins",
+    "set_series": "XY"
+  },
+  {
+    "name": "Combee",
+    "number": "9",
+    "rarity": "Common",
+    "set_name": "Ancient Origins",
+    "set_series": "XY"
+  },
+  {
+    "name": "Vespiquen",
+    "number": "10",
+    "rarity": "Uncommon",
+    "set_name": "Ancient Origins",
+    "set_series": "XY"
+  },
+  {
+    "name": "Vespiquen",
+    "number": "11",
+    "rarity": "Rare",
+    "set_name": "Ancient Origins",
+    "set_series": "XY"
+  },
+  {
+    "name": "Virizion",
+    "number": "12",
+    "rarity": "Rare Holo",
+    "set_name": "Ancient Origins",
+    "set_series": "XY"
+  },
+  {
+    "name": "Flareon",
+    "number": "13",
+    "rarity": "Uncommon",
+    "set_name": "Ancient Origins",
+    "set_series": "XY"
+  },
+  {
+    "name": "Entei",
+    "number": "14",
+    "rarity": "Rare",
+    "set_name": "Ancient Origins",
+    "set_series": "XY"
+  },
+  {
+    "name": "Entei",
+    "number": "15",
+    "rarity": "Rare Holo",
+    "set_name": "Ancient Origins",
+    "set_series": "XY"
+  },
+  {
+    "name": "Larvesta",
+    "number": "16",
+    "rarity": "Common",
+    "set_name": "Ancient Origins",
+    "set_series": "XY"
+  },
+  {
+    "name": "Volcarona",
+    "number": "17",
+    "rarity": "Rare Holo",
+    "set_name": "Ancient Origins",
+    "set_series": "XY"
+  },
+  {
+    "name": "Volcarona",
+    "number": "18",
+    "rarity": "Rare",
+    "set_name": "Ancient Origins",
+    "set_series": "XY"
+  },
+  {
+    "name": "Magikarp",
+    "number": "19",
+    "rarity": "Common",
+    "set_name": "Ancient Origins",
+    "set_series": "XY"
+  },
+  {
+    "name": "Gyarados",
+    "number": "20",
+    "rarity": "Rare",
+    "set_name": "Ancient Origins",
+    "set_series": "XY"
+  },
+  {
+    "name": "Gyarados",
+    "number": "21",
+    "rarity": "Rare Holo",
+    "set_name": "Ancient Origins",
+    "set_series": "XY"
+  },
+  {
+    "name": "Vaporeon",
+    "number": "22",
+    "rarity": "Uncommon",
+    "set_name": "Ancient Origins",
+    "set_series": "XY"
+  },
+  {
+    "name": "Relicanth",
+    "number": "23",
+    "rarity": "Common",
+    "set_name": "Ancient Origins",
+    "set_series": "XY"
+  },
+  {
+    "name": "Regice",
+    "number": "24",
+    "rarity": "Rare",
+    "set_name": "Ancient Origins",
+    "set_series": "XY"
+  },
+  {
+    "name": "Kyurem-EX",
+    "number": "25",
+    "rarity": "Rare Holo EX",
+    "set_name": "Ancient Origins",
+    "set_series": "XY"
+  },
+  {
+    "name": "Jolteon",
+    "number": "26",
+    "rarity": "Rare Holo",
+    "set_name": "Ancient Origins",
+    "set_series": "XY"
+  },
+  {
+    "name": "Ampharos-EX",
+    "number": "27",
+    "rarity": "Rare Holo EX",
+    "set_name": "Ancient Origins",
+    "set_series": "XY"
+  },
+  {
+    "name": "M Ampharos-EX",
+    "number": "28",
+    "rarity": "Rare Holo EX",
+    "set_name": "Ancient Origins",
+    "set_series": "XY"
+  },
+  {
+    "name": "Rotom",
+    "number": "29",
+    "rarity": "Uncommon",
+    "set_name": "Ancient Origins",
+    "set_series": "XY"
+  },
+  {
+    "name": "Unown",
+    "number": "30",
+    "rarity": "Common",
+    "set_name": "Ancient Origins",
+    "set_series": "XY"
+  },
+  {
+    "name": "Baltoy",
+    "number": "31",
+    "rarity": "Common",
+    "set_name": "Ancient Origins",
+    "set_series": "XY"
+  },
+  {
+    "name": "Baltoy",
+    "number": "32",
+    "rarity": "Common",
+    "set_name": "Ancient Origins",
+    "set_series": "XY"
+  },
+  {
+    "name": "Claydol",
+    "number": "33",
+    "rarity": "Rare",
+    "set_name": "Ancient Origins",
+    "set_series": "XY"
+  },
+  {
+    "name": "Golett",
+    "number": "34",
+    "rarity": "Common",
+    "set_name": "Ancient Origins",
+    "set_series": "XY"
+  },
+  {
+    "name": "Golurk",
+    "number": "35",
+    "rarity": "Rare",
+    "set_name": "Ancient Origins",
+    "set_series": "XY"
+  },
+  {
+    "name": "Hoopa-EX",
+    "number": "36",
+    "rarity": "Rare Holo EX",
+    "set_name": "Ancient Origins",
+    "set_series": "XY"
+  },
+  {
+    "name": "Machamp-EX",
+    "number": "37",
+    "rarity": "Rare Holo EX",
+    "set_name": "Ancient Origins",
+    "set_series": "XY"
+  },
+  {
+    "name": "Wooper",
+    "number": "38",
+    "rarity": "Common",
+    "set_name": "Ancient Origins",
+    "set_series": "XY"
+  },
+  {
+    "name": "Quagsire",
+    "number": "39",
+    "rarity": "Common",
+    "set_name": "Ancient Origins",
+    "set_series": "XY"
+  },
+  {
+    "name": "Regirock",
+    "number": "40",
+    "rarity": "Rare",
+    "set_name": "Ancient Origins",
+    "set_series": "XY"
+  },
+  {
+    "name": "Golurk",
+    "number": "41",
+    "rarity": "Common",
+    "set_name": "Ancient Origins",
+    "set_series": "XY"
+  },
+  {
+    "name": "Tyranitar-EX",
+    "number": "42",
+    "rarity": "Rare Holo EX",
+    "set_name": "Ancient Origins",
+    "set_series": "XY"
+  },
+  {
+    "name": "M Tyranitar-EX",
+    "number": "43",
+    "rarity": "Rare Holo EX",
+    "set_name": "Ancient Origins",
+    "set_series": "XY"
+  },
+  {
+    "name": "Sableye",
+    "number": "44",
+    "rarity": "Uncommon",
+    "set_name": "Ancient Origins",
+    "set_series": "XY"
+  },
+  {
+    "name": "Inkay",
+    "number": "45",
+    "rarity": "Common",
+    "set_name": "Ancient Origins",
+    "set_series": "XY"
+  },
+  {
+    "name": "Malamar",
+    "number": "46",
+    "rarity": "Common",
+    "set_name": "Ancient Origins",
+    "set_series": "XY"
+  },
+  {
+    "name": "Beldum",
+    "number": "47",
+    "rarity": "Common",
+    "set_name": "Ancient Origins",
+    "set_series": "XY"
+  },
+  {
+    "name": "Metang",
+    "number": "48",
+    "rarity": "Uncommon",
+    "set_name": "Ancient Origins",
+    "set_series": "XY"
+  },
+  {
+    "name": "Metagross",
+    "number": "49",
+    "rarity": "Rare",
+    "set_name": "Ancient Origins",
+    "set_series": "XY"
+  },
+  {
+    "name": "Metagross",
+    "number": "50",
+    "rarity": "Rare",
+    "set_name": "Ancient Origins",
+    "set_series": "XY"
+  },
+  {
+    "name": "Registeel",
+    "number": "51",
+    "rarity": "Rare",
+    "set_name": "Ancient Origins",
+    "set_series": "XY"
+  },
+  {
+    "name": "Ralts",
+    "number": "52",
+    "rarity": "Common",
+    "set_name": "Ancient Origins",
+    "set_series": "XY"
+  },
+  {
+    "name": "Kirlia",
+    "number": "53",
+    "rarity": "Uncommon",
+    "set_name": "Ancient Origins",
+    "set_series": "XY"
+  },
+  {
+    "name": "Gardevoir",
+    "number": "54",
+    "rarity": "Rare Holo",
+    "set_name": "Ancient Origins",
+    "set_series": "XY"
+  },
+  {
+    "name": "Cottonee",
+    "number": "55",
+    "rarity": "Common",
+    "set_name": "Ancient Origins",
+    "set_series": "XY"
+  },
+  {
+    "name": "Whimsicott",
+    "number": "56",
+    "rarity": "Uncommon",
+    "set_name": "Ancient Origins",
+    "set_series": "XY"
+  },
+  {
+    "name": "Giratina-EX",
+    "number": "57",
+    "rarity": "Rare Holo EX",
+    "set_name": "Ancient Origins",
+    "set_series": "XY"
+  },
+  {
+    "name": "Goomy",
+    "number": "58",
+    "rarity": "Common",
+    "set_name": "Ancient Origins",
+    "set_series": "XY"
+  },
+  {
+    "name": "Sliggoo",
+    "number": "59",
+    "rarity": "Uncommon",
+    "set_name": "Ancient Origins",
+    "set_series": "XY"
+  },
+  {
+    "name": "Goodra",
+    "number": "60",
+    "rarity": "Rare Holo",
+    "set_name": "Ancient Origins",
+    "set_series": "XY"
+  },
+  {
+    "name": "Meowth",
+    "number": "61",
+    "rarity": "Common",
+    "set_name": "Ancient Origins",
+    "set_series": "XY"
+  },
+  {
+    "name": "Persian",
+    "number": "62",
+    "rarity": "Common",
+    "set_name": "Ancient Origins",
+    "set_series": "XY"
+  },
+  {
+    "name": "Eevee",
+    "number": "63",
+    "rarity": "Common",
+    "set_name": "Ancient Origins",
+    "set_series": "XY"
+  },
+  {
+    "name": "Porygon",
+    "number": "64",
+    "rarity": "Common",
+    "set_name": "Ancient Origins",
+    "set_series": "XY"
+  },
+  {
+    "name": "Porygon2",
+    "number": "65",
+    "rarity": "Uncommon",
+    "set_name": "Ancient Origins",
+    "set_series": "XY"
+  },
+  {
+    "name": "Porygon-Z",
+    "number": "66",
+    "rarity": "Rare",
+    "set_name": "Ancient Origins",
+    "set_series": "XY"
+  },
+  {
+    "name": "Porygon-Z",
+    "number": "67",
+    "rarity": "Rare Holo",
+    "set_name": "Ancient Origins",
+    "set_series": "XY"
+  },
+  {
+    "name": "Lugia-EX",
+    "number": "68",
+    "rarity": "Rare Holo EX",
+    "set_name": "Ancient Origins",
+    "set_series": "XY"
+  },
+  {
+    "name": "Ace Trainer",
+    "number": "69",
+    "rarity": "Uncommon",
+    "set_name": "Ancient Origins",
+    "set_series": "XY"
+  },
+  {
+    "name": "Ampharos Spirit Link",
+    "number": "70",
+    "rarity": "Uncommon",
+    "set_name": "Ancient Origins",
+    "set_series": "XY"
+  },
+  {
+    "name": "Eco Arm",
+    "number": "71",
+    "rarity": "Uncommon",
+    "set_name": "Ancient Origins",
+    "set_series": "XY"
+  },
+  {
+    "name": "Energy Recycler",
+    "number": "72",
+    "rarity": "Uncommon",
+    "set_name": "Ancient Origins",
+    "set_series": "XY"
+  },
+  {
+    "name": "Faded Town",
+    "number": "73",
+    "rarity": "Uncommon",
+    "set_name": "Ancient Origins",
+    "set_series": "XY"
+  },
+  {
+    "name": "Forest of Giant Plants",
+    "number": "74",
+    "rarity": "Uncommon",
+    "set_name": "Ancient Origins",
+    "set_series": "XY"
+  },
+  {
+    "name": "Hex Maniac",
+    "number": "75",
+    "rarity": "Uncommon",
+    "set_name": "Ancient Origins",
+    "set_series": "XY"
+  },
+  {
+    "name": "Level Ball",
+    "number": "76",
+    "rarity": "Uncommon",
+    "set_name": "Ancient Origins",
+    "set_series": "XY"
+  },
+  {
+    "name": "Lucky Helmet",
+    "number": "77",
+    "rarity": "Uncommon",
+    "set_name": "Ancient Origins",
+    "set_series": "XY"
+  },
+  {
+    "name": "Lysandre",
+    "number": "78",
+    "rarity": "Uncommon",
+    "set_name": "Ancient Origins",
+    "set_series": "XY"
+  },
+  {
+    "name": "Paint Roller",
+    "number": "79",
+    "rarity": "Uncommon",
+    "set_name": "Ancient Origins",
+    "set_series": "XY"
+  },
+  {
+    "name": "Sceptile Spirit Link",
+    "number": "80",
+    "rarity": "Uncommon",
+    "set_name": "Ancient Origins",
+    "set_series": "XY"
+  },
+  {
+    "name": "Tyranitar Spirit Link",
+    "number": "81",
+    "rarity": "Uncommon",
+    "set_name": "Ancient Origins",
+    "set_series": "XY"
+  },
+  {
+    "name": "Dangerous Energy",
+    "number": "82",
+    "rarity": "Uncommon",
+    "set_name": "Ancient Origins",
+    "set_series": "XY"
+  },
+  {
+    "name": "Flash Energy",
+    "number": "83",
+    "rarity": "Uncommon",
+    "set_name": "Ancient Origins",
+    "set_series": "XY"
+  },
+  {
+    "name": "Sceptile-EX",
+    "number": "84",
+    "rarity": "Rare Ultra",
+    "set_name": "Ancient Origins",
+    "set_series": "XY"
+  },
+  {
+    "name": "M Sceptile-EX",
+    "number": "85",
+    "rarity": "Rare Ultra",
+    "set_name": "Ancient Origins",
+    "set_series": "XY"
+  },
+  {
+    "name": "Kyurem-EX",
+    "number": "86",
+    "rarity": "Rare Ultra",
+    "set_name": "Ancient Origins",
+    "set_series": "XY"
+  },
+  {
+    "name": "Ampharos-EX",
+    "number": "87",
+    "rarity": "Rare Ultra",
+    "set_name": "Ancient Origins",
+    "set_series": "XY"
+  },
+  {
+    "name": "M Ampharos-EX",
+    "number": "88",
+    "rarity": "Rare Ultra",
+    "set_name": "Ancient Origins",
+    "set_series": "XY"
+  },
+  {
+    "name": "Hoopa-EX",
+    "number": "89",
+    "rarity": "Rare Ultra",
+    "set_name": "Ancient Origins",
+    "set_series": "XY"
+  },
+  {
+    "name": "Machamp-EX",
+    "number": "90",
+    "rarity": "Rare Ultra",
+    "set_name": "Ancient Origins",
+    "set_series": "XY"
+  },
+  {
+    "name": "Tyranitar-EX",
+    "number": "91",
+    "rarity": "Rare Ultra",
+    "set_name": "Ancient Origins",
+    "set_series": "XY"
+  },
+  {
+    "name": "M Tyranitar-EX",
+    "number": "92",
+    "rarity": "Rare Ultra",
+    "set_name": "Ancient Origins",
+    "set_series": "XY"
+  },
+  {
+    "name": "Giratina-EX",
+    "number": "93",
+    "rarity": "Rare Ultra",
+    "set_name": "Ancient Origins",
+    "set_series": "XY"
+  },
+  {
+    "name": "Lugia-EX",
+    "number": "94",
+    "rarity": "Rare Ultra",
+    "set_name": "Ancient Origins",
+    "set_series": "XY"
+  },
+  {
+    "name": "Steven",
+    "number": "95",
+    "rarity": "Rare Ultra",
+    "set_name": "Ancient Origins",
+    "set_series": "XY"
+  },
+  {
+    "name": "Primal Kyogre-EX",
+    "number": "96",
+    "rarity": "Rare Secret",
+    "set_name": "Ancient Origins",
+    "set_series": "XY"
+  },
+  {
+    "name": "Primal Groudon-EX",
+    "number": "97",
+    "rarity": "Rare Secret",
+    "set_name": "Ancient Origins",
+    "set_series": "XY"
+  },
+  {
+    "name": "M Rayquaza-EX",
+    "number": "98",
+    "rarity": "Rare Secret",
+    "set_name": "Ancient Origins",
+    "set_series": "XY"
+  },
+  {
+    "name": "Energy Retrieval",
+    "number": "99",
+    "rarity": "Rare Secret",
+    "set_name": "Ancient Origins",
+    "set_series": "XY"
+  },
+  {
+    "name": "Trainers' Mail",
+    "number": "100",
+    "rarity": "Rare Secret",
+    "set_name": "Ancient Origins",
+    "set_series": "XY"
+  },
+  {
+    "name": "Hex Maniac",
+    "number": "75a",
+    "rarity": "Rare Ultra",
+    "set_name": "Ancient Origins",
+    "set_series": "XY"
+  }
+]

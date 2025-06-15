@@ -1,0 +1,394 @@
+[
+  {
+    "name": "Turtwig",
+    "number": "DP01",
+    "rarity": "Promo",
+    "set_name": "DP Black Star Promos",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Chimchar",
+    "number": "DP02",
+    "rarity": "Promo",
+    "set_name": "DP Black Star Promos",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Piplup",
+    "number": "DP03",
+    "rarity": "Promo",
+    "set_name": "DP Black Star Promos",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Pachirisu",
+    "number": "DP04",
+    "rarity": "Promo",
+    "set_name": "DP Black Star Promos",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Tropical Wind",
+    "number": "DP05",
+    "rarity": "Promo",
+    "set_name": "DP Black Star Promos",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Buneary",
+    "number": "DP06",
+    "rarity": "Promo",
+    "set_name": "DP Black Star Promos",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Cranidos",
+    "number": "DP07",
+    "rarity": "Promo",
+    "set_name": "DP Black Star Promos",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Shieldon",
+    "number": "DP08",
+    "rarity": "Promo",
+    "set_name": "DP Black Star Promos",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Torterra LV.X",
+    "number": "DP09",
+    "rarity": "Promo",
+    "set_name": "DP Black Star Promos",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Infernape LV.X",
+    "number": "DP10",
+    "rarity": "Promo",
+    "set_name": "DP Black Star Promos",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Empoleon LV.X",
+    "number": "DP11",
+    "rarity": "Promo",
+    "set_name": "DP Black Star Promos",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Lucario LV.X",
+    "number": "DP12",
+    "rarity": "Promo",
+    "set_name": "DP Black Star Promos",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Buizel",
+    "number": "DP13",
+    "rarity": "Promo",
+    "set_name": "DP Black Star Promos",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Chatot",
+    "number": "DP14",
+    "rarity": "Promo",
+    "set_name": "DP Black Star Promos",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Shinx",
+    "number": "DP15",
+    "rarity": "Promo",
+    "set_name": "DP Black Star Promos",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Pikachu",
+    "number": "DP16",
+    "rarity": "Promo",
+    "set_name": "DP Black Star Promos",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Dialga LV.X",
+    "number": "DP17",
+    "rarity": "Promo",
+    "set_name": "DP Black Star Promos",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Palkia LV.X",
+    "number": "DP18",
+    "rarity": "Promo",
+    "set_name": "DP Black Star Promos",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Darkrai LV.X",
+    "number": "DP19",
+    "rarity": "Promo",
+    "set_name": "DP Black Star Promos",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Magmortar",
+    "number": "DP20",
+    "rarity": "Promo",
+    "set_name": "DP Black Star Promos",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Raichu",
+    "number": "DP21",
+    "rarity": "Promo",
+    "set_name": "DP Black Star Promos",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Mime Jr.",
+    "number": "DP22",
+    "rarity": "Promo",
+    "set_name": "DP Black Star Promos",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Glameow",
+    "number": "DP23",
+    "rarity": "Promo",
+    "set_name": "DP Black Star Promos",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Darkrai",
+    "number": "DP24",
+    "rarity": "Promo",
+    "set_name": "DP Black Star Promos",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Tropical Wind",
+    "number": "DP25",
+    "rarity": "Promo",
+    "set_name": "DP Black Star Promos",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Dialga",
+    "number": "DP26",
+    "rarity": "Promo",
+    "set_name": "DP Black Star Promos",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Palkia",
+    "number": "DP27",
+    "rarity": "Promo",
+    "set_name": "DP Black Star Promos",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Mewtwo LV.X",
+    "number": "DP28",
+    "rarity": "Promo",
+    "set_name": "DP Black Star Promos",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Rhyperior LV.X",
+    "number": "DP29",
+    "rarity": "Promo",
+    "set_name": "DP Black Star Promos",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Regigigas LV.X",
+    "number": "DP30",
+    "rarity": "Promo",
+    "set_name": "DP Black Star Promos",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Heatran LV.X",
+    "number": "DP31",
+    "rarity": "Promo",
+    "set_name": "DP Black Star Promos",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Magnezone",
+    "number": "DP32",
+    "rarity": "Promo",
+    "set_name": "DP Black Star Promos",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Dusknoir",
+    "number": "DP33",
+    "rarity": "Promo",
+    "set_name": "DP Black Star Promos",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Drifblim",
+    "number": "DP34",
+    "rarity": "Promo",
+    "set_name": "DP Black Star Promos",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Porygon-Z",
+    "number": "DP35",
+    "rarity": "Promo",
+    "set_name": "DP Black Star Promos",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Gliscor",
+    "number": "DP36",
+    "rarity": "Promo",
+    "set_name": "DP Black Star Promos",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Dialga LV.X",
+    "number": "DP37",
+    "rarity": "Promo",
+    "set_name": "DP Black Star Promos",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Giratina LV.X",
+    "number": "DP38",
+    "rarity": "Promo",
+    "set_name": "DP Black Star Promos",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Shaymin LV.X",
+    "number": "DP39",
+    "rarity": "Promo",
+    "set_name": "DP Black Star Promos",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Regigigas",
+    "number": "DP40",
+    "rarity": "Promo",
+    "set_name": "DP Black Star Promos",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Toxicroak G",
+    "number": "DP41",
+    "rarity": "Promo",
+    "set_name": "DP Black Star Promos",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Carnivine G",
+    "number": "DP42",
+    "rarity": "Promo",
+    "set_name": "DP Black Star Promos",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Probopass G",
+    "number": "DP43",
+    "rarity": "Promo",
+    "set_name": "DP Black Star Promos",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Magnezone",
+    "number": "DP44",
+    "rarity": "Promo",
+    "set_name": "DP Black Star Promos",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Charizard G LV.X",
+    "number": "DP45",
+    "rarity": "Promo",
+    "set_name": "DP Black Star Promos",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Garchomp C LV.X",
+    "number": "DP46",
+    "rarity": "Promo",
+    "set_name": "DP Black Star Promos",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Rayquaza C LV.X",
+    "number": "DP47",
+    "rarity": "Promo",
+    "set_name": "DP Black Star Promos",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Tropical Wind",
+    "number": "DP48",
+    "rarity": "Promo",
+    "set_name": "DP Black Star Promos",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Dialga",
+    "number": "DP49",
+    "rarity": "Promo",
+    "set_name": "DP Black Star Promos",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Arceus",
+    "number": "DP50",
+    "rarity": "Promo",
+    "set_name": "DP Black Star Promos",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Cresselia",
+    "number": "DP51",
+    "rarity": "Promo",
+    "set_name": "DP Black Star Promos",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Darkrai",
+    "number": "DP52",
+    "rarity": "Promo",
+    "set_name": "DP Black Star Promos",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Arceus LV.X",
+    "number": "DP53",
+    "rarity": "Promo",
+    "set_name": "DP Black Star Promos",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Beginning Door",
+    "number": "DP54",
+    "rarity": "Promo",
+    "set_name": "DP Black Star Promos",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Ultimate Zone",
+    "number": "DP55",
+    "rarity": "Promo",
+    "set_name": "DP Black Star Promos",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Arceus LV.X",
+    "number": "DP56",
+    "rarity": "Promo",
+    "set_name": "DP Black Star Promos",
+    "set_series": "Diamond & Pearl"
+  }
+]

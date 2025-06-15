@@ -1,0 +1,562 @@
+[
+  {
+    "name": "Venusaur V",
+    "number": "1",
+    "rarity": "Rare Holo V",
+    "set_name": "Champion's Path",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Weedle",
+    "number": "2",
+    "rarity": "Common",
+    "set_name": "Champion's Path",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Kakuna",
+    "number": "3",
+    "rarity": "Common",
+    "set_name": "Champion's Path",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Beedrill",
+    "number": "4",
+    "rarity": "Uncommon",
+    "set_name": "Champion's Path",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Eldegoss V",
+    "number": "5",
+    "rarity": "Rare Holo V",
+    "set_name": "Champion's Path",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Vulpix",
+    "number": "6",
+    "rarity": "Common",
+    "set_name": "Champion's Path",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Victini",
+    "number": "7",
+    "rarity": "Uncommon",
+    "set_name": "Champion's Path",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Incineroar V",
+    "number": "8",
+    "rarity": "Rare Holo V",
+    "set_name": "Champion's Path",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Sizzlipede",
+    "number": "9",
+    "rarity": "Common",
+    "set_name": "Champion's Path",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Centiskorch",
+    "number": "10",
+    "rarity": "Rare Holo",
+    "set_name": "Champion's Path",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Carvanha",
+    "number": "11",
+    "rarity": "Common",
+    "set_name": "Champion's Path",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Sharpedo",
+    "number": "12",
+    "rarity": "Uncommon",
+    "set_name": "Champion's Path",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Wailord V",
+    "number": "13",
+    "rarity": "Rare Holo V",
+    "set_name": "Champion's Path",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Drednaw V",
+    "number": "14",
+    "rarity": "Rare Holo V",
+    "set_name": "Champion's Path",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Drednaw VMAX",
+    "number": "15",
+    "rarity": "Rare Holo VMAX",
+    "set_name": "Champion's Path",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Gardevoir V",
+    "number": "16",
+    "rarity": "Rare Holo V",
+    "set_name": "Champion's Path",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Gardevoir VMAX",
+    "number": "17",
+    "rarity": "Rare Holo VMAX",
+    "set_name": "Champion's Path",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Hatenna",
+    "number": "18",
+    "rarity": "Common",
+    "set_name": "Champion's Path",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Hattrem",
+    "number": "19",
+    "rarity": "Uncommon",
+    "set_name": "Champion's Path",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Hatterene",
+    "number": "20",
+    "rarity": "Rare Holo",
+    "set_name": "Champion's Path",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Galarian Cursola V",
+    "number": "21",
+    "rarity": "Rare Holo V",
+    "set_name": "Champion's Path",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Alcremie V",
+    "number": "22",
+    "rarity": "Rare Holo V",
+    "set_name": "Champion's Path",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Alcremie VMAX",
+    "number": "23",
+    "rarity": "Rare Holo VMAX",
+    "set_name": "Champion's Path",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Machop",
+    "number": "24",
+    "rarity": "Common",
+    "set_name": "Champion's Path",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Machoke",
+    "number": "25",
+    "rarity": "Uncommon",
+    "set_name": "Champion's Path",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Machamp",
+    "number": "26",
+    "rarity": "Rare Holo",
+    "set_name": "Champion's Path",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Lucario V",
+    "number": "27",
+    "rarity": "Rare Holo V",
+    "set_name": "Champion's Path",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Zygarde",
+    "number": "28",
+    "rarity": "Rare Holo",
+    "set_name": "Champion's Path",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Rockruff",
+    "number": "29",
+    "rarity": "Common",
+    "set_name": "Champion's Path",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Lycanroc",
+    "number": "30",
+    "rarity": "Rare Holo",
+    "set_name": "Champion's Path",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Rolycoly",
+    "number": "31",
+    "rarity": "Common",
+    "set_name": "Champion's Path",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Grapploct V",
+    "number": "32",
+    "rarity": "Rare Holo V",
+    "set_name": "Champion's Path",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Ekans",
+    "number": "33",
+    "rarity": "Common",
+    "set_name": "Champion's Path",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Arbok",
+    "number": "34",
+    "rarity": "Uncommon",
+    "set_name": "Champion's Path",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Galarian Zigzagoon",
+    "number": "35",
+    "rarity": "Common",
+    "set_name": "Champion's Path",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Galarian Linoone",
+    "number": "36",
+    "rarity": "Common",
+    "set_name": "Champion's Path",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Galarian Obstagoon",
+    "number": "37",
+    "rarity": "Rare Holo",
+    "set_name": "Champion's Path",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Absol",
+    "number": "38",
+    "rarity": "Uncommon",
+    "set_name": "Champion's Path",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Purrloin",
+    "number": "39",
+    "rarity": "Common",
+    "set_name": "Champion's Path",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Liepard",
+    "number": "40",
+    "rarity": "Uncommon",
+    "set_name": "Champion's Path",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Scraggy",
+    "number": "41",
+    "rarity": "Common",
+    "set_name": "Champion's Path",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Scrafty",
+    "number": "42",
+    "rarity": "Rare Holo",
+    "set_name": "Champion's Path",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Trubbish",
+    "number": "43",
+    "rarity": "Common",
+    "set_name": "Champion's Path",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Inkay",
+    "number": "44",
+    "rarity": "Common",
+    "set_name": "Champion's Path",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Malamar",
+    "number": "45",
+    "rarity": "Uncommon",
+    "set_name": "Champion's Path",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Nickit",
+    "number": "46",
+    "rarity": "Common",
+    "set_name": "Champion's Path",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Duraludon V",
+    "number": "47",
+    "rarity": "Rare Holo V",
+    "set_name": "Champion's Path",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Swablu",
+    "number": "48",
+    "rarity": "Common",
+    "set_name": "Champion's Path",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Altaria",
+    "number": "49",
+    "rarity": "Rare Holo",
+    "set_name": "Champion's Path",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Bede",
+    "number": "50",
+    "rarity": "Uncommon",
+    "set_name": "Champion's Path",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Full Heal",
+    "number": "51",
+    "rarity": "Uncommon",
+    "set_name": "Champion's Path",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Great Ball",
+    "number": "52",
+    "rarity": "Uncommon",
+    "set_name": "Champion's Path",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Hop",
+    "number": "53",
+    "rarity": "Uncommon",
+    "set_name": "Champion's Path",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Hyper Potion",
+    "number": "54",
+    "rarity": "Uncommon",
+    "set_name": "Champion's Path",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Kabu",
+    "number": "55",
+    "rarity": "Uncommon",
+    "set_name": "Champion's Path",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Marnie",
+    "number": "56",
+    "rarity": "Rare Holo",
+    "set_name": "Champion's Path",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Milo",
+    "number": "57",
+    "rarity": "Uncommon",
+    "set_name": "Champion's Path",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Piers",
+    "number": "58",
+    "rarity": "Uncommon",
+    "set_name": "Champion's Path",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Pok\u00e9 Ball",
+    "number": "59",
+    "rarity": "Common",
+    "set_name": "Champion's Path",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Pok\u00e9mon Center Lady",
+    "number": "60",
+    "rarity": "Uncommon",
+    "set_name": "Champion's Path",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Potion",
+    "number": "61",
+    "rarity": "Common",
+    "set_name": "Champion's Path",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Professor's Research (Professor Magnolia)",
+    "number": "62",
+    "rarity": "Rare Holo",
+    "set_name": "Champion's Path",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Rotom Bike",
+    "number": "63",
+    "rarity": "Uncommon",
+    "set_name": "Champion's Path",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Rotom Phone",
+    "number": "64",
+    "rarity": "Uncommon",
+    "set_name": "Champion's Path",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Sonia",
+    "number": "65",
+    "rarity": "Uncommon",
+    "set_name": "Champion's Path",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Suspicious Food Tin",
+    "number": "66",
+    "rarity": "Uncommon",
+    "set_name": "Champion's Path",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Team Yell Grunt",
+    "number": "67",
+    "rarity": "Uncommon",
+    "set_name": "Champion's Path",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Turffield Stadium",
+    "number": "68",
+    "rarity": "Uncommon",
+    "set_name": "Champion's Path",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Drednaw V",
+    "number": "69",
+    "rarity": "Rare Ultra",
+    "set_name": "Champion's Path",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Gardevoir V",
+    "number": "70",
+    "rarity": "Rare Ultra",
+    "set_name": "Champion's Path",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Galarian Cursola V",
+    "number": "71",
+    "rarity": "Rare Ultra",
+    "set_name": "Champion's Path",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Grapploct V",
+    "number": "72",
+    "rarity": "Rare Ultra",
+    "set_name": "Champion's Path",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Hop",
+    "number": "73",
+    "rarity": "Rare Ultra",
+    "set_name": "Champion's Path",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Charizard VMAX",
+    "number": "74",
+    "rarity": "Rare Rainbow",
+    "set_name": "Champion's Path",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Drednaw VMAX",
+    "number": "75",
+    "rarity": "Rare Rainbow",
+    "set_name": "Champion's Path",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Gardevoir VMAX",
+    "number": "76",
+    "rarity": "Rare Rainbow",
+    "set_name": "Champion's Path",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Kabu",
+    "number": "77",
+    "rarity": "Rare Rainbow",
+    "set_name": "Champion's Path",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Piers",
+    "number": "78",
+    "rarity": "Rare Rainbow",
+    "set_name": "Champion's Path",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Charizard V",
+    "number": "79",
+    "rarity": "Rare Secret",
+    "set_name": "Champion's Path",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Suspicious Food Tin",
+    "number": "80",
+    "rarity": "Rare Secret",
+    "set_name": "Champion's Path",
+    "set_series": "Sword & Shield"
+  }
+]

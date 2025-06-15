@@ -1,0 +1,1330 @@
+[
+  {
+    "id": "base1",
+    "name": "Base",
+    "releaseDate": "1999/01/09",
+    "total": 102,
+    "printedTotal": 102,
+    "series": "Base"
+  },
+  {
+    "id": "base2",
+    "name": "Jungle",
+    "releaseDate": "1999/06/16",
+    "total": 64,
+    "printedTotal": 64,
+    "series": "Base"
+  },
+  {
+    "id": "basep",
+    "name": "Wizards Black Star Promos",
+    "releaseDate": "1999/07/01",
+    "total": 53,
+    "printedTotal": 53,
+    "series": "Base"
+  },
+  {
+    "id": "base3",
+    "name": "Fossil",
+    "releaseDate": "1999/10/10",
+    "total": 62,
+    "printedTotal": 62,
+    "series": "Base"
+  },
+  {
+    "id": "base4",
+    "name": "Base Set 2",
+    "releaseDate": "2000/02/24",
+    "total": 130,
+    "printedTotal": 130,
+    "series": "Base"
+  },
+  {
+    "id": "base5",
+    "name": "Team Rocket",
+    "releaseDate": "2000/04/24",
+    "total": 83,
+    "printedTotal": 82,
+    "series": "Base"
+  },
+  {
+    "id": "gym1",
+    "name": "Gym Heroes",
+    "releaseDate": "2000/08/14",
+    "total": 132,
+    "printedTotal": 132,
+    "series": "Gym"
+  },
+  {
+    "id": "gym2",
+    "name": "Gym Challenge",
+    "releaseDate": "2000/10/16",
+    "total": 132,
+    "printedTotal": 132,
+    "series": "Gym"
+  },
+  {
+    "id": "neo1",
+    "name": "Neo Genesis",
+    "releaseDate": "2000/12/16",
+    "total": 111,
+    "printedTotal": 111,
+    "series": "Neo"
+  },
+  {
+    "id": "neo2",
+    "name": "Neo Discovery",
+    "releaseDate": "2001/06/01",
+    "total": 75,
+    "printedTotal": 75,
+    "series": "Neo"
+  },
+  {
+    "id": "si1",
+    "name": "Southern Islands",
+    "releaseDate": "2001/07/31",
+    "total": 18,
+    "printedTotal": 18,
+    "series": "Other"
+  },
+  {
+    "id": "neo3",
+    "name": "Neo Revelation",
+    "releaseDate": "2001/09/21",
+    "total": 66,
+    "printedTotal": 64,
+    "series": "Neo"
+  },
+  {
+    "id": "neo4",
+    "name": "Neo Destiny",
+    "releaseDate": "2002/02/28",
+    "total": 113,
+    "printedTotal": 105,
+    "series": "Neo"
+  },
+  {
+    "id": "base6",
+    "name": "Legendary Collection",
+    "releaseDate": "2002/05/24",
+    "total": 110,
+    "printedTotal": 110,
+    "series": "Other"
+  },
+  {
+    "id": "ecard1",
+    "name": "Expedition Base Set",
+    "releaseDate": "2002/09/15",
+    "total": 165,
+    "printedTotal": 165,
+    "series": "E-Card"
+  },
+  {
+    "id": "ecard2",
+    "name": "Aquapolis",
+    "releaseDate": "2003/01/15",
+    "total": 182,
+    "printedTotal": 147,
+    "series": "E-Card"
+  },
+  {
+    "id": "ecard3",
+    "name": "Skyridge",
+    "releaseDate": "2003/05/12",
+    "total": 182,
+    "printedTotal": 144,
+    "series": "E-Card"
+  },
+  {
+    "id": "ex1",
+    "name": "Ruby & Sapphire",
+    "releaseDate": "2003/07/01",
+    "total": 109,
+    "printedTotal": 109,
+    "series": "EX"
+  },
+  {
+    "id": "ex2",
+    "name": "Sandstorm",
+    "releaseDate": "2003/09/18",
+    "total": 100,
+    "printedTotal": 100,
+    "series": "EX"
+  },
+  {
+    "id": "ex3",
+    "name": "Dragon",
+    "releaseDate": "2003/11/24",
+    "total": 100,
+    "printedTotal": 97,
+    "series": "EX"
+  },
+  {
+    "id": "np",
+    "name": "Nintendo Black Star Promos",
+    "releaseDate": "2003/10/01",
+    "total": 40,
+    "printedTotal": 40,
+    "series": "NP"
+  },
+  {
+    "id": "ex4",
+    "name": "Team Magma vs Team Aqua",
+    "releaseDate": "2004/03/01",
+    "total": 97,
+    "printedTotal": 95,
+    "series": "EX"
+  },
+  {
+    "id": "ex5",
+    "name": "Hidden Legends",
+    "releaseDate": "2004/06/01",
+    "total": 102,
+    "printedTotal": 101,
+    "series": "EX"
+  },
+  {
+    "id": "ex6",
+    "name": "FireRed & LeafGreen",
+    "releaseDate": "2004/09/01",
+    "total": 116,
+    "printedTotal": 112,
+    "series": "EX"
+  },
+  {
+    "id": "pop1",
+    "name": "POP Series 1",
+    "releaseDate": "2004/09/01",
+    "total": 17,
+    "printedTotal": 17,
+    "series": "POP"
+  },
+  {
+    "id": "ex7",
+    "name": "Team Rocket Returns",
+    "releaseDate": "2004/11/01",
+    "total": 111,
+    "printedTotal": 109,
+    "series": "EX"
+  },
+  {
+    "id": "ex8",
+    "name": "Deoxys",
+    "releaseDate": "2005/02/01",
+    "total": 108,
+    "printedTotal": 107,
+    "series": "EX"
+  },
+  {
+    "id": "ex9",
+    "name": "Emerald",
+    "releaseDate": "2005/05/01",
+    "total": 107,
+    "printedTotal": 106,
+    "series": "EX"
+  },
+  {
+    "id": "ex10",
+    "name": "Unseen Forces",
+    "releaseDate": "2005/08/01",
+    "total": 145,
+    "printedTotal": 115,
+    "series": "EX"
+  },
+  {
+    "id": "pop2",
+    "name": "POP Series 2",
+    "releaseDate": "2005/08/01",
+    "total": 17,
+    "printedTotal": 17,
+    "series": "POP"
+  },
+  {
+    "id": "ex11",
+    "name": "Delta Species",
+    "releaseDate": "2005/10/31",
+    "total": 114,
+    "printedTotal": 113,
+    "series": "EX"
+  },
+  {
+    "id": "ex12",
+    "name": "Legend Maker",
+    "releaseDate": "2006/02/01",
+    "total": 93,
+    "printedTotal": 92,
+    "series": "EX"
+  },
+  {
+    "id": "pop3",
+    "name": "POP Series 3",
+    "releaseDate": "2006/04/01",
+    "total": 17,
+    "printedTotal": 17,
+    "series": "POP"
+  },
+  {
+    "id": "ex13",
+    "name": "Holon Phantoms",
+    "releaseDate": "2006/05/01",
+    "total": 111,
+    "printedTotal": 110,
+    "series": "EX"
+  },
+  {
+    "id": "ex14",
+    "name": "Crystal Guardians",
+    "releaseDate": "2006/08/01",
+    "total": 100,
+    "printedTotal": 100,
+    "series": "EX"
+  },
+  {
+    "id": "pop4",
+    "name": "POP Series 4",
+    "releaseDate": "2006/08/01",
+    "total": 17,
+    "printedTotal": 17,
+    "series": "POP"
+  },
+  {
+    "id": "ex15",
+    "name": "Dragon Frontiers",
+    "releaseDate": "2006/11/01",
+    "total": 101,
+    "printedTotal": 101,
+    "series": "EX"
+  },
+  {
+    "id": "pop5",
+    "name": "POP Series 5",
+    "releaseDate": "2007/03/01",
+    "total": 17,
+    "printedTotal": 17,
+    "series": "POP"
+  },
+  {
+    "id": "ex16",
+    "name": "Power Keepers",
+    "releaseDate": "2007/02/02",
+    "total": 108,
+    "printedTotal": 108,
+    "series": "EX"
+  },
+  {
+    "id": "dp1",
+    "name": "Diamond & Pearl",
+    "releaseDate": "2007/05/01",
+    "total": 130,
+    "printedTotal": 130,
+    "series": "Diamond & Pearl"
+  },
+  {
+    "id": "dpp",
+    "name": "DP Black Star Promos",
+    "releaseDate": "2007/05/01",
+    "total": 56,
+    "printedTotal": 56,
+    "series": "Diamond & Pearl"
+  },
+  {
+    "id": "dp2",
+    "name": "Mysterious Treasures",
+    "releaseDate": "2007/08/01",
+    "total": 124,
+    "printedTotal": 123,
+    "series": "Diamond & Pearl"
+  },
+  {
+    "id": "pop6",
+    "name": "POP Series 6",
+    "releaseDate": "2007/09/01",
+    "total": 17,
+    "printedTotal": 17,
+    "series": "POP"
+  },
+  {
+    "id": "dp3",
+    "name": "Secret Wonders",
+    "releaseDate": "2007/11/01",
+    "total": 132,
+    "printedTotal": 132,
+    "series": "Diamond & Pearl"
+  },
+  {
+    "id": "dp4",
+    "name": "Great Encounters",
+    "releaseDate": "2008/02/01",
+    "total": 106,
+    "printedTotal": 106,
+    "series": "Diamond & Pearl"
+  },
+  {
+    "id": "pop7",
+    "name": "POP Series 7",
+    "releaseDate": "2008/03/01",
+    "total": 17,
+    "printedTotal": 17,
+    "series": "POP"
+  },
+  {
+    "id": "dp5",
+    "name": "Majestic Dawn",
+    "releaseDate": "2008/05/01",
+    "total": 100,
+    "printedTotal": 100,
+    "series": "Diamond & Pearl"
+  },
+  {
+    "id": "dp6",
+    "name": "Legends Awakened",
+    "releaseDate": "2008/08/01",
+    "total": 146,
+    "printedTotal": 146,
+    "series": "Diamond & Pearl"
+  },
+  {
+    "id": "pop8",
+    "name": "POP Series 8",
+    "releaseDate": "2008/09/01",
+    "total": 17,
+    "printedTotal": 17,
+    "series": "POP"
+  },
+  {
+    "id": "dp7",
+    "name": "Stormfront",
+    "releaseDate": "2008/11/01",
+    "total": 106,
+    "printedTotal": 100,
+    "series": "Diamond & Pearl"
+  },
+  {
+    "id": "pl1",
+    "name": "Platinum",
+    "releaseDate": "2009/02/11",
+    "total": 133,
+    "printedTotal": 127,
+    "series": "Platinum"
+  },
+  {
+    "id": "pop9",
+    "name": "POP Series 9",
+    "releaseDate": "2009/03/01",
+    "total": 17,
+    "printedTotal": 17,
+    "series": "POP"
+  },
+  {
+    "id": "pl2",
+    "name": "Rising Rivals",
+    "releaseDate": "2009/05/16",
+    "total": 120,
+    "printedTotal": 111,
+    "series": "Platinum"
+  },
+  {
+    "id": "pl3",
+    "name": "Supreme Victors",
+    "releaseDate": "2009/08/19",
+    "total": 153,
+    "printedTotal": 147,
+    "series": "Platinum"
+  },
+  {
+    "id": "pl4",
+    "name": "Arceus",
+    "releaseDate": "2009/11/04",
+    "total": 111,
+    "printedTotal": 99,
+    "series": "Platinum"
+  },
+  {
+    "id": "ru1",
+    "name": "Pok\u00e9mon Rumble",
+    "releaseDate": "2009/12/02",
+    "total": 16,
+    "printedTotal": 16,
+    "series": "Other"
+  },
+  {
+    "id": "hgss1",
+    "name": "HeartGold & SoulSilver",
+    "releaseDate": "2010/02/10",
+    "total": 124,
+    "printedTotal": 123,
+    "series": "HeartGold & SoulSilver"
+  },
+  {
+    "id": "hsp",
+    "name": "HGSS Black Star Promos",
+    "releaseDate": "2010/02/10",
+    "total": 25,
+    "printedTotal": 25,
+    "series": "HeartGold & SoulSilver"
+  },
+  {
+    "id": "hgss2",
+    "name": "HS\u2014Unleashed",
+    "releaseDate": "2010/05/12",
+    "total": 96,
+    "printedTotal": 95,
+    "series": "HeartGold & SoulSilver"
+  },
+  {
+    "id": "hgss3",
+    "name": "HS\u2014Undaunted",
+    "releaseDate": "2010/08/18",
+    "total": 91,
+    "printedTotal": 90,
+    "series": "HeartGold & SoulSilver"
+  },
+  {
+    "id": "hgss4",
+    "name": "HS\u2014Triumphant",
+    "releaseDate": "2010/11/03",
+    "total": 103,
+    "printedTotal": 102,
+    "series": "HeartGold & SoulSilver"
+  },
+  {
+    "id": "col1",
+    "name": "Call of Legends",
+    "releaseDate": "2011/02/09",
+    "total": 106,
+    "printedTotal": 95,
+    "series": "HeartGold & SoulSilver"
+  },
+  {
+    "id": "bwp",
+    "name": "BW Black Star Promos",
+    "releaseDate": "2011/03/01",
+    "total": 101,
+    "printedTotal": 101,
+    "series": "Black & White"
+  },
+  {
+    "id": "bw1",
+    "name": "Black & White",
+    "releaseDate": "2011/04/25",
+    "total": 115,
+    "printedTotal": 114,
+    "series": "Black & White"
+  },
+  {
+    "id": "mcd11",
+    "name": "McDonald's Collection 2011",
+    "releaseDate": "2011/06/17",
+    "total": 12,
+    "printedTotal": 12,
+    "series": "Other"
+  },
+  {
+    "id": "bw2",
+    "name": "Emerging Powers",
+    "releaseDate": "2011/08/31",
+    "total": 98,
+    "printedTotal": 98,
+    "series": "Black & White"
+  },
+  {
+    "id": "bw3",
+    "name": "Noble Victories",
+    "releaseDate": "2011/11/16",
+    "total": 102,
+    "printedTotal": 101,
+    "series": "Black & White"
+  },
+  {
+    "id": "bw4",
+    "name": "Next Destinies",
+    "releaseDate": "2012/02/08",
+    "total": 103,
+    "printedTotal": 99,
+    "series": "Black & White"
+  },
+  {
+    "id": "bw5",
+    "name": "Dark Explorers",
+    "releaseDate": "2012/05/09",
+    "total": 111,
+    "printedTotal": 108,
+    "series": "Black & White"
+  },
+  {
+    "id": "mcd12",
+    "name": "McDonald's Collection 2012",
+    "releaseDate": "2012/06/15",
+    "total": 12,
+    "printedTotal": 12,
+    "series": "Other"
+  },
+  {
+    "id": "bw6",
+    "name": "Dragons Exalted",
+    "releaseDate": "2012/08/15",
+    "total": 128,
+    "printedTotal": 124,
+    "series": "Black & White"
+  },
+  {
+    "id": "dv1",
+    "name": "Dragon Vault",
+    "releaseDate": "2012/10/05",
+    "total": 21,
+    "printedTotal": 20,
+    "series": "Black & White"
+  },
+  {
+    "id": "bw7",
+    "name": "Boundaries Crossed",
+    "releaseDate": "2012/11/07",
+    "total": 153,
+    "printedTotal": 149,
+    "series": "Black & White"
+  },
+  {
+    "id": "bw8",
+    "name": "Plasma Storm",
+    "releaseDate": "2013/02/06",
+    "total": 138,
+    "printedTotal": 135,
+    "series": "Black & White"
+  },
+  {
+    "id": "bw9",
+    "name": "Plasma Freeze",
+    "releaseDate": "2013/05/08",
+    "total": 122,
+    "printedTotal": 116,
+    "series": "Black & White"
+  },
+  {
+    "id": "bw10",
+    "name": "Plasma Blast",
+    "releaseDate": "2013/08/14",
+    "total": 105,
+    "printedTotal": 101,
+    "series": "Black & White"
+  },
+  {
+    "id": "xyp",
+    "name": "XY Black Star Promos",
+    "releaseDate": "2013/10/12",
+    "total": 216,
+    "printedTotal": 211,
+    "series": "XY"
+  },
+  {
+    "id": "bw11",
+    "name": "Legendary Treasures",
+    "releaseDate": "2013/11/06",
+    "total": 140,
+    "printedTotal": 113,
+    "series": "Black & White"
+  },
+  {
+    "id": "xy0",
+    "name": "Kalos Starter Set",
+    "releaseDate": "2013/11/08",
+    "total": 39,
+    "printedTotal": 39,
+    "series": "XY"
+  },
+  {
+    "id": "xy1",
+    "name": "XY",
+    "releaseDate": "2014/02/05",
+    "total": 146,
+    "printedTotal": 146,
+    "series": "XY"
+  },
+  {
+    "id": "xy2",
+    "name": "Flashfire",
+    "releaseDate": "2014/05/07",
+    "total": 110,
+    "printedTotal": 106,
+    "series": "XY"
+  },
+  {
+    "id": "xy3",
+    "name": "Furious Fists",
+    "releaseDate": "2014/08/13",
+    "total": 114,
+    "printedTotal": 111,
+    "series": "XY"
+  },
+  {
+    "id": "xy4",
+    "name": "Phantom Forces",
+    "releaseDate": "2014/11/05",
+    "total": 124,
+    "printedTotal": 119,
+    "series": "XY"
+  },
+  {
+    "id": "xy5",
+    "name": "Primal Clash",
+    "releaseDate": "2015/02/04",
+    "total": 164,
+    "printedTotal": 160,
+    "series": "XY"
+  },
+  {
+    "id": "dc1",
+    "name": "Double Crisis",
+    "releaseDate": "2015/03/25",
+    "total": 34,
+    "printedTotal": 34,
+    "series": "XY"
+  },
+  {
+    "id": "xy6",
+    "name": "Roaring Skies",
+    "releaseDate": "2015/05/06",
+    "total": 112,
+    "printedTotal": 108,
+    "series": "XY"
+  },
+  {
+    "id": "xy7",
+    "name": "Ancient Origins",
+    "releaseDate": "2015/08/12",
+    "total": 100,
+    "printedTotal": 98,
+    "series": "XY"
+  },
+  {
+    "id": "xy8",
+    "name": "BREAKthrough",
+    "releaseDate": "2015/11/04",
+    "total": 165,
+    "printedTotal": 162,
+    "series": "XY"
+  },
+  {
+    "id": "xy9",
+    "name": "BREAKpoint",
+    "releaseDate": "2016/02/03",
+    "total": 126,
+    "printedTotal": 122,
+    "series": "XY"
+  },
+  {
+    "id": "g1",
+    "name": "Generations",
+    "releaseDate": "2016/02/22",
+    "total": 117,
+    "printedTotal": 83,
+    "series": "XY"
+  },
+  {
+    "id": "xy10",
+    "name": "Fates Collide",
+    "releaseDate": "2016/05/02",
+    "total": 129,
+    "printedTotal": 124,
+    "series": "XY"
+  },
+  {
+    "id": "xy11",
+    "name": "Steam Siege",
+    "releaseDate": "2016/08/03",
+    "total": 116,
+    "printedTotal": 114,
+    "series": "XY"
+  },
+  {
+    "id": "mcd16",
+    "name": "McDonald's Collection 2016",
+    "releaseDate": "2016/08/19",
+    "total": 12,
+    "printedTotal": 12,
+    "series": "Other"
+  },
+  {
+    "id": "xy12",
+    "name": "Evolutions",
+    "releaseDate": "2016/11/02",
+    "total": 113,
+    "printedTotal": 108,
+    "series": "XY"
+  },
+  {
+    "id": "sm1",
+    "name": "Sun & Moon",
+    "releaseDate": "2017/02/03",
+    "total": 173,
+    "printedTotal": 149,
+    "series": "Sun & Moon"
+  },
+  {
+    "id": "smp",
+    "name": "SM Black Star Promos",
+    "releaseDate": "2017/02/03",
+    "total": 250,
+    "printedTotal": 248,
+    "series": "Sun & Moon"
+  },
+  {
+    "id": "sm2",
+    "name": "Guardians Rising",
+    "releaseDate": "2017/05/05",
+    "total": 180,
+    "printedTotal": 145,
+    "series": "Sun & Moon"
+  },
+  {
+    "id": "sm3",
+    "name": "Burning Shadows",
+    "releaseDate": "2017/08/05",
+    "total": 177,
+    "printedTotal": 147,
+    "series": "Sun & Moon"
+  },
+  {
+    "id": "sm35",
+    "name": "Shining Legends",
+    "releaseDate": "2017/10/06",
+    "total": 81,
+    "printedTotal": 73,
+    "series": "Sun & Moon"
+  },
+  {
+    "id": "sm4",
+    "name": "Crimson Invasion",
+    "releaseDate": "2017/11/03",
+    "total": 126,
+    "printedTotal": 111,
+    "series": "Sun & Moon"
+  },
+  {
+    "id": "sm5",
+    "name": "Ultra Prism",
+    "releaseDate": "2018/02/02",
+    "total": 178,
+    "printedTotal": 156,
+    "series": "Sun & Moon"
+  },
+  {
+    "id": "sm6",
+    "name": "Forbidden Light",
+    "releaseDate": "2018/05/04",
+    "total": 150,
+    "printedTotal": 131,
+    "series": "Sun & Moon"
+  },
+  {
+    "id": "sm7",
+    "name": "Celestial Storm",
+    "releaseDate": "2018/08/03",
+    "total": 187,
+    "printedTotal": 168,
+    "series": "Sun & Moon"
+  },
+  {
+    "id": "sm75",
+    "name": "Dragon Majesty",
+    "releaseDate": "2018/09/07",
+    "total": 80,
+    "printedTotal": 70,
+    "series": "Sun & Moon"
+  },
+  {
+    "id": "sm8",
+    "name": "Lost Thunder",
+    "releaseDate": "2018/11/02",
+    "total": 240,
+    "printedTotal": 214,
+    "series": "Sun & Moon"
+  },
+  {
+    "id": "sm9",
+    "name": "Team Up",
+    "releaseDate": "2019/02/01",
+    "total": 198,
+    "printedTotal": 181,
+    "series": "Sun & Moon"
+  },
+  {
+    "id": "det1",
+    "name": "Detective Pikachu",
+    "releaseDate": "2019/04/05",
+    "total": 18,
+    "printedTotal": 18,
+    "series": "Sun & Moon"
+  },
+  {
+    "id": "sm10",
+    "name": "Unbroken Bonds",
+    "releaseDate": "2019/05/03",
+    "total": 234,
+    "printedTotal": 214,
+    "series": "Sun & Moon"
+  },
+  {
+    "id": "sm11",
+    "name": "Unified Minds",
+    "releaseDate": "2019/08/02",
+    "total": 260,
+    "printedTotal": 236,
+    "series": "Sun & Moon"
+  },
+  {
+    "id": "sm115",
+    "name": "Hidden Fates",
+    "releaseDate": "2019/08/23",
+    "total": 69,
+    "printedTotal": 68,
+    "series": "Sun & Moon"
+  },
+  {
+    "id": "sma",
+    "name": "Hidden Fates Shiny Vault",
+    "releaseDate": "2019/08/23",
+    "total": 94,
+    "printedTotal": 94,
+    "series": "Sun & Moon"
+  },
+  {
+    "id": "mcd19",
+    "name": "McDonald's Collection 2019",
+    "releaseDate": "2019/10/15",
+    "total": 12,
+    "printedTotal": 12,
+    "series": "Other"
+  },
+  {
+    "id": "sm12",
+    "name": "Cosmic Eclipse",
+    "releaseDate": "2019/11/01",
+    "total": 272,
+    "printedTotal": 236,
+    "series": "Sun & Moon"
+  },
+  {
+    "id": "swshp",
+    "name": "SWSH Black Star Promos",
+    "releaseDate": "2019/11/15",
+    "total": 304,
+    "printedTotal": 307,
+    "series": "Sword & Shield"
+  },
+  {
+    "id": "swsh1",
+    "name": "Sword & Shield",
+    "releaseDate": "2020/02/07",
+    "total": 216,
+    "printedTotal": 202,
+    "series": "Sword & Shield"
+  },
+  {
+    "id": "swsh2",
+    "name": "Rebel Clash",
+    "releaseDate": "2020/05/01",
+    "total": 209,
+    "printedTotal": 192,
+    "series": "Sword & Shield"
+  },
+  {
+    "id": "swsh3",
+    "name": "Darkness Ablaze",
+    "releaseDate": "2020/08/14",
+    "total": 201,
+    "printedTotal": 189,
+    "series": "Sword & Shield"
+  },
+  {
+    "id": "swsh35",
+    "name": "Champion's Path",
+    "releaseDate": "2020/09/25",
+    "total": 80,
+    "printedTotal": 73,
+    "series": "Sword & Shield"
+  },
+  {
+    "id": "swsh4",
+    "name": "Vivid Voltage",
+    "releaseDate": "2020/11/13",
+    "total": 203,
+    "printedTotal": 185,
+    "series": "Sword & Shield"
+  },
+  {
+    "id": "swsh45",
+    "name": "Shining Fates",
+    "releaseDate": "2021/02/19",
+    "total": 73,
+    "printedTotal": 72,
+    "series": "Sword & Shield"
+  },
+  {
+    "id": "swsh45sv",
+    "name": "Shining Fates Shiny Vault",
+    "releaseDate": "2021/02/19",
+    "total": 122,
+    "printedTotal": 122,
+    "series": "Sword & Shield"
+  },
+  {
+    "id": "swsh5",
+    "name": "Battle Styles",
+    "releaseDate": "2021/03/19",
+    "total": 183,
+    "printedTotal": 163,
+    "series": "Sword & Shield"
+  },
+  {
+    "id": "swsh6",
+    "name": "Chilling Reign",
+    "releaseDate": "2021/06/18",
+    "total": 233,
+    "printedTotal": 198,
+    "series": "Sword & Shield"
+  },
+  {
+    "id": "swsh7",
+    "name": "Evolving Skies",
+    "releaseDate": "2021/08/27",
+    "total": 237,
+    "printedTotal": 203,
+    "series": "Sword & Shield"
+  },
+  {
+    "id": "cel25",
+    "name": "Celebrations",
+    "releaseDate": "2021/10/08",
+    "total": 25,
+    "printedTotal": 25,
+    "series": "Sword & Shield"
+  },
+  {
+    "id": "cel25c",
+    "name": "Celebrations: Classic Collection",
+    "releaseDate": "2021/10/08",
+    "total": 25,
+    "printedTotal": 25,
+    "series": "Sword & Shield"
+  },
+  {
+    "id": "mcd14",
+    "name": "McDonald's Collection 2014",
+    "releaseDate": "2014/05/23",
+    "total": 12,
+    "printedTotal": 12,
+    "series": "Other"
+  },
+  {
+    "id": "mcd15",
+    "name": "McDonald's Collection 2015",
+    "releaseDate": "2015/11/27",
+    "total": 12,
+    "printedTotal": 12,
+    "series": "Other"
+  },
+  {
+    "id": "mcd18",
+    "name": "McDonald's Collection 2018",
+    "releaseDate": "2018/10/16",
+    "total": 12,
+    "printedTotal": 12,
+    "series": "Other"
+  },
+  {
+    "id": "mcd17",
+    "name": "McDonald's Collection 2017",
+    "releaseDate": "2017/11/07",
+    "total": 12,
+    "printedTotal": 12,
+    "series": "Other"
+  },
+  {
+    "id": "mcd21",
+    "name": "McDonald's Collection 2021",
+    "releaseDate": "2021/02/09",
+    "total": 25,
+    "printedTotal": 25,
+    "series": "Other"
+  },
+  {
+    "id": "bp",
+    "name": "Best of Game",
+    "releaseDate": "2002/12/01",
+    "total": 9,
+    "printedTotal": 9,
+    "series": "Other"
+  },
+  {
+    "id": "swsh8",
+    "name": "Fusion Strike",
+    "releaseDate": "2021/11/12",
+    "total": 284,
+    "printedTotal": 264,
+    "series": "Sword & Shield"
+  },
+  {
+    "id": "fut20",
+    "name": "Pok\u00e9mon Futsal Collection",
+    "releaseDate": "2020/09/11",
+    "total": 5,
+    "printedTotal": 5,
+    "series": "Other"
+  },
+  {
+    "id": "tk1a",
+    "name": "EX Trainer Kit Latias",
+    "releaseDate": "2004/06/01",
+    "total": 10,
+    "printedTotal": 10,
+    "series": "EX"
+  },
+  {
+    "id": "tk1b",
+    "name": "EX Trainer Kit Latios",
+    "releaseDate": "2004/06/01",
+    "total": 10,
+    "printedTotal": 10,
+    "series": "EX"
+  },
+  {
+    "id": "tk2a",
+    "name": "EX Trainer Kit 2 Plusle",
+    "releaseDate": "2006/03/01",
+    "total": 12,
+    "printedTotal": 12,
+    "series": "EX"
+  },
+  {
+    "id": "tk2b",
+    "name": "EX Trainer Kit 2 Minun",
+    "releaseDate": "2006/03/01",
+    "total": 12,
+    "printedTotal": 12,
+    "series": "EX"
+  },
+  {
+    "id": "swsh9",
+    "name": "Brilliant Stars",
+    "releaseDate": "2022/02/25",
+    "total": 186,
+    "printedTotal": 172,
+    "series": "Sword & Shield"
+  },
+  {
+    "id": "swsh9tg",
+    "name": "Brilliant Stars Trainer Gallery",
+    "releaseDate": "2022/02/25",
+    "total": 30,
+    "printedTotal": 30,
+    "series": "Sword & Shield"
+  },
+  {
+    "id": "swsh10",
+    "name": "Astral Radiance",
+    "releaseDate": "2022/05/27",
+    "total": 216,
+    "printedTotal": 189,
+    "series": "Sword & Shield"
+  },
+  {
+    "id": "swsh10tg",
+    "name": "Astral Radiance Trainer Gallery",
+    "releaseDate": "2022/05/27",
+    "total": 30,
+    "printedTotal": 30,
+    "series": "Sword & Shield"
+  },
+  {
+    "id": "pgo",
+    "name": "Pok\u00e9mon GO",
+    "releaseDate": "2022/07/01",
+    "total": 88,
+    "printedTotal": 78,
+    "series": "Sword & Shield"
+  },
+  {
+    "id": "swsh11",
+    "name": "Lost Origin",
+    "releaseDate": "2022/09/09",
+    "total": 217,
+    "printedTotal": 196,
+    "series": "Sword & Shield"
+  },
+  {
+    "id": "swsh11tg",
+    "name": "Lost Origin Trainer Gallery",
+    "releaseDate": "2022/09/09",
+    "total": 30,
+    "printedTotal": 30,
+    "series": "Sword & Shield"
+  },
+  {
+    "id": "swsh12",
+    "name": "Silver Tempest",
+    "releaseDate": "2022/11/11",
+    "total": 215,
+    "printedTotal": 195,
+    "series": "Sword & Shield"
+  },
+  {
+    "id": "swsh12tg",
+    "name": "Silver Tempest Trainer Gallery",
+    "releaseDate": "2022/11/11",
+    "total": 30,
+    "printedTotal": 30,
+    "series": "Sword & Shield"
+  },
+  {
+    "id": "mcd22",
+    "name": "McDonald's Collection 2022",
+    "releaseDate": "2022/08/03",
+    "total": 15,
+    "printedTotal": 15,
+    "series": "Other"
+  },
+  {
+    "id": "swsh12pt5",
+    "name": "Crown Zenith",
+    "releaseDate": "2023/01/20",
+    "total": 160,
+    "printedTotal": 159,
+    "series": "Sword & Shield"
+  },
+  {
+    "id": "swsh12pt5gg",
+    "name": "Crown Zenith Galarian Gallery",
+    "releaseDate": "2023/01/20",
+    "total": 70,
+    "printedTotal": 70,
+    "series": "Sword & Shield"
+  },
+  {
+    "id": "sv1",
+    "name": "Scarlet & Violet",
+    "releaseDate": "2023/03/31",
+    "total": 258,
+    "printedTotal": 198,
+    "series": "Scarlet & Violet"
+  },
+  {
+    "id": "svp",
+    "name": "Scarlet & Violet Black Star Promos",
+    "releaseDate": "2023/01/01",
+    "total": 196,
+    "printedTotal": 215,
+    "series": "Scarlet & Violet"
+  },
+  {
+    "id": "sv2",
+    "name": "Paldea Evolved",
+    "releaseDate": "2023/06/09",
+    "total": 279,
+    "printedTotal": 193,
+    "series": "Scarlet & Violet"
+  },
+  {
+    "id": "sve",
+    "name": "Scarlet & Violet Energies",
+    "releaseDate": "2023/03/31",
+    "total": 8,
+    "printedTotal": 8,
+    "series": "Scarlet & Violet"
+  },
+  {
+    "id": "sv3",
+    "name": "Obsidian Flames",
+    "releaseDate": "2023/08/11",
+    "total": 230,
+    "printedTotal": 197,
+    "series": "Scarlet & Violet"
+  },
+  {
+    "id": "sv3pt5",
+    "name": "151",
+    "releaseDate": "2023/09/22",
+    "total": 207,
+    "printedTotal": 165,
+    "series": "Scarlet & Violet"
+  },
+  {
+    "id": "sv4",
+    "name": "Paradox Rift",
+    "releaseDate": "2023/11/03",
+    "total": 266,
+    "printedTotal": 182,
+    "series": "Scarlet & Violet"
+  },
+  {
+    "id": "sv4pt5",
+    "name": "Paldean Fates",
+    "releaseDate": "2024/01/26",
+    "total": 245,
+    "printedTotal": 91,
+    "series": "Scarlet & Violet"
+  },
+  {
+    "id": "sv5",
+    "name": "Temporal Forces",
+    "releaseDate": "2024/03/22",
+    "total": 218,
+    "printedTotal": 162,
+    "series": "Scarlet & Violet"
+  },
+  {
+    "id": "sv6",
+    "name": "Twilight Masquerade",
+    "releaseDate": "2024/05/24",
+    "total": 226,
+    "printedTotal": 167,
+    "series": "Scarlet & Violet"
+  },
+  {
+    "id": "sv6pt5",
+    "name": "Shrouded Fable",
+    "releaseDate": "2024/08/02",
+    "total": 99,
+    "printedTotal": 64,
+    "series": "Scarlet & Violet"
+  },
+  {
+    "id": "sv7",
+    "name": "Stellar Crown",
+    "releaseDate": "2024/09/13",
+    "total": 175,
+    "printedTotal": 142,
+    "series": "Scarlet & Violet"
+  },
+  {
+    "id": "sv8",
+    "name": "Surging Sparks",
+    "releaseDate": "2024/11/08",
+    "total": 252,
+    "printedTotal": 191,
+    "series": "Scarlet & Violet"
+  },
+  {
+    "id": "sv8pt5",
+    "name": "Prismatic Evolutions",
+    "releaseDate": "2025/01/17",
+    "total": 180,
+    "printedTotal": 131,
+    "series": "Scarlet & Violet"
+  },
+  {
+    "id": "sv9",
+    "name": "Journey Together",
+    "releaseDate": "2025/03/28",
+    "total": 190,
+    "printedTotal": 159,
+    "series": "Scarlet & Violet"
+  },
+  {
+    "id": "sv10",
+    "name": "Destined Rivals",
+    "releaseDate": "2025/05/30",
+    "total": 244,
+    "printedTotal": 182,
+    "series": "Scarlet & Violet"
+  }
+]

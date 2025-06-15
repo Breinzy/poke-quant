@@ -1,0 +1,569 @@
+[
+  {
+    "name": "Bulbasaur",
+    "number": "1",
+    "rarity": "Common",
+    "set_name": "Shining Legends",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Ivysaur",
+    "number": "2",
+    "rarity": "Common",
+    "set_name": "Shining Legends",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Venusaur",
+    "number": "3",
+    "rarity": "Uncommon",
+    "set_name": "Shining Legends",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Shroomish",
+    "number": "4",
+    "rarity": "Common",
+    "set_name": "Shining Legends",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Breloom",
+    "number": "5",
+    "rarity": "Common",
+    "set_name": "Shining Legends",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Carnivine",
+    "number": "6",
+    "rarity": "Uncommon",
+    "set_name": "Shining Legends",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Shaymin",
+    "number": "7",
+    "rarity": "Rare Holo",
+    "set_name": "Shining Legends",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Virizion",
+    "number": "8",
+    "rarity": "Rare Holo",
+    "set_name": "Shining Legends",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Shining Genesect",
+    "number": "9",
+    "rarity": "Rare Shining",
+    "set_name": "Shining Legends",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Entei-GX",
+    "number": "10",
+    "rarity": "Rare Holo GX",
+    "set_name": "Shining Legends",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Entei-GX",
+    "number": "10a",
+    "rarity": "Rare Holo GX",
+    "set_name": "Shining Legends",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Torkoal",
+    "number": "11",
+    "rarity": "Common",
+    "set_name": "Shining Legends",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Larvesta",
+    "number": "12",
+    "rarity": "Common",
+    "set_name": "Shining Legends",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Volcarona",
+    "number": "13",
+    "rarity": "Uncommon",
+    "set_name": "Shining Legends",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Reshiram",
+    "number": "14",
+    "rarity": "Rare Holo",
+    "set_name": "Shining Legends",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Litten",
+    "number": "15",
+    "rarity": "Common",
+    "set_name": "Shining Legends",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Torracat",
+    "number": "16",
+    "rarity": "Common",
+    "set_name": "Shining Legends",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Incineroar",
+    "number": "17",
+    "rarity": "Uncommon",
+    "set_name": "Shining Legends",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Totodile",
+    "number": "18",
+    "rarity": "Common",
+    "set_name": "Shining Legends",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Croconaw",
+    "number": "19",
+    "rarity": "Common",
+    "set_name": "Shining Legends",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Feraligatr",
+    "number": "20",
+    "rarity": "Uncommon",
+    "set_name": "Shining Legends",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Qwilfish",
+    "number": "21",
+    "rarity": "Common",
+    "set_name": "Shining Legends",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Buizel",
+    "number": "22",
+    "rarity": "Common",
+    "set_name": "Shining Legends",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Floatzel",
+    "number": "23",
+    "rarity": "Uncommon",
+    "set_name": "Shining Legends",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Palkia",
+    "number": "24",
+    "rarity": "Rare Holo",
+    "set_name": "Shining Legends",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Manaphy",
+    "number": "25",
+    "rarity": "Rare Holo",
+    "set_name": "Shining Legends",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Keldeo",
+    "number": "26",
+    "rarity": "Rare Holo",
+    "set_name": "Shining Legends",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Shining Volcanion",
+    "number": "27",
+    "rarity": "Rare Shining",
+    "set_name": "Shining Legends",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Pikachu",
+    "number": "28",
+    "rarity": "Common",
+    "set_name": "Shining Legends",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Raichu-GX",
+    "number": "29",
+    "rarity": "Rare Holo GX",
+    "set_name": "Shining Legends",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Voltorb",
+    "number": "30",
+    "rarity": "Common",
+    "set_name": "Shining Legends",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Electrode",
+    "number": "31",
+    "rarity": "Uncommon",
+    "set_name": "Shining Legends",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Raikou",
+    "number": "32",
+    "rarity": "Rare Holo",
+    "set_name": "Shining Legends",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Plusle",
+    "number": "33",
+    "rarity": "Common",
+    "set_name": "Shining Legends",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Minun",
+    "number": "34",
+    "rarity": "Common",
+    "set_name": "Shining Legends",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Zekrom",
+    "number": "35",
+    "rarity": "Rare Holo",
+    "set_name": "Shining Legends",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Ekans",
+    "number": "36",
+    "rarity": "Common",
+    "set_name": "Shining Legends",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Arbok",
+    "number": "37",
+    "rarity": "Uncommon",
+    "set_name": "Shining Legends",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Jynx",
+    "number": "38",
+    "rarity": "Common",
+    "set_name": "Shining Legends",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Mewtwo-GX",
+    "number": "39",
+    "rarity": "Rare Holo GX",
+    "set_name": "Shining Legends",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Shining Mew",
+    "number": "40",
+    "rarity": "Rare Shining",
+    "set_name": "Shining Legends",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Latios",
+    "number": "41",
+    "rarity": "Rare Holo",
+    "set_name": "Shining Legends",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Shining Jirachi",
+    "number": "42",
+    "rarity": "Rare Shining",
+    "set_name": "Shining Legends",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Golett",
+    "number": "43",
+    "rarity": "Common",
+    "set_name": "Shining Legends",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Golurk",
+    "number": "44",
+    "rarity": "Uncommon",
+    "set_name": "Shining Legends",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Marshadow",
+    "number": "45",
+    "rarity": "Rare Holo",
+    "set_name": "Shining Legends",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Stunfisk",
+    "number": "46",
+    "rarity": "Common",
+    "set_name": "Shining Legends",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Spiritomb",
+    "number": "47",
+    "rarity": "Uncommon",
+    "set_name": "Shining Legends",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Purrloin",
+    "number": "48",
+    "rarity": "Common",
+    "set_name": "Shining Legends",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Liepard",
+    "number": "49",
+    "rarity": "Uncommon",
+    "set_name": "Shining Legends",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Scraggy",
+    "number": "50",
+    "rarity": "Common",
+    "set_name": "Shining Legends",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Scrafty",
+    "number": "51",
+    "rarity": "Uncommon",
+    "set_name": "Shining Legends",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Zorua",
+    "number": "52",
+    "rarity": "Common",
+    "set_name": "Shining Legends",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Zoroark-GX",
+    "number": "53",
+    "rarity": "Rare Holo GX",
+    "set_name": "Shining Legends",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Yveltal",
+    "number": "54",
+    "rarity": "Rare Holo",
+    "set_name": "Shining Legends",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Hoopa",
+    "number": "55",
+    "rarity": "Rare Holo",
+    "set_name": "Shining Legends",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Shining Rayquaza",
+    "number": "56",
+    "rarity": "Rare Shining",
+    "set_name": "Shining Legends",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Shining Arceus",
+    "number": "57",
+    "rarity": "Rare Shining",
+    "set_name": "Shining Legends",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Damage Mover",
+    "number": "58",
+    "rarity": "Uncommon",
+    "set_name": "Shining Legends",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Energy Retrieval",
+    "number": "59",
+    "rarity": "Uncommon",
+    "set_name": "Shining Legends",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Great Ball",
+    "number": "60",
+    "rarity": "Uncommon",
+    "set_name": "Shining Legends",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Hau",
+    "number": "61",
+    "rarity": "Uncommon",
+    "set_name": "Shining Legends",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Lillie",
+    "number": "62",
+    "rarity": "Uncommon",
+    "set_name": "Shining Legends",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Pok\u00e9mon Breeder",
+    "number": "63",
+    "rarity": "Uncommon",
+    "set_name": "Shining Legends",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Pok\u00e9mon Catcher",
+    "number": "64",
+    "rarity": "Uncommon",
+    "set_name": "Shining Legends",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Sophocles",
+    "number": "65",
+    "rarity": "Uncommon",
+    "set_name": "Shining Legends",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Super Scoop Up",
+    "number": "66",
+    "rarity": "Uncommon",
+    "set_name": "Shining Legends",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Switch",
+    "number": "67",
+    "rarity": "Uncommon",
+    "set_name": "Shining Legends",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Ultra Ball",
+    "number": "68",
+    "rarity": "Uncommon",
+    "set_name": "Shining Legends",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Ultra Ball",
+    "number": "68a",
+    "rarity": "Uncommon",
+    "set_name": "Shining Legends",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Double Colorless Energy",
+    "number": "69",
+    "rarity": "Uncommon",
+    "set_name": "Shining Legends",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Warp Energy",
+    "number": "70",
+    "rarity": "Uncommon",
+    "set_name": "Shining Legends",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Entei-GX",
+    "number": "71",
+    "rarity": "Rare Ultra",
+    "set_name": "Shining Legends",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Mewtwo-GX",
+    "number": "72",
+    "rarity": "Rare Ultra",
+    "set_name": "Shining Legends",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Pok\u00e9mon Breeder",
+    "number": "73",
+    "rarity": "Rare Ultra",
+    "set_name": "Shining Legends",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Entei-GX",
+    "number": "74",
+    "rarity": "Rare Rainbow",
+    "set_name": "Shining Legends",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Raichu-GX",
+    "number": "75",
+    "rarity": "Rare Rainbow",
+    "set_name": "Shining Legends",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Mewtwo-GX",
+    "number": "76",
+    "rarity": "Rare Rainbow",
+    "set_name": "Shining Legends",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Zoroark-GX",
+    "number": "77",
+    "rarity": "Rare Rainbow",
+    "set_name": "Shining Legends",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Zoroark-GX",
+    "number": "77a",
+    "rarity": "Rare Ultra",
+    "set_name": "Shining Legends",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Mewtwo-GX",
+    "number": "78",
+    "rarity": "Rare Secret",
+    "set_name": "Shining Legends",
+    "set_series": "Sun & Moon"
+  }
+]

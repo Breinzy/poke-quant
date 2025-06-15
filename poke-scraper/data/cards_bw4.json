@@ -1,0 +1,723 @@
+[
+  {
+    "name": "Pinsir",
+    "number": "1",
+    "rarity": "Rare",
+    "set_name": "Next Destinies",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Seedot",
+    "number": "2",
+    "rarity": "Common",
+    "set_name": "Next Destinies",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Kricketot",
+    "number": "3",
+    "rarity": "Common",
+    "set_name": "Next Destinies",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Kricketune",
+    "number": "4",
+    "rarity": "Uncommon",
+    "set_name": "Next Destinies",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Shaymin-EX",
+    "number": "5",
+    "rarity": "Rare Holo EX",
+    "set_name": "Next Destinies",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Pansage",
+    "number": "6",
+    "rarity": "Common",
+    "set_name": "Next Destinies",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Simisage",
+    "number": "7",
+    "rarity": "Rare",
+    "set_name": "Next Destinies",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Foongus",
+    "number": "8",
+    "rarity": "Common",
+    "set_name": "Next Destinies",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Amoonguss",
+    "number": "9",
+    "rarity": "Rare",
+    "set_name": "Next Destinies",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Growlithe",
+    "number": "10",
+    "rarity": "Common",
+    "set_name": "Next Destinies",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Growlithe",
+    "number": "11",
+    "rarity": "Common",
+    "set_name": "Next Destinies",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Arcanine",
+    "number": "12",
+    "rarity": "Rare",
+    "set_name": "Next Destinies",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Arcanine",
+    "number": "13",
+    "rarity": "Uncommon",
+    "set_name": "Next Destinies",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Moltres",
+    "number": "14",
+    "rarity": "Rare Holo",
+    "set_name": "Next Destinies",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Pansear",
+    "number": "15",
+    "rarity": "Common",
+    "set_name": "Next Destinies",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Simisear",
+    "number": "16",
+    "rarity": "Rare",
+    "set_name": "Next Destinies",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Darumaka",
+    "number": "17",
+    "rarity": "Common",
+    "set_name": "Next Destinies",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Litwick",
+    "number": "18",
+    "rarity": "Common",
+    "set_name": "Next Destinies",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Lampent",
+    "number": "19",
+    "rarity": "Uncommon",
+    "set_name": "Next Destinies",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Chandelure",
+    "number": "20",
+    "rarity": "Rare Holo",
+    "set_name": "Next Destinies",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Reshiram",
+    "number": "21",
+    "rarity": "Rare",
+    "set_name": "Next Destinies",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Reshiram-EX",
+    "number": "22",
+    "rarity": "Rare Holo EX",
+    "set_name": "Next Destinies",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Staryu",
+    "number": "23",
+    "rarity": "Common",
+    "set_name": "Next Destinies",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Starmie",
+    "number": "24",
+    "rarity": "Uncommon",
+    "set_name": "Next Destinies",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Lapras",
+    "number": "25",
+    "rarity": "Rare",
+    "set_name": "Next Destinies",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Lapras",
+    "number": "26",
+    "rarity": "Uncommon",
+    "set_name": "Next Destinies",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Articuno",
+    "number": "27",
+    "rarity": "Rare Holo",
+    "set_name": "Next Destinies",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Panpour",
+    "number": "28",
+    "rarity": "Common",
+    "set_name": "Next Destinies",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Simipour",
+    "number": "29",
+    "rarity": "Rare",
+    "set_name": "Next Destinies",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Basculin",
+    "number": "30",
+    "rarity": "Uncommon",
+    "set_name": "Next Destinies",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Vanillite",
+    "number": "31",
+    "rarity": "Common",
+    "set_name": "Next Destinies",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Vanillish",
+    "number": "32",
+    "rarity": "Uncommon",
+    "set_name": "Next Destinies",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Vanilluxe",
+    "number": "33",
+    "rarity": "Rare Holo",
+    "set_name": "Next Destinies",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Frillish",
+    "number": "34",
+    "rarity": "Uncommon",
+    "set_name": "Next Destinies",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Jellicent",
+    "number": "35",
+    "rarity": "Rare",
+    "set_name": "Next Destinies",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Cubchoo",
+    "number": "36",
+    "rarity": "Common",
+    "set_name": "Next Destinies",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Beartic",
+    "number": "37",
+    "rarity": "Rare",
+    "set_name": "Next Destinies",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Kyurem-EX",
+    "number": "38",
+    "rarity": "Rare Holo EX",
+    "set_name": "Next Destinies",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Pikachu",
+    "number": "39",
+    "rarity": "Common",
+    "set_name": "Next Destinies",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Raichu",
+    "number": "40",
+    "rarity": "Uncommon",
+    "set_name": "Next Destinies",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Zapdos",
+    "number": "41",
+    "rarity": "Rare Holo",
+    "set_name": "Next Destinies",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Shinx",
+    "number": "42",
+    "rarity": "Common",
+    "set_name": "Next Destinies",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Shinx",
+    "number": "43",
+    "rarity": "Common",
+    "set_name": "Next Destinies",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Luxio",
+    "number": "44",
+    "rarity": "Uncommon",
+    "set_name": "Next Destinies",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Luxio",
+    "number": "45",
+    "rarity": "Uncommon",
+    "set_name": "Next Destinies",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Luxray",
+    "number": "46",
+    "rarity": "Rare Holo",
+    "set_name": "Next Destinies",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Blitzle",
+    "number": "47",
+    "rarity": "Common",
+    "set_name": "Next Destinies",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Zebstrika",
+    "number": "48",
+    "rarity": "Rare",
+    "set_name": "Next Destinies",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Emolga",
+    "number": "49",
+    "rarity": "Uncommon",
+    "set_name": "Next Destinies",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Zekrom",
+    "number": "50",
+    "rarity": "Rare",
+    "set_name": "Next Destinies",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Zekrom-EX",
+    "number": "51",
+    "rarity": "Rare Holo EX",
+    "set_name": "Next Destinies",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Grimer",
+    "number": "52",
+    "rarity": "Common",
+    "set_name": "Next Destinies",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Muk",
+    "number": "53",
+    "rarity": "Rare",
+    "set_name": "Next Destinies",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Mewtwo-EX",
+    "number": "54",
+    "rarity": "Rare Holo EX",
+    "set_name": "Next Destinies",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Ralts",
+    "number": "55",
+    "rarity": "Common",
+    "set_name": "Next Destinies",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Kirlia",
+    "number": "56",
+    "rarity": "Uncommon",
+    "set_name": "Next Destinies",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Gardevoir",
+    "number": "57",
+    "rarity": "Rare Holo",
+    "set_name": "Next Destinies",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Munna",
+    "number": "58",
+    "rarity": "Common",
+    "set_name": "Next Destinies",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Musharna",
+    "number": "59",
+    "rarity": "Rare",
+    "set_name": "Next Destinies",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Darmanitan",
+    "number": "60",
+    "rarity": "Rare",
+    "set_name": "Next Destinies",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Elgyem",
+    "number": "61",
+    "rarity": "Common",
+    "set_name": "Next Destinies",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Beheeyem",
+    "number": "62",
+    "rarity": "Rare",
+    "set_name": "Next Destinies",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Riolu",
+    "number": "63",
+    "rarity": "Common",
+    "set_name": "Next Destinies",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Lucario",
+    "number": "64",
+    "rarity": "Rare Holo",
+    "set_name": "Next Destinies",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Hippopotas",
+    "number": "65",
+    "rarity": "Common",
+    "set_name": "Next Destinies",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Hippowdon",
+    "number": "66",
+    "rarity": "Uncommon",
+    "set_name": "Next Destinies",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Mienfoo",
+    "number": "67",
+    "rarity": "Common",
+    "set_name": "Next Destinies",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Mienshao",
+    "number": "68",
+    "rarity": "Uncommon",
+    "set_name": "Next Destinies",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Sneasel",
+    "number": "69",
+    "rarity": "Common",
+    "set_name": "Next Destinies",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Weavile",
+    "number": "70",
+    "rarity": "Rare",
+    "set_name": "Next Destinies",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Nuzleaf",
+    "number": "71",
+    "rarity": "Uncommon",
+    "set_name": "Next Destinies",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Shiftry",
+    "number": "72",
+    "rarity": "Rare",
+    "set_name": "Next Destinies",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Scraggy",
+    "number": "73",
+    "rarity": "Uncommon",
+    "set_name": "Next Destinies",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Scrafty",
+    "number": "74",
+    "rarity": "Rare Holo",
+    "set_name": "Next Destinies",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Bronzor",
+    "number": "75",
+    "rarity": "Common",
+    "set_name": "Next Destinies",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Bronzong",
+    "number": "76",
+    "rarity": "Rare",
+    "set_name": "Next Destinies",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Ferroseed",
+    "number": "77",
+    "rarity": "Common",
+    "set_name": "Next Destinies",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Jigglypuff",
+    "number": "78",
+    "rarity": "Uncommon",
+    "set_name": "Next Destinies",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Wigglytuff",
+    "number": "79",
+    "rarity": "Rare",
+    "set_name": "Next Destinies",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Meowth",
+    "number": "80",
+    "rarity": "Common",
+    "set_name": "Next Destinies",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Persian",
+    "number": "81",
+    "rarity": "Rare",
+    "set_name": "Next Destinies",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Regigigas-EX",
+    "number": "82",
+    "rarity": "Rare Holo EX",
+    "set_name": "Next Destinies",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Pidove",
+    "number": "83",
+    "rarity": "Common",
+    "set_name": "Next Destinies",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Minccino",
+    "number": "84",
+    "rarity": "Uncommon",
+    "set_name": "Next Destinies",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Cinccino",
+    "number": "85",
+    "rarity": "Rare Holo",
+    "set_name": "Next Destinies",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Cilan",
+    "number": "86",
+    "rarity": "Uncommon",
+    "set_name": "Next Destinies",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Exp. Share",
+    "number": "87",
+    "rarity": "Uncommon",
+    "set_name": "Next Destinies",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Heavy Ball",
+    "number": "88",
+    "rarity": "Uncommon",
+    "set_name": "Next Destinies",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Level Ball",
+    "number": "89",
+    "rarity": "Uncommon",
+    "set_name": "Next Destinies",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Pok\u00e9mon Center",
+    "number": "90",
+    "rarity": "Uncommon",
+    "set_name": "Next Destinies",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Skyarrow Bridge",
+    "number": "91",
+    "rarity": "Uncommon",
+    "set_name": "Next Destinies",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Double Colorless Energy",
+    "number": "92",
+    "rarity": "Uncommon",
+    "set_name": "Next Destinies",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Prism Energy",
+    "number": "93",
+    "rarity": "Uncommon",
+    "set_name": "Next Destinies",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Shaymin-EX",
+    "number": "94",
+    "rarity": "Rare Ultra",
+    "set_name": "Next Destinies",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Reshiram-EX",
+    "number": "95",
+    "rarity": "Rare Ultra",
+    "set_name": "Next Destinies",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Kyurem-EX",
+    "number": "96",
+    "rarity": "Rare Ultra",
+    "set_name": "Next Destinies",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Zekrom-EX",
+    "number": "97",
+    "rarity": "Rare Ultra",
+    "set_name": "Next Destinies",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Mewtwo-EX",
+    "number": "98",
+    "rarity": "Rare Ultra",
+    "set_name": "Next Destinies",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Regigigas-EX",
+    "number": "99",
+    "rarity": "Rare Ultra",
+    "set_name": "Next Destinies",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Emboar",
+    "number": "100",
+    "rarity": "Rare Secret",
+    "set_name": "Next Destinies",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Chandelure",
+    "number": "101",
+    "rarity": "Rare Secret",
+    "set_name": "Next Destinies",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Zoroark",
+    "number": "102",
+    "rarity": "Rare Secret",
+    "set_name": "Next Destinies",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Hydreigon",
+    "number": "103",
+    "rarity": "Rare Secret",
+    "set_name": "Next Destinies",
+    "set_series": "Black & White"
+  }
+]

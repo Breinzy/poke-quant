@@ -1,0 +1,1388 @@
+[
+  {
+    "name": "Celebi & Venusaur-GX",
+    "number": "1",
+    "rarity": "Rare Holo GX",
+    "set_name": "Team Up",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Weedle",
+    "number": "2",
+    "rarity": "Common",
+    "set_name": "Team Up",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Weedle",
+    "number": "3",
+    "rarity": "Common",
+    "set_name": "Team Up",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Kakuna",
+    "number": "4",
+    "rarity": "Uncommon",
+    "set_name": "Team Up",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Beedrill",
+    "number": "5",
+    "rarity": "Rare",
+    "set_name": "Team Up",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Paras",
+    "number": "6",
+    "rarity": "Common",
+    "set_name": "Team Up",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Parasect",
+    "number": "7",
+    "rarity": "Rare",
+    "set_name": "Team Up",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Exeggcute",
+    "number": "8",
+    "rarity": "Common",
+    "set_name": "Team Up",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Pinsir",
+    "number": "9",
+    "rarity": "Rare",
+    "set_name": "Team Up",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Shaymin \u25c7",
+    "number": "10",
+    "rarity": "Rare Prism Star",
+    "set_name": "Team Up",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Charmander",
+    "number": "11",
+    "rarity": "Common",
+    "set_name": "Team Up",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Charmander",
+    "number": "12",
+    "rarity": "Common",
+    "set_name": "Team Up",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Charmeleon",
+    "number": "13",
+    "rarity": "Uncommon",
+    "set_name": "Team Up",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Charizard",
+    "number": "14",
+    "rarity": "Rare",
+    "set_name": "Team Up",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Vulpix",
+    "number": "15",
+    "rarity": "Common",
+    "set_name": "Team Up",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Ninetales",
+    "number": "16",
+    "rarity": "Rare",
+    "set_name": "Team Up",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Ponyta",
+    "number": "17",
+    "rarity": "Common",
+    "set_name": "Team Up",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Rapidash",
+    "number": "18",
+    "rarity": "Uncommon",
+    "set_name": "Team Up",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Moltres",
+    "number": "19",
+    "rarity": "Rare Holo",
+    "set_name": "Team Up",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Litten",
+    "number": "20",
+    "rarity": "Common",
+    "set_name": "Team Up",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Torracat",
+    "number": "21",
+    "rarity": "Uncommon",
+    "set_name": "Team Up",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Squirtle",
+    "number": "22",
+    "rarity": "Common",
+    "set_name": "Team Up",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Squirtle",
+    "number": "23",
+    "rarity": "Common",
+    "set_name": "Team Up",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Wartortle",
+    "number": "24",
+    "rarity": "Uncommon",
+    "set_name": "Team Up",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Blastoise",
+    "number": "25",
+    "rarity": "Rare",
+    "set_name": "Team Up",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Psyduck",
+    "number": "26",
+    "rarity": "Common",
+    "set_name": "Team Up",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Golduck",
+    "number": "27",
+    "rarity": "Uncommon",
+    "set_name": "Team Up",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Staryu",
+    "number": "28",
+    "rarity": "Common",
+    "set_name": "Team Up",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Magikarp",
+    "number": "29",
+    "rarity": "Common",
+    "set_name": "Team Up",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Gyarados",
+    "number": "30",
+    "rarity": "Rare Holo",
+    "set_name": "Team Up",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Lapras",
+    "number": "31",
+    "rarity": "Rare",
+    "set_name": "Team Up",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Articuno",
+    "number": "32",
+    "rarity": "Rare Holo",
+    "set_name": "Team Up",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Pikachu & Zekrom-GX",
+    "number": "33",
+    "rarity": "Rare Holo GX",
+    "set_name": "Team Up",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Alolan Geodude",
+    "number": "34",
+    "rarity": "Common",
+    "set_name": "Team Up",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Alolan Geodude",
+    "number": "35",
+    "rarity": "Common",
+    "set_name": "Team Up",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Alolan Graveler",
+    "number": "36",
+    "rarity": "Uncommon",
+    "set_name": "Team Up",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Alolan Golem",
+    "number": "37",
+    "rarity": "Rare",
+    "set_name": "Team Up",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Voltorb",
+    "number": "38",
+    "rarity": "Common",
+    "set_name": "Team Up",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Electrode",
+    "number": "39",
+    "rarity": "Rare Holo",
+    "set_name": "Team Up",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Zapdos",
+    "number": "40",
+    "rarity": "Rare Holo",
+    "set_name": "Team Up",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Mareep",
+    "number": "41",
+    "rarity": "Common",
+    "set_name": "Team Up",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Flaaffy",
+    "number": "42",
+    "rarity": "Uncommon",
+    "set_name": "Team Up",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Ampharos-GX",
+    "number": "43",
+    "rarity": "Rare Holo GX",
+    "set_name": "Team Up",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Blitzle",
+    "number": "44",
+    "rarity": "Common",
+    "set_name": "Team Up",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Zebstrika",
+    "number": "45",
+    "rarity": "Rare",
+    "set_name": "Team Up",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Emolga",
+    "number": "46",
+    "rarity": "Common",
+    "set_name": "Team Up",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Joltik",
+    "number": "47",
+    "rarity": "Common",
+    "set_name": "Team Up",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Galvantula",
+    "number": "48",
+    "rarity": "Rare",
+    "set_name": "Team Up",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Helioptile",
+    "number": "49",
+    "rarity": "Common",
+    "set_name": "Team Up",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Heliolisk",
+    "number": "50",
+    "rarity": "Uncommon",
+    "set_name": "Team Up",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Tapu Koko \u25c7",
+    "number": "51",
+    "rarity": "Rare Prism Star",
+    "set_name": "Team Up",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Zeraora",
+    "number": "52",
+    "rarity": "Rare Holo",
+    "set_name": "Team Up",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Gengar & Mimikyu-GX",
+    "number": "53",
+    "rarity": "Rare Holo GX",
+    "set_name": "Team Up",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Nidoran \u2640",
+    "number": "54",
+    "rarity": "Common",
+    "set_name": "Team Up",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Nidorina",
+    "number": "55",
+    "rarity": "Uncommon",
+    "set_name": "Team Up",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Nidoqueen",
+    "number": "56",
+    "rarity": "Rare",
+    "set_name": "Team Up",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Nidoran \u2642",
+    "number": "57",
+    "rarity": "Common",
+    "set_name": "Team Up",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Nidorino",
+    "number": "58",
+    "rarity": "Uncommon",
+    "set_name": "Team Up",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Nidoking",
+    "number": "59",
+    "rarity": "Rare",
+    "set_name": "Team Up",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Tentacool",
+    "number": "60",
+    "rarity": "Common",
+    "set_name": "Team Up",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Tentacruel",
+    "number": "61",
+    "rarity": "Uncommon",
+    "set_name": "Team Up",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Grimer",
+    "number": "62",
+    "rarity": "Common",
+    "set_name": "Team Up",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Muk",
+    "number": "63",
+    "rarity": "Rare",
+    "set_name": "Team Up",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Alolan Marowak",
+    "number": "64",
+    "rarity": "Rare",
+    "set_name": "Team Up",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Starmie",
+    "number": "65",
+    "rarity": "Rare",
+    "set_name": "Team Up",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Mr. Mime",
+    "number": "66",
+    "rarity": "Rare",
+    "set_name": "Team Up",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Mr. Mime-GX",
+    "number": "67",
+    "rarity": "Rare Holo GX",
+    "set_name": "Team Up",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Jynx",
+    "number": "68",
+    "rarity": "Uncommon",
+    "set_name": "Team Up",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Cosmog",
+    "number": "69",
+    "rarity": "Common",
+    "set_name": "Team Up",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Cosmoem",
+    "number": "70",
+    "rarity": "Uncommon",
+    "set_name": "Team Up",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Mankey",
+    "number": "71",
+    "rarity": "Common",
+    "set_name": "Team Up",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Primeape",
+    "number": "72",
+    "rarity": "Rare",
+    "set_name": "Team Up",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Hitmonlee",
+    "number": "73",
+    "rarity": "Uncommon",
+    "set_name": "Team Up",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Hitmonchan",
+    "number": "74",
+    "rarity": "Uncommon",
+    "set_name": "Team Up",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Omanyte",
+    "number": "75",
+    "rarity": "Uncommon",
+    "set_name": "Team Up",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Omastar",
+    "number": "76",
+    "rarity": "Rare Holo",
+    "set_name": "Team Up",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Kabuto",
+    "number": "77",
+    "rarity": "Uncommon",
+    "set_name": "Team Up",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Kabutops",
+    "number": "78",
+    "rarity": "Rare",
+    "set_name": "Team Up",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Larvitar",
+    "number": "79",
+    "rarity": "Common",
+    "set_name": "Team Up",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Pupitar",
+    "number": "80",
+    "rarity": "Uncommon",
+    "set_name": "Team Up",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Pancham",
+    "number": "81",
+    "rarity": "Common",
+    "set_name": "Team Up",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Lycanroc-GX",
+    "number": "82",
+    "rarity": "Rare Holo GX",
+    "set_name": "Team Up",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Alolan Grimer",
+    "number": "83",
+    "rarity": "Common",
+    "set_name": "Team Up",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Alolan Muk",
+    "number": "84",
+    "rarity": "Rare",
+    "set_name": "Team Up",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Tyranitar",
+    "number": "85",
+    "rarity": "Rare Holo",
+    "set_name": "Team Up",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Poochyena",
+    "number": "86",
+    "rarity": "Common",
+    "set_name": "Team Up",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Mightyena",
+    "number": "87",
+    "rarity": "Rare",
+    "set_name": "Team Up",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Absol",
+    "number": "88",
+    "rarity": "Rare Holo",
+    "set_name": "Team Up",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Spiritomb",
+    "number": "89",
+    "rarity": "Uncommon",
+    "set_name": "Team Up",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Zorua",
+    "number": "90",
+    "rarity": "Common",
+    "set_name": "Team Up",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Zoroark",
+    "number": "91",
+    "rarity": "Rare Holo",
+    "set_name": "Team Up",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Vullaby",
+    "number": "92",
+    "rarity": "Common",
+    "set_name": "Team Up",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Mandibuzz",
+    "number": "93",
+    "rarity": "Rare",
+    "set_name": "Team Up",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Pangoro",
+    "number": "94",
+    "rarity": "Rare",
+    "set_name": "Team Up",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Yveltal",
+    "number": "95",
+    "rarity": "Rare Holo",
+    "set_name": "Team Up",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Hoopa-GX",
+    "number": "96",
+    "rarity": "Rare Holo GX",
+    "set_name": "Team Up",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Incineroar-GX",
+    "number": "97",
+    "rarity": "Rare Holo GX",
+    "set_name": "Team Up",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Skarmory",
+    "number": "98",
+    "rarity": "Rare",
+    "set_name": "Team Up",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Jirachi",
+    "number": "99",
+    "rarity": "Rare Holo",
+    "set_name": "Team Up",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Bronzor",
+    "number": "100",
+    "rarity": "Common",
+    "set_name": "Team Up",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Bronzong",
+    "number": "101",
+    "rarity": "Rare",
+    "set_name": "Team Up",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Ferroseed",
+    "number": "102",
+    "rarity": "Common",
+    "set_name": "Team Up",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Ferrothorn",
+    "number": "103",
+    "rarity": "Rare",
+    "set_name": "Team Up",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Pawniard",
+    "number": "104",
+    "rarity": "Common",
+    "set_name": "Team Up",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Bisharp",
+    "number": "105",
+    "rarity": "Rare",
+    "set_name": "Team Up",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Cobalion-GX",
+    "number": "106",
+    "rarity": "Rare Holo GX",
+    "set_name": "Team Up",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Honedge",
+    "number": "107",
+    "rarity": "Common",
+    "set_name": "Team Up",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Doublade",
+    "number": "108",
+    "rarity": "Uncommon",
+    "set_name": "Team Up",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Aegislash",
+    "number": "109",
+    "rarity": "Rare Holo",
+    "set_name": "Team Up",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Klefki",
+    "number": "110",
+    "rarity": "Common",
+    "set_name": "Team Up",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Alolan Ninetales",
+    "number": "111",
+    "rarity": "Rare Holo",
+    "set_name": "Team Up",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Mimikyu",
+    "number": "112",
+    "rarity": "Rare",
+    "set_name": "Team Up",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Latias & Latios-GX",
+    "number": "113",
+    "rarity": "Rare Holo GX",
+    "set_name": "Team Up",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Alolan Exeggutor",
+    "number": "114",
+    "rarity": "Rare",
+    "set_name": "Team Up",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Alolan Exeggutor",
+    "number": "115",
+    "rarity": "Rare",
+    "set_name": "Team Up",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Dratini",
+    "number": "116",
+    "rarity": "Common",
+    "set_name": "Team Up",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Dratini",
+    "number": "117",
+    "rarity": "Common",
+    "set_name": "Team Up",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Dragonair",
+    "number": "118",
+    "rarity": "Uncommon",
+    "set_name": "Team Up",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Dragonite",
+    "number": "119",
+    "rarity": "Rare Holo",
+    "set_name": "Team Up",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Eevee & Snorlax-GX",
+    "number": "120",
+    "rarity": "Rare Holo GX",
+    "set_name": "Team Up",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Pidgey",
+    "number": "121",
+    "rarity": "Common",
+    "set_name": "Team Up",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Pidgey",
+    "number": "122",
+    "rarity": "Common",
+    "set_name": "Team Up",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Pidgeotto",
+    "number": "123",
+    "rarity": "Common",
+    "set_name": "Team Up",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Pidgeot",
+    "number": "124",
+    "rarity": "Rare",
+    "set_name": "Team Up",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Meowth",
+    "number": "125",
+    "rarity": "Common",
+    "set_name": "Team Up",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Persian",
+    "number": "126",
+    "rarity": "Uncommon",
+    "set_name": "Team Up",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Farfetch'd",
+    "number": "127",
+    "rarity": "Uncommon",
+    "set_name": "Team Up",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Kangaskhan",
+    "number": "128",
+    "rarity": "Uncommon",
+    "set_name": "Team Up",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Tauros",
+    "number": "129",
+    "rarity": "Uncommon",
+    "set_name": "Team Up",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Aerodactyl",
+    "number": "130",
+    "rarity": "Rare",
+    "set_name": "Team Up",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Lugia",
+    "number": "131",
+    "rarity": "Rare Holo",
+    "set_name": "Team Up",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Zangoose",
+    "number": "132",
+    "rarity": "Rare Holo",
+    "set_name": "Team Up",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Bill's Analysis",
+    "number": "133",
+    "rarity": "Rare Holo",
+    "set_name": "Team Up",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Black Market \u25c7",
+    "number": "134",
+    "rarity": "Rare Prism Star",
+    "set_name": "Team Up",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Brock's Grit",
+    "number": "135",
+    "rarity": "Uncommon",
+    "set_name": "Team Up",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Buff Padding",
+    "number": "136",
+    "rarity": "Uncommon",
+    "set_name": "Team Up",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Dana",
+    "number": "137",
+    "rarity": "Uncommon",
+    "set_name": "Team Up",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Dangerous Drill",
+    "number": "138",
+    "rarity": "Uncommon",
+    "set_name": "Team Up",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Electrocharger",
+    "number": "139",
+    "rarity": "Uncommon",
+    "set_name": "Team Up",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Erika's Hospitality",
+    "number": "140",
+    "rarity": "Rare Holo",
+    "set_name": "Team Up",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Evelyn",
+    "number": "141",
+    "rarity": "Uncommon",
+    "set_name": "Team Up",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Fairy Charm UB",
+    "number": "142",
+    "rarity": "Uncommon",
+    "set_name": "Team Up",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Grass Memory",
+    "number": "143",
+    "rarity": "Uncommon",
+    "set_name": "Team Up",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Ingo & Emmet",
+    "number": "144",
+    "rarity": "Uncommon",
+    "set_name": "Team Up",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Jasmine",
+    "number": "145",
+    "rarity": "Uncommon",
+    "set_name": "Team Up",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Judge Whistle",
+    "number": "146",
+    "rarity": "Uncommon",
+    "set_name": "Team Up",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Lavender Town",
+    "number": "147",
+    "rarity": "Uncommon",
+    "set_name": "Team Up",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Metal Goggles",
+    "number": "148",
+    "rarity": "Uncommon",
+    "set_name": "Team Up",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Morgan",
+    "number": "149",
+    "rarity": "Uncommon",
+    "set_name": "Team Up",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Nanu",
+    "number": "150",
+    "rarity": "Uncommon",
+    "set_name": "Team Up",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Nita",
+    "number": "151",
+    "rarity": "Uncommon",
+    "set_name": "Team Up",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Pok\u00e9mon Communication",
+    "number": "152",
+    "rarity": "Uncommon",
+    "set_name": "Team Up",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Pok\u00e9mon Communication",
+    "number": "152a",
+    "rarity": "Uncommon",
+    "set_name": "Team Up",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Pok\u00e9mon Communication",
+    "number": "152b",
+    "rarity": "Uncommon",
+    "set_name": "Team Up",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Return Label",
+    "number": "153",
+    "rarity": "Uncommon",
+    "set_name": "Team Up",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Sabrina's Suggestion",
+    "number": "154",
+    "rarity": "Uncommon",
+    "set_name": "Team Up",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Unidentified Fossil",
+    "number": "155",
+    "rarity": "Uncommon",
+    "set_name": "Team Up",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Viridian Forest",
+    "number": "156",
+    "rarity": "Uncommon",
+    "set_name": "Team Up",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Water Memory",
+    "number": "157",
+    "rarity": "Uncommon",
+    "set_name": "Team Up",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Wondrous Labyrinth \u25c7",
+    "number": "158",
+    "rarity": "Rare Prism Star",
+    "set_name": "Team Up",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Celebi & Venusaur-GX",
+    "number": "159",
+    "rarity": "Rare Ultra",
+    "set_name": "Team Up",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Magikarp & Wailord-GX",
+    "number": "160",
+    "rarity": "Rare Ultra",
+    "set_name": "Team Up",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Magikarp & Wailord-GX",
+    "number": "161",
+    "rarity": "Rare Ultra",
+    "set_name": "Team Up",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Pikachu & Zekrom-GX",
+    "number": "162",
+    "rarity": "Rare Ultra",
+    "set_name": "Team Up",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Ampharos-GX",
+    "number": "163",
+    "rarity": "Rare Ultra",
+    "set_name": "Team Up",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Gengar & Mimikyu-GX",
+    "number": "164",
+    "rarity": "Rare Ultra",
+    "set_name": "Team Up",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Gengar & Mimikyu-GX",
+    "number": "165",
+    "rarity": "Rare Ultra",
+    "set_name": "Team Up",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Hoopa-GX",
+    "number": "166",
+    "rarity": "Rare Ultra",
+    "set_name": "Team Up",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Incineroar-GX",
+    "number": "167",
+    "rarity": "Rare Ultra",
+    "set_name": "Team Up",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Cobalion-GX",
+    "number": "168",
+    "rarity": "Rare Ultra",
+    "set_name": "Team Up",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Latias & Latios-GX",
+    "number": "169",
+    "rarity": "Rare Ultra",
+    "set_name": "Team Up",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Latias & Latios-GX",
+    "number": "170",
+    "rarity": "Rare Ultra",
+    "set_name": "Team Up",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Eevee & Snorlax-GX",
+    "number": "171",
+    "rarity": "Rare Ultra",
+    "set_name": "Team Up",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Brock's Grit",
+    "number": "172",
+    "rarity": "Rare Ultra",
+    "set_name": "Team Up",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Dana",
+    "number": "173",
+    "rarity": "Rare Ultra",
+    "set_name": "Team Up",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Erika's Hospitality",
+    "number": "174",
+    "rarity": "Rare Ultra",
+    "set_name": "Team Up",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Evelyn",
+    "number": "175",
+    "rarity": "Rare Ultra",
+    "set_name": "Team Up",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Ingo & Emmet",
+    "number": "176",
+    "rarity": "Rare Ultra",
+    "set_name": "Team Up",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Jasmine",
+    "number": "177",
+    "rarity": "Rare Ultra",
+    "set_name": "Team Up",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Morgan",
+    "number": "178",
+    "rarity": "Rare Ultra",
+    "set_name": "Team Up",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Nanu",
+    "number": "179",
+    "rarity": "Rare Ultra",
+    "set_name": "Team Up",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Nita",
+    "number": "180",
+    "rarity": "Rare Ultra",
+    "set_name": "Team Up",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Sabrina's Suggestion",
+    "number": "181",
+    "rarity": "Rare Ultra",
+    "set_name": "Team Up",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Celebi & Venusaur-GX",
+    "number": "182",
+    "rarity": "Rare Rainbow",
+    "set_name": "Team Up",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Magikarp & Wailord-GX",
+    "number": "183",
+    "rarity": "Rare Rainbow",
+    "set_name": "Team Up",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Pikachu & Zekrom-GX",
+    "number": "184",
+    "rarity": "Rare Rainbow",
+    "set_name": "Team Up",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Ampharos-GX",
+    "number": "185",
+    "rarity": "Rare Rainbow",
+    "set_name": "Team Up",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Gengar & Mimikyu-GX",
+    "number": "186",
+    "rarity": "Rare Rainbow",
+    "set_name": "Team Up",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Hoopa-GX",
+    "number": "187",
+    "rarity": "Rare Rainbow",
+    "set_name": "Team Up",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Incineroar-GX",
+    "number": "188",
+    "rarity": "Rare Rainbow",
+    "set_name": "Team Up",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Cobalion-GX",
+    "number": "189",
+    "rarity": "Rare Rainbow",
+    "set_name": "Team Up",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Latias & Latios-GX",
+    "number": "190",
+    "rarity": "Rare Rainbow",
+    "set_name": "Team Up",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Eevee & Snorlax-GX",
+    "number": "191",
+    "rarity": "Rare Rainbow",
+    "set_name": "Team Up",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Dangerous Drill",
+    "number": "192",
+    "rarity": "Rare Secret",
+    "set_name": "Team Up",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Electrocharger",
+    "number": "193",
+    "rarity": "Rare Secret",
+    "set_name": "Team Up",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Judge Whistle",
+    "number": "194",
+    "rarity": "Rare Secret",
+    "set_name": "Team Up",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Metal Goggles",
+    "number": "195",
+    "rarity": "Rare Secret",
+    "set_name": "Team Up",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Pok\u00e9mon Communication",
+    "number": "196",
+    "rarity": "Rare Secret",
+    "set_name": "Team Up",
+    "set_series": "Sun & Moon"
+  }
+]

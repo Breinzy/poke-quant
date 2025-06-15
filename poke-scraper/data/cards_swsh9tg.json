@@ -1,0 +1,212 @@
+[
+  {
+    "name": "Flareon",
+    "number": "TG01",
+    "rarity": "Trainer Gallery Rare Holo",
+    "set_name": "Brilliant Stars Trainer Gallery",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Vaporeon",
+    "number": "TG02",
+    "rarity": "Trainer Gallery Rare Holo",
+    "set_name": "Brilliant Stars Trainer Gallery",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Octillery",
+    "number": "TG03",
+    "rarity": "Trainer Gallery Rare Holo",
+    "set_name": "Brilliant Stars Trainer Gallery",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Jolteon",
+    "number": "TG04",
+    "rarity": "Trainer Gallery Rare Holo",
+    "set_name": "Brilliant Stars Trainer Gallery",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Zekrom",
+    "number": "TG05",
+    "rarity": "Trainer Gallery Rare Holo",
+    "set_name": "Brilliant Stars Trainer Gallery",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Dusknoir",
+    "number": "TG06",
+    "rarity": "Trainer Gallery Rare Holo",
+    "set_name": "Brilliant Stars Trainer Gallery",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Dedenne",
+    "number": "TG07",
+    "rarity": "Trainer Gallery Rare Holo",
+    "set_name": "Brilliant Stars Trainer Gallery",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Alcremie",
+    "number": "TG08",
+    "rarity": "Trainer Gallery Rare Holo",
+    "set_name": "Brilliant Stars Trainer Gallery",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Ariados",
+    "number": "TG09",
+    "rarity": "Trainer Gallery Rare Holo",
+    "set_name": "Brilliant Stars Trainer Gallery",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Houndoom",
+    "number": "TG10",
+    "rarity": "Trainer Gallery Rare Holo",
+    "set_name": "Brilliant Stars Trainer Gallery",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Eevee",
+    "number": "TG11",
+    "rarity": "Trainer Gallery Rare Holo",
+    "set_name": "Brilliant Stars Trainer Gallery",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Oranguru",
+    "number": "TG12",
+    "rarity": "Trainer Gallery Rare Holo",
+    "set_name": "Brilliant Stars Trainer Gallery",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Boltund V",
+    "number": "TG13",
+    "rarity": "Rare Holo V",
+    "set_name": "Brilliant Stars Trainer Gallery",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Sylveon V",
+    "number": "TG14",
+    "rarity": "Rare Holo V",
+    "set_name": "Brilliant Stars Trainer Gallery",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Sylveon VMAX",
+    "number": "TG15",
+    "rarity": "Rare Holo VMAX",
+    "set_name": "Brilliant Stars Trainer Gallery",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Mimikyu V",
+    "number": "TG16",
+    "rarity": "Rare Holo V",
+    "set_name": "Brilliant Stars Trainer Gallery",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Mimikyu VMAX",
+    "number": "TG17",
+    "rarity": "Rare Holo VMAX",
+    "set_name": "Brilliant Stars Trainer Gallery",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Single Strike Urshifu V",
+    "number": "TG18",
+    "rarity": "Rare Holo V",
+    "set_name": "Brilliant Stars Trainer Gallery",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Single Strike Urshifu VMAX",
+    "number": "TG19",
+    "rarity": "Rare Holo VMAX",
+    "set_name": "Brilliant Stars Trainer Gallery",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Rapid Strike Urshifu V",
+    "number": "TG20",
+    "rarity": "Rare Holo V",
+    "set_name": "Brilliant Stars Trainer Gallery",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Rapid Strike Urshifu VMAX",
+    "number": "TG21",
+    "rarity": "Rare Holo VMAX",
+    "set_name": "Brilliant Stars Trainer Gallery",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Umbreon V",
+    "number": "TG22",
+    "rarity": "Rare Holo V",
+    "set_name": "Brilliant Stars Trainer Gallery",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Umbreon VMAX",
+    "number": "TG23",
+    "rarity": "Rare Holo VMAX",
+    "set_name": "Brilliant Stars Trainer Gallery",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Acerola's Premonition",
+    "number": "TG24",
+    "rarity": "Rare Ultra",
+    "set_name": "Brilliant Stars Trainer Gallery",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Caf\u00e9 Master",
+    "number": "TG25",
+    "rarity": "Rare Ultra",
+    "set_name": "Brilliant Stars Trainer Gallery",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Gloria",
+    "number": "TG26",
+    "rarity": "Rare Ultra",
+    "set_name": "Brilliant Stars Trainer Gallery",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Rapid Strike Style Mustard",
+    "number": "TG27",
+    "rarity": "Rare Ultra",
+    "set_name": "Brilliant Stars Trainer Gallery",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Single Strike Style Mustard",
+    "number": "TG28",
+    "rarity": "Rare Ultra",
+    "set_name": "Brilliant Stars Trainer Gallery",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Single Strike Urshifu VMAX",
+    "number": "TG29",
+    "rarity": "Rare Secret",
+    "set_name": "Brilliant Stars Trainer Gallery",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Rapid Strike Urshifu VMAX",
+    "number": "TG30",
+    "rarity": "Rare Secret",
+    "set_name": "Brilliant Stars Trainer Gallery",
+    "set_series": "Sword & Shield"
+  }
+]

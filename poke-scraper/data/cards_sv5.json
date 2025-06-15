@@ -1,0 +1,1528 @@
+[
+  {
+    "name": "Scyther",
+    "number": "1",
+    "rarity": "Common",
+    "set_name": "Temporal Forces",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Pineco",
+    "number": "2",
+    "rarity": "Common",
+    "set_name": "Temporal Forces",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Seedot",
+    "number": "3",
+    "rarity": "Common",
+    "set_name": "Temporal Forces",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Nuzleaf",
+    "number": "4",
+    "rarity": "Common",
+    "set_name": "Temporal Forces",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Shiftry",
+    "number": "5",
+    "rarity": "Uncommon",
+    "set_name": "Temporal Forces",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Shroomish",
+    "number": "6",
+    "rarity": "Common",
+    "set_name": "Temporal Forces",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Breloom",
+    "number": "7",
+    "rarity": "Common",
+    "set_name": "Temporal Forces",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Roselia",
+    "number": "8",
+    "rarity": "Common",
+    "set_name": "Temporal Forces",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Roserade",
+    "number": "9",
+    "rarity": "Uncommon",
+    "set_name": "Temporal Forces",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Turtwig",
+    "number": "10",
+    "rarity": "Common",
+    "set_name": "Temporal Forces",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Grotle",
+    "number": "11",
+    "rarity": "Common",
+    "set_name": "Temporal Forces",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Torterra ex",
+    "number": "12",
+    "rarity": "Double Rare",
+    "set_name": "Temporal Forces",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Shaymin",
+    "number": "13",
+    "rarity": "Uncommon",
+    "set_name": "Temporal Forces",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Whimsicott",
+    "number": "15",
+    "rarity": "Rare",
+    "set_name": "Temporal Forces",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Cottonee",
+    "number": "14",
+    "rarity": "Common",
+    "set_name": "Temporal Forces",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Deerling",
+    "number": "16",
+    "rarity": "Common",
+    "set_name": "Temporal Forces",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Sawsbuck",
+    "number": "17",
+    "rarity": "Uncommon",
+    "set_name": "Temporal Forces",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Grubbin",
+    "number": "18",
+    "rarity": "Common",
+    "set_name": "Temporal Forces",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Bramblin",
+    "number": "20",
+    "rarity": "Common",
+    "set_name": "Temporal Forces",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Brambleghast",
+    "number": "21",
+    "rarity": "Rare",
+    "set_name": "Temporal Forces",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Rabsca",
+    "number": "24",
+    "rarity": "Uncommon",
+    "set_name": "Temporal Forces",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Dhelmise",
+    "number": "19",
+    "rarity": "Uncommon",
+    "set_name": "Temporal Forces",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Rellor",
+    "number": "23",
+    "rarity": "Common",
+    "set_name": "Temporal Forces",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Scovillain ex",
+    "number": "22",
+    "rarity": "Double Rare",
+    "set_name": "Temporal Forces",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Iron Leaves ex",
+    "number": "25",
+    "rarity": "Double Rare",
+    "set_name": "Temporal Forces",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Ponyta",
+    "number": "26",
+    "rarity": "Common",
+    "set_name": "Temporal Forces",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Rapidash",
+    "number": "27",
+    "rarity": "Uncommon",
+    "set_name": "Temporal Forces",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Slugma",
+    "number": "28",
+    "rarity": "Common",
+    "set_name": "Temporal Forces",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Magcargo",
+    "number": "29",
+    "rarity": "Rare",
+    "set_name": "Temporal Forces",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Victini",
+    "number": "30",
+    "rarity": "Common",
+    "set_name": "Temporal Forces",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Heatmor",
+    "number": "31",
+    "rarity": "Common",
+    "set_name": "Temporal Forces",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Litten",
+    "number": "32",
+    "rarity": "Common",
+    "set_name": "Temporal Forces",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Torracat",
+    "number": "33",
+    "rarity": "Common",
+    "set_name": "Temporal Forces",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Incineroar ex",
+    "number": "34",
+    "rarity": "Double Rare",
+    "set_name": "Temporal Forces",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Turtonator",
+    "number": "35",
+    "rarity": "Common",
+    "set_name": "Temporal Forces",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Sizzlipede",
+    "number": "36",
+    "rarity": "Common",
+    "set_name": "Temporal Forces",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Centiskorch",
+    "number": "37",
+    "rarity": "Uncommon",
+    "set_name": "Temporal Forces",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Gouging Fire ex",
+    "number": "38",
+    "rarity": "Double Rare",
+    "set_name": "Temporal Forces",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Totodile",
+    "number": "39",
+    "rarity": "Common",
+    "set_name": "Temporal Forces",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Croconaw",
+    "number": "40",
+    "rarity": "Common",
+    "set_name": "Temporal Forces",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Feraligatr",
+    "number": "41",
+    "rarity": "Rare",
+    "set_name": "Temporal Forces",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Carvanha",
+    "number": "42",
+    "rarity": "Common",
+    "set_name": "Temporal Forces",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Sharpedo",
+    "number": "43",
+    "rarity": "Uncommon",
+    "set_name": "Temporal Forces",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Keldeo",
+    "number": "44",
+    "rarity": "Uncommon",
+    "set_name": "Temporal Forces",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Snom",
+    "number": "45",
+    "rarity": "Common",
+    "set_name": "Temporal Forces",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Frosmoth",
+    "number": "46",
+    "rarity": "Common",
+    "set_name": "Temporal Forces",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Wiglett",
+    "number": "47",
+    "rarity": "Common",
+    "set_name": "Temporal Forces",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Finizen",
+    "number": "48",
+    "rarity": "Common",
+    "set_name": "Temporal Forces",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Palafin",
+    "number": "49",
+    "rarity": "Uncommon",
+    "set_name": "Temporal Forces",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Walking Wake ex",
+    "number": "50",
+    "rarity": "Double Rare",
+    "set_name": "Temporal Forces",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Pikachu",
+    "number": "51",
+    "rarity": "Common",
+    "set_name": "Temporal Forces",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Raichu",
+    "number": "52",
+    "rarity": "Common",
+    "set_name": "Temporal Forces",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Electabuzz",
+    "number": "53",
+    "rarity": "Common",
+    "set_name": "Temporal Forces",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Electivire",
+    "number": "54",
+    "rarity": "Uncommon",
+    "set_name": "Temporal Forces",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Charjabug",
+    "number": "55",
+    "rarity": "Common",
+    "set_name": "Temporal Forces",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Vikavolt",
+    "number": "56",
+    "rarity": "Uncommon",
+    "set_name": "Temporal Forces",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Zeraora",
+    "number": "57",
+    "rarity": "Uncommon",
+    "set_name": "Temporal Forces",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Yamper",
+    "number": "58",
+    "rarity": "Common",
+    "set_name": "Temporal Forces",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Boltund",
+    "number": "59",
+    "rarity": "Uncommon",
+    "set_name": "Temporal Forces",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Wugtrio ex",
+    "number": "60",
+    "rarity": "Double Rare",
+    "set_name": "Temporal Forces",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Iron Hands",
+    "number": "61",
+    "rarity": "Uncommon",
+    "set_name": "Temporal Forces",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Iron Thorns",
+    "number": "62",
+    "rarity": "Rare",
+    "set_name": "Temporal Forces",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Mr. Mime",
+    "number": "63",
+    "rarity": "Common",
+    "set_name": "Temporal Forces",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Marill",
+    "number": "64",
+    "rarity": "Common",
+    "set_name": "Temporal Forces",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Azumarill",
+    "number": "65",
+    "rarity": "Common",
+    "set_name": "Temporal Forces",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Girafarig",
+    "number": "66",
+    "rarity": "Common",
+    "set_name": "Temporal Forces",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Latias",
+    "number": "67",
+    "rarity": "Uncommon",
+    "set_name": "Temporal Forces",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Bronzor",
+    "number": "68",
+    "rarity": "Common",
+    "set_name": "Temporal Forces",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Bronzong",
+    "number": "69",
+    "rarity": "Uncommon",
+    "set_name": "Temporal Forces",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Solosis",
+    "number": "70",
+    "rarity": "Common",
+    "set_name": "Temporal Forces",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Duosion",
+    "number": "71",
+    "rarity": "Common",
+    "set_name": "Temporal Forces",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Reuniclus",
+    "number": "72",
+    "rarity": "Uncommon",
+    "set_name": "Temporal Forces",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Elgyem",
+    "number": "73",
+    "rarity": "Common",
+    "set_name": "Temporal Forces",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Beheeyem",
+    "number": "74",
+    "rarity": "Uncommon",
+    "set_name": "Temporal Forces",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Cutiefly",
+    "number": "75",
+    "rarity": "Common",
+    "set_name": "Temporal Forces",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Ribombee",
+    "number": "76",
+    "rarity": "Uncommon",
+    "set_name": "Temporal Forces",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Scream Tail",
+    "number": "77",
+    "rarity": "Uncommon",
+    "set_name": "Temporal Forces",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Flutter Mane",
+    "number": "78",
+    "rarity": "Rare",
+    "set_name": "Temporal Forces",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Iron Valiant",
+    "number": "80",
+    "rarity": "Rare",
+    "set_name": "Temporal Forces",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Iron Valiant",
+    "number": "79",
+    "rarity": "Uncommon",
+    "set_name": "Temporal Forces",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Iron Crown ex",
+    "number": "81",
+    "rarity": "Double Rare",
+    "set_name": "Temporal Forces",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Meditite",
+    "number": "82",
+    "rarity": "Common",
+    "set_name": "Temporal Forces",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Medicham",
+    "number": "83",
+    "rarity": "Common",
+    "set_name": "Temporal Forces",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Relicanth",
+    "number": "84",
+    "rarity": "Rare",
+    "set_name": "Temporal Forces",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Drilbur",
+    "number": "85",
+    "rarity": "Common",
+    "set_name": "Temporal Forces",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Excadrill",
+    "number": "86",
+    "rarity": "Uncommon",
+    "set_name": "Temporal Forces",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Golett",
+    "number": "87",
+    "rarity": "Common",
+    "set_name": "Temporal Forces",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Golurk",
+    "number": "88",
+    "rarity": "Uncommon",
+    "set_name": "Temporal Forces",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Rockruff",
+    "number": "89",
+    "rarity": "Common",
+    "set_name": "Temporal Forces",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Lycanroc",
+    "number": "90",
+    "rarity": "Uncommon",
+    "set_name": "Temporal Forces",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Mudbray",
+    "number": "91",
+    "rarity": "Common",
+    "set_name": "Temporal Forces",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Mudsdale",
+    "number": "92",
+    "rarity": "Uncommon",
+    "set_name": "Temporal Forces",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Rolycoly",
+    "number": "93",
+    "rarity": "Common",
+    "set_name": "Temporal Forces",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Carkol",
+    "number": "94",
+    "rarity": "Common",
+    "set_name": "Temporal Forces",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Coalossal",
+    "number": "95",
+    "rarity": "Uncommon",
+    "set_name": "Temporal Forces",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Great Tusk",
+    "number": "96",
+    "rarity": "Uncommon",
+    "set_name": "Temporal Forces",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Great Tusk",
+    "number": "97",
+    "rarity": "Uncommon",
+    "set_name": "Temporal Forces",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Sandy Shocks",
+    "number": "98",
+    "rarity": "Uncommon",
+    "set_name": "Temporal Forces",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Iron Boulder ex",
+    "number": "99",
+    "rarity": "Double Rare",
+    "set_name": "Temporal Forces",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Ekans",
+    "number": "100",
+    "rarity": "Common",
+    "set_name": "Temporal Forces",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Arbok",
+    "number": "101",
+    "rarity": "Common",
+    "set_name": "Temporal Forces",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Gastly",
+    "number": "102",
+    "rarity": "Common",
+    "set_name": "Temporal Forces",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Haunter",
+    "number": "103",
+    "rarity": "Common",
+    "set_name": "Temporal Forces",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Gengar ex",
+    "number": "104",
+    "rarity": "Double Rare",
+    "set_name": "Temporal Forces",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Mightyena",
+    "number": "106",
+    "rarity": "Common",
+    "set_name": "Temporal Forces",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Poochyena",
+    "number": "105",
+    "rarity": "Common",
+    "set_name": "Temporal Forces",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Sableye",
+    "number": "107",
+    "rarity": "Uncommon",
+    "set_name": "Temporal Forces",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Farigiraf ex",
+    "number": "108",
+    "rarity": "Double Rare",
+    "set_name": "Temporal Forces",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Roaring Moon",
+    "number": "109",
+    "rarity": "Rare",
+    "set_name": "Temporal Forces",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Forretress",
+    "number": "110",
+    "rarity": "Uncommon",
+    "set_name": "Temporal Forces",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Scizor ex",
+    "number": "111",
+    "rarity": "Double Rare",
+    "set_name": "Temporal Forces",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Mawile",
+    "number": "112",
+    "rarity": "Common",
+    "set_name": "Temporal Forces",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Metang",
+    "number": "114",
+    "rarity": "Common",
+    "set_name": "Temporal Forces",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Meltan",
+    "number": "116",
+    "rarity": "Common",
+    "set_name": "Temporal Forces",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Beldum",
+    "number": "113",
+    "rarity": "Common",
+    "set_name": "Temporal Forces",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Metagross",
+    "number": "115",
+    "rarity": "Uncommon",
+    "set_name": "Temporal Forces",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Melmetal",
+    "number": "117",
+    "rarity": "Rare",
+    "set_name": "Temporal Forces",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Iron Treads",
+    "number": "118",
+    "rarity": "Uncommon",
+    "set_name": "Temporal Forces",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Raging Bolt ex",
+    "number": "123",
+    "rarity": "Double Rare",
+    "set_name": "Temporal Forces",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Koraidon",
+    "number": "119",
+    "rarity": "Rare",
+    "set_name": "Temporal Forces",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Lickitung",
+    "number": "124",
+    "rarity": "Common",
+    "set_name": "Temporal Forces",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Koraidon ex",
+    "number": "120",
+    "rarity": "Double Rare",
+    "set_name": "Temporal Forces",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Miraidon",
+    "number": "121",
+    "rarity": "Rare",
+    "set_name": "Temporal Forces",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Miraidon ex",
+    "number": "122",
+    "rarity": "Double Rare",
+    "set_name": "Temporal Forces",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Lickilicky",
+    "number": "125",
+    "rarity": "Common",
+    "set_name": "Temporal Forces",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Hoothoot",
+    "number": "126",
+    "rarity": "Common",
+    "set_name": "Temporal Forces",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Noctowl",
+    "number": "127",
+    "rarity": "Common",
+    "set_name": "Temporal Forces",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Dudunsparce",
+    "number": "129",
+    "rarity": "Rare",
+    "set_name": "Temporal Forces",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Dunsparce",
+    "number": "128",
+    "rarity": "Common",
+    "set_name": "Temporal Forces",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Skitty",
+    "number": "130",
+    "rarity": "Common",
+    "set_name": "Temporal Forces",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Delcatty",
+    "number": "131",
+    "rarity": "Uncommon",
+    "set_name": "Temporal Forces",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Chatot",
+    "number": "132",
+    "rarity": "Common",
+    "set_name": "Temporal Forces",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Pidove",
+    "number": "133",
+    "rarity": "Common",
+    "set_name": "Temporal Forces",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Tranquill",
+    "number": "134",
+    "rarity": "Common",
+    "set_name": "Temporal Forces",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Unfezant",
+    "number": "135",
+    "rarity": "Uncommon",
+    "set_name": "Temporal Forces",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Minccino",
+    "number": "136",
+    "rarity": "Common",
+    "set_name": "Temporal Forces",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Drampa",
+    "number": "138",
+    "rarity": "Rare",
+    "set_name": "Temporal Forces",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Cinccino",
+    "number": "137",
+    "rarity": "Uncommon",
+    "set_name": "Temporal Forces",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Iron Jugulis",
+    "number": "139",
+    "rarity": "Uncommon",
+    "set_name": "Temporal Forces",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Ancient Booster Energy Capsule",
+    "number": "140",
+    "rarity": "Uncommon",
+    "set_name": "Temporal Forces",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Awakening Drum",
+    "number": "141",
+    "rarity": "ACE SPEC Rare",
+    "set_name": "Temporal Forces",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Bianca's Devotion",
+    "number": "142",
+    "rarity": "Uncommon",
+    "set_name": "Temporal Forces",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Boxed Order",
+    "number": "143",
+    "rarity": "Uncommon",
+    "set_name": "Temporal Forces",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Buddy-Buddy Poffin",
+    "number": "144",
+    "rarity": "Uncommon",
+    "set_name": "Temporal Forces",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Eri",
+    "number": "146",
+    "rarity": "Uncommon",
+    "set_name": "Temporal Forces",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Ciphermaniac's Codebreaking",
+    "number": "145",
+    "rarity": "Uncommon",
+    "set_name": "Temporal Forces",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Explorer's Guidance",
+    "number": "147",
+    "rarity": "Uncommon",
+    "set_name": "Temporal Forces",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Full Metal Lab",
+    "number": "148",
+    "rarity": "Uncommon",
+    "set_name": "Temporal Forces",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Future Booster Energy Capsule",
+    "number": "149",
+    "rarity": "Uncommon",
+    "set_name": "Temporal Forces",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Hand Trimmer",
+    "number": "150",
+    "rarity": "Uncommon",
+    "set_name": "Temporal Forces",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Heavy Baton",
+    "number": "151",
+    "rarity": "Uncommon",
+    "set_name": "Temporal Forces",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Hero's Cape",
+    "number": "152",
+    "rarity": "ACE SPEC Rare",
+    "set_name": "Temporal Forces",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Master Ball",
+    "number": "153",
+    "rarity": "ACE SPEC Rare",
+    "set_name": "Temporal Forces",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Maximum Belt",
+    "number": "154",
+    "rarity": "ACE SPEC Rare",
+    "set_name": "Temporal Forces",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Morty's Conviction",
+    "number": "155",
+    "rarity": "Uncommon",
+    "set_name": "Temporal Forces",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Perilous Jungle",
+    "number": "156",
+    "rarity": "Uncommon",
+    "set_name": "Temporal Forces",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Prime Catcher",
+    "number": "157",
+    "rarity": "ACE SPEC Rare",
+    "set_name": "Temporal Forces",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Reboot Pod",
+    "number": "158",
+    "rarity": "ACE SPEC Rare",
+    "set_name": "Temporal Forces",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Rescue Board",
+    "number": "159",
+    "rarity": "Uncommon",
+    "set_name": "Temporal Forces",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Salvatore",
+    "number": "160",
+    "rarity": "Uncommon",
+    "set_name": "Temporal Forces",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Mist Energy",
+    "number": "161",
+    "rarity": "Uncommon",
+    "set_name": "Temporal Forces",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Neo Upper Energy",
+    "number": "162",
+    "rarity": "ACE SPEC Rare",
+    "set_name": "Temporal Forces",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Shiftry",
+    "number": "163",
+    "rarity": "Illustration Rare",
+    "set_name": "Temporal Forces",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Grotle",
+    "number": "164",
+    "rarity": "Illustration Rare",
+    "set_name": "Temporal Forces",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Deerling",
+    "number": "165",
+    "rarity": "Illustration Rare",
+    "set_name": "Temporal Forces",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Sawsbuck",
+    "number": "166",
+    "rarity": "Illustration Rare",
+    "set_name": "Temporal Forces",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Litten",
+    "number": "167",
+    "rarity": "Illustration Rare",
+    "set_name": "Temporal Forces",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Snom",
+    "number": "168",
+    "rarity": "Illustration Rare",
+    "set_name": "Temporal Forces",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Charjabug",
+    "number": "169",
+    "rarity": "Illustration Rare",
+    "set_name": "Temporal Forces",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Bronzor",
+    "number": "170",
+    "rarity": "Illustration Rare",
+    "set_name": "Temporal Forces",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Reuniclus",
+    "number": "171",
+    "rarity": "Illustration Rare",
+    "set_name": "Temporal Forces",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Cutiefly",
+    "number": "172",
+    "rarity": "Illustration Rare",
+    "set_name": "Temporal Forces",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Relicanth",
+    "number": "173",
+    "rarity": "Illustration Rare",
+    "set_name": "Temporal Forces",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Excadrill",
+    "number": "174",
+    "rarity": "Illustration Rare",
+    "set_name": "Temporal Forces",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Mudsdale",
+    "number": "175",
+    "rarity": "Illustration Rare",
+    "set_name": "Temporal Forces",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Arbok",
+    "number": "176",
+    "rarity": "Illustration Rare",
+    "set_name": "Temporal Forces",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Gastly",
+    "number": "177",
+    "rarity": "Illustration Rare",
+    "set_name": "Temporal Forces",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Metagross",
+    "number": "178",
+    "rarity": "Illustration Rare",
+    "set_name": "Temporal Forces",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Meltan",
+    "number": "179",
+    "rarity": "Illustration Rare",
+    "set_name": "Temporal Forces",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Lickitung",
+    "number": "180",
+    "rarity": "Illustration Rare",
+    "set_name": "Temporal Forces",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Chatot",
+    "number": "181",
+    "rarity": "Illustration Rare",
+    "set_name": "Temporal Forces",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Minccino",
+    "number": "182",
+    "rarity": "Illustration Rare",
+    "set_name": "Temporal Forces",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Cinccino",
+    "number": "183",
+    "rarity": "Illustration Rare",
+    "set_name": "Temporal Forces",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Drampa",
+    "number": "184",
+    "rarity": "Illustration Rare",
+    "set_name": "Temporal Forces",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Torterra ex",
+    "number": "185",
+    "rarity": "Ultra Rare",
+    "set_name": "Temporal Forces",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Iron Leaves ex",
+    "number": "186",
+    "rarity": "Ultra Rare",
+    "set_name": "Temporal Forces",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Incineroar ex",
+    "number": "187",
+    "rarity": "Ultra Rare",
+    "set_name": "Temporal Forces",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Gouging Fire ex",
+    "number": "188",
+    "rarity": "Ultra Rare",
+    "set_name": "Temporal Forces",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Walking Wake ex",
+    "number": "189",
+    "rarity": "Ultra Rare",
+    "set_name": "Temporal Forces",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Wugtrio ex",
+    "number": "190",
+    "rarity": "Ultra Rare",
+    "set_name": "Temporal Forces",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Iron Crown ex",
+    "number": "191",
+    "rarity": "Ultra Rare",
+    "set_name": "Temporal Forces",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Iron Boulder ex",
+    "number": "192",
+    "rarity": "Ultra Rare",
+    "set_name": "Temporal Forces",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Scizor ex",
+    "number": "195",
+    "rarity": "Ultra Rare",
+    "set_name": "Temporal Forces",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Farigiraf ex",
+    "number": "194",
+    "rarity": "Ultra Rare",
+    "set_name": "Temporal Forces",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Gengar ex",
+    "number": "193",
+    "rarity": "Ultra Rare",
+    "set_name": "Temporal Forces",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Raging Bolt ex",
+    "number": "196",
+    "rarity": "Ultra Rare",
+    "set_name": "Temporal Forces",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Bianca's Devotion",
+    "number": "197",
+    "rarity": "Ultra Rare",
+    "set_name": "Temporal Forces",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Eri",
+    "number": "199",
+    "rarity": "Ultra Rare",
+    "set_name": "Temporal Forces",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Explorer's Guidance",
+    "number": "200",
+    "rarity": "Ultra Rare",
+    "set_name": "Temporal Forces",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Salvatore",
+    "number": "202",
+    "rarity": "Ultra Rare",
+    "set_name": "Temporal Forces",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Ciphermaniac's Codebreaking",
+    "number": "198",
+    "rarity": "Ultra Rare",
+    "set_name": "Temporal Forces",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Morty's Conviction",
+    "number": "201",
+    "rarity": "Ultra Rare",
+    "set_name": "Temporal Forces",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Iron Leaves ex",
+    "number": "203",
+    "rarity": "Special Illustration Rare",
+    "set_name": "Temporal Forces",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Gouging Fire ex",
+    "number": "204",
+    "rarity": "Special Illustration Rare",
+    "set_name": "Temporal Forces",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Walking Wake ex",
+    "number": "205",
+    "rarity": "Special Illustration Rare",
+    "set_name": "Temporal Forces",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Iron Boulder ex",
+    "number": "207",
+    "rarity": "Special Illustration Rare",
+    "set_name": "Temporal Forces",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Iron Crown ex",
+    "number": "206",
+    "rarity": "Special Illustration Rare",
+    "set_name": "Temporal Forces",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Raging Bolt ex",
+    "number": "208",
+    "rarity": "Special Illustration Rare",
+    "set_name": "Temporal Forces",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Bianca's Devotion",
+    "number": "209",
+    "rarity": "Special Illustration Rare",
+    "set_name": "Temporal Forces",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Eri",
+    "number": "210",
+    "rarity": "Special Illustration Rare",
+    "set_name": "Temporal Forces",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Morty's Conviction",
+    "number": "211",
+    "rarity": "Special Illustration Rare",
+    "set_name": "Temporal Forces",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Salvatore",
+    "number": "212",
+    "rarity": "Special Illustration Rare",
+    "set_name": "Temporal Forces",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Iron Leaves ex",
+    "number": "213",
+    "rarity": "Hyper Rare",
+    "set_name": "Temporal Forces",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Gouging Fire ex",
+    "number": "214",
+    "rarity": "Hyper Rare",
+    "set_name": "Temporal Forces",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Walking Wake ex",
+    "number": "215",
+    "rarity": "Hyper Rare",
+    "set_name": "Temporal Forces",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Iron Crown ex",
+    "number": "216",
+    "rarity": "Hyper Rare",
+    "set_name": "Temporal Forces",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Iron Boulder ex",
+    "number": "217",
+    "rarity": "Hyper Rare",
+    "set_name": "Temporal Forces",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Raging Bolt ex",
+    "number": "218",
+    "rarity": "Hyper Rare",
+    "set_name": "Temporal Forces",
+    "set_series": "Scarlet & Violet"
+  }
+]

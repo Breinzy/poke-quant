@@ -1,0 +1,793 @@
+[
+  {
+    "name": "Dark Ampharos",
+    "number": "1",
+    "rarity": "Rare Holo",
+    "set_name": "Neo Destiny",
+    "set_series": "Neo"
+  },
+  {
+    "name": "Dark Crobat",
+    "number": "2",
+    "rarity": "Rare Holo",
+    "set_name": "Neo Destiny",
+    "set_series": "Neo"
+  },
+  {
+    "name": "Dark Donphan",
+    "number": "3",
+    "rarity": "Rare Holo",
+    "set_name": "Neo Destiny",
+    "set_series": "Neo"
+  },
+  {
+    "name": "Dark Espeon",
+    "number": "4",
+    "rarity": "Rare Holo",
+    "set_name": "Neo Destiny",
+    "set_series": "Neo"
+  },
+  {
+    "name": "Dark Feraligatr",
+    "number": "5",
+    "rarity": "Rare Holo",
+    "set_name": "Neo Destiny",
+    "set_series": "Neo"
+  },
+  {
+    "name": "Dark Gengar",
+    "number": "6",
+    "rarity": "Rare Holo",
+    "set_name": "Neo Destiny",
+    "set_series": "Neo"
+  },
+  {
+    "name": "Dark Houndoom",
+    "number": "7",
+    "rarity": "Rare Holo",
+    "set_name": "Neo Destiny",
+    "set_series": "Neo"
+  },
+  {
+    "name": "Dark Porygon2",
+    "number": "8",
+    "rarity": "Rare Holo",
+    "set_name": "Neo Destiny",
+    "set_series": "Neo"
+  },
+  {
+    "name": "Dark Scizor",
+    "number": "9",
+    "rarity": "Rare Holo",
+    "set_name": "Neo Destiny",
+    "set_series": "Neo"
+  },
+  {
+    "name": "Dark Typhlosion",
+    "number": "10",
+    "rarity": "Rare Holo",
+    "set_name": "Neo Destiny",
+    "set_series": "Neo"
+  },
+  {
+    "name": "Dark Tyranitar",
+    "number": "11",
+    "rarity": "Rare Holo",
+    "set_name": "Neo Destiny",
+    "set_series": "Neo"
+  },
+  {
+    "name": "Light Arcanine",
+    "number": "12",
+    "rarity": "Rare Holo",
+    "set_name": "Neo Destiny",
+    "set_series": "Neo"
+  },
+  {
+    "name": "Light Azumarill",
+    "number": "13",
+    "rarity": "Rare Holo",
+    "set_name": "Neo Destiny",
+    "set_series": "Neo"
+  },
+  {
+    "name": "Light Dragonite",
+    "number": "14",
+    "rarity": "Rare Holo",
+    "set_name": "Neo Destiny",
+    "set_series": "Neo"
+  },
+  {
+    "name": "Light Togetic",
+    "number": "15",
+    "rarity": "Rare Holo",
+    "set_name": "Neo Destiny",
+    "set_series": "Neo"
+  },
+  {
+    "name": "Miracle Energy",
+    "number": "16",
+    "rarity": "Rare Holo",
+    "set_name": "Neo Destiny",
+    "set_series": "Neo"
+  },
+  {
+    "name": "Dark Ariados",
+    "number": "17",
+    "rarity": "Rare",
+    "set_name": "Neo Destiny",
+    "set_series": "Neo"
+  },
+  {
+    "name": "Dark Magcargo",
+    "number": "18",
+    "rarity": "Rare",
+    "set_name": "Neo Destiny",
+    "set_series": "Neo"
+  },
+  {
+    "name": "Dark Omastar",
+    "number": "19",
+    "rarity": "Rare",
+    "set_name": "Neo Destiny",
+    "set_series": "Neo"
+  },
+  {
+    "name": "Dark Slowking",
+    "number": "20",
+    "rarity": "Rare",
+    "set_name": "Neo Destiny",
+    "set_series": "Neo"
+  },
+  {
+    "name": "Dark Ursaring",
+    "number": "21",
+    "rarity": "Rare",
+    "set_name": "Neo Destiny",
+    "set_series": "Neo"
+  },
+  {
+    "name": "Light Dragonair",
+    "number": "22",
+    "rarity": "Rare",
+    "set_name": "Neo Destiny",
+    "set_series": "Neo"
+  },
+  {
+    "name": "Light Lanturn",
+    "number": "23",
+    "rarity": "Rare",
+    "set_name": "Neo Destiny",
+    "set_series": "Neo"
+  },
+  {
+    "name": "Light Ledian",
+    "number": "24",
+    "rarity": "Rare",
+    "set_name": "Neo Destiny",
+    "set_series": "Neo"
+  },
+  {
+    "name": "Light Machamp",
+    "number": "25",
+    "rarity": "Rare",
+    "set_name": "Neo Destiny",
+    "set_series": "Neo"
+  },
+  {
+    "name": "Light Piloswine",
+    "number": "26",
+    "rarity": "Rare",
+    "set_name": "Neo Destiny",
+    "set_series": "Neo"
+  },
+  {
+    "name": "Unown [G]",
+    "number": "27",
+    "rarity": "Rare",
+    "set_name": "Neo Destiny",
+    "set_series": "Neo"
+  },
+  {
+    "name": "Unown [H]",
+    "number": "28",
+    "rarity": "Rare",
+    "set_name": "Neo Destiny",
+    "set_series": "Neo"
+  },
+  {
+    "name": "Unown [W]",
+    "number": "29",
+    "rarity": "Rare",
+    "set_name": "Neo Destiny",
+    "set_series": "Neo"
+  },
+  {
+    "name": "Unown [X]",
+    "number": "30",
+    "rarity": "Rare",
+    "set_name": "Neo Destiny",
+    "set_series": "Neo"
+  },
+  {
+    "name": "Chansey",
+    "number": "31",
+    "rarity": "Uncommon",
+    "set_name": "Neo Destiny",
+    "set_series": "Neo"
+  },
+  {
+    "name": "Dark Croconaw",
+    "number": "32",
+    "rarity": "Uncommon",
+    "set_name": "Neo Destiny",
+    "set_series": "Neo"
+  },
+  {
+    "name": "Dark Exeggutor",
+    "number": "33",
+    "rarity": "Uncommon",
+    "set_name": "Neo Destiny",
+    "set_series": "Neo"
+  },
+  {
+    "name": "Dark Flaaffy",
+    "number": "34",
+    "rarity": "Uncommon",
+    "set_name": "Neo Destiny",
+    "set_series": "Neo"
+  },
+  {
+    "name": "Dark Forretress",
+    "number": "35",
+    "rarity": "Uncommon",
+    "set_name": "Neo Destiny",
+    "set_series": "Neo"
+  },
+  {
+    "name": "Dark Haunter",
+    "number": "36",
+    "rarity": "Uncommon",
+    "set_name": "Neo Destiny",
+    "set_series": "Neo"
+  },
+  {
+    "name": "Dark Omanyte",
+    "number": "37",
+    "rarity": "Uncommon",
+    "set_name": "Neo Destiny",
+    "set_series": "Neo"
+  },
+  {
+    "name": "Dark Pupitar",
+    "number": "38",
+    "rarity": "Uncommon",
+    "set_name": "Neo Destiny",
+    "set_series": "Neo"
+  },
+  {
+    "name": "Dark Quilava",
+    "number": "39",
+    "rarity": "Uncommon",
+    "set_name": "Neo Destiny",
+    "set_series": "Neo"
+  },
+  {
+    "name": "Dark Wigglytuff",
+    "number": "40",
+    "rarity": "Uncommon",
+    "set_name": "Neo Destiny",
+    "set_series": "Neo"
+  },
+  {
+    "name": "Heracross",
+    "number": "41",
+    "rarity": "Uncommon",
+    "set_name": "Neo Destiny",
+    "set_series": "Neo"
+  },
+  {
+    "name": "Hitmonlee",
+    "number": "42",
+    "rarity": "Uncommon",
+    "set_name": "Neo Destiny",
+    "set_series": "Neo"
+  },
+  {
+    "name": "Houndour",
+    "number": "43",
+    "rarity": "Uncommon",
+    "set_name": "Neo Destiny",
+    "set_series": "Neo"
+  },
+  {
+    "name": "Jigglypuff",
+    "number": "44",
+    "rarity": "Uncommon",
+    "set_name": "Neo Destiny",
+    "set_series": "Neo"
+  },
+  {
+    "name": "Light Dewgong",
+    "number": "45",
+    "rarity": "Uncommon",
+    "set_name": "Neo Destiny",
+    "set_series": "Neo"
+  },
+  {
+    "name": "Light Flareon",
+    "number": "46",
+    "rarity": "Uncommon",
+    "set_name": "Neo Destiny",
+    "set_series": "Neo"
+  },
+  {
+    "name": "Light Golduck",
+    "number": "47",
+    "rarity": "Uncommon",
+    "set_name": "Neo Destiny",
+    "set_series": "Neo"
+  },
+  {
+    "name": "Light Jolteon",
+    "number": "48",
+    "rarity": "Uncommon",
+    "set_name": "Neo Destiny",
+    "set_series": "Neo"
+  },
+  {
+    "name": "Light Machoke",
+    "number": "49",
+    "rarity": "Uncommon",
+    "set_name": "Neo Destiny",
+    "set_series": "Neo"
+  },
+  {
+    "name": "Light Ninetales",
+    "number": "50",
+    "rarity": "Uncommon",
+    "set_name": "Neo Destiny",
+    "set_series": "Neo"
+  },
+  {
+    "name": "Light Slowbro",
+    "number": "51",
+    "rarity": "Uncommon",
+    "set_name": "Neo Destiny",
+    "set_series": "Neo"
+  },
+  {
+    "name": "Light Vaporeon",
+    "number": "52",
+    "rarity": "Uncommon",
+    "set_name": "Neo Destiny",
+    "set_series": "Neo"
+  },
+  {
+    "name": "Light Venomoth",
+    "number": "53",
+    "rarity": "Uncommon",
+    "set_name": "Neo Destiny",
+    "set_series": "Neo"
+  },
+  {
+    "name": "Light Wigglytuff",
+    "number": "54",
+    "rarity": "Uncommon",
+    "set_name": "Neo Destiny",
+    "set_series": "Neo"
+  },
+  {
+    "name": "Scyther",
+    "number": "55",
+    "rarity": "Uncommon",
+    "set_name": "Neo Destiny",
+    "set_series": "Neo"
+  },
+  {
+    "name": "Togepi",
+    "number": "56",
+    "rarity": "Uncommon",
+    "set_name": "Neo Destiny",
+    "set_series": "Neo"
+  },
+  {
+    "name": "Unown [C]",
+    "number": "57",
+    "rarity": "Uncommon",
+    "set_name": "Neo Destiny",
+    "set_series": "Neo"
+  },
+  {
+    "name": "Unown [P]",
+    "number": "58",
+    "rarity": "Uncommon",
+    "set_name": "Neo Destiny",
+    "set_series": "Neo"
+  },
+  {
+    "name": "Unown [Q]",
+    "number": "59",
+    "rarity": "Uncommon",
+    "set_name": "Neo Destiny",
+    "set_series": "Neo"
+  },
+  {
+    "name": "Unown [Z]",
+    "number": "60",
+    "rarity": "Uncommon",
+    "set_name": "Neo Destiny",
+    "set_series": "Neo"
+  },
+  {
+    "name": "Cyndaquil",
+    "number": "61",
+    "rarity": "Common",
+    "set_name": "Neo Destiny",
+    "set_series": "Neo"
+  },
+  {
+    "name": "Dark Octillery",
+    "number": "62",
+    "rarity": "Common",
+    "set_name": "Neo Destiny",
+    "set_series": "Neo"
+  },
+  {
+    "name": "Dratini",
+    "number": "63",
+    "rarity": "Common",
+    "set_name": "Neo Destiny",
+    "set_series": "Neo"
+  },
+  {
+    "name": "Exeggcute",
+    "number": "64",
+    "rarity": "Common",
+    "set_name": "Neo Destiny",
+    "set_series": "Neo"
+  },
+  {
+    "name": "Gastly",
+    "number": "65",
+    "rarity": "Common",
+    "set_name": "Neo Destiny",
+    "set_series": "Neo"
+  },
+  {
+    "name": "Girafarig",
+    "number": "66",
+    "rarity": "Common",
+    "set_name": "Neo Destiny",
+    "set_series": "Neo"
+  },
+  {
+    "name": "Gligar",
+    "number": "67",
+    "rarity": "Common",
+    "set_name": "Neo Destiny",
+    "set_series": "Neo"
+  },
+  {
+    "name": "Growlithe",
+    "number": "68",
+    "rarity": "Common",
+    "set_name": "Neo Destiny",
+    "set_series": "Neo"
+  },
+  {
+    "name": "Hitmonchan",
+    "number": "69",
+    "rarity": "Common",
+    "set_name": "Neo Destiny",
+    "set_series": "Neo"
+  },
+  {
+    "name": "Larvitar",
+    "number": "70",
+    "rarity": "Common",
+    "set_name": "Neo Destiny",
+    "set_series": "Neo"
+  },
+  {
+    "name": "Ledyba",
+    "number": "71",
+    "rarity": "Common",
+    "set_name": "Neo Destiny",
+    "set_series": "Neo"
+  },
+  {
+    "name": "Light Sunflora",
+    "number": "72",
+    "rarity": "Common",
+    "set_name": "Neo Destiny",
+    "set_series": "Neo"
+  },
+  {
+    "name": "Machop",
+    "number": "73",
+    "rarity": "Common",
+    "set_name": "Neo Destiny",
+    "set_series": "Neo"
+  },
+  {
+    "name": "Mantine",
+    "number": "74",
+    "rarity": "Common",
+    "set_name": "Neo Destiny",
+    "set_series": "Neo"
+  },
+  {
+    "name": "Mareep",
+    "number": "75",
+    "rarity": "Common",
+    "set_name": "Neo Destiny",
+    "set_series": "Neo"
+  },
+  {
+    "name": "Phanpy",
+    "number": "76",
+    "rarity": "Common",
+    "set_name": "Neo Destiny",
+    "set_series": "Neo"
+  },
+  {
+    "name": "Pineco",
+    "number": "77",
+    "rarity": "Common",
+    "set_name": "Neo Destiny",
+    "set_series": "Neo"
+  },
+  {
+    "name": "Porygon",
+    "number": "78",
+    "rarity": "Common",
+    "set_name": "Neo Destiny",
+    "set_series": "Neo"
+  },
+  {
+    "name": "Psyduck",
+    "number": "79",
+    "rarity": "Common",
+    "set_name": "Neo Destiny",
+    "set_series": "Neo"
+  },
+  {
+    "name": "Remoraid",
+    "number": "80",
+    "rarity": "Common",
+    "set_name": "Neo Destiny",
+    "set_series": "Neo"
+  },
+  {
+    "name": "Seel",
+    "number": "81",
+    "rarity": "Common",
+    "set_name": "Neo Destiny",
+    "set_series": "Neo"
+  },
+  {
+    "name": "Slugma",
+    "number": "82",
+    "rarity": "Common",
+    "set_name": "Neo Destiny",
+    "set_series": "Neo"
+  },
+  {
+    "name": "Sunkern",
+    "number": "83",
+    "rarity": "Common",
+    "set_name": "Neo Destiny",
+    "set_series": "Neo"
+  },
+  {
+    "name": "Swinub",
+    "number": "84",
+    "rarity": "Common",
+    "set_name": "Neo Destiny",
+    "set_series": "Neo"
+  },
+  {
+    "name": "Totodile",
+    "number": "85",
+    "rarity": "Common",
+    "set_name": "Neo Destiny",
+    "set_series": "Neo"
+  },
+  {
+    "name": "Unown [L]",
+    "number": "86",
+    "rarity": "Common",
+    "set_name": "Neo Destiny",
+    "set_series": "Neo"
+  },
+  {
+    "name": "Unown [S]",
+    "number": "87",
+    "rarity": "Common",
+    "set_name": "Neo Destiny",
+    "set_series": "Neo"
+  },
+  {
+    "name": "Unown [T]",
+    "number": "88",
+    "rarity": "Common",
+    "set_name": "Neo Destiny",
+    "set_series": "Neo"
+  },
+  {
+    "name": "Unown [V]",
+    "number": "89",
+    "rarity": "Common",
+    "set_name": "Neo Destiny",
+    "set_series": "Neo"
+  },
+  {
+    "name": "Venonat",
+    "number": "90",
+    "rarity": "Common",
+    "set_name": "Neo Destiny",
+    "set_series": "Neo"
+  },
+  {
+    "name": "Vulpix",
+    "number": "91",
+    "rarity": "Common",
+    "set_name": "Neo Destiny",
+    "set_series": "Neo"
+  },
+  {
+    "name": "Broken Ground Gym",
+    "number": "92",
+    "rarity": "Rare",
+    "set_name": "Neo Destiny",
+    "set_series": "Neo"
+  },
+  {
+    "name": "EXP.ALL",
+    "number": "93",
+    "rarity": "Rare",
+    "set_name": "Neo Destiny",
+    "set_series": "Neo"
+  },
+  {
+    "name": "Impostor Professor Oak's Invention",
+    "number": "94",
+    "rarity": "Rare",
+    "set_name": "Neo Destiny",
+    "set_series": "Neo"
+  },
+  {
+    "name": "Radio Tower",
+    "number": "95",
+    "rarity": "Rare",
+    "set_name": "Neo Destiny",
+    "set_series": "Neo"
+  },
+  {
+    "name": "Thought Wave Machine",
+    "number": "96",
+    "rarity": "Rare",
+    "set_name": "Neo Destiny",
+    "set_series": "Neo"
+  },
+  {
+    "name": "Counterattack Claws",
+    "number": "97",
+    "rarity": "Uncommon",
+    "set_name": "Neo Destiny",
+    "set_series": "Neo"
+  },
+  {
+    "name": "Energy Amplifier",
+    "number": "98",
+    "rarity": "Uncommon",
+    "set_name": "Neo Destiny",
+    "set_series": "Neo"
+  },
+  {
+    "name": "Energy Stadium",
+    "number": "99",
+    "rarity": "Uncommon",
+    "set_name": "Neo Destiny",
+    "set_series": "Neo"
+  },
+  {
+    "name": "Lucky Stadium",
+    "number": "100",
+    "rarity": "Uncommon",
+    "set_name": "Neo Destiny",
+    "set_series": "Neo"
+  },
+  {
+    "name": "Magnifier",
+    "number": "101",
+    "rarity": "Uncommon",
+    "set_name": "Neo Destiny",
+    "set_series": "Neo"
+  },
+  {
+    "name": "Pok\u00e9mon Personality Test",
+    "number": "102",
+    "rarity": "Uncommon",
+    "set_name": "Neo Destiny",
+    "set_series": "Neo"
+  },
+  {
+    "name": "Team Rocket's Evil Deeds",
+    "number": "103",
+    "rarity": "Uncommon",
+    "set_name": "Neo Destiny",
+    "set_series": "Neo"
+  },
+  {
+    "name": "Heal Powder",
+    "number": "104",
+    "rarity": "Common",
+    "set_name": "Neo Destiny",
+    "set_series": "Neo"
+  },
+  {
+    "name": "Mail from Bill",
+    "number": "105",
+    "rarity": "Common",
+    "set_name": "Neo Destiny",
+    "set_series": "Neo"
+  },
+  {
+    "name": "Shining Celebi",
+    "number": "106",
+    "rarity": "Rare Shining",
+    "set_name": "Neo Destiny",
+    "set_series": "Neo"
+  },
+  {
+    "name": "Shining Charizard",
+    "number": "107",
+    "rarity": "Rare Shining",
+    "set_name": "Neo Destiny",
+    "set_series": "Neo"
+  },
+  {
+    "name": "Shining Kabutops",
+    "number": "108",
+    "rarity": "Rare Shining",
+    "set_name": "Neo Destiny",
+    "set_series": "Neo"
+  },
+  {
+    "name": "Shining Mewtwo",
+    "number": "109",
+    "rarity": "Rare Shining",
+    "set_name": "Neo Destiny",
+    "set_series": "Neo"
+  },
+  {
+    "name": "Shining Noctowl",
+    "number": "110",
+    "rarity": "Rare Shining",
+    "set_name": "Neo Destiny",
+    "set_series": "Neo"
+  },
+  {
+    "name": "Shining Raichu",
+    "number": "111",
+    "rarity": "Rare Shining",
+    "set_name": "Neo Destiny",
+    "set_series": "Neo"
+  },
+  {
+    "name": "Shining Steelix",
+    "number": "112",
+    "rarity": "Rare Shining",
+    "set_name": "Neo Destiny",
+    "set_series": "Neo"
+  },
+  {
+    "name": "Shining Tyranitar",
+    "number": "113",
+    "rarity": "Rare Shining",
+    "set_name": "Neo Destiny",
+    "set_series": "Neo"
+  }
+]

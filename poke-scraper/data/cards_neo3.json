@@ -1,0 +1,464 @@
+[
+  {
+    "name": "Ampharos",
+    "number": "1",
+    "rarity": "Rare Holo",
+    "set_name": "Neo Revelation",
+    "set_series": "Neo"
+  },
+  {
+    "name": "Blissey",
+    "number": "2",
+    "rarity": "Rare Holo",
+    "set_name": "Neo Revelation",
+    "set_series": "Neo"
+  },
+  {
+    "name": "Celebi",
+    "number": "3",
+    "rarity": "Rare Holo",
+    "set_name": "Neo Revelation",
+    "set_series": "Neo"
+  },
+  {
+    "name": "Crobat",
+    "number": "4",
+    "rarity": "Rare Holo",
+    "set_name": "Neo Revelation",
+    "set_series": "Neo"
+  },
+  {
+    "name": "Delibird",
+    "number": "5",
+    "rarity": "Rare Holo",
+    "set_name": "Neo Revelation",
+    "set_series": "Neo"
+  },
+  {
+    "name": "Entei",
+    "number": "6",
+    "rarity": "Rare Holo",
+    "set_name": "Neo Revelation",
+    "set_series": "Neo"
+  },
+  {
+    "name": "Ho-oh",
+    "number": "7",
+    "rarity": "Rare Holo",
+    "set_name": "Neo Revelation",
+    "set_series": "Neo"
+  },
+  {
+    "name": "Houndoom",
+    "number": "8",
+    "rarity": "Rare Holo",
+    "set_name": "Neo Revelation",
+    "set_series": "Neo"
+  },
+  {
+    "name": "Jumpluff",
+    "number": "9",
+    "rarity": "Rare Holo",
+    "set_name": "Neo Revelation",
+    "set_series": "Neo"
+  },
+  {
+    "name": "Magneton",
+    "number": "10",
+    "rarity": "Rare Holo",
+    "set_name": "Neo Revelation",
+    "set_series": "Neo"
+  },
+  {
+    "name": "Misdreavus",
+    "number": "11",
+    "rarity": "Rare Holo",
+    "set_name": "Neo Revelation",
+    "set_series": "Neo"
+  },
+  {
+    "name": "Porygon2",
+    "number": "12",
+    "rarity": "Rare Holo",
+    "set_name": "Neo Revelation",
+    "set_series": "Neo"
+  },
+  {
+    "name": "Raikou",
+    "number": "13",
+    "rarity": "Rare Holo",
+    "set_name": "Neo Revelation",
+    "set_series": "Neo"
+  },
+  {
+    "name": "Suicune",
+    "number": "14",
+    "rarity": "Rare Holo",
+    "set_name": "Neo Revelation",
+    "set_series": "Neo"
+  },
+  {
+    "name": "Aerodactyl",
+    "number": "15",
+    "rarity": "Rare",
+    "set_name": "Neo Revelation",
+    "set_series": "Neo"
+  },
+  {
+    "name": "Celebi",
+    "number": "16",
+    "rarity": "Rare",
+    "set_name": "Neo Revelation",
+    "set_series": "Neo"
+  },
+  {
+    "name": "Entei",
+    "number": "17",
+    "rarity": "Rare",
+    "set_name": "Neo Revelation",
+    "set_series": "Neo"
+  },
+  {
+    "name": "Ho-oh",
+    "number": "18",
+    "rarity": "Rare",
+    "set_name": "Neo Revelation",
+    "set_series": "Neo"
+  },
+  {
+    "name": "Kingdra",
+    "number": "19",
+    "rarity": "Rare",
+    "set_name": "Neo Revelation",
+    "set_series": "Neo"
+  },
+  {
+    "name": "Lugia",
+    "number": "20",
+    "rarity": "Rare",
+    "set_name": "Neo Revelation",
+    "set_series": "Neo"
+  },
+  {
+    "name": "Raichu",
+    "number": "21",
+    "rarity": "Rare",
+    "set_name": "Neo Revelation",
+    "set_series": "Neo"
+  },
+  {
+    "name": "Raikou",
+    "number": "22",
+    "rarity": "Rare",
+    "set_name": "Neo Revelation",
+    "set_series": "Neo"
+  },
+  {
+    "name": "Skarmory",
+    "number": "23",
+    "rarity": "Rare",
+    "set_name": "Neo Revelation",
+    "set_series": "Neo"
+  },
+  {
+    "name": "Sneasel",
+    "number": "24",
+    "rarity": "Rare",
+    "set_name": "Neo Revelation",
+    "set_series": "Neo"
+  },
+  {
+    "name": "Starmie",
+    "number": "25",
+    "rarity": "Rare",
+    "set_name": "Neo Revelation",
+    "set_series": "Neo"
+  },
+  {
+    "name": "Sudowoodo",
+    "number": "26",
+    "rarity": "Rare",
+    "set_name": "Neo Revelation",
+    "set_series": "Neo"
+  },
+  {
+    "name": "Suicune",
+    "number": "27",
+    "rarity": "Rare",
+    "set_name": "Neo Revelation",
+    "set_series": "Neo"
+  },
+  {
+    "name": "Flaaffy",
+    "number": "28",
+    "rarity": "Uncommon",
+    "set_name": "Neo Revelation",
+    "set_series": "Neo"
+  },
+  {
+    "name": "Golbat",
+    "number": "29",
+    "rarity": "Uncommon",
+    "set_name": "Neo Revelation",
+    "set_series": "Neo"
+  },
+  {
+    "name": "Graveler",
+    "number": "30",
+    "rarity": "Uncommon",
+    "set_name": "Neo Revelation",
+    "set_series": "Neo"
+  },
+  {
+    "name": "Jynx",
+    "number": "31",
+    "rarity": "Uncommon",
+    "set_name": "Neo Revelation",
+    "set_series": "Neo"
+  },
+  {
+    "name": "Lanturn",
+    "number": "32",
+    "rarity": "Uncommon",
+    "set_name": "Neo Revelation",
+    "set_series": "Neo"
+  },
+  {
+    "name": "Magcargo",
+    "number": "33",
+    "rarity": "Uncommon",
+    "set_name": "Neo Revelation",
+    "set_series": "Neo"
+  },
+  {
+    "name": "Octillery",
+    "number": "34",
+    "rarity": "Uncommon",
+    "set_name": "Neo Revelation",
+    "set_series": "Neo"
+  },
+  {
+    "name": "Parasect",
+    "number": "35",
+    "rarity": "Uncommon",
+    "set_name": "Neo Revelation",
+    "set_series": "Neo"
+  },
+  {
+    "name": "Piloswine",
+    "number": "36",
+    "rarity": "Uncommon",
+    "set_name": "Neo Revelation",
+    "set_series": "Neo"
+  },
+  {
+    "name": "Seaking",
+    "number": "37",
+    "rarity": "Uncommon",
+    "set_name": "Neo Revelation",
+    "set_series": "Neo"
+  },
+  {
+    "name": "Stantler",
+    "number": "38",
+    "rarity": "Uncommon",
+    "set_name": "Neo Revelation",
+    "set_series": "Neo"
+  },
+  {
+    "name": "Unown [B]",
+    "number": "39",
+    "rarity": "Uncommon",
+    "set_name": "Neo Revelation",
+    "set_series": "Neo"
+  },
+  {
+    "name": "Unown [Y]",
+    "number": "40",
+    "rarity": "Uncommon",
+    "set_name": "Neo Revelation",
+    "set_series": "Neo"
+  },
+  {
+    "name": "Aipom",
+    "number": "41",
+    "rarity": "Common",
+    "set_name": "Neo Revelation",
+    "set_series": "Neo"
+  },
+  {
+    "name": "Chinchou",
+    "number": "42",
+    "rarity": "Common",
+    "set_name": "Neo Revelation",
+    "set_series": "Neo"
+  },
+  {
+    "name": "Farfetch'd",
+    "number": "43",
+    "rarity": "Common",
+    "set_name": "Neo Revelation",
+    "set_series": "Neo"
+  },
+  {
+    "name": "Geodude",
+    "number": "44",
+    "rarity": "Common",
+    "set_name": "Neo Revelation",
+    "set_series": "Neo"
+  },
+  {
+    "name": "Goldeen",
+    "number": "45",
+    "rarity": "Common",
+    "set_name": "Neo Revelation",
+    "set_series": "Neo"
+  },
+  {
+    "name": "Murkrow",
+    "number": "46",
+    "rarity": "Common",
+    "set_name": "Neo Revelation",
+    "set_series": "Neo"
+  },
+  {
+    "name": "Paras",
+    "number": "47",
+    "rarity": "Common",
+    "set_name": "Neo Revelation",
+    "set_series": "Neo"
+  },
+  {
+    "name": "Quagsire",
+    "number": "48",
+    "rarity": "Common",
+    "set_name": "Neo Revelation",
+    "set_series": "Neo"
+  },
+  {
+    "name": "Qwilfish",
+    "number": "49",
+    "rarity": "Common",
+    "set_name": "Neo Revelation",
+    "set_series": "Neo"
+  },
+  {
+    "name": "Remoraid",
+    "number": "50",
+    "rarity": "Common",
+    "set_name": "Neo Revelation",
+    "set_series": "Neo"
+  },
+  {
+    "name": "Shuckle",
+    "number": "51",
+    "rarity": "Common",
+    "set_name": "Neo Revelation",
+    "set_series": "Neo"
+  },
+  {
+    "name": "Skiploom",
+    "number": "52",
+    "rarity": "Common",
+    "set_name": "Neo Revelation",
+    "set_series": "Neo"
+  },
+  {
+    "name": "Slugma",
+    "number": "53",
+    "rarity": "Common",
+    "set_name": "Neo Revelation",
+    "set_series": "Neo"
+  },
+  {
+    "name": "Smoochum",
+    "number": "54",
+    "rarity": "Common",
+    "set_name": "Neo Revelation",
+    "set_series": "Neo"
+  },
+  {
+    "name": "Snubbull",
+    "number": "55",
+    "rarity": "Common",
+    "set_name": "Neo Revelation",
+    "set_series": "Neo"
+  },
+  {
+    "name": "Staryu",
+    "number": "56",
+    "rarity": "Common",
+    "set_name": "Neo Revelation",
+    "set_series": "Neo"
+  },
+  {
+    "name": "Swinub",
+    "number": "57",
+    "rarity": "Common",
+    "set_name": "Neo Revelation",
+    "set_series": "Neo"
+  },
+  {
+    "name": "Unown [K]",
+    "number": "58",
+    "rarity": "Common",
+    "set_name": "Neo Revelation",
+    "set_series": "Neo"
+  },
+  {
+    "name": "Zubat",
+    "number": "59",
+    "rarity": "Common",
+    "set_name": "Neo Revelation",
+    "set_series": "Neo"
+  },
+  {
+    "name": "Balloon Berry",
+    "number": "60",
+    "rarity": "Uncommon",
+    "set_name": "Neo Revelation",
+    "set_series": "Neo"
+  },
+  {
+    "name": "Healing Field",
+    "number": "61",
+    "rarity": "Uncommon",
+    "set_name": "Neo Revelation",
+    "set_series": "Neo"
+  },
+  {
+    "name": "Pok\u00e9mon Breeder Fields",
+    "number": "62",
+    "rarity": "Uncommon",
+    "set_name": "Neo Revelation",
+    "set_series": "Neo"
+  },
+  {
+    "name": "Rocket's Hideout",
+    "number": "63",
+    "rarity": "Uncommon",
+    "set_name": "Neo Revelation",
+    "set_series": "Neo"
+  },
+  {
+    "name": "Old Rod",
+    "number": "64",
+    "rarity": "Common",
+    "set_name": "Neo Revelation",
+    "set_series": "Neo"
+  },
+  {
+    "name": "Shining Gyarados",
+    "number": "65",
+    "rarity": "Rare Shining",
+    "set_name": "Neo Revelation",
+    "set_series": "Neo"
+  },
+  {
+    "name": "Shining Magikarp",
+    "number": "66",
+    "rarity": "Rare Shining",
+    "set_name": "Neo Revelation",
+    "set_series": "Neo"
+  }
+]

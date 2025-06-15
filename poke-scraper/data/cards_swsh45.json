@@ -1,0 +1,513 @@
+[
+  {
+    "name": "Yanma",
+    "number": "1",
+    "rarity": "Common",
+    "set_name": "Shining Fates",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Yanmega",
+    "number": "2",
+    "rarity": "Rare",
+    "set_name": "Shining Fates",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Celebi",
+    "number": "3",
+    "rarity": "Rare",
+    "set_name": "Shining Fates",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Cacnea",
+    "number": "4",
+    "rarity": "Common",
+    "set_name": "Shining Fates",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Tropius",
+    "number": "5",
+    "rarity": "Uncommon",
+    "set_name": "Shining Fates",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Rowlet",
+    "number": "6",
+    "rarity": "Common",
+    "set_name": "Shining Fates",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Dartrix",
+    "number": "7",
+    "rarity": "Uncommon",
+    "set_name": "Shining Fates",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Decidueye",
+    "number": "8",
+    "rarity": "Rare Holo",
+    "set_name": "Shining Fates",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Dhelmise V",
+    "number": "9",
+    "rarity": "Rare Holo V",
+    "set_name": "Shining Fates",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Dhelmise VMAX",
+    "number": "10",
+    "rarity": "Rare Holo VMAX",
+    "set_name": "Shining Fates",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Grookey",
+    "number": "11",
+    "rarity": "Common",
+    "set_name": "Shining Fates",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Thwackey",
+    "number": "12",
+    "rarity": "Uncommon",
+    "set_name": "Shining Fates",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Rillaboom",
+    "number": "13",
+    "rarity": "Rare Holo",
+    "set_name": "Shining Fates",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Gossifleur",
+    "number": "14",
+    "rarity": "Common",
+    "set_name": "Shining Fates",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Eldegoss",
+    "number": "15",
+    "rarity": "Uncommon",
+    "set_name": "Shining Fates",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Zarude",
+    "number": "16",
+    "rarity": "Rare",
+    "set_name": "Shining Fates",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Reshiram",
+    "number": "17",
+    "rarity": "Amazing Rare",
+    "set_name": "Shining Fates",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Cinderace V",
+    "number": "18",
+    "rarity": "Rare Holo V",
+    "set_name": "Shining Fates",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Cinderace VMAX",
+    "number": "19",
+    "rarity": "Rare Holo VMAX",
+    "set_name": "Shining Fates",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Horsea",
+    "number": "20",
+    "rarity": "Common",
+    "set_name": "Shining Fates",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Kyogre",
+    "number": "21",
+    "rarity": "Amazing Rare",
+    "set_name": "Shining Fates",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Buizel",
+    "number": "22",
+    "rarity": "Common",
+    "set_name": "Shining Fates",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Floatzel",
+    "number": "23",
+    "rarity": "Uncommon",
+    "set_name": "Shining Fates",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Manaphy",
+    "number": "24",
+    "rarity": "Rare",
+    "set_name": "Shining Fates",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Volcanion",
+    "number": "25",
+    "rarity": "Rare",
+    "set_name": "Shining Fates",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Chewtle",
+    "number": "26",
+    "rarity": "Common",
+    "set_name": "Shining Fates",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Drednaw",
+    "number": "27",
+    "rarity": "Rare",
+    "set_name": "Shining Fates",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Cramorant",
+    "number": "28",
+    "rarity": "Uncommon",
+    "set_name": "Shining Fates",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Snom",
+    "number": "29",
+    "rarity": "Common",
+    "set_name": "Shining Fates",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Frosmoth",
+    "number": "30",
+    "rarity": "Rare Holo",
+    "set_name": "Shining Fates",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Shinx",
+    "number": "31",
+    "rarity": "Common",
+    "set_name": "Shining Fates",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Luxio",
+    "number": "32",
+    "rarity": "Uncommon",
+    "set_name": "Shining Fates",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Luxray",
+    "number": "33",
+    "rarity": "Rare Holo",
+    "set_name": "Shining Fates",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Rotom",
+    "number": "34",
+    "rarity": "Uncommon",
+    "set_name": "Shining Fates",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Morpeko",
+    "number": "35",
+    "rarity": "Common",
+    "set_name": "Shining Fates",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Morpeko",
+    "number": "36",
+    "rarity": "Common",
+    "set_name": "Shining Fates",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Morpeko V",
+    "number": "37",
+    "rarity": "Rare Holo V",
+    "set_name": "Shining Fates",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Morpeko VMAX",
+    "number": "38",
+    "rarity": "Rare Holo VMAX",
+    "set_name": "Shining Fates",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Indeedee V",
+    "number": "39",
+    "rarity": "Rare Holo V",
+    "set_name": "Shining Fates",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Trapinch",
+    "number": "40",
+    "rarity": "Common",
+    "set_name": "Shining Fates",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Koffing",
+    "number": "41",
+    "rarity": "Common",
+    "set_name": "Shining Fates",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Galarian Weezing",
+    "number": "42",
+    "rarity": "Rare Holo",
+    "set_name": "Shining Fates",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Spinarak",
+    "number": "43",
+    "rarity": "Common",
+    "set_name": "Shining Fates",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Crobat V",
+    "number": "44",
+    "rarity": "Rare Holo V",
+    "set_name": "Shining Fates",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Crobat VMAX",
+    "number": "45",
+    "rarity": "Rare Holo VMAX",
+    "set_name": "Shining Fates",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Yveltal",
+    "number": "46",
+    "rarity": "Amazing Rare",
+    "set_name": "Shining Fates",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Nickit",
+    "number": "47",
+    "rarity": "Common",
+    "set_name": "Shining Fates",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Thievul",
+    "number": "48",
+    "rarity": "Rare Holo",
+    "set_name": "Shining Fates",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Cufant",
+    "number": "49",
+    "rarity": "Common",
+    "set_name": "Shining Fates",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Ditto V",
+    "number": "50",
+    "rarity": "Rare Holo V",
+    "set_name": "Shining Fates",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Ditto VMAX",
+    "number": "51",
+    "rarity": "Rare Holo VMAX",
+    "set_name": "Shining Fates",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Eevee",
+    "number": "52",
+    "rarity": "Common",
+    "set_name": "Shining Fates",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Greedent V",
+    "number": "53",
+    "rarity": "Rare Holo V",
+    "set_name": "Shining Fates",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Cramorant V",
+    "number": "54",
+    "rarity": "Rare Holo V",
+    "set_name": "Shining Fates",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Cramorant VMAX",
+    "number": "55",
+    "rarity": "Rare Holo VMAX",
+    "set_name": "Shining Fates",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Indeedee",
+    "number": "56",
+    "rarity": "Rare Holo",
+    "set_name": "Shining Fates",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Ball Guy",
+    "number": "57",
+    "rarity": "Uncommon",
+    "set_name": "Shining Fates",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Boss's Orders",
+    "number": "58",
+    "rarity": "Rare",
+    "set_name": "Shining Fates",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Gym Trainer",
+    "number": "59",
+    "rarity": "Uncommon",
+    "set_name": "Shining Fates",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Professor's Research",
+    "number": "60",
+    "rarity": "Rare",
+    "set_name": "Shining Fates",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Rusted Shield",
+    "number": "61",
+    "rarity": "Uncommon",
+    "set_name": "Shining Fates",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Rusted Sword",
+    "number": "62",
+    "rarity": "Uncommon",
+    "set_name": "Shining Fates",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Team Yell Towel",
+    "number": "63",
+    "rarity": "Uncommon",
+    "set_name": "Shining Fates",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Alcremie V",
+    "number": "64",
+    "rarity": "Rare Ultra",
+    "set_name": "Shining Fates",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Ball Guy",
+    "number": "65",
+    "rarity": "Rare Ultra",
+    "set_name": "Shining Fates",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Bird Keeper",
+    "number": "66",
+    "rarity": "Rare Ultra",
+    "set_name": "Shining Fates",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Cara Liss",
+    "number": "67",
+    "rarity": "Rare Ultra",
+    "set_name": "Shining Fates",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Gym Trainer",
+    "number": "68",
+    "rarity": "Rare Ultra",
+    "set_name": "Shining Fates",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Piers",
+    "number": "69",
+    "rarity": "Rare Ultra",
+    "set_name": "Shining Fates",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Pok\u00e9 Kid",
+    "number": "70",
+    "rarity": "Rare Ultra",
+    "set_name": "Shining Fates",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Rose",
+    "number": "71",
+    "rarity": "Rare Ultra",
+    "set_name": "Shining Fates",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Skyla",
+    "number": "72",
+    "rarity": "Rare Ultra",
+    "set_name": "Shining Fates",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Alcremie VMAX",
+    "number": "73",
+    "rarity": "Rare Rainbow",
+    "set_name": "Shining Fates",
+    "set_series": "Sword & Shield"
+  }
+]

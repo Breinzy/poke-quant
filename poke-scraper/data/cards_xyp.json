@@ -1,0 +1,1514 @@
+[
+  {
+    "name": "Chespin",
+    "number": "XY01",
+    "rarity": "Promo",
+    "set_name": "XY Black Star Promos",
+    "set_series": "XY"
+  },
+  {
+    "name": "Fennekin",
+    "number": "XY02",
+    "rarity": "Promo",
+    "set_name": "XY Black Star Promos",
+    "set_series": "XY"
+  },
+  {
+    "name": "Froakie",
+    "number": "XY03",
+    "rarity": "Promo",
+    "set_name": "XY Black Star Promos",
+    "set_series": "XY"
+  },
+  {
+    "name": "Sylveon",
+    "number": "XY04",
+    "rarity": "Promo",
+    "set_name": "XY Black Star Promos",
+    "set_series": "XY"
+  },
+  {
+    "name": "Xerneas",
+    "number": "XY05",
+    "rarity": "Promo",
+    "set_name": "XY Black Star Promos",
+    "set_series": "XY"
+  },
+  {
+    "name": "Yveltal",
+    "number": "XY06",
+    "rarity": "Promo",
+    "set_name": "XY Black Star Promos",
+    "set_series": "XY"
+  },
+  {
+    "name": "Xerneas-EX",
+    "number": "XY07",
+    "rarity": "Promo",
+    "set_name": "XY Black Star Promos",
+    "set_series": "XY"
+  },
+  {
+    "name": "Yveltal-EX",
+    "number": "XY08",
+    "rarity": "Promo",
+    "set_name": "XY Black Star Promos",
+    "set_series": "XY"
+  },
+  {
+    "name": "Garchomp-EX",
+    "number": "XY09",
+    "rarity": "Promo",
+    "set_name": "XY Black Star Promos",
+    "set_series": "XY"
+  },
+  {
+    "name": "Dragalge",
+    "number": "XY10",
+    "rarity": "Promo",
+    "set_name": "XY Black Star Promos",
+    "set_series": "XY"
+  },
+  {
+    "name": "Skiddo",
+    "number": "XY11",
+    "rarity": "Promo",
+    "set_name": "XY Black Star Promos",
+    "set_series": "XY"
+  },
+  {
+    "name": "Honedge",
+    "number": "XY12",
+    "rarity": "Promo",
+    "set_name": "XY Black Star Promos",
+    "set_series": "XY"
+  },
+  {
+    "name": "Machamp",
+    "number": "XY13",
+    "rarity": "Promo",
+    "set_name": "XY Black Star Promos",
+    "set_series": "XY"
+  },
+  {
+    "name": "Trevenant",
+    "number": "XY14",
+    "rarity": "Promo",
+    "set_name": "XY Black Star Promos",
+    "set_series": "XY"
+  },
+  {
+    "name": "Slurpuff",
+    "number": "XY15",
+    "rarity": "Promo",
+    "set_name": "XY Black Star Promos",
+    "set_series": "XY"
+  },
+  {
+    "name": "Gogoat",
+    "number": "XY16",
+    "rarity": "Promo",
+    "set_name": "XY Black Star Promos",
+    "set_series": "XY"
+  },
+  {
+    "name": "Charizard-EX",
+    "number": "XY17",
+    "rarity": "Promo",
+    "set_name": "XY Black Star Promos",
+    "set_series": "XY"
+  },
+  {
+    "name": "Chesnaught-EX",
+    "number": "XY18",
+    "rarity": "Promo",
+    "set_name": "XY Black Star Promos",
+    "set_series": "XY"
+  },
+  {
+    "name": "Delphox-EX",
+    "number": "XY19",
+    "rarity": "Promo",
+    "set_name": "XY Black Star Promos",
+    "set_series": "XY"
+  },
+  {
+    "name": "Greninja-EX",
+    "number": "XY20",
+    "rarity": "Promo",
+    "set_name": "XY Black Star Promos",
+    "set_series": "XY"
+  },
+  {
+    "name": "Bronzong",
+    "number": "XY21",
+    "rarity": "Promo",
+    "set_name": "XY Black Star Promos",
+    "set_series": "XY"
+  },
+  {
+    "name": "Darkrai",
+    "number": "XY22",
+    "rarity": "Promo",
+    "set_name": "XY Black Star Promos",
+    "set_series": "XY"
+  },
+  {
+    "name": "Shiftry",
+    "number": "XY23",
+    "rarity": "Promo",
+    "set_name": "XY Black Star Promos",
+    "set_series": "XY"
+  },
+  {
+    "name": "Greninja",
+    "number": "XY24",
+    "rarity": "Promo",
+    "set_name": "XY Black Star Promos",
+    "set_series": "XY"
+  },
+  {
+    "name": "Krookodile-EX",
+    "number": "XY25",
+    "rarity": "Promo",
+    "set_name": "XY Black Star Promos",
+    "set_series": "XY"
+  },
+  {
+    "name": "Pyroar",
+    "number": "XY26",
+    "rarity": "Promo",
+    "set_name": "XY Black Star Promos",
+    "set_series": "XY"
+  },
+  {
+    "name": "Champions Festival",
+    "number": "XY27",
+    "rarity": "Promo",
+    "set_name": "XY Black Star Promos",
+    "set_series": "XY"
+  },
+  {
+    "name": "Venusaur-EX",
+    "number": "XY28",
+    "rarity": "Promo",
+    "set_name": "XY Black Star Promos",
+    "set_series": "XY"
+  },
+  {
+    "name": "Charizard-EX",
+    "number": "XY29",
+    "rarity": "Promo",
+    "set_name": "XY Black Star Promos",
+    "set_series": "XY"
+  },
+  {
+    "name": "Blastoise-EX",
+    "number": "XY30",
+    "rarity": "Promo",
+    "set_name": "XY Black Star Promos",
+    "set_series": "XY"
+  },
+  {
+    "name": "Xerneas",
+    "number": "XY31",
+    "rarity": "Promo",
+    "set_name": "XY Black Star Promos",
+    "set_series": "XY"
+  },
+  {
+    "name": "Yveltal",
+    "number": "XY32",
+    "rarity": "Promo",
+    "set_name": "XY Black Star Promos",
+    "set_series": "XY"
+  },
+  {
+    "name": "Trevor",
+    "number": "XY33",
+    "rarity": "Promo",
+    "set_name": "XY Black Star Promos",
+    "set_series": "XY"
+  },
+  {
+    "name": "Metagross-EX",
+    "number": "XY34",
+    "rarity": "Promo",
+    "set_name": "XY Black Star Promos",
+    "set_series": "XY"
+  },
+  {
+    "name": "M Metagross-EX",
+    "number": "XY35",
+    "rarity": "Promo",
+    "set_name": "XY Black Star Promos",
+    "set_series": "XY"
+  },
+  {
+    "name": "Treecko",
+    "number": "XY36",
+    "rarity": "Promo",
+    "set_name": "XY Black Star Promos",
+    "set_series": "XY"
+  },
+  {
+    "name": "Torchic",
+    "number": "XY37",
+    "rarity": "Promo",
+    "set_name": "XY Black Star Promos",
+    "set_series": "XY"
+  },
+  {
+    "name": "Mudkip",
+    "number": "XY38",
+    "rarity": "Promo",
+    "set_name": "XY Black Star Promos",
+    "set_series": "XY"
+  },
+  {
+    "name": "Kingdra",
+    "number": "XY39",
+    "rarity": "Promo",
+    "set_name": "XY Black Star Promos",
+    "set_series": "XY"
+  },
+  {
+    "name": "Ditto",
+    "number": "XY40",
+    "rarity": "Promo",
+    "set_name": "XY Black Star Promos",
+    "set_series": "XY"
+  },
+  {
+    "name": "Kyogre-EX",
+    "number": "XY41",
+    "rarity": "Promo",
+    "set_name": "XY Black Star Promos",
+    "set_series": "XY"
+  },
+  {
+    "name": "Groudon-EX",
+    "number": "XY42",
+    "rarity": "Promo",
+    "set_name": "XY Black Star Promos",
+    "set_series": "XY"
+  },
+  {
+    "name": "Diancie-EX",
+    "number": "XY43",
+    "rarity": "Promo",
+    "set_name": "XY Black Star Promos",
+    "set_series": "XY"
+  },
+  {
+    "name": "M Diancie-EX",
+    "number": "XY44",
+    "rarity": "Promo",
+    "set_name": "XY Black Star Promos",
+    "set_series": "XY"
+  },
+  {
+    "name": "Gallade-EX",
+    "number": "XY45",
+    "rarity": "Promo",
+    "set_name": "XY Black Star Promos",
+    "set_series": "XY"
+  },
+  {
+    "name": "Altaria",
+    "number": "XY46",
+    "rarity": "Promo",
+    "set_name": "XY Black Star Promos",
+    "set_series": "XY"
+  },
+  {
+    "name": "Heliolisk",
+    "number": "XY47",
+    "rarity": "Promo",
+    "set_name": "XY Black Star Promos",
+    "set_series": "XY"
+  },
+  {
+    "name": "Meowstic",
+    "number": "XY48",
+    "rarity": "Promo",
+    "set_name": "XY Black Star Promos",
+    "set_series": "XY"
+  },
+  {
+    "name": "Regirock",
+    "number": "XY49",
+    "rarity": "Promo",
+    "set_name": "XY Black Star Promos",
+    "set_series": "XY"
+  },
+  {
+    "name": "Pangoro",
+    "number": "XY50",
+    "rarity": "Promo",
+    "set_name": "XY Black Star Promos",
+    "set_series": "XY"
+  },
+  {
+    "name": "Kyogre",
+    "number": "XY51",
+    "rarity": "Promo",
+    "set_name": "XY Black Star Promos",
+    "set_series": "XY"
+  },
+  {
+    "name": "Groudon",
+    "number": "XY52",
+    "rarity": "Promo",
+    "set_name": "XY Black Star Promos",
+    "set_series": "XY"
+  },
+  {
+    "name": "Sceptile-EX",
+    "number": "XY53",
+    "rarity": "Promo",
+    "set_name": "XY Black Star Promos",
+    "set_series": "XY"
+  },
+  {
+    "name": "Blaziken-EX",
+    "number": "XY54",
+    "rarity": "Promo",
+    "set_name": "XY Black Star Promos",
+    "set_series": "XY"
+  },
+  {
+    "name": "Swampert-EX",
+    "number": "XY55",
+    "rarity": "Promo",
+    "set_name": "XY Black Star Promos",
+    "set_series": "XY"
+  },
+  {
+    "name": "Blissey",
+    "number": "XY56",
+    "rarity": "Promo",
+    "set_name": "XY Black Star Promos",
+    "set_series": "XY"
+  },
+  {
+    "name": "Fearow",
+    "number": "XY57",
+    "rarity": "Promo",
+    "set_name": "XY Black Star Promos",
+    "set_series": "XY"
+  },
+  {
+    "name": "Malamar",
+    "number": "XY58",
+    "rarity": "Promo",
+    "set_name": "XY Black Star Promos",
+    "set_series": "XY"
+  },
+  {
+    "name": "Salamence",
+    "number": "XY59",
+    "rarity": "Promo",
+    "set_name": "XY Black Star Promos",
+    "set_series": "XY"
+  },
+  {
+    "name": "Gyarados",
+    "number": "XY60",
+    "rarity": "Promo",
+    "set_name": "XY Black Star Promos",
+    "set_series": "XY"
+  },
+  {
+    "name": "Flygon-EX",
+    "number": "XY61",
+    "rarity": "Promo",
+    "set_name": "XY Black Star Promos",
+    "set_series": "XY"
+  },
+  {
+    "name": "Absol-EX",
+    "number": "XY62",
+    "rarity": "Promo",
+    "set_name": "XY Black Star Promos",
+    "set_series": "XY"
+  },
+  {
+    "name": "M Absol-EX",
+    "number": "XY63",
+    "rarity": "Promo",
+    "set_name": "XY Black Star Promos",
+    "set_series": "XY"
+  },
+  {
+    "name": "Rayquaza",
+    "number": "XY64",
+    "rarity": "Promo",
+    "set_name": "XY Black Star Promos",
+    "set_series": "XY"
+  },
+  {
+    "name": "Latios",
+    "number": "XY65",
+    "rarity": "Promo",
+    "set_name": "XY Black Star Promos",
+    "set_series": "XY"
+  },
+  {
+    "name": "Rayquaza-EX",
+    "number": "XY66",
+    "rarity": "Promo",
+    "set_name": "XY Black Star Promos",
+    "set_series": "XY"
+  },
+  {
+    "name": "Jirachi",
+    "number": "XY67",
+    "rarity": "Promo",
+    "set_name": "XY Black Star Promos",
+    "set_series": "XY"
+  },
+  {
+    "name": "Jirachi",
+    "number": "XY67a",
+    "rarity": "Promo",
+    "set_name": "XY Black Star Promos",
+    "set_series": "XY"
+  },
+  {
+    "name": "Chesnaught",
+    "number": "XY68",
+    "rarity": "Promo",
+    "set_name": "XY Black Star Promos",
+    "set_series": "XY"
+  },
+  {
+    "name": "Rayquaza-EX",
+    "number": "XY69",
+    "rarity": "Promo",
+    "set_name": "XY Black Star Promos",
+    "set_series": "XY"
+  },
+  {
+    "name": "Tyrantrum-EX",
+    "number": "XY70",
+    "rarity": "Promo",
+    "set_name": "XY Black Star Promos",
+    "set_series": "XY"
+  },
+  {
+    "name": "Hoopa-EX",
+    "number": "XY71",
+    "rarity": "Promo",
+    "set_name": "XY Black Star Promos",
+    "set_series": "XY"
+  },
+  {
+    "name": "Latios-EX",
+    "number": "XY72",
+    "rarity": "Promo",
+    "set_name": "XY Black Star Promos",
+    "set_series": "XY"
+  },
+  {
+    "name": "Rayquaza-EX",
+    "number": "XY73",
+    "rarity": "Promo",
+    "set_name": "XY Black Star Promos",
+    "set_series": "XY"
+  },
+  {
+    "name": "Reshiram",
+    "number": "XY74",
+    "rarity": "Promo",
+    "set_name": "XY Black Star Promos",
+    "set_series": "XY"
+  },
+  {
+    "name": "Palkia",
+    "number": "XY75",
+    "rarity": "Promo",
+    "set_name": "XY Black Star Promos",
+    "set_series": "XY"
+  },
+  {
+    "name": "Zekrom",
+    "number": "XY76",
+    "rarity": "Promo",
+    "set_name": "XY Black Star Promos",
+    "set_series": "XY"
+  },
+  {
+    "name": "Dialga",
+    "number": "XY77",
+    "rarity": "Promo",
+    "set_name": "XY Black Star Promos",
+    "set_series": "XY"
+  },
+  {
+    "name": "Latias",
+    "number": "XY78",
+    "rarity": "Promo",
+    "set_name": "XY Black Star Promos",
+    "set_series": "XY"
+  },
+  {
+    "name": "Latios",
+    "number": "XY79",
+    "rarity": "Promo",
+    "set_name": "XY Black Star Promos",
+    "set_series": "XY"
+  },
+  {
+    "name": "Black Kyurem",
+    "number": "XY80",
+    "rarity": "Promo",
+    "set_name": "XY Black Star Promos",
+    "set_series": "XY"
+  },
+  {
+    "name": "White Kyurem",
+    "number": "XY81",
+    "rarity": "Promo",
+    "set_name": "XY Black Star Promos",
+    "set_series": "XY"
+  },
+  {
+    "name": "Regigigas",
+    "number": "XY82",
+    "rarity": "Promo",
+    "set_name": "XY Black Star Promos",
+    "set_series": "XY"
+  },
+  {
+    "name": "Arceus",
+    "number": "XY83",
+    "rarity": "Promo",
+    "set_name": "XY Black Star Promos",
+    "set_series": "XY"
+  },
+  {
+    "name": "Pikachu-EX",
+    "number": "XY84",
+    "rarity": "Promo",
+    "set_name": "XY Black Star Promos",
+    "set_series": "XY"
+  },
+  {
+    "name": "Hoopa-EX",
+    "number": "XY85",
+    "rarity": "Promo",
+    "set_name": "XY Black Star Promos",
+    "set_series": "XY"
+  },
+  {
+    "name": "M Blaziken-EX",
+    "number": "XY86",
+    "rarity": "Promo",
+    "set_name": "XY Black Star Promos",
+    "set_series": "XY"
+  },
+  {
+    "name": "M Swampert-EX",
+    "number": "XY87",
+    "rarity": "Promo",
+    "set_name": "XY Black Star Promos",
+    "set_series": "XY"
+  },
+  {
+    "name": "Chespin",
+    "number": "XY88",
+    "rarity": "Promo",
+    "set_name": "XY Black Star Promos",
+    "set_series": "XY"
+  },
+  {
+    "name": "Pikachu",
+    "number": "XY89",
+    "rarity": "Promo",
+    "set_name": "XY Black Star Promos",
+    "set_series": "XY"
+  },
+  {
+    "name": "Hoopa",
+    "number": "XY90",
+    "rarity": "Promo",
+    "set_name": "XY Black Star Promos",
+    "set_series": "XY"
+  },
+  {
+    "name": "Champions Festival",
+    "number": "XY91",
+    "rarity": "Promo",
+    "set_name": "XY Black Star Promos",
+    "set_series": "XY"
+  },
+  {
+    "name": "Sableye",
+    "number": "XY92",
+    "rarity": "Promo",
+    "set_name": "XY Black Star Promos",
+    "set_series": "XY"
+  },
+  {
+    "name": "Celebi",
+    "number": "XY93",
+    "rarity": "Promo",
+    "set_name": "XY Black Star Promos",
+    "set_series": "XY"
+  },
+  {
+    "name": "Trevenant",
+    "number": "XY94",
+    "rarity": "Promo",
+    "set_name": "XY Black Star Promos",
+    "set_series": "XY"
+  },
+  {
+    "name": "Pikachu",
+    "number": "XY95",
+    "rarity": "Promo",
+    "set_name": "XY Black Star Promos",
+    "set_series": "XY"
+  },
+  {
+    "name": "Umbreon",
+    "number": "XY96",
+    "rarity": "Promo",
+    "set_name": "XY Black Star Promos",
+    "set_series": "XY"
+  },
+  {
+    "name": "Aerodactyl-EX",
+    "number": "XY97",
+    "rarity": "Promo",
+    "set_name": "XY Black Star Promos",
+    "set_series": "XY"
+  },
+  {
+    "name": "M Aerodactyl-EX",
+    "number": "XY98",
+    "rarity": "Promo",
+    "set_name": "XY Black Star Promos",
+    "set_series": "XY"
+  },
+  {
+    "name": "Aerodactyl Spirit Link",
+    "number": "XY99",
+    "rarity": "Promo",
+    "set_name": "XY Black Star Promos",
+    "set_series": "XY"
+  },
+  {
+    "name": "Mewtwo",
+    "number": "XY100",
+    "rarity": "Promo",
+    "set_name": "XY Black Star Promos",
+    "set_series": "XY"
+  },
+  {
+    "name": "Mewtwo",
+    "number": "XY101",
+    "rarity": "Promo",
+    "set_name": "XY Black Star Promos",
+    "set_series": "XY"
+  },
+  {
+    "name": "Aurorus-EX",
+    "number": "XY102",
+    "rarity": "Promo",
+    "set_name": "XY Black Star Promos",
+    "set_series": "XY"
+  },
+  {
+    "name": "Mawile-EX",
+    "number": "XY103",
+    "rarity": "Promo",
+    "set_name": "XY Black Star Promos",
+    "set_series": "XY"
+  },
+  {
+    "name": "M Mawile-EX",
+    "number": "XY104",
+    "rarity": "Promo",
+    "set_name": "XY Black Star Promos",
+    "set_series": "XY"
+  },
+  {
+    "name": "Mawile Spirit Link",
+    "number": "XY105",
+    "rarity": "Promo",
+    "set_name": "XY Black Star Promos",
+    "set_series": "XY"
+  },
+  {
+    "name": "Gyarados-EX",
+    "number": "XY106",
+    "rarity": "Promo",
+    "set_name": "XY Black Star Promos",
+    "set_series": "XY"
+  },
+  {
+    "name": "Mewtwo-EX",
+    "number": "XY107",
+    "rarity": "Promo",
+    "set_name": "XY Black Star Promos",
+    "set_series": "XY"
+  },
+  {
+    "name": "Machamp-EX",
+    "number": "XY108",
+    "rarity": "Promo",
+    "set_name": "XY Black Star Promos",
+    "set_series": "XY"
+  },
+  {
+    "name": "Gyarados",
+    "number": "XY109",
+    "rarity": "Promo",
+    "set_name": "XY Black Star Promos",
+    "set_series": "XY"
+  },
+  {
+    "name": "Mew",
+    "number": "XY110",
+    "rarity": "Promo",
+    "set_name": "XY Black Star Promos",
+    "set_series": "XY"
+  },
+  {
+    "name": "Celebi",
+    "number": "XY111",
+    "rarity": "Promo",
+    "set_name": "XY Black Star Promos",
+    "set_series": "XY"
+  },
+  {
+    "name": "Jirachi",
+    "number": "XY112",
+    "rarity": "Promo",
+    "set_name": "XY Black Star Promos",
+    "set_series": "XY"
+  },
+  {
+    "name": "Manaphy",
+    "number": "XY113",
+    "rarity": "Promo",
+    "set_name": "XY Black Star Promos",
+    "set_series": "XY"
+  },
+  {
+    "name": "Darkrai",
+    "number": "XY114",
+    "rarity": "Promo",
+    "set_name": "XY Black Star Promos",
+    "set_series": "XY"
+  },
+  {
+    "name": "Shaymin",
+    "number": "XY115",
+    "rarity": "Promo",
+    "set_name": "XY Black Star Promos",
+    "set_series": "XY"
+  },
+  {
+    "name": "Arceus",
+    "number": "XY116",
+    "rarity": "Promo",
+    "set_name": "XY Black Star Promos",
+    "set_series": "XY"
+  },
+  {
+    "name": "Victini",
+    "number": "XY117",
+    "rarity": "Promo",
+    "set_name": "XY Black Star Promos",
+    "set_series": "XY"
+  },
+  {
+    "name": "Keldeo",
+    "number": "XY118",
+    "rarity": "Promo",
+    "set_name": "XY Black Star Promos",
+    "set_series": "XY"
+  },
+  {
+    "name": "Genesect",
+    "number": "XY119",
+    "rarity": "Promo",
+    "set_name": "XY Black Star Promos",
+    "set_series": "XY"
+  },
+  {
+    "name": "Meloetta",
+    "number": "XY120",
+    "rarity": "Promo",
+    "set_name": "XY Black Star Promos",
+    "set_series": "XY"
+  },
+  {
+    "name": "Charizard-EX",
+    "number": "XY121",
+    "rarity": "Promo",
+    "set_name": "XY Black Star Promos",
+    "set_series": "XY"
+  },
+  {
+    "name": "Blastoise-EX",
+    "number": "XY122",
+    "rarity": "Promo",
+    "set_name": "XY Black Star Promos",
+    "set_series": "XY"
+  },
+  {
+    "name": "Venusaur-EX",
+    "number": "XY123",
+    "rarity": "Promo",
+    "set_name": "XY Black Star Promos",
+    "set_series": "XY"
+  },
+  {
+    "name": "Pikachu-EX",
+    "number": "XY124",
+    "rarity": "Promo",
+    "set_name": "XY Black Star Promos",
+    "set_series": "XY"
+  },
+  {
+    "name": "Mewtwo-EX",
+    "number": "XY125",
+    "rarity": "Promo",
+    "set_name": "XY Black Star Promos",
+    "set_series": "XY"
+  },
+  {
+    "name": "Mew-EX",
+    "number": "XY126",
+    "rarity": "Promo",
+    "set_name": "XY Black Star Promos",
+    "set_series": "XY"
+  },
+  {
+    "name": "Moltres",
+    "number": "XY127",
+    "rarity": "Promo",
+    "set_name": "XY Black Star Promos",
+    "set_series": "XY"
+  },
+  {
+    "name": "White Kyurem",
+    "number": "XY128",
+    "rarity": "Promo",
+    "set_name": "XY Black Star Promos",
+    "set_series": "XY"
+  },
+  {
+    "name": "Zygarde",
+    "number": "XY129",
+    "rarity": "Promo",
+    "set_name": "XY Black Star Promos",
+    "set_series": "XY"
+  },
+  {
+    "name": "Tyranitar",
+    "number": "XY130",
+    "rarity": "Promo",
+    "set_name": "XY Black Star Promos",
+    "set_series": "XY"
+  },
+  {
+    "name": "Pansear",
+    "number": "XY131",
+    "rarity": "Promo",
+    "set_name": "XY Black Star Promos",
+    "set_series": "XY"
+  },
+  {
+    "name": "Gastly",
+    "number": "XY132",
+    "rarity": "Promo",
+    "set_name": "XY Black Star Promos",
+    "set_series": "XY"
+  },
+  {
+    "name": "Ash-Greninja-EX",
+    "number": "XY133",
+    "rarity": "Promo",
+    "set_name": "XY Black Star Promos",
+    "set_series": "XY"
+  },
+  {
+    "name": "Empoleon BREAK",
+    "number": "XY134",
+    "rarity": "Promo",
+    "set_name": "XY Black Star Promos",
+    "set_series": "XY"
+  },
+  {
+    "name": "Beheeyem BREAK",
+    "number": "XY135",
+    "rarity": "Promo",
+    "set_name": "XY Black Star Promos",
+    "set_series": "XY"
+  },
+  {
+    "name": "Noctowl BREAK",
+    "number": "XY136",
+    "rarity": "Promo",
+    "set_name": "XY Black Star Promos",
+    "set_series": "XY"
+  },
+  {
+    "name": "Vivillon",
+    "number": "XY137",
+    "rarity": "Promo",
+    "set_name": "XY Black Star Promos",
+    "set_series": "XY"
+  },
+  {
+    "name": "Froakie",
+    "number": "XY138",
+    "rarity": "Promo",
+    "set_name": "XY Black Star Promos",
+    "set_series": "XY"
+  },
+  {
+    "name": "Floette",
+    "number": "XY139",
+    "rarity": "Promo",
+    "set_name": "XY Black Star Promos",
+    "set_series": "XY"
+  },
+  {
+    "name": "Lucario",
+    "number": "XY140",
+    "rarity": "Promo",
+    "set_name": "XY Black Star Promos",
+    "set_series": "XY"
+  },
+  {
+    "name": "Rayquaza",
+    "number": "XY141",
+    "rarity": "Promo",
+    "set_name": "XY Black Star Promos",
+    "set_series": "XY"
+  },
+  {
+    "name": "Azelf",
+    "number": "XY142",
+    "rarity": "Promo",
+    "set_name": "XY Black Star Promos",
+    "set_series": "XY"
+  },
+  {
+    "name": "Magikarp",
+    "number": "XY143",
+    "rarity": "Promo",
+    "set_name": "XY Black Star Promos",
+    "set_series": "XY"
+  },
+  {
+    "name": "Yanmega",
+    "number": "XY144",
+    "rarity": "Promo",
+    "set_name": "XY Black Star Promos",
+    "set_series": "XY"
+  },
+  {
+    "name": "Volcanion",
+    "number": "XY145",
+    "rarity": "Promo",
+    "set_name": "XY Black Star Promos",
+    "set_series": "XY"
+  },
+  {
+    "name": "Clawitzer",
+    "number": "XY146",
+    "rarity": "Promo",
+    "set_name": "XY Black Star Promos",
+    "set_series": "XY"
+  },
+  {
+    "name": "Hoopa",
+    "number": "XY147",
+    "rarity": "Promo",
+    "set_name": "XY Black Star Promos",
+    "set_series": "XY"
+  },
+  {
+    "name": "Shaymin-EX",
+    "number": "XY148",
+    "rarity": "Promo",
+    "set_name": "XY Black Star Promos",
+    "set_series": "XY"
+  },
+  {
+    "name": "Xerneas-EX",
+    "number": "XY149",
+    "rarity": "Promo",
+    "set_name": "XY Black Star Promos",
+    "set_series": "XY"
+  },
+  {
+    "name": "Yveltal-EX",
+    "number": "XY150",
+    "rarity": "Promo",
+    "set_name": "XY Black Star Promos",
+    "set_series": "XY"
+  },
+  {
+    "name": "Yveltal-EX",
+    "number": "XY150a",
+    "rarity": "Promo",
+    "set_name": "XY Black Star Promos",
+    "set_series": "XY"
+  },
+  {
+    "name": "Zygarde-EX",
+    "number": "XY151",
+    "rarity": "Promo",
+    "set_name": "XY Black Star Promos",
+    "set_series": "XY"
+  },
+  {
+    "name": "Zygarde",
+    "number": "XY152",
+    "rarity": "Promo",
+    "set_name": "XY Black Star Promos",
+    "set_series": "XY"
+  },
+  {
+    "name": "Ho-Oh",
+    "number": "XY153",
+    "rarity": "Promo",
+    "set_name": "XY Black Star Promos",
+    "set_series": "XY"
+  },
+  {
+    "name": "Ho-Oh BREAK",
+    "number": "XY154",
+    "rarity": "Promo",
+    "set_name": "XY Black Star Promos",
+    "set_series": "XY"
+  },
+  {
+    "name": "Wobbuffet BREAK",
+    "number": "XY155",
+    "rarity": "Promo",
+    "set_name": "XY Black Star Promos",
+    "set_series": "XY"
+  },
+  {
+    "name": "Lugia",
+    "number": "XY156",
+    "rarity": "Promo",
+    "set_name": "XY Black Star Promos",
+    "set_series": "XY"
+  },
+  {
+    "name": "Beedrill-EX",
+    "number": "XY157",
+    "rarity": "Promo",
+    "set_name": "XY Black Star Promos",
+    "set_series": "XY"
+  },
+  {
+    "name": "M Beedrill-EX",
+    "number": "XY158",
+    "rarity": "Promo",
+    "set_name": "XY Black Star Promos",
+    "set_series": "XY"
+  },
+  {
+    "name": "Beedrill Spirit Link",
+    "number": "XY159",
+    "rarity": "Promo",
+    "set_name": "XY Black Star Promos",
+    "set_series": "XY"
+  },
+  {
+    "name": "Black Kyurem",
+    "number": "XY160",
+    "rarity": "Promo",
+    "set_name": "XY Black Star Promos",
+    "set_series": "XY"
+  },
+  {
+    "name": "Braixen",
+    "number": "XY161",
+    "rarity": "Promo",
+    "set_name": "XY Black Star Promos",
+    "set_series": "XY"
+  },
+  {
+    "name": "Greninja",
+    "number": "XY162",
+    "rarity": "Promo",
+    "set_name": "XY Black Star Promos",
+    "set_series": "XY"
+  },
+  {
+    "name": "Weezing",
+    "number": "XY163",
+    "rarity": "Promo",
+    "set_name": "XY Black Star Promos",
+    "set_series": "XY"
+  },
+  {
+    "name": "Volcanion",
+    "number": "XY164",
+    "rarity": "Promo",
+    "set_name": "XY Black Star Promos",
+    "set_series": "XY"
+  },
+  {
+    "name": "Magearna",
+    "number": "XY165",
+    "rarity": "Promo",
+    "set_name": "XY Black Star Promos",
+    "set_series": "XY"
+  },
+  {
+    "name": "M Gengar-EX",
+    "number": "XY166",
+    "rarity": "Promo",
+    "set_name": "XY Black Star Promos",
+    "set_series": "XY"
+  },
+  {
+    "name": "Garchomp-EX",
+    "number": "XY167",
+    "rarity": "Promo",
+    "set_name": "XY Black Star Promos",
+    "set_series": "XY"
+  },
+  {
+    "name": "M Garchomp-EX",
+    "number": "XY168",
+    "rarity": "Promo",
+    "set_name": "XY Black Star Promos",
+    "set_series": "XY"
+  },
+  {
+    "name": "Garchomp Spirit Link",
+    "number": "XY169",
+    "rarity": "Promo",
+    "set_name": "XY Black Star Promos",
+    "set_series": "XY"
+  },
+  {
+    "name": "Salamence-EX",
+    "number": "XY170",
+    "rarity": "Promo",
+    "set_name": "XY Black Star Promos",
+    "set_series": "XY"
+  },
+  {
+    "name": "M Salamence-EX",
+    "number": "XY171",
+    "rarity": "Promo",
+    "set_name": "XY Black Star Promos",
+    "set_series": "XY"
+  },
+  {
+    "name": "Salamence Spirit Link",
+    "number": "XY172",
+    "rarity": "Promo",
+    "set_name": "XY Black Star Promos",
+    "set_series": "XY"
+  },
+  {
+    "name": "Volcanion-EX",
+    "number": "XY173",
+    "rarity": "Promo",
+    "set_name": "XY Black Star Promos",
+    "set_series": "XY"
+  },
+  {
+    "name": "Pikachu-EX",
+    "number": "XY174",
+    "rarity": "Promo",
+    "set_name": "XY Black Star Promos",
+    "set_series": "XY"
+  },
+  {
+    "name": "Magearna-EX",
+    "number": "XY175",
+    "rarity": "Promo",
+    "set_name": "XY Black Star Promos",
+    "set_series": "XY"
+  },
+  {
+    "name": "Champions Festival",
+    "number": "XY176",
+    "rarity": "Promo",
+    "set_name": "XY Black Star Promos",
+    "set_series": "XY"
+  },
+  {
+    "name": "Karen",
+    "number": "XY177",
+    "rarity": "Promo",
+    "set_name": "XY Black Star Promos",
+    "set_series": "XY"
+  },
+  {
+    "name": "Karen",
+    "number": "XY177a",
+    "rarity": "Promo",
+    "set_name": "XY Black Star Promos",
+    "set_series": "XY"
+  },
+  {
+    "name": "Absol",
+    "number": "XY178",
+    "rarity": "Promo",
+    "set_name": "XY Black Star Promos",
+    "set_series": "XY"
+  },
+  {
+    "name": "Snorlax",
+    "number": "XY179",
+    "rarity": "Promo",
+    "set_name": "XY Black Star Promos",
+    "set_series": "XY"
+  },
+  {
+    "name": "Arcanine BREAK",
+    "number": "XY180",
+    "rarity": "Promo",
+    "set_name": "XY Black Star Promos",
+    "set_series": "XY"
+  },
+  {
+    "name": "Crobat BREAK",
+    "number": "XY181",
+    "rarity": "Promo",
+    "set_name": "XY Black Star Promos",
+    "set_series": "XY"
+  },
+  {
+    "name": "Mandibuzz BREAK",
+    "number": "XY182",
+    "rarity": "Promo",
+    "set_name": "XY Black Star Promos",
+    "set_series": "XY"
+  },
+  {
+    "name": "Mewtwo-EX",
+    "number": "XY183",
+    "rarity": "Promo",
+    "set_name": "XY Black Star Promos",
+    "set_series": "XY"
+  },
+  {
+    "name": "Giratina",
+    "number": "XY184",
+    "rarity": "Promo",
+    "set_name": "XY Black Star Promos",
+    "set_series": "XY"
+  },
+  {
+    "name": "Volcanion",
+    "number": "XY185",
+    "rarity": "Promo",
+    "set_name": "XY Black Star Promos",
+    "set_series": "XY"
+  },
+  {
+    "name": "Magearna",
+    "number": "XY186",
+    "rarity": "Promo",
+    "set_name": "XY Black Star Promos",
+    "set_series": "XY"
+  },
+  {
+    "name": "Celebi",
+    "number": "XY187",
+    "rarity": "Promo",
+    "set_name": "XY Black Star Promos",
+    "set_series": "XY"
+  },
+  {
+    "name": "Shaymin",
+    "number": "XY188",
+    "rarity": "Promo",
+    "set_name": "XY Black Star Promos",
+    "set_series": "XY"
+  },
+  {
+    "name": "Victini",
+    "number": "XY189",
+    "rarity": "Promo",
+    "set_name": "XY Black Star Promos",
+    "set_series": "XY"
+  },
+  {
+    "name": "Manaphy",
+    "number": "XY190",
+    "rarity": "Promo",
+    "set_name": "XY Black Star Promos",
+    "set_series": "XY"
+  },
+  {
+    "name": "Keldeo",
+    "number": "XY191",
+    "rarity": "Promo",
+    "set_name": "XY Black Star Promos",
+    "set_series": "XY"
+  },
+  {
+    "name": "Mew",
+    "number": "XY192",
+    "rarity": "Promo",
+    "set_name": "XY Black Star Promos",
+    "set_series": "XY"
+  },
+  {
+    "name": "Meloetta",
+    "number": "XY193",
+    "rarity": "Promo",
+    "set_name": "XY Black Star Promos",
+    "set_series": "XY"
+  },
+  {
+    "name": "Darkrai",
+    "number": "XY194",
+    "rarity": "Promo",
+    "set_name": "XY Black Star Promos",
+    "set_series": "XY"
+  },
+  {
+    "name": "Jirachi",
+    "number": "XY195",
+    "rarity": "Promo",
+    "set_name": "XY Black Star Promos",
+    "set_series": "XY"
+  },
+  {
+    "name": "Genesect",
+    "number": "XY196",
+    "rarity": "Promo",
+    "set_name": "XY Black Star Promos",
+    "set_series": "XY"
+  },
+  {
+    "name": "Arceus",
+    "number": "XY197",
+    "rarity": "Promo",
+    "set_name": "XY Black Star Promos",
+    "set_series": "XY"
+  },
+  {
+    "name": "M Camerupt-EX",
+    "number": "XY198",
+    "rarity": "Promo",
+    "set_name": "XY Black Star Promos",
+    "set_series": "XY"
+  },
+  {
+    "name": "M Camerupt-EX",
+    "number": "XY198a",
+    "rarity": "Promo",
+    "set_name": "XY Black Star Promos",
+    "set_series": "XY"
+  },
+  {
+    "name": "Camerupt Spirit Link",
+    "number": "XY199",
+    "rarity": "Promo",
+    "set_name": "XY Black Star Promos",
+    "set_series": "XY"
+  },
+  {
+    "name": "M Sharpedo-EX",
+    "number": "XY200",
+    "rarity": "Promo",
+    "set_name": "XY Black Star Promos",
+    "set_series": "XY"
+  },
+  {
+    "name": "M Sharpedo-EX",
+    "number": "XY200a",
+    "rarity": "Promo",
+    "set_name": "XY Black Star Promos",
+    "set_series": "XY"
+  },
+  {
+    "name": "Sharpedo Spirit Link",
+    "number": "XY201",
+    "rarity": "Promo",
+    "set_name": "XY Black Star Promos",
+    "set_series": "XY"
+  },
+  {
+    "name": "Pikachu",
+    "number": "XY202",
+    "rarity": "Promo",
+    "set_name": "XY Black Star Promos",
+    "set_series": "XY"
+  },
+  {
+    "name": "Gym Badge",
+    "number": "XY203",
+    "rarity": "Promo",
+    "set_name": "XY Black Star Promos",
+    "set_series": "XY"
+  },
+  {
+    "name": "Gym Badge",
+    "number": "XY204",
+    "rarity": "Promo",
+    "set_name": "XY Black Star Promos",
+    "set_series": "XY"
+  },
+  {
+    "name": "Gym Badge",
+    "number": "XY205",
+    "rarity": "Promo",
+    "set_name": "XY Black Star Promos",
+    "set_series": "XY"
+  },
+  {
+    "name": "Gym Badge",
+    "number": "XY206",
+    "rarity": "Promo",
+    "set_name": "XY Black Star Promos",
+    "set_series": "XY"
+  },
+  {
+    "name": "Gym Badge",
+    "number": "XY207",
+    "rarity": "Promo",
+    "set_name": "XY Black Star Promos",
+    "set_series": "XY"
+  },
+  {
+    "name": "Gym Badge",
+    "number": "XY208",
+    "rarity": "Promo",
+    "set_name": "XY Black Star Promos",
+    "set_series": "XY"
+  },
+  {
+    "name": "Gym Badge",
+    "number": "XY209",
+    "rarity": "Promo",
+    "set_name": "XY Black Star Promos",
+    "set_series": "XY"
+  },
+  {
+    "name": "Gym Badge",
+    "number": "XY210",
+    "rarity": "Promo",
+    "set_name": "XY Black Star Promos",
+    "set_series": "XY"
+  },
+  {
+    "name": "Lucario Spirit Link",
+    "number": "XY211",
+    "rarity": "Promo",
+    "set_name": "XY Black Star Promos",
+    "set_series": "XY"
+  }
+]

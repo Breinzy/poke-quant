@@ -1,0 +1,779 @@
+[
+  {
+    "name": "Bulbasaur",
+    "number": "1",
+    "rarity": "Common",
+    "set_name": "Dark Explorers",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Ivysaur",
+    "number": "2",
+    "rarity": "Uncommon",
+    "set_name": "Dark Explorers",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Venusaur",
+    "number": "3",
+    "rarity": "Rare Holo",
+    "set_name": "Dark Explorers",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Scyther",
+    "number": "4",
+    "rarity": "Uncommon",
+    "set_name": "Dark Explorers",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Carnivine",
+    "number": "5",
+    "rarity": "Rare",
+    "set_name": "Dark Explorers",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Leafeon",
+    "number": "6",
+    "rarity": "Rare",
+    "set_name": "Dark Explorers",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Dwebble",
+    "number": "7",
+    "rarity": "Common",
+    "set_name": "Dark Explorers",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Crustle",
+    "number": "8",
+    "rarity": "Uncommon",
+    "set_name": "Dark Explorers",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Karrablast",
+    "number": "9",
+    "rarity": "Common",
+    "set_name": "Dark Explorers",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Shelmet",
+    "number": "10",
+    "rarity": "Common",
+    "set_name": "Dark Explorers",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Accelgor",
+    "number": "11",
+    "rarity": "Rare",
+    "set_name": "Dark Explorers",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Flareon",
+    "number": "12",
+    "rarity": "Uncommon",
+    "set_name": "Dark Explorers",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Entei-EX",
+    "number": "13",
+    "rarity": "Rare Holo EX",
+    "set_name": "Dark Explorers",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Torchic",
+    "number": "14",
+    "rarity": "Common",
+    "set_name": "Dark Explorers",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Torchic",
+    "number": "15",
+    "rarity": "Common",
+    "set_name": "Dark Explorers",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Combusken",
+    "number": "16",
+    "rarity": "Uncommon",
+    "set_name": "Dark Explorers",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Blaziken",
+    "number": "17",
+    "rarity": "Rare Holo",
+    "set_name": "Dark Explorers",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Torkoal",
+    "number": "18",
+    "rarity": "Uncommon",
+    "set_name": "Dark Explorers",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Heatmor",
+    "number": "19",
+    "rarity": "Rare",
+    "set_name": "Dark Explorers",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Larvesta",
+    "number": "20",
+    "rarity": "Common",
+    "set_name": "Dark Explorers",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Larvesta",
+    "number": "21",
+    "rarity": "Common",
+    "set_name": "Dark Explorers",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Volcarona",
+    "number": "22",
+    "rarity": "Rare Holo",
+    "set_name": "Dark Explorers",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Slowpoke",
+    "number": "23",
+    "rarity": "Common",
+    "set_name": "Dark Explorers",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Slowbro",
+    "number": "24",
+    "rarity": "Uncommon",
+    "set_name": "Dark Explorers",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Vaporeon",
+    "number": "25",
+    "rarity": "Uncommon",
+    "set_name": "Dark Explorers",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Kyogre-EX",
+    "number": "26",
+    "rarity": "Rare Holo EX",
+    "set_name": "Dark Explorers",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Piplup",
+    "number": "27",
+    "rarity": "Common",
+    "set_name": "Dark Explorers",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Prinplup",
+    "number": "28",
+    "rarity": "Uncommon",
+    "set_name": "Dark Explorers",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Empoleon",
+    "number": "29",
+    "rarity": "Rare Holo",
+    "set_name": "Dark Explorers",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Glaceon",
+    "number": "30",
+    "rarity": "Rare",
+    "set_name": "Dark Explorers",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Tympole",
+    "number": "31",
+    "rarity": "Common",
+    "set_name": "Dark Explorers",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Palpitoad",
+    "number": "32",
+    "rarity": "Uncommon",
+    "set_name": "Dark Explorers",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Vanillite",
+    "number": "33",
+    "rarity": "Common",
+    "set_name": "Dark Explorers",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Vanillish",
+    "number": "34",
+    "rarity": "Uncommon",
+    "set_name": "Dark Explorers",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Ducklett",
+    "number": "35",
+    "rarity": "Common",
+    "set_name": "Dark Explorers",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Swanna",
+    "number": "36",
+    "rarity": "Rare",
+    "set_name": "Dark Explorers",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Jolteon",
+    "number": "37",
+    "rarity": "Uncommon",
+    "set_name": "Dark Explorers",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Raikou-EX",
+    "number": "38",
+    "rarity": "Rare Holo EX",
+    "set_name": "Dark Explorers",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Plusle",
+    "number": "39",
+    "rarity": "Common",
+    "set_name": "Dark Explorers",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Minun",
+    "number": "40",
+    "rarity": "Common",
+    "set_name": "Dark Explorers",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Joltik",
+    "number": "41",
+    "rarity": "Common",
+    "set_name": "Dark Explorers",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Joltik",
+    "number": "42",
+    "rarity": "Common",
+    "set_name": "Dark Explorers",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Galvantula",
+    "number": "43",
+    "rarity": "Rare",
+    "set_name": "Dark Explorers",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Tynamo",
+    "number": "44",
+    "rarity": "Common",
+    "set_name": "Dark Explorers",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Tynamo",
+    "number": "45",
+    "rarity": "Common",
+    "set_name": "Dark Explorers",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Eelektrik",
+    "number": "46",
+    "rarity": "Uncommon",
+    "set_name": "Dark Explorers",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Eelektross",
+    "number": "47",
+    "rarity": "Rare Holo",
+    "set_name": "Dark Explorers",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Espeon",
+    "number": "48",
+    "rarity": "Rare",
+    "set_name": "Dark Explorers",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Slowking",
+    "number": "49",
+    "rarity": "Rare",
+    "set_name": "Dark Explorers",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Woobat",
+    "number": "50",
+    "rarity": "Common",
+    "set_name": "Dark Explorers",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Yamask",
+    "number": "51",
+    "rarity": "Uncommon",
+    "set_name": "Dark Explorers",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Cofagrigus",
+    "number": "52",
+    "rarity": "Rare",
+    "set_name": "Dark Explorers",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Aerodactyl",
+    "number": "53",
+    "rarity": "Rare",
+    "set_name": "Dark Explorers",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Groudon-EX",
+    "number": "54",
+    "rarity": "Rare Holo EX",
+    "set_name": "Dark Explorers",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Drilbur",
+    "number": "55",
+    "rarity": "Common",
+    "set_name": "Dark Explorers",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Excadrill",
+    "number": "56",
+    "rarity": "Rare",
+    "set_name": "Dark Explorers",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Excadrill",
+    "number": "57",
+    "rarity": "Rare",
+    "set_name": "Dark Explorers",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Timburr",
+    "number": "58",
+    "rarity": "Common",
+    "set_name": "Dark Explorers",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Gurdurr",
+    "number": "59",
+    "rarity": "Uncommon",
+    "set_name": "Dark Explorers",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Umbreon",
+    "number": "60",
+    "rarity": "Uncommon",
+    "set_name": "Dark Explorers",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Umbreon",
+    "number": "61",
+    "rarity": "Uncommon",
+    "set_name": "Dark Explorers",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Sableye",
+    "number": "62",
+    "rarity": "Uncommon",
+    "set_name": "Dark Explorers",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Darkrai-EX",
+    "number": "63",
+    "rarity": "Rare Holo EX",
+    "set_name": "Dark Explorers",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Sandile",
+    "number": "64",
+    "rarity": "Common",
+    "set_name": "Dark Explorers",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Krokorok",
+    "number": "65",
+    "rarity": "Uncommon",
+    "set_name": "Dark Explorers",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Krookodile",
+    "number": "66",
+    "rarity": "Rare Holo",
+    "set_name": "Dark Explorers",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Scraggy",
+    "number": "67",
+    "rarity": "Common",
+    "set_name": "Dark Explorers",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Scrafty",
+    "number": "68",
+    "rarity": "Rare",
+    "set_name": "Dark Explorers",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Zorua",
+    "number": "69",
+    "rarity": "Common",
+    "set_name": "Dark Explorers",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Zorua",
+    "number": "70",
+    "rarity": "Common",
+    "set_name": "Dark Explorers",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Zoroark",
+    "number": "71",
+    "rarity": "Rare",
+    "set_name": "Dark Explorers",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Bisharp",
+    "number": "72",
+    "rarity": "Rare",
+    "set_name": "Dark Explorers",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Vullaby",
+    "number": "73",
+    "rarity": "Uncommon",
+    "set_name": "Dark Explorers",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Escavalier",
+    "number": "74",
+    "rarity": "Rare",
+    "set_name": "Dark Explorers",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Klink",
+    "number": "75",
+    "rarity": "Common",
+    "set_name": "Dark Explorers",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Klang",
+    "number": "76",
+    "rarity": "Uncommon",
+    "set_name": "Dark Explorers",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Klinklang",
+    "number": "77",
+    "rarity": "Rare Holo",
+    "set_name": "Dark Explorers",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Pawniard",
+    "number": "78",
+    "rarity": "Common",
+    "set_name": "Dark Explorers",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Bisharp",
+    "number": "79",
+    "rarity": "Rare",
+    "set_name": "Dark Explorers",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Chansey",
+    "number": "80",
+    "rarity": "Common",
+    "set_name": "Dark Explorers",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Chansey",
+    "number": "81",
+    "rarity": "Common",
+    "set_name": "Dark Explorers",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Blissey",
+    "number": "82",
+    "rarity": "Rare Holo",
+    "set_name": "Dark Explorers",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Eevee",
+    "number": "83",
+    "rarity": "Common",
+    "set_name": "Dark Explorers",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Eevee",
+    "number": "84",
+    "rarity": "Common",
+    "set_name": "Dark Explorers",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Chatot",
+    "number": "85",
+    "rarity": "Uncommon",
+    "set_name": "Dark Explorers",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Lillipup",
+    "number": "86",
+    "rarity": "Common",
+    "set_name": "Dark Explorers",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Herdier",
+    "number": "87",
+    "rarity": "Uncommon",
+    "set_name": "Dark Explorers",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Stoutland",
+    "number": "88",
+    "rarity": "Rare",
+    "set_name": "Dark Explorers",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Haxorus",
+    "number": "89",
+    "rarity": "Rare Holo",
+    "set_name": "Dark Explorers",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Tornadus-EX",
+    "number": "90",
+    "rarity": "Rare Holo EX",
+    "set_name": "Dark Explorers",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Cheren",
+    "number": "91",
+    "rarity": "Uncommon",
+    "set_name": "Dark Explorers",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Dark Claw",
+    "number": "92",
+    "rarity": "Uncommon",
+    "set_name": "Dark Explorers",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Dark Patch",
+    "number": "93",
+    "rarity": "Uncommon",
+    "set_name": "Dark Explorers",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Enhanced Hammer",
+    "number": "94",
+    "rarity": "Uncommon",
+    "set_name": "Dark Explorers",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Hooligans Jim & Cas",
+    "number": "95",
+    "rarity": "Uncommon",
+    "set_name": "Dark Explorers",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "N",
+    "number": "96",
+    "rarity": "Uncommon",
+    "set_name": "Dark Explorers",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Old Amber Aerodactyl",
+    "number": "97",
+    "rarity": "Uncommon",
+    "set_name": "Dark Explorers",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Professor Juniper",
+    "number": "98",
+    "rarity": "Uncommon",
+    "set_name": "Dark Explorers",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Random Receiver",
+    "number": "99",
+    "rarity": "Uncommon",
+    "set_name": "Dark Explorers",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Rare Candy",
+    "number": "100",
+    "rarity": "Uncommon",
+    "set_name": "Dark Explorers",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Twist Mountain",
+    "number": "101",
+    "rarity": "Uncommon",
+    "set_name": "Dark Explorers",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Ultra Ball",
+    "number": "102",
+    "rarity": "Uncommon",
+    "set_name": "Dark Explorers",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Entei-EX",
+    "number": "103",
+    "rarity": "Rare Ultra",
+    "set_name": "Dark Explorers",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Kyogre-EX",
+    "number": "104",
+    "rarity": "Rare Ultra",
+    "set_name": "Dark Explorers",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Raikou-EX",
+    "number": "105",
+    "rarity": "Rare Ultra",
+    "set_name": "Dark Explorers",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Groudon-EX",
+    "number": "106",
+    "rarity": "Rare Ultra",
+    "set_name": "Dark Explorers",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Darkrai-EX",
+    "number": "107",
+    "rarity": "Rare Ultra",
+    "set_name": "Dark Explorers",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Tornadus-EX",
+    "number": "108",
+    "rarity": "Rare Ultra",
+    "set_name": "Dark Explorers",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Gardevoir",
+    "number": "109",
+    "rarity": "Rare Secret",
+    "set_name": "Dark Explorers",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Archeops",
+    "number": "110",
+    "rarity": "Rare Secret",
+    "set_name": "Dark Explorers",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Pok\u00e9mon Catcher",
+    "number": "111",
+    "rarity": "Rare Secret",
+    "set_name": "Dark Explorers",
+    "set_series": "Black & White"
+  }
+]

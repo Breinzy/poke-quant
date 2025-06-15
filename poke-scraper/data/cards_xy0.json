@@ -1,0 +1,275 @@
+[
+  {
+    "name": "Weedle",
+    "number": "1",
+    "rarity": null,
+    "set_name": "Kalos Starter Set",
+    "set_series": "XY"
+  },
+  {
+    "name": "Pansage",
+    "number": "2",
+    "rarity": null,
+    "set_name": "Kalos Starter Set",
+    "set_series": "XY"
+  },
+  {
+    "name": "Chespin",
+    "number": "3",
+    "rarity": null,
+    "set_name": "Kalos Starter Set",
+    "set_series": "XY"
+  },
+  {
+    "name": "Quilladin",
+    "number": "4",
+    "rarity": null,
+    "set_name": "Kalos Starter Set",
+    "set_series": "XY"
+  },
+  {
+    "name": "Chesnaught",
+    "number": "5",
+    "rarity": null,
+    "set_name": "Kalos Starter Set",
+    "set_series": "XY"
+  },
+  {
+    "name": "Slugma",
+    "number": "6",
+    "rarity": null,
+    "set_name": "Kalos Starter Set",
+    "set_series": "XY"
+  },
+  {
+    "name": "Pansear",
+    "number": "7",
+    "rarity": null,
+    "set_name": "Kalos Starter Set",
+    "set_series": "XY"
+  },
+  {
+    "name": "Fennekin",
+    "number": "8",
+    "rarity": null,
+    "set_name": "Kalos Starter Set",
+    "set_series": "XY"
+  },
+  {
+    "name": "Braixen",
+    "number": "9",
+    "rarity": null,
+    "set_name": "Kalos Starter Set",
+    "set_series": "XY"
+  },
+  {
+    "name": "Delphox",
+    "number": "10",
+    "rarity": null,
+    "set_name": "Kalos Starter Set",
+    "set_series": "XY"
+  },
+  {
+    "name": "Panpour",
+    "number": "11",
+    "rarity": null,
+    "set_name": "Kalos Starter Set",
+    "set_series": "XY"
+  },
+  {
+    "name": "Froakie",
+    "number": "12",
+    "rarity": null,
+    "set_name": "Kalos Starter Set",
+    "set_series": "XY"
+  },
+  {
+    "name": "Frogadier",
+    "number": "13",
+    "rarity": null,
+    "set_name": "Kalos Starter Set",
+    "set_series": "XY"
+  },
+  {
+    "name": "Greninja",
+    "number": "14",
+    "rarity": null,
+    "set_name": "Kalos Starter Set",
+    "set_series": "XY"
+  },
+  {
+    "name": "Clauncher",
+    "number": "15",
+    "rarity": null,
+    "set_name": "Kalos Starter Set",
+    "set_series": "XY"
+  },
+  {
+    "name": "Poochyena",
+    "number": "16",
+    "rarity": null,
+    "set_name": "Kalos Starter Set",
+    "set_series": "XY"
+  },
+  {
+    "name": "Mightyena",
+    "number": "17",
+    "rarity": null,
+    "set_name": "Kalos Starter Set",
+    "set_series": "XY"
+  },
+  {
+    "name": "Inkay",
+    "number": "18",
+    "rarity": null,
+    "set_name": "Kalos Starter Set",
+    "set_series": "XY"
+  },
+  {
+    "name": "Pawniard",
+    "number": "19",
+    "rarity": null,
+    "set_name": "Kalos Starter Set",
+    "set_series": "XY"
+  },
+  {
+    "name": "Bisharp",
+    "number": "20",
+    "rarity": null,
+    "set_name": "Kalos Starter Set",
+    "set_series": "XY"
+  },
+  {
+    "name": "Honedge",
+    "number": "21",
+    "rarity": null,
+    "set_name": "Kalos Starter Set",
+    "set_series": "XY"
+  },
+  {
+    "name": "Snubbull",
+    "number": "22",
+    "rarity": null,
+    "set_name": "Kalos Starter Set",
+    "set_series": "XY"
+  },
+  {
+    "name": "Granbull",
+    "number": "23",
+    "rarity": null,
+    "set_name": "Kalos Starter Set",
+    "set_series": "XY"
+  },
+  {
+    "name": "Swirlix",
+    "number": "24",
+    "rarity": null,
+    "set_name": "Kalos Starter Set",
+    "set_series": "XY"
+  },
+  {
+    "name": "Farfetch'd",
+    "number": "25",
+    "rarity": null,
+    "set_name": "Kalos Starter Set",
+    "set_series": "XY"
+  },
+  {
+    "name": "Snorlax",
+    "number": "26",
+    "rarity": null,
+    "set_name": "Kalos Starter Set",
+    "set_series": "XY"
+  },
+  {
+    "name": "Miltank",
+    "number": "27",
+    "rarity": null,
+    "set_name": "Kalos Starter Set",
+    "set_series": "XY"
+  },
+  {
+    "name": "Skitty",
+    "number": "28",
+    "rarity": null,
+    "set_name": "Kalos Starter Set",
+    "set_series": "XY"
+  },
+  {
+    "name": "Bidoof",
+    "number": "29",
+    "rarity": null,
+    "set_name": "Kalos Starter Set",
+    "set_series": "XY"
+  },
+  {
+    "name": "Bunnelby",
+    "number": "30",
+    "rarity": null,
+    "set_name": "Kalos Starter Set",
+    "set_series": "XY"
+  },
+  {
+    "name": "Fletchling",
+    "number": "31",
+    "rarity": null,
+    "set_name": "Kalos Starter Set",
+    "set_series": "XY"
+  },
+  {
+    "name": "Furfrou",
+    "number": "32",
+    "rarity": null,
+    "set_name": "Kalos Starter Set",
+    "set_series": "XY"
+  },
+  {
+    "name": "Furfrou",
+    "number": "33",
+    "rarity": null,
+    "set_name": "Kalos Starter Set",
+    "set_series": "XY"
+  },
+  {
+    "name": "Crushing Hammer",
+    "number": "34",
+    "rarity": null,
+    "set_name": "Kalos Starter Set",
+    "set_series": "XY"
+  },
+  {
+    "name": "Pok\u00e9 Ball",
+    "number": "35",
+    "rarity": null,
+    "set_name": "Kalos Starter Set",
+    "set_series": "XY"
+  },
+  {
+    "name": "Pok\u00e9mon Catcher",
+    "number": "36",
+    "rarity": null,
+    "set_name": "Kalos Starter Set",
+    "set_series": "XY"
+  },
+  {
+    "name": "Potion",
+    "number": "37",
+    "rarity": null,
+    "set_name": "Kalos Starter Set",
+    "set_series": "XY"
+  },
+  {
+    "name": "Switch",
+    "number": "38",
+    "rarity": null,
+    "set_name": "Kalos Starter Set",
+    "set_series": "XY"
+  },
+  {
+    "name": "Tierno",
+    "number": "39",
+    "rarity": null,
+    "set_name": "Kalos Starter Set",
+    "set_series": "XY"
+  }
+]

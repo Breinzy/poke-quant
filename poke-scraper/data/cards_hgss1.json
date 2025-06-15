@@ -1,0 +1,870 @@
+[
+  {
+    "name": "Arcanine",
+    "number": "1",
+    "rarity": "Rare Holo",
+    "set_name": "HeartGold & SoulSilver",
+    "set_series": "HeartGold & SoulSilver"
+  },
+  {
+    "name": "Azumarill",
+    "number": "2",
+    "rarity": "Rare Holo",
+    "set_name": "HeartGold & SoulSilver",
+    "set_series": "HeartGold & SoulSilver"
+  },
+  {
+    "name": "Clefable",
+    "number": "3",
+    "rarity": "Rare Holo",
+    "set_name": "HeartGold & SoulSilver",
+    "set_series": "HeartGold & SoulSilver"
+  },
+  {
+    "name": "Gyarados",
+    "number": "4",
+    "rarity": "Rare Holo",
+    "set_name": "HeartGold & SoulSilver",
+    "set_series": "HeartGold & SoulSilver"
+  },
+  {
+    "name": "Hitmontop",
+    "number": "5",
+    "rarity": "Rare Holo",
+    "set_name": "HeartGold & SoulSilver",
+    "set_series": "HeartGold & SoulSilver"
+  },
+  {
+    "name": "Jumpluff",
+    "number": "6",
+    "rarity": "Rare Holo",
+    "set_name": "HeartGold & SoulSilver",
+    "set_series": "HeartGold & SoulSilver"
+  },
+  {
+    "name": "Ninetales",
+    "number": "7",
+    "rarity": "Rare Holo",
+    "set_name": "HeartGold & SoulSilver",
+    "set_series": "HeartGold & SoulSilver"
+  },
+  {
+    "name": "Noctowl",
+    "number": "8",
+    "rarity": "Rare Holo",
+    "set_name": "HeartGold & SoulSilver",
+    "set_series": "HeartGold & SoulSilver"
+  },
+  {
+    "name": "Quagsire",
+    "number": "9",
+    "rarity": "Rare Holo",
+    "set_name": "HeartGold & SoulSilver",
+    "set_series": "HeartGold & SoulSilver"
+  },
+  {
+    "name": "Raichu",
+    "number": "10",
+    "rarity": "Rare Holo",
+    "set_name": "HeartGold & SoulSilver",
+    "set_series": "HeartGold & SoulSilver"
+  },
+  {
+    "name": "Shuckle",
+    "number": "11",
+    "rarity": "Rare Holo",
+    "set_name": "HeartGold & SoulSilver",
+    "set_series": "HeartGold & SoulSilver"
+  },
+  {
+    "name": "Slowking",
+    "number": "12",
+    "rarity": "Rare Holo",
+    "set_name": "HeartGold & SoulSilver",
+    "set_series": "HeartGold & SoulSilver"
+  },
+  {
+    "name": "Wobbuffet",
+    "number": "13",
+    "rarity": "Rare Holo",
+    "set_name": "HeartGold & SoulSilver",
+    "set_series": "HeartGold & SoulSilver"
+  },
+  {
+    "name": "Ampharos",
+    "number": "14",
+    "rarity": "Rare",
+    "set_name": "HeartGold & SoulSilver",
+    "set_series": "HeartGold & SoulSilver"
+  },
+  {
+    "name": "Ariados",
+    "number": "15",
+    "rarity": "Rare",
+    "set_name": "HeartGold & SoulSilver",
+    "set_series": "HeartGold & SoulSilver"
+  },
+  {
+    "name": "Butterfree",
+    "number": "16",
+    "rarity": "Rare",
+    "set_name": "HeartGold & SoulSilver",
+    "set_series": "HeartGold & SoulSilver"
+  },
+  {
+    "name": "Cleffa",
+    "number": "17",
+    "rarity": "Rare",
+    "set_name": "HeartGold & SoulSilver",
+    "set_series": "HeartGold & SoulSilver"
+  },
+  {
+    "name": "Exeggutor",
+    "number": "18",
+    "rarity": "Rare",
+    "set_name": "HeartGold & SoulSilver",
+    "set_series": "HeartGold & SoulSilver"
+  },
+  {
+    "name": "Farfetch'd",
+    "number": "19",
+    "rarity": "Rare",
+    "set_name": "HeartGold & SoulSilver",
+    "set_series": "HeartGold & SoulSilver"
+  },
+  {
+    "name": "Feraligatr",
+    "number": "20",
+    "rarity": "Rare",
+    "set_name": "HeartGold & SoulSilver",
+    "set_series": "HeartGold & SoulSilver"
+  },
+  {
+    "name": "Furret",
+    "number": "21",
+    "rarity": "Rare",
+    "set_name": "HeartGold & SoulSilver",
+    "set_series": "HeartGold & SoulSilver"
+  },
+  {
+    "name": "Granbull",
+    "number": "22",
+    "rarity": "Rare",
+    "set_name": "HeartGold & SoulSilver",
+    "set_series": "HeartGold & SoulSilver"
+  },
+  {
+    "name": "Hypno",
+    "number": "23",
+    "rarity": "Rare",
+    "set_name": "HeartGold & SoulSilver",
+    "set_series": "HeartGold & SoulSilver"
+  },
+  {
+    "name": "Lapras",
+    "number": "24",
+    "rarity": "Rare",
+    "set_name": "HeartGold & SoulSilver",
+    "set_series": "HeartGold & SoulSilver"
+  },
+  {
+    "name": "Ledian",
+    "number": "25",
+    "rarity": "Rare",
+    "set_name": "HeartGold & SoulSilver",
+    "set_series": "HeartGold & SoulSilver"
+  },
+  {
+    "name": "Meganium",
+    "number": "26",
+    "rarity": "Rare",
+    "set_name": "HeartGold & SoulSilver",
+    "set_series": "HeartGold & SoulSilver"
+  },
+  {
+    "name": "Persian",
+    "number": "27",
+    "rarity": "Rare",
+    "set_name": "HeartGold & SoulSilver",
+    "set_series": "HeartGold & SoulSilver"
+  },
+  {
+    "name": "Pichu",
+    "number": "28",
+    "rarity": "Rare",
+    "set_name": "HeartGold & SoulSilver",
+    "set_series": "HeartGold & SoulSilver"
+  },
+  {
+    "name": "Sandslash",
+    "number": "29",
+    "rarity": "Rare",
+    "set_name": "HeartGold & SoulSilver",
+    "set_series": "HeartGold & SoulSilver"
+  },
+  {
+    "name": "Smoochum",
+    "number": "30",
+    "rarity": "Rare",
+    "set_name": "HeartGold & SoulSilver",
+    "set_series": "HeartGold & SoulSilver"
+  },
+  {
+    "name": "Sunflora",
+    "number": "31",
+    "rarity": "Rare",
+    "set_name": "HeartGold & SoulSilver",
+    "set_series": "HeartGold & SoulSilver"
+  },
+  {
+    "name": "Typhlosion",
+    "number": "32",
+    "rarity": "Rare",
+    "set_name": "HeartGold & SoulSilver",
+    "set_series": "HeartGold & SoulSilver"
+  },
+  {
+    "name": "Tyrogue",
+    "number": "33",
+    "rarity": "Rare",
+    "set_name": "HeartGold & SoulSilver",
+    "set_series": "HeartGold & SoulSilver"
+  },
+  {
+    "name": "Weezing",
+    "number": "34",
+    "rarity": "Rare",
+    "set_name": "HeartGold & SoulSilver",
+    "set_series": "HeartGold & SoulSilver"
+  },
+  {
+    "name": "Bayleef",
+    "number": "35",
+    "rarity": "Uncommon",
+    "set_name": "HeartGold & SoulSilver",
+    "set_series": "HeartGold & SoulSilver"
+  },
+  {
+    "name": "Blissey",
+    "number": "36",
+    "rarity": "Uncommon",
+    "set_name": "HeartGold & SoulSilver",
+    "set_series": "HeartGold & SoulSilver"
+  },
+  {
+    "name": "Corsola",
+    "number": "37",
+    "rarity": "Uncommon",
+    "set_name": "HeartGold & SoulSilver",
+    "set_series": "HeartGold & SoulSilver"
+  },
+  {
+    "name": "Croconaw",
+    "number": "38",
+    "rarity": "Uncommon",
+    "set_name": "HeartGold & SoulSilver",
+    "set_series": "HeartGold & SoulSilver"
+  },
+  {
+    "name": "Delibird",
+    "number": "39",
+    "rarity": "Uncommon",
+    "set_name": "HeartGold & SoulSilver",
+    "set_series": "HeartGold & SoulSilver"
+  },
+  {
+    "name": "Donphan",
+    "number": "40",
+    "rarity": "Uncommon",
+    "set_name": "HeartGold & SoulSilver",
+    "set_series": "HeartGold & SoulSilver"
+  },
+  {
+    "name": "Dunsparce",
+    "number": "41",
+    "rarity": "Uncommon",
+    "set_name": "HeartGold & SoulSilver",
+    "set_series": "HeartGold & SoulSilver"
+  },
+  {
+    "name": "Flaaffy",
+    "number": "42",
+    "rarity": "Uncommon",
+    "set_name": "HeartGold & SoulSilver",
+    "set_series": "HeartGold & SoulSilver"
+  },
+  {
+    "name": "Heracross",
+    "number": "43",
+    "rarity": "Uncommon",
+    "set_name": "HeartGold & SoulSilver",
+    "set_series": "HeartGold & SoulSilver"
+  },
+  {
+    "name": "Igglybuff",
+    "number": "44",
+    "rarity": "Uncommon",
+    "set_name": "HeartGold & SoulSilver",
+    "set_series": "HeartGold & SoulSilver"
+  },
+  {
+    "name": "Mantine",
+    "number": "45",
+    "rarity": "Uncommon",
+    "set_name": "HeartGold & SoulSilver",
+    "set_series": "HeartGold & SoulSilver"
+  },
+  {
+    "name": "Metapod",
+    "number": "46",
+    "rarity": "Uncommon",
+    "set_name": "HeartGold & SoulSilver",
+    "set_series": "HeartGold & SoulSilver"
+  },
+  {
+    "name": "Miltank",
+    "number": "47",
+    "rarity": "Uncommon",
+    "set_name": "HeartGold & SoulSilver",
+    "set_series": "HeartGold & SoulSilver"
+  },
+  {
+    "name": "Parasect",
+    "number": "48",
+    "rarity": "Uncommon",
+    "set_name": "HeartGold & SoulSilver",
+    "set_series": "HeartGold & SoulSilver"
+  },
+  {
+    "name": "Quilava",
+    "number": "49",
+    "rarity": "Uncommon",
+    "set_name": "HeartGold & SoulSilver",
+    "set_series": "HeartGold & SoulSilver"
+  },
+  {
+    "name": "Qwilfish",
+    "number": "50",
+    "rarity": "Uncommon",
+    "set_name": "HeartGold & SoulSilver",
+    "set_series": "HeartGold & SoulSilver"
+  },
+  {
+    "name": "Skiploom",
+    "number": "51",
+    "rarity": "Uncommon",
+    "set_name": "HeartGold & SoulSilver",
+    "set_series": "HeartGold & SoulSilver"
+  },
+  {
+    "name": "Slowbro",
+    "number": "52",
+    "rarity": "Uncommon",
+    "set_name": "HeartGold & SoulSilver",
+    "set_series": "HeartGold & SoulSilver"
+  },
+  {
+    "name": "Starmie",
+    "number": "53",
+    "rarity": "Uncommon",
+    "set_name": "HeartGold & SoulSilver",
+    "set_series": "HeartGold & SoulSilver"
+  },
+  {
+    "name": "Unown",
+    "number": "54",
+    "rarity": "Uncommon",
+    "set_name": "HeartGold & SoulSilver",
+    "set_series": "HeartGold & SoulSilver"
+  },
+  {
+    "name": "Unown",
+    "number": "55",
+    "rarity": "Uncommon",
+    "set_name": "HeartGold & SoulSilver",
+    "set_series": "HeartGold & SoulSilver"
+  },
+  {
+    "name": "Wigglytuff",
+    "number": "56",
+    "rarity": "Uncommon",
+    "set_name": "HeartGold & SoulSilver",
+    "set_series": "HeartGold & SoulSilver"
+  },
+  {
+    "name": "Caterpie",
+    "number": "57",
+    "rarity": "Common",
+    "set_name": "HeartGold & SoulSilver",
+    "set_series": "HeartGold & SoulSilver"
+  },
+  {
+    "name": "Chansey",
+    "number": "58",
+    "rarity": "Common",
+    "set_name": "HeartGold & SoulSilver",
+    "set_series": "HeartGold & SoulSilver"
+  },
+  {
+    "name": "Chikorita",
+    "number": "59",
+    "rarity": "Common",
+    "set_name": "HeartGold & SoulSilver",
+    "set_series": "HeartGold & SoulSilver"
+  },
+  {
+    "name": "Clefairy",
+    "number": "60",
+    "rarity": "Common",
+    "set_name": "HeartGold & SoulSilver",
+    "set_series": "HeartGold & SoulSilver"
+  },
+  {
+    "name": "Cyndaquil",
+    "number": "61",
+    "rarity": "Common",
+    "set_name": "HeartGold & SoulSilver",
+    "set_series": "HeartGold & SoulSilver"
+  },
+  {
+    "name": "Drowzee",
+    "number": "62",
+    "rarity": "Common",
+    "set_name": "HeartGold & SoulSilver",
+    "set_series": "HeartGold & SoulSilver"
+  },
+  {
+    "name": "Exeggcute",
+    "number": "63",
+    "rarity": "Common",
+    "set_name": "HeartGold & SoulSilver",
+    "set_series": "HeartGold & SoulSilver"
+  },
+  {
+    "name": "Girafarig",
+    "number": "64",
+    "rarity": "Common",
+    "set_name": "HeartGold & SoulSilver",
+    "set_series": "HeartGold & SoulSilver"
+  },
+  {
+    "name": "Growlithe",
+    "number": "65",
+    "rarity": "Common",
+    "set_name": "HeartGold & SoulSilver",
+    "set_series": "HeartGold & SoulSilver"
+  },
+  {
+    "name": "Hoothoot",
+    "number": "66",
+    "rarity": "Common",
+    "set_name": "HeartGold & SoulSilver",
+    "set_series": "HeartGold & SoulSilver"
+  },
+  {
+    "name": "Hoppip",
+    "number": "67",
+    "rarity": "Common",
+    "set_name": "HeartGold & SoulSilver",
+    "set_series": "HeartGold & SoulSilver"
+  },
+  {
+    "name": "Jigglypuff",
+    "number": "68",
+    "rarity": "Common",
+    "set_name": "HeartGold & SoulSilver",
+    "set_series": "HeartGold & SoulSilver"
+  },
+  {
+    "name": "Jynx",
+    "number": "69",
+    "rarity": "Common",
+    "set_name": "HeartGold & SoulSilver",
+    "set_series": "HeartGold & SoulSilver"
+  },
+  {
+    "name": "Koffing",
+    "number": "70",
+    "rarity": "Common",
+    "set_name": "HeartGold & SoulSilver",
+    "set_series": "HeartGold & SoulSilver"
+  },
+  {
+    "name": "Ledyba",
+    "number": "71",
+    "rarity": "Common",
+    "set_name": "HeartGold & SoulSilver",
+    "set_series": "HeartGold & SoulSilver"
+  },
+  {
+    "name": "Magikarp",
+    "number": "72",
+    "rarity": "Common",
+    "set_name": "HeartGold & SoulSilver",
+    "set_series": "HeartGold & SoulSilver"
+  },
+  {
+    "name": "Mareep",
+    "number": "73",
+    "rarity": "Common",
+    "set_name": "HeartGold & SoulSilver",
+    "set_series": "HeartGold & SoulSilver"
+  },
+  {
+    "name": "Marill",
+    "number": "74",
+    "rarity": "Common",
+    "set_name": "HeartGold & SoulSilver",
+    "set_series": "HeartGold & SoulSilver"
+  },
+  {
+    "name": "Meowth",
+    "number": "75",
+    "rarity": "Common",
+    "set_name": "HeartGold & SoulSilver",
+    "set_series": "HeartGold & SoulSilver"
+  },
+  {
+    "name": "Paras",
+    "number": "76",
+    "rarity": "Common",
+    "set_name": "HeartGold & SoulSilver",
+    "set_series": "HeartGold & SoulSilver"
+  },
+  {
+    "name": "Phanpy",
+    "number": "77",
+    "rarity": "Common",
+    "set_name": "HeartGold & SoulSilver",
+    "set_series": "HeartGold & SoulSilver"
+  },
+  {
+    "name": "Pikachu",
+    "number": "78",
+    "rarity": "Common",
+    "set_name": "HeartGold & SoulSilver",
+    "set_series": "HeartGold & SoulSilver"
+  },
+  {
+    "name": "Sandshrew",
+    "number": "79",
+    "rarity": "Common",
+    "set_name": "HeartGold & SoulSilver",
+    "set_series": "HeartGold & SoulSilver"
+  },
+  {
+    "name": "Sentret",
+    "number": "80",
+    "rarity": "Common",
+    "set_name": "HeartGold & SoulSilver",
+    "set_series": "HeartGold & SoulSilver"
+  },
+  {
+    "name": "Slowpoke",
+    "number": "81",
+    "rarity": "Common",
+    "set_name": "HeartGold & SoulSilver",
+    "set_series": "HeartGold & SoulSilver"
+  },
+  {
+    "name": "Snubbull",
+    "number": "82",
+    "rarity": "Common",
+    "set_name": "HeartGold & SoulSilver",
+    "set_series": "HeartGold & SoulSilver"
+  },
+  {
+    "name": "Spinarak",
+    "number": "83",
+    "rarity": "Common",
+    "set_name": "HeartGold & SoulSilver",
+    "set_series": "HeartGold & SoulSilver"
+  },
+  {
+    "name": "Staryu",
+    "number": "84",
+    "rarity": "Common",
+    "set_name": "HeartGold & SoulSilver",
+    "set_series": "HeartGold & SoulSilver"
+  },
+  {
+    "name": "Sunkern",
+    "number": "85",
+    "rarity": "Common",
+    "set_name": "HeartGold & SoulSilver",
+    "set_series": "HeartGold & SoulSilver"
+  },
+  {
+    "name": "Totodile",
+    "number": "86",
+    "rarity": "Common",
+    "set_name": "HeartGold & SoulSilver",
+    "set_series": "HeartGold & SoulSilver"
+  },
+  {
+    "name": "Vulpix",
+    "number": "87",
+    "rarity": "Common",
+    "set_name": "HeartGold & SoulSilver",
+    "set_series": "HeartGold & SoulSilver"
+  },
+  {
+    "name": "Wooper",
+    "number": "88",
+    "rarity": "Common",
+    "set_name": "HeartGold & SoulSilver",
+    "set_series": "HeartGold & SoulSilver"
+  },
+  {
+    "name": "Bill",
+    "number": "89",
+    "rarity": "Uncommon",
+    "set_name": "HeartGold & SoulSilver",
+    "set_series": "HeartGold & SoulSilver"
+  },
+  {
+    "name": "Copycat",
+    "number": "90",
+    "rarity": "Uncommon",
+    "set_name": "HeartGold & SoulSilver",
+    "set_series": "HeartGold & SoulSilver"
+  },
+  {
+    "name": "Energy Switch",
+    "number": "91",
+    "rarity": "Uncommon",
+    "set_name": "HeartGold & SoulSilver",
+    "set_series": "HeartGold & SoulSilver"
+  },
+  {
+    "name": "Fisherman",
+    "number": "92",
+    "rarity": "Uncommon",
+    "set_name": "HeartGold & SoulSilver",
+    "set_series": "HeartGold & SoulSilver"
+  },
+  {
+    "name": "Full Heal",
+    "number": "93",
+    "rarity": "Uncommon",
+    "set_name": "HeartGold & SoulSilver",
+    "set_series": "HeartGold & SoulSilver"
+  },
+  {
+    "name": "Moomoo Milk",
+    "number": "94",
+    "rarity": "Uncommon",
+    "set_name": "HeartGold & SoulSilver",
+    "set_series": "HeartGold & SoulSilver"
+  },
+  {
+    "name": "Pok\u00e9 Ball",
+    "number": "95",
+    "rarity": "Uncommon",
+    "set_name": "HeartGold & SoulSilver",
+    "set_series": "HeartGold & SoulSilver"
+  },
+  {
+    "name": "Pok\u00e9gear 3.0",
+    "number": "96",
+    "rarity": "Uncommon",
+    "set_name": "HeartGold & SoulSilver",
+    "set_series": "HeartGold & SoulSilver"
+  },
+  {
+    "name": "Pok\u00e9mon Collector",
+    "number": "97",
+    "rarity": "Uncommon",
+    "set_name": "HeartGold & SoulSilver",
+    "set_series": "HeartGold & SoulSilver"
+  },
+  {
+    "name": "Pok\u00e9mon Communication",
+    "number": "98",
+    "rarity": "Uncommon",
+    "set_name": "HeartGold & SoulSilver",
+    "set_series": "HeartGold & SoulSilver"
+  },
+  {
+    "name": "Pok\u00e9mon Reversal",
+    "number": "99",
+    "rarity": "Uncommon",
+    "set_name": "HeartGold & SoulSilver",
+    "set_series": "HeartGold & SoulSilver"
+  },
+  {
+    "name": "Professor Elm's Training Method",
+    "number": "100",
+    "rarity": "Uncommon",
+    "set_name": "HeartGold & SoulSilver",
+    "set_series": "HeartGold & SoulSilver"
+  },
+  {
+    "name": "Professor Oak's New Theory",
+    "number": "101",
+    "rarity": "Uncommon",
+    "set_name": "HeartGold & SoulSilver",
+    "set_series": "HeartGold & SoulSilver"
+  },
+  {
+    "name": "Switch",
+    "number": "102",
+    "rarity": "Uncommon",
+    "set_name": "HeartGold & SoulSilver",
+    "set_series": "HeartGold & SoulSilver"
+  },
+  {
+    "name": "Double Colorless Energy",
+    "number": "103",
+    "rarity": "Uncommon",
+    "set_name": "HeartGold & SoulSilver",
+    "set_series": "HeartGold & SoulSilver"
+  },
+  {
+    "name": "Rainbow Energy",
+    "number": "104",
+    "rarity": "Uncommon",
+    "set_name": "HeartGold & SoulSilver",
+    "set_series": "HeartGold & SoulSilver"
+  },
+  {
+    "name": "Ampharos",
+    "number": "105",
+    "rarity": "Rare Prime",
+    "set_name": "HeartGold & SoulSilver",
+    "set_series": "HeartGold & SoulSilver"
+  },
+  {
+    "name": "Blissey",
+    "number": "106",
+    "rarity": "Rare Prime",
+    "set_name": "HeartGold & SoulSilver",
+    "set_series": "HeartGold & SoulSilver"
+  },
+  {
+    "name": "Donphan",
+    "number": "107",
+    "rarity": "Rare Prime",
+    "set_name": "HeartGold & SoulSilver",
+    "set_series": "HeartGold & SoulSilver"
+  },
+  {
+    "name": "Feraligatr",
+    "number": "108",
+    "rarity": "Rare Prime",
+    "set_name": "HeartGold & SoulSilver",
+    "set_series": "HeartGold & SoulSilver"
+  },
+  {
+    "name": "Meganium",
+    "number": "109",
+    "rarity": "Rare Prime",
+    "set_name": "HeartGold & SoulSilver",
+    "set_series": "HeartGold & SoulSilver"
+  },
+  {
+    "name": "Typhlosion",
+    "number": "110",
+    "rarity": "Rare Prime",
+    "set_name": "HeartGold & SoulSilver",
+    "set_series": "HeartGold & SoulSilver"
+  },
+  {
+    "name": "Ho-Oh LEGEND",
+    "number": "111",
+    "rarity": "LEGEND",
+    "set_name": "HeartGold & SoulSilver",
+    "set_series": "HeartGold & SoulSilver"
+  },
+  {
+    "name": "Ho-Oh LEGEND",
+    "number": "112",
+    "rarity": "LEGEND",
+    "set_name": "HeartGold & SoulSilver",
+    "set_series": "HeartGold & SoulSilver"
+  },
+  {
+    "name": "Lugia LEGEND",
+    "number": "113",
+    "rarity": "LEGEND",
+    "set_name": "HeartGold & SoulSilver",
+    "set_series": "HeartGold & SoulSilver"
+  },
+  {
+    "name": "Lugia LEGEND",
+    "number": "114",
+    "rarity": "LEGEND",
+    "set_name": "HeartGold & SoulSilver",
+    "set_series": "HeartGold & SoulSilver"
+  },
+  {
+    "name": "Grass Energy",
+    "number": "115",
+    "rarity": "Common",
+    "set_name": "HeartGold & SoulSilver",
+    "set_series": "HeartGold & SoulSilver"
+  },
+  {
+    "name": "Fire Energy",
+    "number": "116",
+    "rarity": "Common",
+    "set_name": "HeartGold & SoulSilver",
+    "set_series": "HeartGold & SoulSilver"
+  },
+  {
+    "name": "Water Energy",
+    "number": "117",
+    "rarity": "Common",
+    "set_name": "HeartGold & SoulSilver",
+    "set_series": "HeartGold & SoulSilver"
+  },
+  {
+    "name": "Lightning Energy",
+    "number": "118",
+    "rarity": "Common",
+    "set_name": "HeartGold & SoulSilver",
+    "set_series": "HeartGold & SoulSilver"
+  },
+  {
+    "name": "Psychic Energy",
+    "number": "119",
+    "rarity": "Common",
+    "set_name": "HeartGold & SoulSilver",
+    "set_series": "HeartGold & SoulSilver"
+  },
+  {
+    "name": "Fighting Energy",
+    "number": "120",
+    "rarity": "Common",
+    "set_name": "HeartGold & SoulSilver",
+    "set_series": "HeartGold & SoulSilver"
+  },
+  {
+    "name": "Darkness Energy",
+    "number": "121",
+    "rarity": "Common",
+    "set_name": "HeartGold & SoulSilver",
+    "set_series": "HeartGold & SoulSilver"
+  },
+  {
+    "name": "Metal Energy",
+    "number": "122",
+    "rarity": "Common",
+    "set_name": "HeartGold & SoulSilver",
+    "set_series": "HeartGold & SoulSilver"
+  },
+  {
+    "name": "Gyarados",
+    "number": "123",
+    "rarity": "Rare Holo",
+    "set_name": "HeartGold & SoulSilver",
+    "set_series": "HeartGold & SoulSilver"
+  },
+  {
+    "name": "Alph Lithograph",
+    "number": "ONE",
+    "rarity": "Rare Secret",
+    "set_name": "HeartGold & SoulSilver",
+    "set_series": "HeartGold & SoulSilver"
+  }
+]

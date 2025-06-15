@@ -1,0 +1,86 @@
+[
+  {
+    "name": "Arcanine",
+    "number": "1",
+    "rarity": null,
+    "set_name": "EX Trainer Kit 2 Minun",
+    "set_series": "EX"
+  },
+  {
+    "name": "Charmander",
+    "number": "2",
+    "rarity": null,
+    "set_name": "EX Trainer Kit 2 Minun",
+    "set_series": "EX"
+  },
+  {
+    "name": "Charmeleon",
+    "number": "3",
+    "rarity": "Uncommon",
+    "set_name": "EX Trainer Kit 2 Minun",
+    "set_series": "EX"
+  },
+  {
+    "name": "Growlithe",
+    "number": "4",
+    "rarity": null,
+    "set_name": "EX Trainer Kit 2 Minun",
+    "set_series": "EX"
+  },
+  {
+    "name": "Mareep",
+    "number": "5",
+    "rarity": null,
+    "set_name": "EX Trainer Kit 2 Minun",
+    "set_series": "EX"
+  },
+  {
+    "name": "Minun",
+    "number": "6",
+    "rarity": null,
+    "set_name": "EX Trainer Kit 2 Minun",
+    "set_series": "EX"
+  },
+  {
+    "name": "Vulpix",
+    "number": "7",
+    "rarity": null,
+    "set_name": "EX Trainer Kit 2 Minun",
+    "set_series": "EX"
+  },
+  {
+    "name": "Celio's Network",
+    "number": "8",
+    "rarity": null,
+    "set_name": "EX Trainer Kit 2 Minun",
+    "set_series": "EX"
+  },
+  {
+    "name": "Energy Search",
+    "number": "9",
+    "rarity": null,
+    "set_name": "EX Trainer Kit 2 Minun",
+    "set_series": "EX"
+  },
+  {
+    "name": "Potion",
+    "number": "10",
+    "rarity": null,
+    "set_name": "EX Trainer Kit 2 Minun",
+    "set_series": "EX"
+  },
+  {
+    "name": "Fire Energy",
+    "number": "11",
+    "rarity": null,
+    "set_name": "EX Trainer Kit 2 Minun",
+    "set_series": "EX"
+  },
+  {
+    "name": "Lightning Energy",
+    "number": "12",
+    "rarity": null,
+    "set_name": "EX Trainer Kit 2 Minun",
+    "set_series": "EX"
+  }
+]

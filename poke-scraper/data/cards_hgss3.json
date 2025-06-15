@@ -1,0 +1,639 @@
+[
+  {
+    "name": "Bellossom",
+    "number": "1",
+    "rarity": "Rare Holo",
+    "set_name": "HS\u2014Undaunted",
+    "set_series": "HeartGold & SoulSilver"
+  },
+  {
+    "name": "Espeon",
+    "number": "2",
+    "rarity": "Rare Holo",
+    "set_name": "HS\u2014Undaunted",
+    "set_series": "HeartGold & SoulSilver"
+  },
+  {
+    "name": "Forretress",
+    "number": "3",
+    "rarity": "Rare Holo",
+    "set_name": "HS\u2014Undaunted",
+    "set_series": "HeartGold & SoulSilver"
+  },
+  {
+    "name": "Gliscor",
+    "number": "4",
+    "rarity": "Rare Holo",
+    "set_name": "HS\u2014Undaunted",
+    "set_series": "HeartGold & SoulSilver"
+  },
+  {
+    "name": "Houndoom",
+    "number": "5",
+    "rarity": "Rare Holo",
+    "set_name": "HS\u2014Undaunted",
+    "set_series": "HeartGold & SoulSilver"
+  },
+  {
+    "name": "Magcargo",
+    "number": "6",
+    "rarity": "Rare Holo",
+    "set_name": "HS\u2014Undaunted",
+    "set_series": "HeartGold & SoulSilver"
+  },
+  {
+    "name": "Scizor",
+    "number": "7",
+    "rarity": "Rare Holo",
+    "set_name": "HS\u2014Undaunted",
+    "set_series": "HeartGold & SoulSilver"
+  },
+  {
+    "name": "Smeargle",
+    "number": "8",
+    "rarity": "Rare Holo",
+    "set_name": "HS\u2014Undaunted",
+    "set_series": "HeartGold & SoulSilver"
+  },
+  {
+    "name": "Togekiss",
+    "number": "9",
+    "rarity": "Rare Holo",
+    "set_name": "HS\u2014Undaunted",
+    "set_series": "HeartGold & SoulSilver"
+  },
+  {
+    "name": "Umbreon",
+    "number": "10",
+    "rarity": "Rare Holo",
+    "set_name": "HS\u2014Undaunted",
+    "set_series": "HeartGold & SoulSilver"
+  },
+  {
+    "name": "Dodrio",
+    "number": "11",
+    "rarity": "Rare",
+    "set_name": "HS\u2014Undaunted",
+    "set_series": "HeartGold & SoulSilver"
+  },
+  {
+    "name": "Drifblim",
+    "number": "12",
+    "rarity": "Rare",
+    "set_name": "HS\u2014Undaunted",
+    "set_series": "HeartGold & SoulSilver"
+  },
+  {
+    "name": "Forretress",
+    "number": "13",
+    "rarity": "Rare",
+    "set_name": "HS\u2014Undaunted",
+    "set_series": "HeartGold & SoulSilver"
+  },
+  {
+    "name": "Hariyama",
+    "number": "14",
+    "rarity": "Rare",
+    "set_name": "HS\u2014Undaunted",
+    "set_series": "HeartGold & SoulSilver"
+  },
+  {
+    "name": "Honchkrow",
+    "number": "15",
+    "rarity": "Rare",
+    "set_name": "HS\u2014Undaunted",
+    "set_series": "HeartGold & SoulSilver"
+  },
+  {
+    "name": "Honchkrow",
+    "number": "16",
+    "rarity": "Rare",
+    "set_name": "HS\u2014Undaunted",
+    "set_series": "HeartGold & SoulSilver"
+  },
+  {
+    "name": "Leafeon",
+    "number": "17",
+    "rarity": "Rare",
+    "set_name": "HS\u2014Undaunted",
+    "set_series": "HeartGold & SoulSilver"
+  },
+  {
+    "name": "Metagross",
+    "number": "18",
+    "rarity": "Rare",
+    "set_name": "HS\u2014Undaunted",
+    "set_series": "HeartGold & SoulSilver"
+  },
+  {
+    "name": "Mismagius",
+    "number": "19",
+    "rarity": "Rare",
+    "set_name": "HS\u2014Undaunted",
+    "set_series": "HeartGold & SoulSilver"
+  },
+  {
+    "name": "Rotom",
+    "number": "20",
+    "rarity": "Rare",
+    "set_name": "HS\u2014Undaunted",
+    "set_series": "HeartGold & SoulSilver"
+  },
+  {
+    "name": "Skarmory",
+    "number": "21",
+    "rarity": "Rare",
+    "set_name": "HS\u2014Undaunted",
+    "set_series": "HeartGold & SoulSilver"
+  },
+  {
+    "name": "Tropius",
+    "number": "22",
+    "rarity": "Rare",
+    "set_name": "HS\u2014Undaunted",
+    "set_series": "HeartGold & SoulSilver"
+  },
+  {
+    "name": "Vespiquen",
+    "number": "23",
+    "rarity": "Rare",
+    "set_name": "HS\u2014Undaunted",
+    "set_series": "HeartGold & SoulSilver"
+  },
+  {
+    "name": "Vileplume",
+    "number": "24",
+    "rarity": "Rare",
+    "set_name": "HS\u2014Undaunted",
+    "set_series": "HeartGold & SoulSilver"
+  },
+  {
+    "name": "Weavile",
+    "number": "25",
+    "rarity": "Rare",
+    "set_name": "HS\u2014Undaunted",
+    "set_series": "HeartGold & SoulSilver"
+  },
+  {
+    "name": "Flareon",
+    "number": "26",
+    "rarity": "Uncommon",
+    "set_name": "HS\u2014Undaunted",
+    "set_series": "HeartGold & SoulSilver"
+  },
+  {
+    "name": "Gloom",
+    "number": "27",
+    "rarity": "Uncommon",
+    "set_name": "HS\u2014Undaunted",
+    "set_series": "HeartGold & SoulSilver"
+  },
+  {
+    "name": "Jolteon",
+    "number": "28",
+    "rarity": "Uncommon",
+    "set_name": "HS\u2014Undaunted",
+    "set_series": "HeartGold & SoulSilver"
+  },
+  {
+    "name": "Lairon",
+    "number": "29",
+    "rarity": "Uncommon",
+    "set_name": "HS\u2014Undaunted",
+    "set_series": "HeartGold & SoulSilver"
+  },
+  {
+    "name": "Metang",
+    "number": "30",
+    "rarity": "Uncommon",
+    "set_name": "HS\u2014Undaunted",
+    "set_series": "HeartGold & SoulSilver"
+  },
+  {
+    "name": "Muk",
+    "number": "31",
+    "rarity": "Uncommon",
+    "set_name": "HS\u2014Undaunted",
+    "set_series": "HeartGold & SoulSilver"
+  },
+  {
+    "name": "Pinsir",
+    "number": "32",
+    "rarity": "Uncommon",
+    "set_name": "HS\u2014Undaunted",
+    "set_series": "HeartGold & SoulSilver"
+  },
+  {
+    "name": "Raichu",
+    "number": "33",
+    "rarity": "Uncommon",
+    "set_name": "HS\u2014Undaunted",
+    "set_series": "HeartGold & SoulSilver"
+  },
+  {
+    "name": "Raticate",
+    "number": "34",
+    "rarity": "Uncommon",
+    "set_name": "HS\u2014Undaunted",
+    "set_series": "HeartGold & SoulSilver"
+  },
+  {
+    "name": "Sableye",
+    "number": "35",
+    "rarity": "Uncommon",
+    "set_name": "HS\u2014Undaunted",
+    "set_series": "HeartGold & SoulSilver"
+  },
+  {
+    "name": "Scyther",
+    "number": "36",
+    "rarity": "Uncommon",
+    "set_name": "HS\u2014Undaunted",
+    "set_series": "HeartGold & SoulSilver"
+  },
+  {
+    "name": "Skuntank",
+    "number": "37",
+    "rarity": "Uncommon",
+    "set_name": "HS\u2014Undaunted",
+    "set_series": "HeartGold & SoulSilver"
+  },
+  {
+    "name": "Slowbro",
+    "number": "38",
+    "rarity": "Uncommon",
+    "set_name": "HS\u2014Undaunted",
+    "set_series": "HeartGold & SoulSilver"
+  },
+  {
+    "name": "Togetic",
+    "number": "39",
+    "rarity": "Uncommon",
+    "set_name": "HS\u2014Undaunted",
+    "set_series": "HeartGold & SoulSilver"
+  },
+  {
+    "name": "Unown",
+    "number": "40",
+    "rarity": "Uncommon",
+    "set_name": "HS\u2014Undaunted",
+    "set_series": "HeartGold & SoulSilver"
+  },
+  {
+    "name": "Vaporeon",
+    "number": "41",
+    "rarity": "Uncommon",
+    "set_name": "HS\u2014Undaunted",
+    "set_series": "HeartGold & SoulSilver"
+  },
+  {
+    "name": "Aron",
+    "number": "42",
+    "rarity": "Common",
+    "set_name": "HS\u2014Undaunted",
+    "set_series": "HeartGold & SoulSilver"
+  },
+  {
+    "name": "Beldum",
+    "number": "43",
+    "rarity": "Common",
+    "set_name": "HS\u2014Undaunted",
+    "set_series": "HeartGold & SoulSilver"
+  },
+  {
+    "name": "Combee",
+    "number": "44",
+    "rarity": "Common",
+    "set_name": "HS\u2014Undaunted",
+    "set_series": "HeartGold & SoulSilver"
+  },
+  {
+    "name": "Doduo",
+    "number": "45",
+    "rarity": "Common",
+    "set_name": "HS\u2014Undaunted",
+    "set_series": "HeartGold & SoulSilver"
+  },
+  {
+    "name": "Drifloon",
+    "number": "46",
+    "rarity": "Common",
+    "set_name": "HS\u2014Undaunted",
+    "set_series": "HeartGold & SoulSilver"
+  },
+  {
+    "name": "Eevee",
+    "number": "47",
+    "rarity": "Common",
+    "set_name": "HS\u2014Undaunted",
+    "set_series": "HeartGold & SoulSilver"
+  },
+  {
+    "name": "Eevee",
+    "number": "48",
+    "rarity": "Common",
+    "set_name": "HS\u2014Undaunted",
+    "set_series": "HeartGold & SoulSilver"
+  },
+  {
+    "name": "Gligar",
+    "number": "49",
+    "rarity": "Common",
+    "set_name": "HS\u2014Undaunted",
+    "set_series": "HeartGold & SoulSilver"
+  },
+  {
+    "name": "Grimer",
+    "number": "50",
+    "rarity": "Common",
+    "set_name": "HS\u2014Undaunted",
+    "set_series": "HeartGold & SoulSilver"
+  },
+  {
+    "name": "Hitmonchan",
+    "number": "51",
+    "rarity": "Common",
+    "set_name": "HS\u2014Undaunted",
+    "set_series": "HeartGold & SoulSilver"
+  },
+  {
+    "name": "Hitmonlee",
+    "number": "52",
+    "rarity": "Common",
+    "set_name": "HS\u2014Undaunted",
+    "set_series": "HeartGold & SoulSilver"
+  },
+  {
+    "name": "Houndour",
+    "number": "53",
+    "rarity": "Common",
+    "set_name": "HS\u2014Undaunted",
+    "set_series": "HeartGold & SoulSilver"
+  },
+  {
+    "name": "Houndour",
+    "number": "54",
+    "rarity": "Common",
+    "set_name": "HS\u2014Undaunted",
+    "set_series": "HeartGold & SoulSilver"
+  },
+  {
+    "name": "Makuhita",
+    "number": "55",
+    "rarity": "Common",
+    "set_name": "HS\u2014Undaunted",
+    "set_series": "HeartGold & SoulSilver"
+  },
+  {
+    "name": "Mawile",
+    "number": "56",
+    "rarity": "Common",
+    "set_name": "HS\u2014Undaunted",
+    "set_series": "HeartGold & SoulSilver"
+  },
+  {
+    "name": "Misdreavus",
+    "number": "57",
+    "rarity": "Common",
+    "set_name": "HS\u2014Undaunted",
+    "set_series": "HeartGold & SoulSilver"
+  },
+  {
+    "name": "Murkrow",
+    "number": "58",
+    "rarity": "Common",
+    "set_name": "HS\u2014Undaunted",
+    "set_series": "HeartGold & SoulSilver"
+  },
+  {
+    "name": "Murkrow",
+    "number": "59",
+    "rarity": "Common",
+    "set_name": "HS\u2014Undaunted",
+    "set_series": "HeartGold & SoulSilver"
+  },
+  {
+    "name": "Oddish",
+    "number": "60",
+    "rarity": "Common",
+    "set_name": "HS\u2014Undaunted",
+    "set_series": "HeartGold & SoulSilver"
+  },
+  {
+    "name": "Pikachu",
+    "number": "61",
+    "rarity": "Common",
+    "set_name": "HS\u2014Undaunted",
+    "set_series": "HeartGold & SoulSilver"
+  },
+  {
+    "name": "Pineco",
+    "number": "62",
+    "rarity": "Common",
+    "set_name": "HS\u2014Undaunted",
+    "set_series": "HeartGold & SoulSilver"
+  },
+  {
+    "name": "Pineco",
+    "number": "63",
+    "rarity": "Common",
+    "set_name": "HS\u2014Undaunted",
+    "set_series": "HeartGold & SoulSilver"
+  },
+  {
+    "name": "Rattata",
+    "number": "64",
+    "rarity": "Common",
+    "set_name": "HS\u2014Undaunted",
+    "set_series": "HeartGold & SoulSilver"
+  },
+  {
+    "name": "Scyther",
+    "number": "65",
+    "rarity": "Common",
+    "set_name": "HS\u2014Undaunted",
+    "set_series": "HeartGold & SoulSilver"
+  },
+  {
+    "name": "Slowpoke",
+    "number": "66",
+    "rarity": "Common",
+    "set_name": "HS\u2014Undaunted",
+    "set_series": "HeartGold & SoulSilver"
+  },
+  {
+    "name": "Slugma",
+    "number": "67",
+    "rarity": "Common",
+    "set_name": "HS\u2014Undaunted",
+    "set_series": "HeartGold & SoulSilver"
+  },
+  {
+    "name": "Sneasel",
+    "number": "68",
+    "rarity": "Common",
+    "set_name": "HS\u2014Undaunted",
+    "set_series": "HeartGold & SoulSilver"
+  },
+  {
+    "name": "Stunky",
+    "number": "69",
+    "rarity": "Common",
+    "set_name": "HS\u2014Undaunted",
+    "set_series": "HeartGold & SoulSilver"
+  },
+  {
+    "name": "Togepi",
+    "number": "70",
+    "rarity": "Common",
+    "set_name": "HS\u2014Undaunted",
+    "set_series": "HeartGold & SoulSilver"
+  },
+  {
+    "name": "Burned Tower",
+    "number": "71",
+    "rarity": "Uncommon",
+    "set_name": "HS\u2014Undaunted",
+    "set_series": "HeartGold & SoulSilver"
+  },
+  {
+    "name": "Defender",
+    "number": "72",
+    "rarity": "Uncommon",
+    "set_name": "HS\u2014Undaunted",
+    "set_series": "HeartGold & SoulSilver"
+  },
+  {
+    "name": "Energy Exchanger",
+    "number": "73",
+    "rarity": "Uncommon",
+    "set_name": "HS\u2014Undaunted",
+    "set_series": "HeartGold & SoulSilver"
+  },
+  {
+    "name": "Flower Shop Lady",
+    "number": "74",
+    "rarity": "Uncommon",
+    "set_name": "HS\u2014Undaunted",
+    "set_series": "HeartGold & SoulSilver"
+  },
+  {
+    "name": "Legend Box",
+    "number": "75",
+    "rarity": "Uncommon",
+    "set_name": "HS\u2014Undaunted",
+    "set_series": "HeartGold & SoulSilver"
+  },
+  {
+    "name": "Ruins of Alph",
+    "number": "76",
+    "rarity": "Uncommon",
+    "set_name": "HS\u2014Undaunted",
+    "set_series": "HeartGold & SoulSilver"
+  },
+  {
+    "name": "Sage's Training",
+    "number": "77",
+    "rarity": "Uncommon",
+    "set_name": "HS\u2014Undaunted",
+    "set_series": "HeartGold & SoulSilver"
+  },
+  {
+    "name": "Team Rocket's Trickery",
+    "number": "78",
+    "rarity": "Uncommon",
+    "set_name": "HS\u2014Undaunted",
+    "set_series": "HeartGold & SoulSilver"
+  },
+  {
+    "name": "Darkness Energy",
+    "number": "79",
+    "rarity": "Uncommon",
+    "set_name": "HS\u2014Undaunted",
+    "set_series": "HeartGold & SoulSilver"
+  },
+  {
+    "name": "Metal Energy",
+    "number": "80",
+    "rarity": "Uncommon",
+    "set_name": "HS\u2014Undaunted",
+    "set_series": "HeartGold & SoulSilver"
+  },
+  {
+    "name": "Espeon",
+    "number": "81",
+    "rarity": "Rare Prime",
+    "set_name": "HS\u2014Undaunted",
+    "set_series": "HeartGold & SoulSilver"
+  },
+  {
+    "name": "Houndoom",
+    "number": "82",
+    "rarity": "Rare Prime",
+    "set_name": "HS\u2014Undaunted",
+    "set_series": "HeartGold & SoulSilver"
+  },
+  {
+    "name": "Raichu",
+    "number": "83",
+    "rarity": "Rare Prime",
+    "set_name": "HS\u2014Undaunted",
+    "set_series": "HeartGold & SoulSilver"
+  },
+  {
+    "name": "Scizor",
+    "number": "84",
+    "rarity": "Rare Prime",
+    "set_name": "HS\u2014Undaunted",
+    "set_series": "HeartGold & SoulSilver"
+  },
+  {
+    "name": "Slowking",
+    "number": "85",
+    "rarity": "Rare Prime",
+    "set_name": "HS\u2014Undaunted",
+    "set_series": "HeartGold & SoulSilver"
+  },
+  {
+    "name": "Umbreon",
+    "number": "86",
+    "rarity": "Rare Prime",
+    "set_name": "HS\u2014Undaunted",
+    "set_series": "HeartGold & SoulSilver"
+  },
+  {
+    "name": "Kyogre & Groudon LEGEND",
+    "number": "87",
+    "rarity": "LEGEND",
+    "set_name": "HS\u2014Undaunted",
+    "set_series": "HeartGold & SoulSilver"
+  },
+  {
+    "name": "Kyogre & Groudon LEGEND",
+    "number": "88",
+    "rarity": "LEGEND",
+    "set_name": "HS\u2014Undaunted",
+    "set_series": "HeartGold & SoulSilver"
+  },
+  {
+    "name": "Rayquaza & Deoxys LEGEND",
+    "number": "89",
+    "rarity": "LEGEND",
+    "set_name": "HS\u2014Undaunted",
+    "set_series": "HeartGold & SoulSilver"
+  },
+  {
+    "name": "Rayquaza & Deoxys LEGEND",
+    "number": "90",
+    "rarity": "LEGEND",
+    "set_name": "HS\u2014Undaunted",
+    "set_series": "HeartGold & SoulSilver"
+  },
+  {
+    "name": "Alph Lithograph",
+    "number": "THREE",
+    "rarity": "Rare Secret",
+    "set_name": "HS\u2014Undaunted",
+    "set_series": "HeartGold & SoulSilver"
+  }
+]

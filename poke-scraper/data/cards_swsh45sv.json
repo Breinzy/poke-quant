@@ -1,0 +1,856 @@
+[
+  {
+    "name": "Rowlet",
+    "number": "SV001",
+    "rarity": "Rare Shiny",
+    "set_name": "Shining Fates Shiny Vault",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Dartrix",
+    "number": "SV002",
+    "rarity": "Rare Shiny",
+    "set_name": "Shining Fates Shiny Vault",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Decidueye",
+    "number": "SV003",
+    "rarity": "Rare Shiny",
+    "set_name": "Shining Fates Shiny Vault",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Grookey",
+    "number": "SV004",
+    "rarity": "Rare Shiny",
+    "set_name": "Shining Fates Shiny Vault",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Thwackey",
+    "number": "SV005",
+    "rarity": "Rare Shiny",
+    "set_name": "Shining Fates Shiny Vault",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Rillaboom",
+    "number": "SV006",
+    "rarity": "Rare Shiny",
+    "set_name": "Shining Fates Shiny Vault",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Blipbug",
+    "number": "SV007",
+    "rarity": "Rare Shiny",
+    "set_name": "Shining Fates Shiny Vault",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Dottler",
+    "number": "SV008",
+    "rarity": "Rare Shiny",
+    "set_name": "Shining Fates Shiny Vault",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Orbeetle",
+    "number": "SV009",
+    "rarity": "Rare Shiny",
+    "set_name": "Shining Fates Shiny Vault",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Gossifleur",
+    "number": "SV010",
+    "rarity": "Rare Shiny",
+    "set_name": "Shining Fates Shiny Vault",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Eldegoss",
+    "number": "SV011",
+    "rarity": "Rare Shiny",
+    "set_name": "Shining Fates Shiny Vault",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Applin",
+    "number": "SV012",
+    "rarity": "Rare Shiny",
+    "set_name": "Shining Fates Shiny Vault",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Flapple",
+    "number": "SV013",
+    "rarity": "Rare Shiny",
+    "set_name": "Shining Fates Shiny Vault",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Appletun",
+    "number": "SV014",
+    "rarity": "Rare Shiny",
+    "set_name": "Shining Fates Shiny Vault",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Scorbunny",
+    "number": "SV015",
+    "rarity": "Rare Shiny",
+    "set_name": "Shining Fates Shiny Vault",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Raboot",
+    "number": "SV016",
+    "rarity": "Rare Shiny",
+    "set_name": "Shining Fates Shiny Vault",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Cinderace",
+    "number": "SV017",
+    "rarity": "Rare Shiny",
+    "set_name": "Shining Fates Shiny Vault",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Sizzlipede",
+    "number": "SV018",
+    "rarity": "Rare Shiny",
+    "set_name": "Shining Fates Shiny Vault",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Centiskorch",
+    "number": "SV019",
+    "rarity": "Rare Shiny",
+    "set_name": "Shining Fates Shiny Vault",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Galarian Mr. Mime",
+    "number": "SV020",
+    "rarity": "Rare Shiny",
+    "set_name": "Shining Fates Shiny Vault",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Galarian Mr. Rime",
+    "number": "SV021",
+    "rarity": "Rare Shiny",
+    "set_name": "Shining Fates Shiny Vault",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Suicune",
+    "number": "SV022",
+    "rarity": "Rare Shiny",
+    "set_name": "Shining Fates Shiny Vault",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Galarian Darumaka",
+    "number": "SV023",
+    "rarity": "Rare Shiny",
+    "set_name": "Shining Fates Shiny Vault",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Galarian Darmanitan",
+    "number": "SV024",
+    "rarity": "Rare Shiny",
+    "set_name": "Shining Fates Shiny Vault",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Sobble",
+    "number": "SV025",
+    "rarity": "Rare Shiny",
+    "set_name": "Shining Fates Shiny Vault",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Drizzile",
+    "number": "SV026",
+    "rarity": "Rare Shiny",
+    "set_name": "Shining Fates Shiny Vault",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Inteleon",
+    "number": "SV027",
+    "rarity": "Rare Shiny",
+    "set_name": "Shining Fates Shiny Vault",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Chewtle",
+    "number": "SV028",
+    "rarity": "Rare Shiny",
+    "set_name": "Shining Fates Shiny Vault",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Drednaw",
+    "number": "SV029",
+    "rarity": "Rare Shiny",
+    "set_name": "Shining Fates Shiny Vault",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Cramorant",
+    "number": "SV030",
+    "rarity": "Rare Shiny",
+    "set_name": "Shining Fates Shiny Vault",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Arrokuda",
+    "number": "SV031",
+    "rarity": "Rare Shiny",
+    "set_name": "Shining Fates Shiny Vault",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Barraskewda",
+    "number": "SV032",
+    "rarity": "Rare Shiny",
+    "set_name": "Shining Fates Shiny Vault",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Snom",
+    "number": "SV033",
+    "rarity": "Rare Shiny",
+    "set_name": "Shining Fates Shiny Vault",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Frosmoth",
+    "number": "SV034",
+    "rarity": "Rare Shiny",
+    "set_name": "Shining Fates Shiny Vault",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Eiscue",
+    "number": "SV035",
+    "rarity": "Rare Shiny",
+    "set_name": "Shining Fates Shiny Vault",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Dracovish",
+    "number": "SV036",
+    "rarity": "Rare Shiny",
+    "set_name": "Shining Fates Shiny Vault",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Arctovish",
+    "number": "SV037",
+    "rarity": "Rare Shiny",
+    "set_name": "Shining Fates Shiny Vault",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Rotom",
+    "number": "SV038",
+    "rarity": "Rare Shiny",
+    "set_name": "Shining Fates Shiny Vault",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Yamper",
+    "number": "SV039",
+    "rarity": "Rare Shiny",
+    "set_name": "Shining Fates Shiny Vault",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Boltund",
+    "number": "SV040",
+    "rarity": "Rare Shiny",
+    "set_name": "Shining Fates Shiny Vault",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Toxel",
+    "number": "SV041",
+    "rarity": "Rare Shiny",
+    "set_name": "Shining Fates Shiny Vault",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Toxtricity",
+    "number": "SV042",
+    "rarity": "Rare Shiny",
+    "set_name": "Shining Fates Shiny Vault",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Pincurchin",
+    "number": "SV043",
+    "rarity": "Rare Shiny",
+    "set_name": "Shining Fates Shiny Vault",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Morpeko",
+    "number": "SV044",
+    "rarity": "Rare Shiny",
+    "set_name": "Shining Fates Shiny Vault",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Dracozolt",
+    "number": "SV045",
+    "rarity": "Rare Shiny",
+    "set_name": "Shining Fates Shiny Vault",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Arctozolt",
+    "number": "SV046",
+    "rarity": "Rare Shiny",
+    "set_name": "Shining Fates Shiny Vault",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Galarian Ponyta",
+    "number": "SV047",
+    "rarity": "Rare Shiny",
+    "set_name": "Shining Fates Shiny Vault",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Galarian Rapidash",
+    "number": "SV048",
+    "rarity": "Rare Shiny",
+    "set_name": "Shining Fates Shiny Vault",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Galarian Corsola",
+    "number": "SV049",
+    "rarity": "Rare Shiny",
+    "set_name": "Shining Fates Shiny Vault",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Galarian Cursola",
+    "number": "SV050",
+    "rarity": "Rare Shiny",
+    "set_name": "Shining Fates Shiny Vault",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Dedenne",
+    "number": "SV051",
+    "rarity": "Rare Shiny",
+    "set_name": "Shining Fates Shiny Vault",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Sinistea",
+    "number": "SV052",
+    "rarity": "Rare Shiny",
+    "set_name": "Shining Fates Shiny Vault",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Polteageist",
+    "number": "SV053",
+    "rarity": "Rare Shiny",
+    "set_name": "Shining Fates Shiny Vault",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Hatenna",
+    "number": "SV054",
+    "rarity": "Rare Shiny",
+    "set_name": "Shining Fates Shiny Vault",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Hattrem",
+    "number": "SV055",
+    "rarity": "Rare Shiny",
+    "set_name": "Shining Fates Shiny Vault",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Hatterene",
+    "number": "SV056",
+    "rarity": "Rare Shiny",
+    "set_name": "Shining Fates Shiny Vault",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Milcery",
+    "number": "SV057",
+    "rarity": "Rare Shiny",
+    "set_name": "Shining Fates Shiny Vault",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Alcremie",
+    "number": "SV058",
+    "rarity": "Rare Shiny",
+    "set_name": "Shining Fates Shiny Vault",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Indeedee",
+    "number": "SV059",
+    "rarity": "Rare Shiny",
+    "set_name": "Shining Fates Shiny Vault",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Dreepy",
+    "number": "SV060",
+    "rarity": "Rare Shiny",
+    "set_name": "Shining Fates Shiny Vault",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Drakloak",
+    "number": "SV061",
+    "rarity": "Rare Shiny",
+    "set_name": "Shining Fates Shiny Vault",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Dragapult",
+    "number": "SV062",
+    "rarity": "Rare Shiny",
+    "set_name": "Shining Fates Shiny Vault",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Galarian Farfetch'd",
+    "number": "SV063",
+    "rarity": "Rare Shiny",
+    "set_name": "Shining Fates Shiny Vault",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Galarian Sirfetch'd",
+    "number": "SV064",
+    "rarity": "Rare Shiny",
+    "set_name": "Shining Fates Shiny Vault",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Galarian Yamask",
+    "number": "SV065",
+    "rarity": "Rare Shiny",
+    "set_name": "Shining Fates Shiny Vault",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Galarian Runerigus",
+    "number": "SV066",
+    "rarity": "Rare Shiny",
+    "set_name": "Shining Fates Shiny Vault",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Rolycoly",
+    "number": "SV067",
+    "rarity": "Rare Shiny",
+    "set_name": "Shining Fates Shiny Vault",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Carkol",
+    "number": "SV068",
+    "rarity": "Rare Shiny",
+    "set_name": "Shining Fates Shiny Vault",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Coalossal",
+    "number": "SV069",
+    "rarity": "Rare Shiny",
+    "set_name": "Shining Fates Shiny Vault",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Silicobra",
+    "number": "SV070",
+    "rarity": "Rare Shiny",
+    "set_name": "Shining Fates Shiny Vault",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Sandaconda",
+    "number": "SV071",
+    "rarity": "Rare Shiny",
+    "set_name": "Shining Fates Shiny Vault",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Clobbopus",
+    "number": "SV072",
+    "rarity": "Rare Shiny",
+    "set_name": "Shining Fates Shiny Vault",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Grapploct",
+    "number": "SV073",
+    "rarity": "Rare Shiny",
+    "set_name": "Shining Fates Shiny Vault",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Falinks",
+    "number": "SV074",
+    "rarity": "Rare Shiny",
+    "set_name": "Shining Fates Shiny Vault",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Stonjourner",
+    "number": "SV075",
+    "rarity": "Rare Shiny",
+    "set_name": "Shining Fates Shiny Vault",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Koffing",
+    "number": "SV076",
+    "rarity": "Rare Shiny",
+    "set_name": "Shining Fates Shiny Vault",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Galarian Weezing",
+    "number": "SV077",
+    "rarity": "Rare Shiny",
+    "set_name": "Shining Fates Shiny Vault",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Galarian Zigzagoon",
+    "number": "SV078",
+    "rarity": "Rare Shiny",
+    "set_name": "Shining Fates Shiny Vault",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Galarian Linoone",
+    "number": "SV079",
+    "rarity": "Rare Shiny",
+    "set_name": "Shining Fates Shiny Vault",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Galarian Obstagoon",
+    "number": "SV080",
+    "rarity": "Rare Shiny",
+    "set_name": "Shining Fates Shiny Vault",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Nickit",
+    "number": "SV081",
+    "rarity": "Rare Shiny",
+    "set_name": "Shining Fates Shiny Vault",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Thievul",
+    "number": "SV082",
+    "rarity": "Rare Shiny",
+    "set_name": "Shining Fates Shiny Vault",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Impidimp",
+    "number": "SV083",
+    "rarity": "Rare Shiny",
+    "set_name": "Shining Fates Shiny Vault",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Morgrem",
+    "number": "SV084",
+    "rarity": "Rare Shiny",
+    "set_name": "Shining Fates Shiny Vault",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Grimmsnarl",
+    "number": "SV085",
+    "rarity": "Rare Shiny",
+    "set_name": "Shining Fates Shiny Vault",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Galarian Meowth",
+    "number": "SV086",
+    "rarity": "Rare Shiny",
+    "set_name": "Shining Fates Shiny Vault",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Galarian Perrserker",
+    "number": "SV087",
+    "rarity": "Rare Shiny",
+    "set_name": "Shining Fates Shiny Vault",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Galarian Stunfisk",
+    "number": "SV088",
+    "rarity": "Rare Shiny",
+    "set_name": "Shining Fates Shiny Vault",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Corviknight",
+    "number": "SV089",
+    "rarity": "Rare Shiny",
+    "set_name": "Shining Fates Shiny Vault",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Cufant",
+    "number": "SV090",
+    "rarity": "Rare Shiny",
+    "set_name": "Shining Fates Shiny Vault",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Copperajah",
+    "number": "SV091",
+    "rarity": "Rare Shiny",
+    "set_name": "Shining Fates Shiny Vault",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Duraludon",
+    "number": "SV092",
+    "rarity": "Rare Shiny",
+    "set_name": "Shining Fates Shiny Vault",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Minccino",
+    "number": "SV093",
+    "rarity": "Rare Shiny",
+    "set_name": "Shining Fates Shiny Vault",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Cinccino",
+    "number": "SV094",
+    "rarity": "Rare Shiny",
+    "set_name": "Shining Fates Shiny Vault",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Ducklett",
+    "number": "SV095",
+    "rarity": "Rare Shiny",
+    "set_name": "Shining Fates Shiny Vault",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Swanna",
+    "number": "SV096",
+    "rarity": "Rare Shiny",
+    "set_name": "Shining Fates Shiny Vault",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Bunnelby",
+    "number": "SV097",
+    "rarity": "Rare Shiny",
+    "set_name": "Shining Fates Shiny Vault",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Oranguru",
+    "number": "SV098",
+    "rarity": "Rare Shiny",
+    "set_name": "Shining Fates Shiny Vault",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Skwovet",
+    "number": "SV099",
+    "rarity": "Rare Shiny",
+    "set_name": "Shining Fates Shiny Vault",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Greedent",
+    "number": "SV100",
+    "rarity": "Rare Shiny",
+    "set_name": "Shining Fates Shiny Vault",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Rookidee",
+    "number": "SV101",
+    "rarity": "Rare Shiny",
+    "set_name": "Shining Fates Shiny Vault",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Corvisquire",
+    "number": "SV102",
+    "rarity": "Rare Shiny",
+    "set_name": "Shining Fates Shiny Vault",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Wooloo",
+    "number": "SV103",
+    "rarity": "Rare Shiny",
+    "set_name": "Shining Fates Shiny Vault",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Dubwool",
+    "number": "SV104",
+    "rarity": "Rare Shiny",
+    "set_name": "Shining Fates Shiny Vault",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Rillaboom V",
+    "number": "SV105",
+    "rarity": "Rare Holo V",
+    "set_name": "Shining Fates Shiny Vault",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Rillaboom VMAX",
+    "number": "SV106",
+    "rarity": "Rare Holo VMAX",
+    "set_name": "Shining Fates Shiny Vault",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Charizard VMAX",
+    "number": "SV107",
+    "rarity": "Rare Holo VMAX",
+    "set_name": "Shining Fates Shiny Vault",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Centiskorch V",
+    "number": "SV108",
+    "rarity": "Rare Holo V",
+    "set_name": "Shining Fates Shiny Vault",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Centiskorch VMAX",
+    "number": "SV109",
+    "rarity": "Rare Holo VMAX",
+    "set_name": "Shining Fates Shiny Vault",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Lapras V",
+    "number": "SV110",
+    "rarity": "Rare Holo V",
+    "set_name": "Shining Fates Shiny Vault",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Lapras VMAX",
+    "number": "SV111",
+    "rarity": "Rare Holo VMAX",
+    "set_name": "Shining Fates Shiny Vault",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Toxtricity V",
+    "number": "SV112",
+    "rarity": "Rare Holo V",
+    "set_name": "Shining Fates Shiny Vault",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Toxtricity VMAX",
+    "number": "SV113",
+    "rarity": "Rare Holo VMAX",
+    "set_name": "Shining Fates Shiny Vault",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Indeedee V",
+    "number": "SV114",
+    "rarity": "Rare Holo V",
+    "set_name": "Shining Fates Shiny Vault",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Falinks V",
+    "number": "SV115",
+    "rarity": "Rare Holo V",
+    "set_name": "Shining Fates Shiny Vault",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Grimmsnarl V",
+    "number": "SV116",
+    "rarity": "Rare Holo V",
+    "set_name": "Shining Fates Shiny Vault",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Grimmsnarl VMAX",
+    "number": "SV117",
+    "rarity": "Rare Holo VMAX",
+    "set_name": "Shining Fates Shiny Vault",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Ditto V",
+    "number": "SV118",
+    "rarity": "Rare Holo V",
+    "set_name": "Shining Fates Shiny Vault",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Ditto VMAX",
+    "number": "SV119",
+    "rarity": "Rare Holo VMAX",
+    "set_name": "Shining Fates Shiny Vault",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Dubwool V",
+    "number": "SV120",
+    "rarity": "Rare Holo V",
+    "set_name": "Shining Fates Shiny Vault",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Eternatus V",
+    "number": "SV121",
+    "rarity": "Rare Secret",
+    "set_name": "Shining Fates Shiny Vault",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Eternatus VMAX",
+    "number": "SV122",
+    "rarity": "Rare Secret",
+    "set_name": "Shining Fates Shiny Vault",
+    "set_series": "Sword & Shield"
+  }
+]

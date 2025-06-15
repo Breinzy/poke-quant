@@ -1,0 +1,709 @@
+[
+  {
+    "name": "Snivy",
+    "number": "BW01",
+    "rarity": "Promo",
+    "set_name": "BW Black Star Promos",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Tepig",
+    "number": "BW02",
+    "rarity": "Promo",
+    "set_name": "BW Black Star Promos",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Oshawott",
+    "number": "BW03",
+    "rarity": "Promo",
+    "set_name": "BW Black Star Promos",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Reshiram",
+    "number": "BW004",
+    "rarity": "Promo",
+    "set_name": "BW Black Star Promos",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Zekrom",
+    "number": "BW005",
+    "rarity": "Promo",
+    "set_name": "BW Black Star Promos",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Snivy",
+    "number": "BW06",
+    "rarity": "Promo",
+    "set_name": "BW Black Star Promos",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Tepig",
+    "number": "BW07",
+    "rarity": "Promo",
+    "set_name": "BW Black Star Promos",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Oshawott",
+    "number": "BW08",
+    "rarity": "Promo",
+    "set_name": "BW Black Star Promos",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Zoroark",
+    "number": "BW09",
+    "rarity": "Promo",
+    "set_name": "BW Black Star Promos",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Axew",
+    "number": "BW10",
+    "rarity": "Promo",
+    "set_name": "BW Black Star Promos",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Pansage",
+    "number": "BW11",
+    "rarity": "Promo",
+    "set_name": "BW Black Star Promos",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Zorua",
+    "number": "BW12",
+    "rarity": "Promo",
+    "set_name": "BW Black Star Promos",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Minccino",
+    "number": "BW13",
+    "rarity": "Promo",
+    "set_name": "BW Black Star Promos",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Pansage",
+    "number": "BW14",
+    "rarity": "Promo",
+    "set_name": "BW Black Star Promos",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Pidove",
+    "number": "BW15",
+    "rarity": "Promo",
+    "set_name": "BW Black Star Promos",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Axew",
+    "number": "BW16",
+    "rarity": "Promo",
+    "set_name": "BW Black Star Promos",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Ducklett",
+    "number": "BW17",
+    "rarity": "Promo",
+    "set_name": "BW Black Star Promos",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Darumaka",
+    "number": "BW18",
+    "rarity": "Promo",
+    "set_name": "BW Black Star Promos",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Zoroark",
+    "number": "BW19",
+    "rarity": "Promo",
+    "set_name": "BW Black Star Promos",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Serperior",
+    "number": "BW20",
+    "rarity": "Promo",
+    "set_name": "BW Black Star Promos",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Emboar",
+    "number": "BW21",
+    "rarity": "Promo",
+    "set_name": "BW Black Star Promos",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Samurott",
+    "number": "BW22",
+    "rarity": "Promo",
+    "set_name": "BW Black Star Promos",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Reshiram",
+    "number": "BW23",
+    "rarity": "Promo",
+    "set_name": "BW Black Star Promos",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Zekrom",
+    "number": "BW24",
+    "rarity": "Promo",
+    "set_name": "BW Black Star Promos",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Scraggy",
+    "number": "BW25",
+    "rarity": "Promo",
+    "set_name": "BW Black Star Promos",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Axew",
+    "number": "BW26",
+    "rarity": "Promo",
+    "set_name": "BW Black Star Promos",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Litwick",
+    "number": "BW27",
+    "rarity": "Promo",
+    "set_name": "BW Black Star Promos",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Tropical Beach",
+    "number": "BW28",
+    "rarity": "Promo",
+    "set_name": "BW Black Star Promos",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Victory Cup",
+    "number": "BW29",
+    "rarity": "Promo",
+    "set_name": "BW Black Star Promos",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Victory Cup",
+    "number": "BW30",
+    "rarity": "Promo",
+    "set_name": "BW Black Star Promos",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Victory Cup",
+    "number": "BW31",
+    "rarity": "Promo",
+    "set_name": "BW Black Star Promos",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Victini",
+    "number": "BW32",
+    "rarity": "Promo",
+    "set_name": "BW Black Star Promos",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Riolu",
+    "number": "BW33",
+    "rarity": "Promo",
+    "set_name": "BW Black Star Promos",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Luxio",
+    "number": "BW34",
+    "rarity": "Promo",
+    "set_name": "BW Black Star Promos",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Meowth",
+    "number": "BW35",
+    "rarity": "Promo",
+    "set_name": "BW Black Star Promos",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Reshiram-EX",
+    "number": "BW36",
+    "rarity": "Promo",
+    "set_name": "BW Black Star Promos",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Kyurem-EX",
+    "number": "BW37",
+    "rarity": "Promo",
+    "set_name": "BW Black Star Promos",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Zekrom-EX",
+    "number": "BW38",
+    "rarity": "Promo",
+    "set_name": "BW Black Star Promos",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Battle City",
+    "number": "BW39",
+    "rarity": "Promo",
+    "set_name": "BW Black Star Promos",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Volcarona",
+    "number": "BW40",
+    "rarity": "Promo",
+    "set_name": "BW Black Star Promos",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Thundurus",
+    "number": "BW41",
+    "rarity": "Promo",
+    "set_name": "BW Black Star Promos",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Tornadus",
+    "number": "BW42",
+    "rarity": "Promo",
+    "set_name": "BW Black Star Promos",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Landorus",
+    "number": "BW43",
+    "rarity": "Promo",
+    "set_name": "BW Black Star Promos",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Kyurem",
+    "number": "BW44",
+    "rarity": "Promo",
+    "set_name": "BW Black Star Promos",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Mewtwo-EX",
+    "number": "BW45",
+    "rarity": "Promo",
+    "set_name": "BW Black Star Promos",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Darkrai-EX",
+    "number": "BW46",
+    "rarity": "Promo",
+    "set_name": "BW Black Star Promos",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Rayquaza-EX",
+    "number": "BW47",
+    "rarity": "Promo",
+    "set_name": "BW Black Star Promos",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Altaria",
+    "number": "BW48",
+    "rarity": "Promo",
+    "set_name": "BW Black Star Promos",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Lilligant",
+    "number": "BW49",
+    "rarity": "Promo",
+    "set_name": "BW Black Star Promos",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Tropical Beach",
+    "number": "BW50",
+    "rarity": "Promo",
+    "set_name": "BW Black Star Promos",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Crobat",
+    "number": "BW51",
+    "rarity": "Promo",
+    "set_name": "BW Black Star Promos",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Lillipup",
+    "number": "BW52",
+    "rarity": "Promo",
+    "set_name": "BW Black Star Promos",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Flygon",
+    "number": "BW53",
+    "rarity": "Promo",
+    "set_name": "BW Black Star Promos",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Pikachu",
+    "number": "BW54",
+    "rarity": "Promo",
+    "set_name": "BW Black Star Promos",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Elgyem",
+    "number": "BW55",
+    "rarity": "Promo",
+    "set_name": "BW Black Star Promos",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Empoleon",
+    "number": "BW56",
+    "rarity": "Promo",
+    "set_name": "BW Black Star Promos",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Haxorus",
+    "number": "BW57",
+    "rarity": "Promo",
+    "set_name": "BW Black Star Promos",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Black Kyurem",
+    "number": "BW58",
+    "rarity": "Promo",
+    "set_name": "BW Black Star Promos",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "White Kyurem",
+    "number": "BW59",
+    "rarity": "Promo",
+    "set_name": "BW Black Star Promos",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Keldeo",
+    "number": "BW60",
+    "rarity": "Promo",
+    "set_name": "BW Black Star Promos",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Keldeo-EX",
+    "number": "BW61",
+    "rarity": "Promo",
+    "set_name": "BW Black Star Promos",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Black Kyurem-EX",
+    "number": "BW62",
+    "rarity": "Promo",
+    "set_name": "BW Black Star Promos",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "White Kyurem-EX",
+    "number": "BW63",
+    "rarity": "Promo",
+    "set_name": "BW Black Star Promos",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Drifblim",
+    "number": "BW64",
+    "rarity": "Promo",
+    "set_name": "BW Black Star Promos",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Jigglypuff",
+    "number": "BW65",
+    "rarity": "Promo",
+    "set_name": "BW Black Star Promos",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Ninetales",
+    "number": "BW66",
+    "rarity": "Promo",
+    "set_name": "BW Black Star Promos",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Ampharos",
+    "number": "BW67",
+    "rarity": "Promo",
+    "set_name": "BW Black Star Promos",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Meloetta",
+    "number": "BW68",
+    "rarity": "Promo",
+    "set_name": "BW Black Star Promos",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Meloetta",
+    "number": "BW69",
+    "rarity": "Promo",
+    "set_name": "BW Black Star Promos",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Virizion",
+    "number": "BW70",
+    "rarity": "Promo",
+    "set_name": "BW Black Star Promos",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Terrakion",
+    "number": "BW71",
+    "rarity": "Promo",
+    "set_name": "BW Black Star Promos",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Cobalion",
+    "number": "BW72",
+    "rarity": "Promo",
+    "set_name": "BW Black Star Promos",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Darkrai",
+    "number": "BW73",
+    "rarity": "Promo",
+    "set_name": "BW Black Star Promos",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Giratina",
+    "number": "BW74",
+    "rarity": "Promo",
+    "set_name": "BW Black Star Promos",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Metagross",
+    "number": "BW75",
+    "rarity": "Promo",
+    "set_name": "BW Black Star Promos",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Electrode",
+    "number": "BW76",
+    "rarity": "Promo",
+    "set_name": "BW Black Star Promos",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Pikachu",
+    "number": "BW77",
+    "rarity": "Promo",
+    "set_name": "BW Black Star Promos",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Raichu",
+    "number": "BW78",
+    "rarity": "Promo",
+    "set_name": "BW Black Star Promos",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Landorus",
+    "number": "BW79",
+    "rarity": "Promo",
+    "set_name": "BW Black Star Promos",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Druddigon",
+    "number": "BW80",
+    "rarity": "Promo",
+    "set_name": "BW Black Star Promos",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Thundurus-EX",
+    "number": "BW81",
+    "rarity": "Promo",
+    "set_name": "BW Black Star Promos",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Deoxys-EX",
+    "number": "BW82",
+    "rarity": "Promo",
+    "set_name": "BW Black Star Promos",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Lugia-EX",
+    "number": "BW83",
+    "rarity": "Promo",
+    "set_name": "BW Black Star Promos",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Porygon-Z",
+    "number": "BW84",
+    "rarity": "Promo",
+    "set_name": "BW Black Star Promos",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Lucario",
+    "number": "BW85",
+    "rarity": "Promo",
+    "set_name": "BW Black Star Promos",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Genesect",
+    "number": "BW86",
+    "rarity": "Promo",
+    "set_name": "BW Black Star Promos",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Leafeon",
+    "number": "BW87",
+    "rarity": "Promo",
+    "set_name": "BW Black Star Promos",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Flareon",
+    "number": "BW88",
+    "rarity": "Promo",
+    "set_name": "BW Black Star Promos",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Vaporeon",
+    "number": "BW89",
+    "rarity": "Promo",
+    "set_name": "BW Black Star Promos",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Glaceon",
+    "number": "BW90",
+    "rarity": "Promo",
+    "set_name": "BW Black Star Promos",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Jolteon",
+    "number": "BW91",
+    "rarity": "Promo",
+    "set_name": "BW Black Star Promos",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Espeon",
+    "number": "BW92",
+    "rarity": "Promo",
+    "set_name": "BW Black Star Promos",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Umbreon",
+    "number": "BW93",
+    "rarity": "Promo",
+    "set_name": "BW Black Star Promos",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Eevee",
+    "number": "BW94",
+    "rarity": "Promo",
+    "set_name": "BW Black Star Promos",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Champions Festival",
+    "number": "BW95",
+    "rarity": "Promo",
+    "set_name": "BW Black Star Promos",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Tornadus-EX",
+    "number": "BW96",
+    "rarity": "Promo",
+    "set_name": "BW Black Star Promos",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Eevee",
+    "number": "BW97",
+    "rarity": "Promo",
+    "set_name": "BW Black Star Promos",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Mew",
+    "number": "BW98",
+    "rarity": "Promo",
+    "set_name": "BW Black Star Promos",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Genesect",
+    "number": "BW99",
+    "rarity": "Promo",
+    "set_name": "BW Black Star Promos",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "N",
+    "number": "BW100",
+    "rarity": "Promo",
+    "set_name": "BW Black Star Promos",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Genesect",
+    "number": "BW101",
+    "rarity": "Promo",
+    "set_name": "BW Black Star Promos",
+    "set_series": "Black & White"
+  }
+]

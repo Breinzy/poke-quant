@@ -1,0 +1,562 @@
+[
+  {
+    "name": "Charmander",
+    "number": "1",
+    "rarity": "Common",
+    "set_name": "Dragon Majesty",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Charmeleon",
+    "number": "2",
+    "rarity": "Uncommon",
+    "set_name": "Dragon Majesty",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Charizard",
+    "number": "3",
+    "rarity": "Rare Holo",
+    "set_name": "Dragon Majesty",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Torchic",
+    "number": "4",
+    "rarity": "Common",
+    "set_name": "Dragon Majesty",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Combusken",
+    "number": "5",
+    "rarity": "Uncommon",
+    "set_name": "Dragon Majesty",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Blaziken",
+    "number": "6",
+    "rarity": "Rare Holo",
+    "set_name": "Dragon Majesty",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Victini \u25c7",
+    "number": "7",
+    "rarity": "Rare Prism Star",
+    "set_name": "Dragon Majesty",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Darumaka",
+    "number": "8",
+    "rarity": "Common",
+    "set_name": "Dragon Majesty",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Darmanitan",
+    "number": "9",
+    "rarity": "Uncommon",
+    "set_name": "Dragon Majesty",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Heatmor",
+    "number": "10",
+    "rarity": "Uncommon",
+    "set_name": "Dragon Majesty",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Reshiram-GX",
+    "number": "11",
+    "rarity": "Rare Holo GX",
+    "set_name": "Dragon Majesty",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Litten",
+    "number": "12",
+    "rarity": "Common",
+    "set_name": "Dragon Majesty",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Salandit",
+    "number": "13",
+    "rarity": "Common",
+    "set_name": "Dragon Majesty",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Salazzle",
+    "number": "14",
+    "rarity": "Uncommon",
+    "set_name": "Dragon Majesty",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Horsea",
+    "number": "15",
+    "rarity": "Common",
+    "set_name": "Dragon Majesty",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Horsea",
+    "number": "16",
+    "rarity": "Common",
+    "set_name": "Dragon Majesty",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Seadra",
+    "number": "17",
+    "rarity": "Uncommon",
+    "set_name": "Dragon Majesty",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Kingdra-GX",
+    "number": "18",
+    "rarity": "Rare Holo GX",
+    "set_name": "Dragon Majesty",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Magikarp",
+    "number": "19",
+    "rarity": "Common",
+    "set_name": "Dragon Majesty",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Gyarados",
+    "number": "20",
+    "rarity": "Rare Holo",
+    "set_name": "Dragon Majesty",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Lapras",
+    "number": "21",
+    "rarity": "Uncommon",
+    "set_name": "Dragon Majesty",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Totodile",
+    "number": "22",
+    "rarity": "Common",
+    "set_name": "Dragon Majesty",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Croconaw",
+    "number": "23",
+    "rarity": "Uncommon",
+    "set_name": "Dragon Majesty",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Feraligatr",
+    "number": "24",
+    "rarity": "Rare Holo",
+    "set_name": "Dragon Majesty",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Wooper",
+    "number": "25",
+    "rarity": "Common",
+    "set_name": "Dragon Majesty",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Quagsire",
+    "number": "26",
+    "rarity": "Uncommon",
+    "set_name": "Dragon Majesty",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Corsola",
+    "number": "27",
+    "rarity": "Common",
+    "set_name": "Dragon Majesty",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Feebas",
+    "number": "28",
+    "rarity": "Common",
+    "set_name": "Dragon Majesty",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Milotic",
+    "number": "29",
+    "rarity": "Uncommon",
+    "set_name": "Dragon Majesty",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Phione",
+    "number": "30",
+    "rarity": "Uncommon",
+    "set_name": "Dragon Majesty",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Wishiwashi",
+    "number": "31",
+    "rarity": "Common",
+    "set_name": "Dragon Majesty",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Trapinch",
+    "number": "32",
+    "rarity": "Common",
+    "set_name": "Dragon Majesty",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Hydreigon",
+    "number": "33",
+    "rarity": "Rare Holo",
+    "set_name": "Dragon Majesty",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Dratini",
+    "number": "34",
+    "rarity": "Common",
+    "set_name": "Dragon Majesty",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Dratini",
+    "number": "35",
+    "rarity": "Common",
+    "set_name": "Dragon Majesty",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Dragonair",
+    "number": "36",
+    "rarity": "Uncommon",
+    "set_name": "Dragon Majesty",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Dragonite-GX",
+    "number": "37",
+    "rarity": "Rare Holo GX",
+    "set_name": "Dragon Majesty",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Vibrava",
+    "number": "38",
+    "rarity": "Common",
+    "set_name": "Dragon Majesty",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Flygon",
+    "number": "39",
+    "rarity": "Uncommon",
+    "set_name": "Dragon Majesty",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Altaria",
+    "number": "40",
+    "rarity": "Rare Holo",
+    "set_name": "Dragon Majesty",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Altaria",
+    "number": "40a",
+    "rarity": "Rare Holo",
+    "set_name": "Dragon Majesty",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Altaria-GX",
+    "number": "41",
+    "rarity": "Rare Holo GX",
+    "set_name": "Dragon Majesty",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Bagon",
+    "number": "42",
+    "rarity": "Common",
+    "set_name": "Dragon Majesty",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Shelgon",
+    "number": "43",
+    "rarity": "Uncommon",
+    "set_name": "Dragon Majesty",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Salamence-GX",
+    "number": "44",
+    "rarity": "Rare Holo GX",
+    "set_name": "Dragon Majesty",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Druddigon",
+    "number": "45",
+    "rarity": "Uncommon",
+    "set_name": "Dragon Majesty",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Zekrom",
+    "number": "46",
+    "rarity": "Rare Holo",
+    "set_name": "Dragon Majesty",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Kyurem",
+    "number": "47",
+    "rarity": "Rare Holo",
+    "set_name": "Dragon Majesty",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "White Kyurem-GX",
+    "number": "48",
+    "rarity": "Rare Holo GX",
+    "set_name": "Dragon Majesty",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Zygarde",
+    "number": "49",
+    "rarity": "Uncommon",
+    "set_name": "Dragon Majesty",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Turtonator",
+    "number": "50",
+    "rarity": "Uncommon",
+    "set_name": "Dragon Majesty",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Drampa",
+    "number": "51",
+    "rarity": "Uncommon",
+    "set_name": "Dragon Majesty",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Jangmo-o",
+    "number": "52",
+    "rarity": "Common",
+    "set_name": "Dragon Majesty",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Hakamo-o",
+    "number": "53",
+    "rarity": "Common",
+    "set_name": "Dragon Majesty",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Kommo-o",
+    "number": "54",
+    "rarity": "Rare Holo",
+    "set_name": "Dragon Majesty",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Kangaskhan",
+    "number": "55",
+    "rarity": "Common",
+    "set_name": "Dragon Majesty",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Swablu",
+    "number": "56",
+    "rarity": "Common",
+    "set_name": "Dragon Majesty",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Swablu",
+    "number": "57",
+    "rarity": "Common",
+    "set_name": "Dragon Majesty",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Blaine's Last Stand",
+    "number": "58",
+    "rarity": "Rare Holo",
+    "set_name": "Dragon Majesty",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Dragon Talon",
+    "number": "59",
+    "rarity": "Uncommon",
+    "set_name": "Dragon Majesty",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Fiery Flint",
+    "number": "60",
+    "rarity": "Uncommon",
+    "set_name": "Dragon Majesty",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Fiery Flint",
+    "number": "60a",
+    "rarity": "Uncommon",
+    "set_name": "Dragon Majesty",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Lance \u25c7",
+    "number": "61",
+    "rarity": "Rare Prism Star",
+    "set_name": "Dragon Majesty",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Switch Raft",
+    "number": "62",
+    "rarity": "Uncommon",
+    "set_name": "Dragon Majesty",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Wela Volcano Park",
+    "number": "63",
+    "rarity": "Uncommon",
+    "set_name": "Dragon Majesty",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Zinnia",
+    "number": "64",
+    "rarity": "Uncommon",
+    "set_name": "Dragon Majesty",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Reshiram-GX",
+    "number": "65",
+    "rarity": "Rare Ultra",
+    "set_name": "Dragon Majesty",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Kingdra-GX",
+    "number": "66",
+    "rarity": "Rare Ultra",
+    "set_name": "Dragon Majesty",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Dragonite-GX",
+    "number": "67",
+    "rarity": "Rare Ultra",
+    "set_name": "Dragon Majesty",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Altaria-GX",
+    "number": "68",
+    "rarity": "Rare Ultra",
+    "set_name": "Dragon Majesty",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Blaine's Last Stand",
+    "number": "69",
+    "rarity": "Rare Ultra",
+    "set_name": "Dragon Majesty",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Zinnia",
+    "number": "70",
+    "rarity": "Rare Ultra",
+    "set_name": "Dragon Majesty",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Reshiram-GX",
+    "number": "71",
+    "rarity": "Rare Rainbow",
+    "set_name": "Dragon Majesty",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Altaria-GX",
+    "number": "72",
+    "rarity": "Rare Rainbow",
+    "set_name": "Dragon Majesty",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Salamence-GX",
+    "number": "73",
+    "rarity": "Rare Rainbow",
+    "set_name": "Dragon Majesty",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "White Kyurem-GX",
+    "number": "74",
+    "rarity": "Rare Rainbow",
+    "set_name": "Dragon Majesty",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Dragon Talon",
+    "number": "75",
+    "rarity": "Rare Secret",
+    "set_name": "Dragon Majesty",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Fiery Flint",
+    "number": "76",
+    "rarity": "Rare Secret",
+    "set_name": "Dragon Majesty",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Switch Raft",
+    "number": "77",
+    "rarity": "Rare Secret",
+    "set_name": "Dragon Majesty",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Ultra Necrozma-GX",
+    "number": "78",
+    "rarity": "Rare Secret",
+    "set_name": "Dragon Majesty",
+    "set_series": "Sun & Moon"
+  }
+]

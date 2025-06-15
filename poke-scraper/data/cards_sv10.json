@@ -1,0 +1,1710 @@
+[
+  {
+    "name": "Ethan's Pinsir",
+    "number": "1",
+    "rarity": "Uncommon",
+    "set_name": "Destined Rivals",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Yanma",
+    "number": "2",
+    "rarity": "Common",
+    "set_name": "Destined Rivals",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Yanmega ex",
+    "number": "3",
+    "rarity": "Double Rare",
+    "set_name": "Destined Rivals",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Pineco",
+    "number": "4",
+    "rarity": "Common",
+    "set_name": "Destined Rivals",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Shroomish",
+    "number": "5",
+    "rarity": "Common",
+    "set_name": "Destined Rivals",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Breloom",
+    "number": "6",
+    "rarity": "Common",
+    "set_name": "Destined Rivals",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Cynthia's Roselia",
+    "number": "7",
+    "rarity": "Common",
+    "set_name": "Destined Rivals",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Cynthia's Roserade",
+    "number": "8",
+    "rarity": "Rare",
+    "set_name": "Destined Rivals",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Mow Rotom",
+    "number": "9",
+    "rarity": "Common",
+    "set_name": "Destined Rivals",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Shaymin",
+    "number": "10",
+    "rarity": "Uncommon",
+    "set_name": "Destined Rivals",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Dwebble",
+    "number": "11",
+    "rarity": "Common",
+    "set_name": "Destined Rivals",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Crustle",
+    "number": "12",
+    "rarity": "Rare",
+    "set_name": "Destined Rivals",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Fomantis",
+    "number": "13",
+    "rarity": "Common",
+    "set_name": "Destined Rivals",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Lurantis",
+    "number": "14",
+    "rarity": "Uncommon",
+    "set_name": "Destined Rivals",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Team Rocket's Blipbug",
+    "number": "15",
+    "rarity": "Common",
+    "set_name": "Destined Rivals",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Applin",
+    "number": "16",
+    "rarity": "Common",
+    "set_name": "Destined Rivals",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Dipplin",
+    "number": "17",
+    "rarity": "Common",
+    "set_name": "Destined Rivals",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Hydrapple",
+    "number": "18",
+    "rarity": "Rare",
+    "set_name": "Destined Rivals",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Team Rocket's Tarountula",
+    "number": "19",
+    "rarity": "Common",
+    "set_name": "Destined Rivals",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Team Rocket's Spidops",
+    "number": "20",
+    "rarity": "Rare",
+    "set_name": "Destined Rivals",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Smoliv",
+    "number": "21",
+    "rarity": "Common",
+    "set_name": "Destined Rivals",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Dolliv",
+    "number": "22",
+    "rarity": "Common",
+    "set_name": "Destined Rivals",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Arboliva ex",
+    "number": "23",
+    "rarity": "Double Rare",
+    "set_name": "Destined Rivals",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Rellor",
+    "number": "24",
+    "rarity": "Common",
+    "set_name": "Destined Rivals",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Rabsca ex",
+    "number": "25",
+    "rarity": "Double Rare",
+    "set_name": "Destined Rivals",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Teal Mask Ogerpon",
+    "number": "26",
+    "rarity": "Uncommon",
+    "set_name": "Destined Rivals",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Growlithe",
+    "number": "27",
+    "rarity": "Common",
+    "set_name": "Destined Rivals",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Arcanine",
+    "number": "28",
+    "rarity": "Uncommon",
+    "set_name": "Destined Rivals",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Ponyta",
+    "number": "29",
+    "rarity": "Common",
+    "set_name": "Destined Rivals",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Rapidash",
+    "number": "30",
+    "rarity": "Uncommon",
+    "set_name": "Destined Rivals",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Team Rocket's Moltres ex",
+    "number": "31",
+    "rarity": "Double Rare",
+    "set_name": "Destined Rivals",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Ethan's Cyndaquil",
+    "number": "32",
+    "rarity": "Common",
+    "set_name": "Destined Rivals",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Ethan's Quilava",
+    "number": "33",
+    "rarity": "Common",
+    "set_name": "Destined Rivals",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Ethan's Typhlosion",
+    "number": "34",
+    "rarity": "Rare",
+    "set_name": "Destined Rivals",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Ethan's Slugma",
+    "number": "35",
+    "rarity": "Common",
+    "set_name": "Destined Rivals",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Ethan's Magcargo",
+    "number": "36",
+    "rarity": "Rare",
+    "set_name": "Destined Rivals",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Team Rocket's Houndour",
+    "number": "37",
+    "rarity": "Common",
+    "set_name": "Destined Rivals",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Team Rocket's Houndoom",
+    "number": "38",
+    "rarity": "Uncommon",
+    "set_name": "Destined Rivals",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Ethan's Ho-Oh ex",
+    "number": "39",
+    "rarity": "Double Rare",
+    "set_name": "Destined Rivals",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Torchic",
+    "number": "40",
+    "rarity": "Common",
+    "set_name": "Destined Rivals",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Combusken",
+    "number": "41",
+    "rarity": "Common",
+    "set_name": "Destined Rivals",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Blaziken",
+    "number": "42",
+    "rarity": "Rare",
+    "set_name": "Destined Rivals",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Heat Rotom",
+    "number": "43",
+    "rarity": "Common",
+    "set_name": "Destined Rivals",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Hearthflame Mask Ogerpon",
+    "number": "44",
+    "rarity": "Uncommon",
+    "set_name": "Destined Rivals",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Misty's Psyduck",
+    "number": "45",
+    "rarity": "Uncommon",
+    "set_name": "Destined Rivals",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Misty's Staryu",
+    "number": "46",
+    "rarity": "Common",
+    "set_name": "Destined Rivals",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Misty's Starmie",
+    "number": "47",
+    "rarity": "Uncommon",
+    "set_name": "Destined Rivals",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Misty's Magikarp",
+    "number": "48",
+    "rarity": "Common",
+    "set_name": "Destined Rivals",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Misty's Gyarados",
+    "number": "49",
+    "rarity": "Rare",
+    "set_name": "Destined Rivals",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Misty's Lapras",
+    "number": "50",
+    "rarity": "Common",
+    "set_name": "Destined Rivals",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Team Rocket's Articuno",
+    "number": "51",
+    "rarity": "Rare",
+    "set_name": "Destined Rivals",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Cynthia's Feebas",
+    "number": "52",
+    "rarity": "Common",
+    "set_name": "Destined Rivals",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Cynthia's Milotic",
+    "number": "53",
+    "rarity": "Uncommon",
+    "set_name": "Destined Rivals",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Clamperl",
+    "number": "54",
+    "rarity": "Common",
+    "set_name": "Destined Rivals",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Huntail",
+    "number": "55",
+    "rarity": "Uncommon",
+    "set_name": "Destined Rivals",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Gorebyss",
+    "number": "56",
+    "rarity": "Rare",
+    "set_name": "Destined Rivals",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Buizel",
+    "number": "57",
+    "rarity": "Common",
+    "set_name": "Destined Rivals",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Floatzel",
+    "number": "58",
+    "rarity": "Uncommon",
+    "set_name": "Destined Rivals",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Snover",
+    "number": "59",
+    "rarity": "Common",
+    "set_name": "Destined Rivals",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Abomasnow",
+    "number": "60",
+    "rarity": "Uncommon",
+    "set_name": "Destined Rivals",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Wash Rotom",
+    "number": "61",
+    "rarity": "Common",
+    "set_name": "Destined Rivals",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Arrokuda",
+    "number": "62",
+    "rarity": "Common",
+    "set_name": "Destined Rivals",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Barraskewda",
+    "number": "63",
+    "rarity": "Uncommon",
+    "set_name": "Destined Rivals",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Cetoddle",
+    "number": "64",
+    "rarity": "Common",
+    "set_name": "Destined Rivals",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Cetitan ex",
+    "number": "65",
+    "rarity": "Double Rare",
+    "set_name": "Destined Rivals",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Dondozo ex",
+    "number": "66",
+    "rarity": "Double Rare",
+    "set_name": "Destined Rivals",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Wellspring Mask Ogerpon",
+    "number": "67",
+    "rarity": "Uncommon",
+    "set_name": "Destined Rivals",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Electabuzz",
+    "number": "68",
+    "rarity": "Common",
+    "set_name": "Destined Rivals",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Electivire ex",
+    "number": "69",
+    "rarity": "Double Rare",
+    "set_name": "Destined Rivals",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Team Rocket's Zapdos",
+    "number": "70",
+    "rarity": "Rare",
+    "set_name": "Destined Rivals",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Ethan's Pichu",
+    "number": "71",
+    "rarity": "Common",
+    "set_name": "Destined Rivals",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Team Rocket's Mareep",
+    "number": "72",
+    "rarity": "Common",
+    "set_name": "Destined Rivals",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Team Rocket's Flaaffy",
+    "number": "73",
+    "rarity": "Common",
+    "set_name": "Destined Rivals",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Team Rocket's Ampharos",
+    "number": "74",
+    "rarity": "Uncommon",
+    "set_name": "Destined Rivals",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Electrike",
+    "number": "75",
+    "rarity": "Common",
+    "set_name": "Destined Rivals",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Manectric",
+    "number": "76",
+    "rarity": "Uncommon",
+    "set_name": "Destined Rivals",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Rotom",
+    "number": "77",
+    "rarity": "Common",
+    "set_name": "Destined Rivals",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Zeraora",
+    "number": "78",
+    "rarity": "Rare",
+    "set_name": "Destined Rivals",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Team Rocket's Drowzee",
+    "number": "79",
+    "rarity": "Common",
+    "set_name": "Destined Rivals",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Team Rocket's Hypno",
+    "number": "80",
+    "rarity": "Uncommon",
+    "set_name": "Destined Rivals",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Team Rocket's Mewtwo ex",
+    "number": "81",
+    "rarity": "Double Rare",
+    "set_name": "Destined Rivals",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Team Rocket's Wobbuffet",
+    "number": "82",
+    "rarity": "Rare",
+    "set_name": "Destined Rivals",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Steven's Baltoy",
+    "number": "83",
+    "rarity": "Common",
+    "set_name": "Destined Rivals",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Steven's Claydol",
+    "number": "84",
+    "rarity": "Uncommon",
+    "set_name": "Destined Rivals",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Team Rocket's Chingling",
+    "number": "85",
+    "rarity": "Common",
+    "set_name": "Destined Rivals",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Steven's Carbink",
+    "number": "86",
+    "rarity": "Common",
+    "set_name": "Destined Rivals",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Team Rocket's Mimikyu",
+    "number": "87",
+    "rarity": "Uncommon",
+    "set_name": "Destined Rivals",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Team Rocket's Dottler",
+    "number": "88",
+    "rarity": "Common",
+    "set_name": "Destined Rivals",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Team Rocket's Orbeetle",
+    "number": "89",
+    "rarity": "Uncommon",
+    "set_name": "Destined Rivals",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Mankey",
+    "number": "90",
+    "rarity": "Common",
+    "set_name": "Destined Rivals",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Primeape",
+    "number": "91",
+    "rarity": "Common",
+    "set_name": "Destined Rivals",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Annihilape",
+    "number": "92",
+    "rarity": "Rare",
+    "set_name": "Destined Rivals",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Ethan's Sudowoodo",
+    "number": "93",
+    "rarity": "Common",
+    "set_name": "Destined Rivals",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Team Rocket's Larvitar",
+    "number": "94",
+    "rarity": "Common",
+    "set_name": "Destined Rivals",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Team Rocket's Pupitar",
+    "number": "95",
+    "rarity": "Common",
+    "set_name": "Destined Rivals",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Team Rocket's Tyranitar",
+    "number": "96",
+    "rarity": "Rare",
+    "set_name": "Destined Rivals",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Nosepass",
+    "number": "97",
+    "rarity": "Common",
+    "set_name": "Destined Rivals",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Probopass",
+    "number": "98",
+    "rarity": "Uncommon",
+    "set_name": "Destined Rivals",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Meditite",
+    "number": "99",
+    "rarity": "Common",
+    "set_name": "Destined Rivals",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Medicham",
+    "number": "100",
+    "rarity": "Uncommon",
+    "set_name": "Destined Rivals",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Regirock ex",
+    "number": "101",
+    "rarity": "Double Rare",
+    "set_name": "Destined Rivals",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Cynthia's Gible",
+    "number": "102",
+    "rarity": "Common",
+    "set_name": "Destined Rivals",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Cynthia's Gabite",
+    "number": "103",
+    "rarity": "Common",
+    "set_name": "Destined Rivals",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Cynthia's Garchomp ex",
+    "number": "104",
+    "rarity": "Double Rare",
+    "set_name": "Destined Rivals",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Hippopotas",
+    "number": "105",
+    "rarity": "Common",
+    "set_name": "Destined Rivals",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Hippowdon",
+    "number": "106",
+    "rarity": "Uncommon",
+    "set_name": "Destined Rivals",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Mudbray",
+    "number": "107",
+    "rarity": "Common",
+    "set_name": "Destined Rivals",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Mudsdale",
+    "number": "108",
+    "rarity": "Uncommon",
+    "set_name": "Destined Rivals",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Arven's Toedscool",
+    "number": "109",
+    "rarity": "Common",
+    "set_name": "Destined Rivals",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Arven's Toedscruel",
+    "number": "110",
+    "rarity": "Uncommon",
+    "set_name": "Destined Rivals",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Cornerstone Mask Ogerpon",
+    "number": "111",
+    "rarity": "Uncommon",
+    "set_name": "Destined Rivals",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Team Rocket's Ekans",
+    "number": "112",
+    "rarity": "Common",
+    "set_name": "Destined Rivals",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Team Rocket's Arbok",
+    "number": "113",
+    "rarity": "Uncommon",
+    "set_name": "Destined Rivals",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Team Rocket's Nidoran\u2640",
+    "number": "114",
+    "rarity": "Common",
+    "set_name": "Destined Rivals",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Team Rocket's Nidorina",
+    "number": "115",
+    "rarity": "Common",
+    "set_name": "Destined Rivals",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Team Rocket's Nidoqueen",
+    "number": "116",
+    "rarity": "Uncommon",
+    "set_name": "Destined Rivals",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Team Rocket's Nidoran\u2642",
+    "number": "117",
+    "rarity": "Common",
+    "set_name": "Destined Rivals",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Team Rocket's Nidorino",
+    "number": "118",
+    "rarity": "Common",
+    "set_name": "Destined Rivals",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Team Rocket's Nidoking ex",
+    "number": "119",
+    "rarity": "Double Rare",
+    "set_name": "Destined Rivals",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Team Rocket's Zubat",
+    "number": "120",
+    "rarity": "Common",
+    "set_name": "Destined Rivals",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Team Rocket's Golbat",
+    "number": "121",
+    "rarity": "Uncommon",
+    "set_name": "Destined Rivals",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Team Rocket's Crobat ex",
+    "number": "122",
+    "rarity": "Double Rare",
+    "set_name": "Destined Rivals",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Team Rocket's Grimer",
+    "number": "123",
+    "rarity": "Common",
+    "set_name": "Destined Rivals",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Team Rocket's Muk",
+    "number": "124",
+    "rarity": "Uncommon",
+    "set_name": "Destined Rivals",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Team Rocket's Koffing",
+    "number": "125",
+    "rarity": "Common",
+    "set_name": "Destined Rivals",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Team Rocket's Weezing",
+    "number": "126",
+    "rarity": "Uncommon",
+    "set_name": "Destined Rivals",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Team Rocket's Murkrow",
+    "number": "127",
+    "rarity": "Uncommon",
+    "set_name": "Destined Rivals",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Team Rocket's Sneasel",
+    "number": "128",
+    "rarity": "Rare",
+    "set_name": "Destined Rivals",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Cynthia's Spiritomb",
+    "number": "129",
+    "rarity": "Uncommon",
+    "set_name": "Destined Rivals",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Marnie's Purrloin",
+    "number": "130",
+    "rarity": "Common",
+    "set_name": "Destined Rivals",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Marnie's Liepard",
+    "number": "131",
+    "rarity": "Uncommon",
+    "set_name": "Destined Rivals",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Marnie's Scraggy",
+    "number": "132",
+    "rarity": "Common",
+    "set_name": "Destined Rivals",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Marnie's Scrafty",
+    "number": "133",
+    "rarity": "Uncommon",
+    "set_name": "Destined Rivals",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Marnie's Impidimp",
+    "number": "134",
+    "rarity": "Common",
+    "set_name": "Destined Rivals",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Marnie's Morgrem",
+    "number": "135",
+    "rarity": "Uncommon",
+    "set_name": "Destined Rivals",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Marnie's Grimmsnarl ex",
+    "number": "136",
+    "rarity": "Double Rare",
+    "set_name": "Destined Rivals",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Marnie's Morpeko",
+    "number": "137",
+    "rarity": "Common",
+    "set_name": "Destined Rivals",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Arven's Maschiff",
+    "number": "138",
+    "rarity": "Common",
+    "set_name": "Destined Rivals",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Arven's Mabosstiff ex",
+    "number": "139",
+    "rarity": "Double Rare",
+    "set_name": "Destined Rivals",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Forretress",
+    "number": "140",
+    "rarity": "Uncommon",
+    "set_name": "Destined Rivals",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Skarmory",
+    "number": "141",
+    "rarity": "Common",
+    "set_name": "Destined Rivals",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Steven's Skarmory",
+    "number": "142",
+    "rarity": "Common",
+    "set_name": "Destined Rivals",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Steven's Beldum",
+    "number": "143",
+    "rarity": "Common",
+    "set_name": "Destined Rivals",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Steven's Metang",
+    "number": "144",
+    "rarity": "Uncommon",
+    "set_name": "Destined Rivals",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Steven's Metagross ex",
+    "number": "145",
+    "rarity": "Double Rare",
+    "set_name": "Destined Rivals",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Zamazenta",
+    "number": "146",
+    "rarity": "Rare",
+    "set_name": "Destined Rivals",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Team Rocket's Rattata",
+    "number": "147",
+    "rarity": "Common",
+    "set_name": "Destined Rivals",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Team Rocket's Raticate",
+    "number": "148",
+    "rarity": "Common",
+    "set_name": "Destined Rivals",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Team Rocket's Meowth",
+    "number": "149",
+    "rarity": "Common",
+    "set_name": "Destined Rivals",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Team Rocket's Persian ex",
+    "number": "150",
+    "rarity": "Double Rare",
+    "set_name": "Destined Rivals",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Kangaskhan",
+    "number": "151",
+    "rarity": "Common",
+    "set_name": "Destined Rivals",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Tauros",
+    "number": "152",
+    "rarity": "Common",
+    "set_name": "Destined Rivals",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Team Rocket's Porygon",
+    "number": "153",
+    "rarity": "Common",
+    "set_name": "Destined Rivals",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Team Rocket's Porygon2",
+    "number": "154",
+    "rarity": "Common",
+    "set_name": "Destined Rivals",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Team Rocket's Porygon-Z",
+    "number": "155",
+    "rarity": "Uncommon",
+    "set_name": "Destined Rivals",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Taillow",
+    "number": "156",
+    "rarity": "Common",
+    "set_name": "Destined Rivals",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Swellow",
+    "number": "157",
+    "rarity": "Common",
+    "set_name": "Destined Rivals",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Arven's Skwovet",
+    "number": "158",
+    "rarity": "Common",
+    "set_name": "Destined Rivals",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Arven's Greedent",
+    "number": "159",
+    "rarity": "Rare",
+    "set_name": "Destined Rivals",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Squawkabilly",
+    "number": "160",
+    "rarity": "Common",
+    "set_name": "Destined Rivals",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Arven's Sandwich",
+    "number": "161",
+    "rarity": "Uncommon",
+    "set_name": "Destined Rivals",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Cynthia's Power Weight",
+    "number": "162",
+    "rarity": "Uncommon",
+    "set_name": "Destined Rivals",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Emcee's Hype",
+    "number": "163",
+    "rarity": "Common",
+    "set_name": "Destined Rivals",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Energy Recycler",
+    "number": "164",
+    "rarity": "Uncommon",
+    "set_name": "Destined Rivals",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Ethan's Adventure",
+    "number": "165",
+    "rarity": "Uncommon",
+    "set_name": "Destined Rivals",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Granite Cave",
+    "number": "166",
+    "rarity": "Uncommon",
+    "set_name": "Destined Rivals",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Judge",
+    "number": "167",
+    "rarity": "Uncommon",
+    "set_name": "Destined Rivals",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Sacred Ash",
+    "number": "168",
+    "rarity": "Uncommon",
+    "set_name": "Destined Rivals",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Spikemuth Gym",
+    "number": "169",
+    "rarity": "Uncommon",
+    "set_name": "Destined Rivals",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Team Rocket's Archer",
+    "number": "170",
+    "rarity": "Uncommon",
+    "set_name": "Destined Rivals",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Team Rocket's Ariana",
+    "number": "171",
+    "rarity": "Uncommon",
+    "set_name": "Destined Rivals",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Team Rocket's Bother-Bot",
+    "number": "172",
+    "rarity": "Uncommon",
+    "set_name": "Destined Rivals",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Team Rocket's Factory",
+    "number": "173",
+    "rarity": "Uncommon",
+    "set_name": "Destined Rivals",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Team Rocket's Giovanni",
+    "number": "174",
+    "rarity": "Uncommon",
+    "set_name": "Destined Rivals",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Team Rocket's Great Ball",
+    "number": "175",
+    "rarity": "Uncommon",
+    "set_name": "Destined Rivals",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Team Rocket's Petrel",
+    "number": "176",
+    "rarity": "Uncommon",
+    "set_name": "Destined Rivals",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Team Rocket's Proton",
+    "number": "177",
+    "rarity": "Uncommon",
+    "set_name": "Destined Rivals",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Team Rocket's Transceiver",
+    "number": "178",
+    "rarity": "Uncommon",
+    "set_name": "Destined Rivals",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Team Rocket's Venture Bomb",
+    "number": "179",
+    "rarity": "Uncommon",
+    "set_name": "Destined Rivals",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Team Rocket's Watchtower",
+    "number": "180",
+    "rarity": "Uncommon",
+    "set_name": "Destined Rivals",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "TM Machine",
+    "number": "181",
+    "rarity": "Uncommon",
+    "set_name": "Destined Rivals",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Team Rocket's Energy",
+    "number": "182",
+    "rarity": "Uncommon",
+    "set_name": "Destined Rivals",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Yanma",
+    "number": "183",
+    "rarity": "Illustration Rare",
+    "set_name": "Destined Rivals",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Cynthia's Roserade",
+    "number": "184",
+    "rarity": "Illustration Rare",
+    "set_name": "Destined Rivals",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Shaymin",
+    "number": "185",
+    "rarity": "Illustration Rare",
+    "set_name": "Destined Rivals",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Crustle",
+    "number": "186",
+    "rarity": "Illustration Rare",
+    "set_name": "Destined Rivals",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Team Rocket's Spidops",
+    "number": "187",
+    "rarity": "Illustration Rare",
+    "set_name": "Destined Rivals",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Hydrapple",
+    "number": "188",
+    "rarity": "Illustration Rare",
+    "set_name": "Destined Rivals",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Rapidash",
+    "number": "189",
+    "rarity": "Illustration Rare",
+    "set_name": "Destined Rivals",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Ethan's Typhlosion",
+    "number": "190",
+    "rarity": "Illustration Rare",
+    "set_name": "Destined Rivals",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Team Rocket's Houndoom",
+    "number": "191",
+    "rarity": "Illustration Rare",
+    "set_name": "Destined Rivals",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Blaziken",
+    "number": "192",
+    "rarity": "Illustration Rare",
+    "set_name": "Destined Rivals",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Misty's Psyduck",
+    "number": "193",
+    "rarity": "Illustration Rare",
+    "set_name": "Destined Rivals",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Misty's Lapras",
+    "number": "194",
+    "rarity": "Illustration Rare",
+    "set_name": "Destined Rivals",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Clamperl",
+    "number": "195",
+    "rarity": "Illustration Rare",
+    "set_name": "Destined Rivals",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Electrike",
+    "number": "196",
+    "rarity": "Illustration Rare",
+    "set_name": "Destined Rivals",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Rotom",
+    "number": "197",
+    "rarity": "Illustration Rare",
+    "set_name": "Destined Rivals",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Team Rocket's Orbeetle",
+    "number": "198",
+    "rarity": "Illustration Rare",
+    "set_name": "Destined Rivals",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Team Rocket's Weezing",
+    "number": "199",
+    "rarity": "Illustration Rare",
+    "set_name": "Destined Rivals",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Team Rocket's Murkrow",
+    "number": "200",
+    "rarity": "Illustration Rare",
+    "set_name": "Destined Rivals",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Zamazenta",
+    "number": "201",
+    "rarity": "Illustration Rare",
+    "set_name": "Destined Rivals",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Team Rocket's Raticate",
+    "number": "202",
+    "rarity": "Illustration Rare",
+    "set_name": "Destined Rivals",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Team Rocket's Meowth",
+    "number": "203",
+    "rarity": "Illustration Rare",
+    "set_name": "Destined Rivals",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Kangaskhan",
+    "number": "204",
+    "rarity": "Illustration Rare",
+    "set_name": "Destined Rivals",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Arven's Greedent",
+    "number": "205",
+    "rarity": "Illustration Rare",
+    "set_name": "Destined Rivals",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Yanmega ex",
+    "number": "206",
+    "rarity": "Ultra Rare",
+    "set_name": "Destined Rivals",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Arboliva ex",
+    "number": "207",
+    "rarity": "Ultra Rare",
+    "set_name": "Destined Rivals",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Team Rocket's Moltres ex",
+    "number": "208",
+    "rarity": "Ultra Rare",
+    "set_name": "Destined Rivals",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Ethan's Ho-Oh ex",
+    "number": "209",
+    "rarity": "Ultra Rare",
+    "set_name": "Destined Rivals",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Cetitan ex",
+    "number": "210",
+    "rarity": "Ultra Rare",
+    "set_name": "Destined Rivals",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Dondozo ex",
+    "number": "211",
+    "rarity": "Ultra Rare",
+    "set_name": "Destined Rivals",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Electivire ex",
+    "number": "212",
+    "rarity": "Ultra Rare",
+    "set_name": "Destined Rivals",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Team Rocket's Mewtwo ex",
+    "number": "213",
+    "rarity": "Ultra Rare",
+    "set_name": "Destined Rivals",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Regirock ex",
+    "number": "214",
+    "rarity": "Ultra Rare",
+    "set_name": "Destined Rivals",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Cynthia's Garchomp ex",
+    "number": "215",
+    "rarity": "Ultra Rare",
+    "set_name": "Destined Rivals",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Team Rocket's Nidoking ex",
+    "number": "216",
+    "rarity": "Ultra Rare",
+    "set_name": "Destined Rivals",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Team Rocket's Crobat ex",
+    "number": "217",
+    "rarity": "Ultra Rare",
+    "set_name": "Destined Rivals",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Arven's Mabosstiff ex",
+    "number": "218",
+    "rarity": "Ultra Rare",
+    "set_name": "Destined Rivals",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Team Rocket's Persian ex",
+    "number": "219",
+    "rarity": "Ultra Rare",
+    "set_name": "Destined Rivals",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Emcee's Hype",
+    "number": "220",
+    "rarity": "Ultra Rare",
+    "set_name": "Destined Rivals",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Ethan's Adventure",
+    "number": "221",
+    "rarity": "Ultra Rare",
+    "set_name": "Destined Rivals",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Judge",
+    "number": "222",
+    "rarity": "Ultra Rare",
+    "set_name": "Destined Rivals",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Team Rocket's Archer",
+    "number": "223",
+    "rarity": "Ultra Rare",
+    "set_name": "Destined Rivals",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Team Rocket's Ariana",
+    "number": "224",
+    "rarity": "Ultra Rare",
+    "set_name": "Destined Rivals",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Team Rocket's Giovanni",
+    "number": "225",
+    "rarity": "Ultra Rare",
+    "set_name": "Destined Rivals",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Team Rocket's Petrel",
+    "number": "226",
+    "rarity": "Ultra Rare",
+    "set_name": "Destined Rivals",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Team Rocket's Proton",
+    "number": "227",
+    "rarity": "Ultra Rare",
+    "set_name": "Destined Rivals",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Yanmega ex",
+    "number": "228",
+    "rarity": "Special Illustration Rare",
+    "set_name": "Destined Rivals",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Team Rocket's Moltres ex",
+    "number": "229",
+    "rarity": "Special Illustration Rare",
+    "set_name": "Destined Rivals",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Ethan's Ho-Oh ex",
+    "number": "230",
+    "rarity": "Special Illustration Rare",
+    "set_name": "Destined Rivals",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Team Rocket's Mewtwo ex",
+    "number": "231",
+    "rarity": "Special Illustration Rare",
+    "set_name": "Destined Rivals",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Cynthia's Garchomp ex",
+    "number": "232",
+    "rarity": "Special Illustration Rare",
+    "set_name": "Destined Rivals",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Team Rocket's Nidoking ex",
+    "number": "233",
+    "rarity": "Special Illustration Rare",
+    "set_name": "Destined Rivals",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Team Rocket's Crobat ex",
+    "number": "234",
+    "rarity": "Special Illustration Rare",
+    "set_name": "Destined Rivals",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Arven's Mabosstiff ex",
+    "number": "235",
+    "rarity": "Special Illustration Rare",
+    "set_name": "Destined Rivals",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Ethan's Adventure",
+    "number": "236",
+    "rarity": "Special Illustration Rare",
+    "set_name": "Destined Rivals",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Team Rocket's Ariana",
+    "number": "237",
+    "rarity": "Special Illustration Rare",
+    "set_name": "Destined Rivals",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Team Rocket's Giovanni",
+    "number": "238",
+    "rarity": "Special Illustration Rare",
+    "set_name": "Destined Rivals",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Ethan's Ho-Oh ex",
+    "number": "239",
+    "rarity": "Hyper Rare",
+    "set_name": "Destined Rivals",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Team Rocket's Mewtwo ex",
+    "number": "240",
+    "rarity": "Hyper Rare",
+    "set_name": "Destined Rivals",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Cynthia's Garchomp ex",
+    "number": "241",
+    "rarity": "Hyper Rare",
+    "set_name": "Destined Rivals",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Team Rocket's Crobat ex",
+    "number": "242",
+    "rarity": "Hyper Rare",
+    "set_name": "Destined Rivals",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Jamming Tower",
+    "number": "243",
+    "rarity": "Hyper Rare",
+    "set_name": "Destined Rivals",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Levincia",
+    "number": "244",
+    "rarity": "Hyper Rare",
+    "set_name": "Destined Rivals",
+    "set_series": "Scarlet & Violet"
+  }
+]

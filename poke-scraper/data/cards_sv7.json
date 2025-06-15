@@ -1,0 +1,1227 @@
+[
+  {
+    "name": "Venusaur ex",
+    "number": "1",
+    "rarity": "Double Rare",
+    "set_name": "Stellar Crown",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Ledyba",
+    "number": "2",
+    "rarity": "Common",
+    "set_name": "Stellar Crown",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Ledian",
+    "number": "3",
+    "rarity": "Rare",
+    "set_name": "Stellar Crown",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Lileep",
+    "number": "5",
+    "rarity": "Common",
+    "set_name": "Stellar Crown",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Celebi",
+    "number": "4",
+    "rarity": "Uncommon",
+    "set_name": "Stellar Crown",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Cradily",
+    "number": "6",
+    "rarity": "Rare",
+    "set_name": "Stellar Crown",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Carnivine",
+    "number": "7",
+    "rarity": "Common",
+    "set_name": "Stellar Crown",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Grubbin",
+    "number": "9",
+    "rarity": "Common",
+    "set_name": "Stellar Crown",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Mow Rotom",
+    "number": "8",
+    "rarity": "Common",
+    "set_name": "Stellar Crown",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Gossifleur",
+    "number": "10",
+    "rarity": "Common",
+    "set_name": "Stellar Crown",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Eldegoss",
+    "number": "11",
+    "rarity": "Uncommon",
+    "set_name": "Stellar Crown",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Applin",
+    "number": "12",
+    "rarity": "Common",
+    "set_name": "Stellar Crown",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Dipplin",
+    "number": "13",
+    "rarity": "Common",
+    "set_name": "Stellar Crown",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Hydrapple ex",
+    "number": "14",
+    "rarity": "Double Rare",
+    "set_name": "Stellar Crown",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Nymble",
+    "number": "15",
+    "rarity": "Common",
+    "set_name": "Stellar Crown",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Lokix",
+    "number": "16",
+    "rarity": "Common",
+    "set_name": "Stellar Crown",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Toedscool",
+    "number": "17",
+    "rarity": "Common",
+    "set_name": "Stellar Crown",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Toedscruel",
+    "number": "18",
+    "rarity": "Uncommon",
+    "set_name": "Stellar Crown",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Ponyta",
+    "number": "19",
+    "rarity": "Common",
+    "set_name": "Stellar Crown",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Rapidash",
+    "number": "20",
+    "rarity": "Uncommon",
+    "set_name": "Stellar Crown",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Pansear",
+    "number": "21",
+    "rarity": "Common",
+    "set_name": "Stellar Crown",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Reshiram",
+    "number": "22",
+    "rarity": "Uncommon",
+    "set_name": "Stellar Crown",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Salazzle",
+    "number": "24",
+    "rarity": "Uncommon",
+    "set_name": "Stellar Crown",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Salandit",
+    "number": "23",
+    "rarity": "Common",
+    "set_name": "Stellar Crown",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Turtonator",
+    "number": "25",
+    "rarity": "Common",
+    "set_name": "Stellar Crown",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Scorbunny",
+    "number": "26",
+    "rarity": "Common",
+    "set_name": "Stellar Crown",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Raboot",
+    "number": "27",
+    "rarity": "Common",
+    "set_name": "Stellar Crown",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Cinderace ex",
+    "number": "28",
+    "rarity": "Double Rare",
+    "set_name": "Stellar Crown",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Blastoise ex",
+    "number": "30",
+    "rarity": "Double Rare",
+    "set_name": "Stellar Crown",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Lapras",
+    "number": "31",
+    "rarity": "Uncommon",
+    "set_name": "Stellar Crown",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Charcadet",
+    "number": "29",
+    "rarity": "Common",
+    "set_name": "Stellar Crown",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Lapras ex",
+    "number": "32",
+    "rarity": "Double Rare",
+    "set_name": "Stellar Crown",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Marill",
+    "number": "33",
+    "rarity": "Common",
+    "set_name": "Stellar Crown",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Azumarill",
+    "number": "34",
+    "rarity": "Uncommon",
+    "set_name": "Stellar Crown",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Finneon",
+    "number": "35",
+    "rarity": "Common",
+    "set_name": "Stellar Crown",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Lumineon",
+    "number": "36",
+    "rarity": "Uncommon",
+    "set_name": "Stellar Crown",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Tirtouga",
+    "number": "37",
+    "rarity": "Common",
+    "set_name": "Stellar Crown",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Carracosta",
+    "number": "38",
+    "rarity": "Rare",
+    "set_name": "Stellar Crown",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Froakie",
+    "number": "39",
+    "rarity": "Common",
+    "set_name": "Stellar Crown",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Frogadier",
+    "number": "40",
+    "rarity": "Uncommon",
+    "set_name": "Stellar Crown",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Greninja ex",
+    "number": "41",
+    "rarity": "Double Rare",
+    "set_name": "Stellar Crown",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Crabominable",
+    "number": "42",
+    "rarity": "Uncommon",
+    "set_name": "Stellar Crown",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Drednaw",
+    "number": "44",
+    "rarity": "Rare",
+    "set_name": "Stellar Crown",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Chewtle",
+    "number": "43",
+    "rarity": "Common",
+    "set_name": "Stellar Crown",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Veluza",
+    "number": "45",
+    "rarity": "Uncommon",
+    "set_name": "Stellar Crown",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Electabuzz",
+    "number": "46",
+    "rarity": "Common",
+    "set_name": "Stellar Crown",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Electivire",
+    "number": "47",
+    "rarity": "Uncommon",
+    "set_name": "Stellar Crown",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Chinchou",
+    "number": "48",
+    "rarity": "Common",
+    "set_name": "Stellar Crown",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Lanturn",
+    "number": "49",
+    "rarity": "Uncommon",
+    "set_name": "Stellar Crown",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Joltik",
+    "number": "50",
+    "rarity": "Common",
+    "set_name": "Stellar Crown",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Galvantula ex",
+    "number": "51",
+    "rarity": "Double Rare",
+    "set_name": "Stellar Crown",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Charjabug",
+    "number": "52",
+    "rarity": "Common",
+    "set_name": "Stellar Crown",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Vikavolt",
+    "number": "53",
+    "rarity": "Uncommon",
+    "set_name": "Stellar Crown",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Zeraora",
+    "number": "55",
+    "rarity": "Rare",
+    "set_name": "Stellar Crown",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Togedemaru",
+    "number": "54",
+    "rarity": "Uncommon",
+    "set_name": "Stellar Crown",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Pawmi",
+    "number": "56",
+    "rarity": "Common",
+    "set_name": "Stellar Crown",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Slowpoke",
+    "number": "57",
+    "rarity": "Common",
+    "set_name": "Stellar Crown",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Slowking",
+    "number": "58",
+    "rarity": "Uncommon",
+    "set_name": "Stellar Crown",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Mewtwo",
+    "number": "59",
+    "rarity": "Uncommon",
+    "set_name": "Stellar Crown",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Drifloon",
+    "number": "60",
+    "rarity": "Common",
+    "set_name": "Stellar Crown",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Drifblim",
+    "number": "61",
+    "rarity": "Uncommon",
+    "set_name": "Stellar Crown",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Yamask",
+    "number": "62",
+    "rarity": "Common",
+    "set_name": "Stellar Crown",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Comfey",
+    "number": "63",
+    "rarity": "Common",
+    "set_name": "Stellar Crown",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Milcery",
+    "number": "64",
+    "rarity": "Common",
+    "set_name": "Stellar Crown",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Alcremie",
+    "number": "65",
+    "rarity": "Rare",
+    "set_name": "Stellar Crown",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Fidough",
+    "number": "66",
+    "rarity": "Common",
+    "set_name": "Stellar Crown",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Dachsbun ex",
+    "number": "67",
+    "rarity": "Double Rare",
+    "set_name": "Stellar Crown",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Flittle",
+    "number": "68",
+    "rarity": "Common",
+    "set_name": "Stellar Crown",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Espathra",
+    "number": "69",
+    "rarity": "Common",
+    "set_name": "Stellar Crown",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Greavard",
+    "number": "70",
+    "rarity": "Common",
+    "set_name": "Stellar Crown",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Iron Boulder",
+    "number": "71",
+    "rarity": "Rare",
+    "set_name": "Stellar Crown",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Cubone",
+    "number": "72",
+    "rarity": "Common",
+    "set_name": "Stellar Crown",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Marowak",
+    "number": "73",
+    "rarity": "Uncommon",
+    "set_name": "Stellar Crown",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Rhyhorn",
+    "number": "74",
+    "rarity": "Common",
+    "set_name": "Stellar Crown",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Rhydon",
+    "number": "75",
+    "rarity": "Common",
+    "set_name": "Stellar Crown",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Rhyperior",
+    "number": "76",
+    "rarity": "Rare",
+    "set_name": "Stellar Crown",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Meditite",
+    "number": "77",
+    "rarity": "Common",
+    "set_name": "Stellar Crown",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Meditite",
+    "number": "78",
+    "rarity": "Common",
+    "set_name": "Stellar Crown",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Medicham",
+    "number": "79",
+    "rarity": "Common",
+    "set_name": "Stellar Crown",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Medicham ex",
+    "number": "80",
+    "rarity": "Double Rare",
+    "set_name": "Stellar Crown",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Riolu",
+    "number": "81",
+    "rarity": "Common",
+    "set_name": "Stellar Crown",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Lucario ex",
+    "number": "82",
+    "rarity": "Double Rare",
+    "set_name": "Stellar Crown",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Mienfoo",
+    "number": "83",
+    "rarity": "Common",
+    "set_name": "Stellar Crown",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Mienshao",
+    "number": "84",
+    "rarity": "Uncommon",
+    "set_name": "Stellar Crown",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Pancham",
+    "number": "85",
+    "rarity": "Common",
+    "set_name": "Stellar Crown",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Diancie",
+    "number": "86",
+    "rarity": "Uncommon",
+    "set_name": "Stellar Crown",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Crabrawler",
+    "number": "87",
+    "rarity": "Common",
+    "set_name": "Stellar Crown",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Falinks",
+    "number": "88",
+    "rarity": "Common",
+    "set_name": "Stellar Crown",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Garganacl ex",
+    "number": "89",
+    "rarity": "Double Rare",
+    "set_name": "Stellar Crown",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Koraidon",
+    "number": "90",
+    "rarity": "Uncommon",
+    "set_name": "Stellar Crown",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Gulpin",
+    "number": "91",
+    "rarity": "Common",
+    "set_name": "Stellar Crown",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Swalot",
+    "number": "92",
+    "rarity": "Uncommon",
+    "set_name": "Stellar Crown",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Pangoro",
+    "number": "93",
+    "rarity": "Uncommon",
+    "set_name": "Stellar Crown",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Impidimp",
+    "number": "94",
+    "rarity": "Common",
+    "set_name": "Stellar Crown",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Morgrem",
+    "number": "95",
+    "rarity": "Common",
+    "set_name": "Stellar Crown",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Grimmsnarl",
+    "number": "96",
+    "rarity": "Rare",
+    "set_name": "Stellar Crown",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Bombirdier",
+    "number": "97",
+    "rarity": "Common",
+    "set_name": "Stellar Crown",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Jirachi",
+    "number": "98",
+    "rarity": "Uncommon",
+    "set_name": "Stellar Crown",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Klink",
+    "number": "99",
+    "rarity": "Common",
+    "set_name": "Stellar Crown",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Klang",
+    "number": "100",
+    "rarity": "Common",
+    "set_name": "Stellar Crown",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Klinklang",
+    "number": "101",
+    "rarity": "Rare",
+    "set_name": "Stellar Crown",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Meltan",
+    "number": "102",
+    "rarity": "Common",
+    "set_name": "Stellar Crown",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Meltan",
+    "number": "103",
+    "rarity": "Common",
+    "set_name": "Stellar Crown",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Melmetal",
+    "number": "104",
+    "rarity": "Rare",
+    "set_name": "Stellar Crown",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Melmetal ex",
+    "number": "105",
+    "rarity": "Double Rare",
+    "set_name": "Stellar Crown",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Duraludon",
+    "number": "106",
+    "rarity": "Common",
+    "set_name": "Stellar Crown",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Archaludon",
+    "number": "107",
+    "rarity": "Rare",
+    "set_name": "Stellar Crown",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Varoom",
+    "number": "108",
+    "rarity": "Common",
+    "set_name": "Stellar Crown",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Revavroom",
+    "number": "109",
+    "rarity": "Uncommon",
+    "set_name": "Stellar Crown",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Orthworm ex",
+    "number": "110",
+    "rarity": "Double Rare",
+    "set_name": "Stellar Crown",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Raging Bolt",
+    "number": "111",
+    "rarity": "Rare",
+    "set_name": "Stellar Crown",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Tauros",
+    "number": "112",
+    "rarity": "Common",
+    "set_name": "Stellar Crown",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Eevee",
+    "number": "113",
+    "rarity": "Common",
+    "set_name": "Stellar Crown",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Hoothoot",
+    "number": "114",
+    "rarity": "Common",
+    "set_name": "Stellar Crown",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Noctowl",
+    "number": "115",
+    "rarity": "Rare",
+    "set_name": "Stellar Crown",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Glameow",
+    "number": "116",
+    "rarity": "Common",
+    "set_name": "Stellar Crown",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Purugly",
+    "number": "117",
+    "rarity": "Common",
+    "set_name": "Stellar Crown",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Fan Rotom",
+    "number": "118",
+    "rarity": "Common",
+    "set_name": "Stellar Crown",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Bouffalant",
+    "number": "119",
+    "rarity": "Rare",
+    "set_name": "Stellar Crown",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Tornadus",
+    "number": "120",
+    "rarity": "Uncommon",
+    "set_name": "Stellar Crown",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Fletchling",
+    "number": "121",
+    "rarity": "Common",
+    "set_name": "Stellar Crown",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Fletchinder",
+    "number": "122",
+    "rarity": "Common",
+    "set_name": "Stellar Crown",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Talonflame",
+    "number": "123",
+    "rarity": "Uncommon",
+    "set_name": "Stellar Crown",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Wooloo",
+    "number": "124",
+    "rarity": "Common",
+    "set_name": "Stellar Crown",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Dubwool",
+    "number": "125",
+    "rarity": "Uncommon",
+    "set_name": "Stellar Crown",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Lechonk",
+    "number": "126",
+    "rarity": "Common",
+    "set_name": "Stellar Crown",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Cyclizar",
+    "number": "127",
+    "rarity": "Common",
+    "set_name": "Stellar Crown",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Terapagos ex",
+    "number": "128",
+    "rarity": "Double Rare",
+    "set_name": "Stellar Crown",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Antique Cover Fossil",
+    "number": "129",
+    "rarity": "Common",
+    "set_name": "Stellar Crown",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Antique Root Fossil",
+    "number": "130",
+    "rarity": "Common",
+    "set_name": "Stellar Crown",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Area Zero Underdepths",
+    "number": "131",
+    "rarity": "Uncommon",
+    "set_name": "Stellar Crown",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Briar",
+    "number": "132",
+    "rarity": "Uncommon",
+    "set_name": "Stellar Crown",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Crispin",
+    "number": "133",
+    "rarity": "Uncommon",
+    "set_name": "Stellar Crown",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Deluxe Bomb",
+    "number": "134",
+    "rarity": "ACE SPEC Rare",
+    "set_name": "Stellar Crown",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Glass Trumpet",
+    "number": "135",
+    "rarity": "Uncommon",
+    "set_name": "Stellar Crown",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Grand Tree",
+    "number": "136",
+    "rarity": "ACE SPEC Rare",
+    "set_name": "Stellar Crown",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Gravity Gemstone",
+    "number": "137",
+    "rarity": "Uncommon",
+    "set_name": "Stellar Crown",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Kofu",
+    "number": "138",
+    "rarity": "Uncommon",
+    "set_name": "Stellar Crown",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Lacey",
+    "number": "139",
+    "rarity": "Uncommon",
+    "set_name": "Stellar Crown",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Occa Berry",
+    "number": "140",
+    "rarity": "Uncommon",
+    "set_name": "Stellar Crown",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Payapa Berry",
+    "number": "141",
+    "rarity": "Uncommon",
+    "set_name": "Stellar Crown",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Sparkling Crystal",
+    "number": "142",
+    "rarity": "ACE SPEC Rare",
+    "set_name": "Stellar Crown",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Bulbasaur",
+    "number": "143",
+    "rarity": "Illustration Rare",
+    "set_name": "Stellar Crown",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Ledian",
+    "number": "144",
+    "rarity": "Illustration Rare",
+    "set_name": "Stellar Crown",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Lileep",
+    "number": "145",
+    "rarity": "Illustration Rare",
+    "set_name": "Stellar Crown",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Turtonator",
+    "number": "146",
+    "rarity": "Illustration Rare",
+    "set_name": "Stellar Crown",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Raboot",
+    "number": "147",
+    "rarity": "Illustration Rare",
+    "set_name": "Stellar Crown",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Squirtle",
+    "number": "148",
+    "rarity": "Illustration Rare",
+    "set_name": "Stellar Crown",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Joltik",
+    "number": "150",
+    "rarity": "Illustration Rare",
+    "set_name": "Stellar Crown",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Crabominable",
+    "number": "149",
+    "rarity": "Illustration Rare",
+    "set_name": "Stellar Crown",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Zeraora",
+    "number": "151",
+    "rarity": "Illustration Rare",
+    "set_name": "Stellar Crown",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Milcery",
+    "number": "152",
+    "rarity": "Illustration Rare",
+    "set_name": "Stellar Crown",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Gulpin",
+    "number": "154",
+    "rarity": "Illustration Rare",
+    "set_name": "Stellar Crown",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Archaludon",
+    "number": "155",
+    "rarity": "Illustration Rare",
+    "set_name": "Stellar Crown",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Meditite",
+    "number": "153",
+    "rarity": "Illustration Rare",
+    "set_name": "Stellar Crown",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Hydrapple ex",
+    "number": "156",
+    "rarity": "Ultra Rare",
+    "set_name": "Stellar Crown",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Lapras ex",
+    "number": "158",
+    "rarity": "Ultra Rare",
+    "set_name": "Stellar Crown",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Cinderace ex",
+    "number": "157",
+    "rarity": "Ultra Rare",
+    "set_name": "Stellar Crown",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Galvantula ex",
+    "number": "159",
+    "rarity": "Ultra Rare",
+    "set_name": "Stellar Crown",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Dachsbun ex",
+    "number": "160",
+    "rarity": "Ultra Rare",
+    "set_name": "Stellar Crown",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Medicham ex",
+    "number": "161",
+    "rarity": "Ultra Rare",
+    "set_name": "Stellar Crown",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Orthworm ex",
+    "number": "162",
+    "rarity": "Ultra Rare",
+    "set_name": "Stellar Crown",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Briar",
+    "number": "163",
+    "rarity": "Ultra Rare",
+    "set_name": "Stellar Crown",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Crispin",
+    "number": "164",
+    "rarity": "Ultra Rare",
+    "set_name": "Stellar Crown",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Kofu",
+    "number": "165",
+    "rarity": "Ultra Rare",
+    "set_name": "Stellar Crown",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Lacey",
+    "number": "166",
+    "rarity": "Ultra Rare",
+    "set_name": "Stellar Crown",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Hydrapple ex",
+    "number": "167",
+    "rarity": "Special Illustration Rare",
+    "set_name": "Stellar Crown",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Galvantula ex",
+    "number": "168",
+    "rarity": "Special Illustration Rare",
+    "set_name": "Stellar Crown",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Dachsbun ex",
+    "number": "169",
+    "rarity": "Special Illustration Rare",
+    "set_name": "Stellar Crown",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Terapagos ex",
+    "number": "170",
+    "rarity": "Special Illustration Rare",
+    "set_name": "Stellar Crown",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Briar",
+    "number": "171",
+    "rarity": "Special Illustration Rare",
+    "set_name": "Stellar Crown",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Lacey",
+    "number": "172",
+    "rarity": "Special Illustration Rare",
+    "set_name": "Stellar Crown",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Terapagos ex",
+    "number": "173",
+    "rarity": "Hyper Rare",
+    "set_name": "Stellar Crown",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Area Zero Underdepths",
+    "number": "174",
+    "rarity": "Hyper Rare",
+    "set_name": "Stellar Crown",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Bravery Charm",
+    "number": "175",
+    "rarity": "Hyper Rare",
+    "set_name": "Stellar Crown",
+    "set_series": "Scarlet & Violet"
+  }
+]

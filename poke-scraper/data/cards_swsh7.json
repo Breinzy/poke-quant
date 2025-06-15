@@ -1,0 +1,1661 @@
+[
+  {
+    "name": "Hoppip",
+    "number": "2",
+    "rarity": "Common",
+    "set_name": "Evolving Skies",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Jumpluff",
+    "number": "4",
+    "rarity": "Rare Holo",
+    "set_name": "Evolving Skies",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Tropius",
+    "number": "6",
+    "rarity": "Rare",
+    "set_name": "Evolving Skies",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Pinsir",
+    "number": "1",
+    "rarity": "Rare",
+    "set_name": "Evolving Skies",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Skiploom",
+    "number": "3",
+    "rarity": "Uncommon",
+    "set_name": "Evolving Skies",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Seedot",
+    "number": "5",
+    "rarity": "Common",
+    "set_name": "Evolving Skies",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Leafeon VMAX",
+    "number": "8",
+    "rarity": "Rare Holo VMAX",
+    "set_name": "Evolving Skies",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Lilligant",
+    "number": "10",
+    "rarity": "Rare",
+    "set_name": "Evolving Skies",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Petilil",
+    "number": "9",
+    "rarity": "Common",
+    "set_name": "Evolving Skies",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Crustle",
+    "number": "12",
+    "rarity": "Uncommon",
+    "set_name": "Evolving Skies",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Trevenant V",
+    "number": "13",
+    "rarity": "Rare Holo V",
+    "set_name": "Evolving Skies",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Dwebble",
+    "number": "11",
+    "rarity": "Common",
+    "set_name": "Evolving Skies",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Leafeon V",
+    "number": "7",
+    "rarity": "Rare Holo V",
+    "set_name": "Evolving Skies",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Trevenant VMAX",
+    "number": "14",
+    "rarity": "Rare Holo VMAX",
+    "set_name": "Evolving Skies",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Sharpedo",
+    "number": "36",
+    "rarity": "Rare",
+    "set_name": "Evolving Skies",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Glaceon VMAX",
+    "number": "41",
+    "rarity": "Rare Holo VMAX",
+    "set_name": "Evolving Skies",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Wishiwashi",
+    "number": "46",
+    "rarity": "Rare",
+    "set_name": "Evolving Skies",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Bergmite",
+    "number": "44",
+    "rarity": "Common",
+    "set_name": "Evolving Skies",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Carvanha",
+    "number": "35",
+    "rarity": "Common",
+    "set_name": "Evolving Skies",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Cryogonal",
+    "number": "43",
+    "rarity": "Common",
+    "set_name": "Evolving Skies",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Dracozolt VMAX",
+    "number": "59",
+    "rarity": "Rare Holo VMAX",
+    "set_name": "Evolving Skies",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Dracozolt V",
+    "number": "58",
+    "rarity": "Rare Holo V",
+    "set_name": "Evolving Skies",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Vaporeon VMAX",
+    "number": "30",
+    "rarity": "Rare Holo VMAX",
+    "set_name": "Evolving Skies",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Gyarados V",
+    "number": "28",
+    "rarity": "Rare Holo V",
+    "set_name": "Evolving Skies",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Eiscue",
+    "number": "47",
+    "rarity": "Uncommon",
+    "set_name": "Evolving Skies",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Ludicolo",
+    "number": "34",
+    "rarity": "Rare Holo",
+    "set_name": "Evolving Skies",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Tympole",
+    "number": "42",
+    "rarity": "Common",
+    "set_name": "Evolving Skies",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Golduck",
+    "number": "25",
+    "rarity": "Uncommon",
+    "set_name": "Evolving Skies",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Suicune V",
+    "number": "31",
+    "rarity": "Rare Holo V",
+    "set_name": "Evolving Skies",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Pikachu",
+    "number": "49",
+    "rarity": "Common",
+    "set_name": "Evolving Skies",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Glaceon V",
+    "number": "40",
+    "rarity": "Rare Holo V",
+    "set_name": "Evolving Skies",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Psyduck",
+    "number": "24",
+    "rarity": "Common",
+    "set_name": "Evolving Skies",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Eldegoss",
+    "number": "16",
+    "rarity": "Rare Holo",
+    "set_name": "Evolving Skies",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Tentacool",
+    "number": "26",
+    "rarity": "Common",
+    "set_name": "Evolving Skies",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Tentacruel",
+    "number": "27",
+    "rarity": "Uncommon",
+    "set_name": "Evolving Skies",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Lotad",
+    "number": "32",
+    "rarity": "Common",
+    "set_name": "Evolving Skies",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Raichu",
+    "number": "50",
+    "rarity": "Rare Holo",
+    "set_name": "Evolving Skies",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Lanturn",
+    "number": "53",
+    "rarity": "Uncommon",
+    "set_name": "Evolving Skies",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Entei",
+    "number": "19",
+    "rarity": "Rare Holo",
+    "set_name": "Evolving Skies",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Luvdisc",
+    "number": "39",
+    "rarity": "Common",
+    "set_name": "Evolving Skies",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Litleo",
+    "number": "22",
+    "rarity": "Common",
+    "set_name": "Evolving Skies",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Pyroar",
+    "number": "23",
+    "rarity": "Uncommon",
+    "set_name": "Evolving Skies",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Gyarados VMAX",
+    "number": "29",
+    "rarity": "Rare Holo VMAX",
+    "set_name": "Evolving Skies",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Chinchou",
+    "number": "52",
+    "rarity": "Common",
+    "set_name": "Evolving Skies",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Mareep",
+    "number": "54",
+    "rarity": "Common",
+    "set_name": "Evolving Skies",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Applin",
+    "number": "17",
+    "rarity": "Common",
+    "set_name": "Evolving Skies",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Feebas",
+    "number": "37",
+    "rarity": "Common",
+    "set_name": "Evolving Skies",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Milotic",
+    "number": "38",
+    "rarity": "Rare",
+    "set_name": "Evolving Skies",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Avalugg",
+    "number": "45",
+    "rarity": "Uncommon",
+    "set_name": "Evolving Skies",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Flareon VMAX",
+    "number": "18",
+    "rarity": "Rare Holo VMAX",
+    "set_name": "Evolving Skies",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Jolteon VMAX",
+    "number": "51",
+    "rarity": "Rare Holo VMAX",
+    "set_name": "Evolving Skies",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Ampharos",
+    "number": "56",
+    "rarity": "Rare",
+    "set_name": "Evolving Skies",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Emolga",
+    "number": "57",
+    "rarity": "Common",
+    "set_name": "Evolving Skies",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Gossifleur",
+    "number": "15",
+    "rarity": "Common",
+    "set_name": "Evolving Skies",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Volcarona V",
+    "number": "21",
+    "rarity": "Rare Holo V",
+    "set_name": "Evolving Skies",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Flaaffy",
+    "number": "55",
+    "rarity": "Uncommon",
+    "set_name": "Evolving Skies",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Victini",
+    "number": "20",
+    "rarity": "Rare Holo",
+    "set_name": "Evolving Skies",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Lombre",
+    "number": "33",
+    "rarity": "Uncommon",
+    "set_name": "Evolving Skies",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Arctovish V",
+    "number": "48",
+    "rarity": "Rare Holo V",
+    "set_name": "Evolving Skies",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Galarian Articuno",
+    "number": "63",
+    "rarity": "Rare Holo",
+    "set_name": "Evolving Skies",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Hypno",
+    "number": "62",
+    "rarity": "Uncommon",
+    "set_name": "Evolving Skies",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Regieleki",
+    "number": "60",
+    "rarity": "Rare Holo",
+    "set_name": "Evolving Skies",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Drowzee",
+    "number": "61",
+    "rarity": "Common",
+    "set_name": "Evolving Skies",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Wobbuffet",
+    "number": "66",
+    "rarity": "Common",
+    "set_name": "Evolving Skies",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Espeon V",
+    "number": "64",
+    "rarity": "Rare Holo V",
+    "set_name": "Evolving Skies",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Espeon VMAX",
+    "number": "65",
+    "rarity": "Rare Holo VMAX",
+    "set_name": "Evolving Skies",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Swoobat",
+    "number": "69",
+    "rarity": "Uncommon",
+    "set_name": "Evolving Skies",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Sableye",
+    "number": "67",
+    "rarity": "Common",
+    "set_name": "Evolving Skies",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Woobat",
+    "number": "68",
+    "rarity": "Common",
+    "set_name": "Evolving Skies",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Golurk V",
+    "number": "70",
+    "rarity": "Rare Holo V",
+    "set_name": "Evolving Skies",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Florges",
+    "number": "73",
+    "rarity": "Rare Holo",
+    "set_name": "Evolving Skies",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Flab\u00e9b\u00e9",
+    "number": "71",
+    "rarity": "Common",
+    "set_name": "Evolving Skies",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Floette",
+    "number": "72",
+    "rarity": "Uncommon",
+    "set_name": "Evolving Skies",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Sylveon V",
+    "number": "74",
+    "rarity": "Rare Holo V",
+    "set_name": "Evolving Skies",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Sylveon VMAX",
+    "number": "75",
+    "rarity": "Rare Holo VMAX",
+    "set_name": "Evolving Skies",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Pumpkaboo",
+    "number": "76",
+    "rarity": "Common",
+    "set_name": "Evolving Skies",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Gourgeist",
+    "number": "77",
+    "rarity": "Rare",
+    "set_name": "Evolving Skies",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Cutiefly",
+    "number": "78",
+    "rarity": "Common",
+    "set_name": "Evolving Skies",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Hitmonchan",
+    "number": "81",
+    "rarity": "Common",
+    "set_name": "Evolving Skies",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Ribombee",
+    "number": "79",
+    "rarity": "Uncommon",
+    "set_name": "Evolving Skies",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Marshadow",
+    "number": "80",
+    "rarity": "Rare Holo",
+    "set_name": "Evolving Skies",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Medicham V",
+    "number": "83",
+    "rarity": "Rare Holo V",
+    "set_name": "Evolving Skies",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Hippopotas",
+    "number": "84",
+    "rarity": "Common",
+    "set_name": "Evolving Skies",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Hippowdon",
+    "number": "85",
+    "rarity": "Uncommon",
+    "set_name": "Evolving Skies",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Galarian Zapdos",
+    "number": "82",
+    "rarity": "Rare Holo",
+    "set_name": "Evolving Skies",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Gigalith",
+    "number": "88",
+    "rarity": "Rare",
+    "set_name": "Evolving Skies",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Roggenrola",
+    "number": "86",
+    "rarity": "Common",
+    "set_name": "Evolving Skies",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Boldore",
+    "number": "87",
+    "rarity": "Uncommon",
+    "set_name": "Evolving Skies",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Seismitoad",
+    "number": "90",
+    "rarity": "Rare",
+    "set_name": "Evolving Skies",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Palpitoad",
+    "number": "89",
+    "rarity": "Uncommon",
+    "set_name": "Evolving Skies",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Lycanroc V",
+    "number": "91",
+    "rarity": "Rare Holo V",
+    "set_name": "Evolving Skies",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Umbreon V",
+    "number": "94",
+    "rarity": "Rare Holo V",
+    "set_name": "Evolving Skies",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Lycanroc VMAX",
+    "number": "92",
+    "rarity": "Rare Holo VMAX",
+    "set_name": "Evolving Skies",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Nuzleaf",
+    "number": "96",
+    "rarity": "Uncommon",
+    "set_name": "Evolving Skies",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Umbreon VMAX",
+    "number": "95",
+    "rarity": "Rare Holo VMAX",
+    "set_name": "Evolving Skies",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Galarian Moltres",
+    "number": "93",
+    "rarity": "Rare Holo",
+    "set_name": "Evolving Skies",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Scrafty",
+    "number": "99",
+    "rarity": "Uncommon",
+    "set_name": "Evolving Skies",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Scraggy",
+    "number": "98",
+    "rarity": "Common",
+    "set_name": "Evolving Skies",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Shiftry",
+    "number": "97",
+    "rarity": "Rare",
+    "set_name": "Evolving Skies",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Zoroark",
+    "number": "103",
+    "rarity": "Rare Holo",
+    "set_name": "Evolving Skies",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Zorua",
+    "number": "102",
+    "rarity": "Common",
+    "set_name": "Evolving Skies",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Garbodor V",
+    "number": "100",
+    "rarity": "Rare Holo V",
+    "set_name": "Evolving Skies",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Garbodor VMAX",
+    "number": "101",
+    "rarity": "Rare Holo VMAX",
+    "set_name": "Evolving Skies",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Altaria",
+    "number": "106",
+    "rarity": "Rare",
+    "set_name": "Evolving Skies",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Nickit",
+    "number": "104",
+    "rarity": "Common",
+    "set_name": "Evolving Skies",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Thievul",
+    "number": "105",
+    "rarity": "Rare",
+    "set_name": "Evolving Skies",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Shelgon",
+    "number": "108",
+    "rarity": "Uncommon",
+    "set_name": "Evolving Skies",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Bagon",
+    "number": "107",
+    "rarity": "Common",
+    "set_name": "Evolving Skies",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Salamence",
+    "number": "109",
+    "rarity": "Rare Holo",
+    "set_name": "Evolving Skies",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Rayquaza VMAX",
+    "number": "111",
+    "rarity": "Rare Holo VMAX",
+    "set_name": "Evolving Skies",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Dialga",
+    "number": "112",
+    "rarity": "Rare Holo",
+    "set_name": "Evolving Skies",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Deino",
+    "number": "113",
+    "rarity": "Common",
+    "set_name": "Evolving Skies",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Rayquaza V",
+    "number": "110",
+    "rarity": "Rare Holo V",
+    "set_name": "Evolving Skies",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Kyurem",
+    "number": "116",
+    "rarity": "Rare Holo",
+    "set_name": "Evolving Skies",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Hydreigon",
+    "number": "115",
+    "rarity": "Rare Holo",
+    "set_name": "Evolving Skies",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Noivern V",
+    "number": "117",
+    "rarity": "Rare Holo V",
+    "set_name": "Evolving Skies",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Zweilous",
+    "number": "114",
+    "rarity": "Uncommon",
+    "set_name": "Evolving Skies",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Drampa",
+    "number": "119",
+    "rarity": "Rare",
+    "set_name": "Evolving Skies",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Zygarde",
+    "number": "118",
+    "rarity": "Rare Holo",
+    "set_name": "Evolving Skies",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Flapple",
+    "number": "120",
+    "rarity": "Rare",
+    "set_name": "Evolving Skies",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Appletun",
+    "number": "121",
+    "rarity": "Rare",
+    "set_name": "Evolving Skies",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Duraludon V",
+    "number": "122",
+    "rarity": "Rare Holo V",
+    "set_name": "Evolving Skies",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Regidrago",
+    "number": "124",
+    "rarity": "Rare Holo",
+    "set_name": "Evolving Skies",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Duraludon VMAX",
+    "number": "123",
+    "rarity": "Rare Holo VMAX",
+    "set_name": "Evolving Skies",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Smeargle",
+    "number": "128",
+    "rarity": "Rare",
+    "set_name": "Evolving Skies",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Teddiursa",
+    "number": "126",
+    "rarity": "Common",
+    "set_name": "Evolving Skies",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Slakoth",
+    "number": "129",
+    "rarity": "Common",
+    "set_name": "Evolving Skies",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Vigoroth",
+    "number": "130",
+    "rarity": "Uncommon",
+    "set_name": "Evolving Skies",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Eevee",
+    "number": "125",
+    "rarity": "Common",
+    "set_name": "Evolving Skies",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Ursaring",
+    "number": "127",
+    "rarity": "Uncommon",
+    "set_name": "Evolving Skies",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Slaking",
+    "number": "131",
+    "rarity": "Rare Holo",
+    "set_name": "Evolving Skies",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Swablu",
+    "number": "132",
+    "rarity": "Common",
+    "set_name": "Evolving Skies",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Fletchling",
+    "number": "138",
+    "rarity": "Common",
+    "set_name": "Evolving Skies",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Herdier",
+    "number": "134",
+    "rarity": "Uncommon",
+    "set_name": "Evolving Skies",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Lillipup",
+    "number": "133",
+    "rarity": "Common",
+    "set_name": "Evolving Skies",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Rufflet",
+    "number": "136",
+    "rarity": "Common",
+    "set_name": "Evolving Skies",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Braviary",
+    "number": "137",
+    "rarity": "Uncommon",
+    "set_name": "Evolving Skies",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Fletchinder",
+    "number": "139",
+    "rarity": "Uncommon",
+    "set_name": "Evolving Skies",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Stoutland",
+    "number": "135",
+    "rarity": "Rare",
+    "set_name": "Evolving Skies",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Aroma Lady",
+    "number": "141",
+    "rarity": "Uncommon",
+    "set_name": "Evolving Skies",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Talonflame",
+    "number": "140",
+    "rarity": "Rare",
+    "set_name": "Evolving Skies",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Crystal Cave",
+    "number": "144",
+    "rarity": "Uncommon",
+    "set_name": "Evolving Skies",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Digging Gloves",
+    "number": "145",
+    "rarity": "Uncommon",
+    "set_name": "Evolving Skies",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Boost Shake",
+    "number": "142",
+    "rarity": "Uncommon",
+    "set_name": "Evolving Skies",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Copycat",
+    "number": "143",
+    "rarity": "Uncommon",
+    "set_name": "Evolving Skies",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Elemental Badge",
+    "number": "147",
+    "rarity": "Uncommon",
+    "set_name": "Evolving Skies",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Full Face Guard",
+    "number": "148",
+    "rarity": "Uncommon",
+    "set_name": "Evolving Skies",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Dream Ball",
+    "number": "146",
+    "rarity": "Uncommon",
+    "set_name": "Evolving Skies",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Gordie",
+    "number": "149",
+    "rarity": "Uncommon",
+    "set_name": "Evolving Skies",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Lucky Ice Pop",
+    "number": "150",
+    "rarity": "Uncommon",
+    "set_name": "Evolving Skies",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Moon & Sun Badge",
+    "number": "151",
+    "rarity": "Uncommon",
+    "set_name": "Evolving Skies",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Rubber Gloves",
+    "number": "156",
+    "rarity": "Uncommon",
+    "set_name": "Evolving Skies",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Rescue Carrier",
+    "number": "154",
+    "rarity": "Uncommon",
+    "set_name": "Evolving Skies",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Raihan",
+    "number": "152",
+    "rarity": "Uncommon",
+    "set_name": "Evolving Skies",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Ribbon Badge",
+    "number": "155",
+    "rarity": "Uncommon",
+    "set_name": "Evolving Skies",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Rapid Strike Scroll of the Flying Dragon",
+    "number": "153",
+    "rarity": "Uncommon",
+    "set_name": "Evolving Skies",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Shopping Center",
+    "number": "157",
+    "rarity": "Uncommon",
+    "set_name": "Evolving Skies",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Single Strike Scroll of the Fanged Dragon",
+    "number": "158",
+    "rarity": "Uncommon",
+    "set_name": "Evolving Skies",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Spirit Mask",
+    "number": "160",
+    "rarity": "Uncommon",
+    "set_name": "Evolving Skies",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Snow Leaf Badge",
+    "number": "159",
+    "rarity": "Uncommon",
+    "set_name": "Evolving Skies",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Zinnia's Resolve",
+    "number": "164",
+    "rarity": "Uncommon",
+    "set_name": "Evolving Skies",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Switching Cups",
+    "number": "162",
+    "rarity": "Uncommon",
+    "set_name": "Evolving Skies",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Stormy Mountains",
+    "number": "161",
+    "rarity": "Uncommon",
+    "set_name": "Evolving Skies",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Leafeon V",
+    "number": "166",
+    "rarity": "Rare Ultra",
+    "set_name": "Evolving Skies",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Toy Catcher",
+    "number": "163",
+    "rarity": "Uncommon",
+    "set_name": "Evolving Skies",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Treasure Energy",
+    "number": "165",
+    "rarity": "Uncommon",
+    "set_name": "Evolving Skies",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Leafeon V",
+    "number": "167",
+    "rarity": "Rare Ultra",
+    "set_name": "Evolving Skies",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Trevenant V",
+    "number": "168",
+    "rarity": "Rare Ultra",
+    "set_name": "Evolving Skies",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Flareon V",
+    "number": "169",
+    "rarity": "Rare Ultra",
+    "set_name": "Evolving Skies",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Suicune V",
+    "number": "173",
+    "rarity": "Rare Ultra",
+    "set_name": "Evolving Skies",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Volcarona V",
+    "number": "170",
+    "rarity": "Rare Ultra",
+    "set_name": "Evolving Skies",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Gyarados V",
+    "number": "171",
+    "rarity": "Rare Ultra",
+    "set_name": "Evolving Skies",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Vaporeon V",
+    "number": "172",
+    "rarity": "Rare Ultra",
+    "set_name": "Evolving Skies",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Dracozolt V",
+    "number": "178",
+    "rarity": "Rare Ultra",
+    "set_name": "Evolving Skies",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Jolteon V",
+    "number": "177",
+    "rarity": "Rare Ultra",
+    "set_name": "Evolving Skies",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Glaceon V",
+    "number": "174",
+    "rarity": "Rare Ultra",
+    "set_name": "Evolving Skies",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Glaceon V",
+    "number": "175",
+    "rarity": "Rare Ultra",
+    "set_name": "Evolving Skies",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Arctovish V",
+    "number": "176",
+    "rarity": "Rare Ultra",
+    "set_name": "Evolving Skies",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Espeon V",
+    "number": "180",
+    "rarity": "Rare Ultra",
+    "set_name": "Evolving Skies",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Golurk V",
+    "number": "181",
+    "rarity": "Rare Ultra",
+    "set_name": "Evolving Skies",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Espeon V",
+    "number": "179",
+    "rarity": "Rare Ultra",
+    "set_name": "Evolving Skies",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Sylveon V",
+    "number": "184",
+    "rarity": "Rare Ultra",
+    "set_name": "Evolving Skies",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Golurk V",
+    "number": "182",
+    "rarity": "Rare Ultra",
+    "set_name": "Evolving Skies",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Medicham V",
+    "number": "185",
+    "rarity": "Rare Ultra",
+    "set_name": "Evolving Skies",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Medicham V",
+    "number": "186",
+    "rarity": "Rare Ultra",
+    "set_name": "Evolving Skies",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Sylveon V",
+    "number": "183",
+    "rarity": "Rare Ultra",
+    "set_name": "Evolving Skies",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Lycanroc V",
+    "number": "187",
+    "rarity": "Rare Ultra",
+    "set_name": "Evolving Skies",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Umbreon V",
+    "number": "188",
+    "rarity": "Rare Ultra",
+    "set_name": "Evolving Skies",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Umbreon V",
+    "number": "189",
+    "rarity": "Rare Ultra",
+    "set_name": "Evolving Skies",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Dragonite V",
+    "number": "191",
+    "rarity": "Rare Ultra",
+    "set_name": "Evolving Skies",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Garbodor V",
+    "number": "190",
+    "rarity": "Rare Ultra",
+    "set_name": "Evolving Skies",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Rayquaza V",
+    "number": "193",
+    "rarity": "Rare Ultra",
+    "set_name": "Evolving Skies",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Dragonite V",
+    "number": "192",
+    "rarity": "Rare Ultra",
+    "set_name": "Evolving Skies",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Noivern V",
+    "number": "195",
+    "rarity": "Rare Ultra",
+    "set_name": "Evolving Skies",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Rayquaza V",
+    "number": "194",
+    "rarity": "Rare Ultra",
+    "set_name": "Evolving Skies",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Noivern V",
+    "number": "196",
+    "rarity": "Rare Ultra",
+    "set_name": "Evolving Skies",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Aroma Lady",
+    "number": "199",
+    "rarity": "Rare Ultra",
+    "set_name": "Evolving Skies",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Duraludon V",
+    "number": "197",
+    "rarity": "Rare Ultra",
+    "set_name": "Evolving Skies",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Copycat",
+    "number": "200",
+    "rarity": "Rare Ultra",
+    "set_name": "Evolving Skies",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Duraludon V",
+    "number": "198",
+    "rarity": "Rare Ultra",
+    "set_name": "Evolving Skies",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Gordie",
+    "number": "201",
+    "rarity": "Rare Ultra",
+    "set_name": "Evolving Skies",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Leafeon VMAX",
+    "number": "205",
+    "rarity": "Rare Rainbow",
+    "set_name": "Evolving Skies",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Raihan",
+    "number": "202",
+    "rarity": "Rare Ultra",
+    "set_name": "Evolving Skies",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Zinnia's Resolve",
+    "number": "203",
+    "rarity": "Rare Ultra",
+    "set_name": "Evolving Skies",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Leafeon VMAX",
+    "number": "204",
+    "rarity": "Rare Rainbow",
+    "set_name": "Evolving Skies",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Trevenant VMAX",
+    "number": "206",
+    "rarity": "Rare Rainbow",
+    "set_name": "Evolving Skies",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Glaceon VMAX",
+    "number": "208",
+    "rarity": "Rare Rainbow",
+    "set_name": "Evolving Skies",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Gyarados VMAX",
+    "number": "207",
+    "rarity": "Rare Rainbow",
+    "set_name": "Evolving Skies",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Sylveon VMAX",
+    "number": "212",
+    "rarity": "Rare Rainbow",
+    "set_name": "Evolving Skies",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Dracozolt VMAX",
+    "number": "210",
+    "rarity": "Rare Rainbow",
+    "set_name": "Evolving Skies",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Sylveon VMAX",
+    "number": "211",
+    "rarity": "Rare Rainbow",
+    "set_name": "Evolving Skies",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Glaceon VMAX",
+    "number": "209",
+    "rarity": "Rare Rainbow",
+    "set_name": "Evolving Skies",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Lycanroc VMAX",
+    "number": "213",
+    "rarity": "Rare Rainbow",
+    "set_name": "Evolving Skies",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Umbreon VMAX",
+    "number": "214",
+    "rarity": "Rare Rainbow",
+    "set_name": "Evolving Skies",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Rayquaza VMAX",
+    "number": "218",
+    "rarity": "Rare Rainbow",
+    "set_name": "Evolving Skies",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Garbodor VMAX",
+    "number": "216",
+    "rarity": "Rare Rainbow",
+    "set_name": "Evolving Skies",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Umbreon VMAX",
+    "number": "215",
+    "rarity": "Rare Rainbow",
+    "set_name": "Evolving Skies",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Rayquaza VMAX",
+    "number": "217",
+    "rarity": "Rare Rainbow",
+    "set_name": "Evolving Skies",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Duraludon VMAX",
+    "number": "219",
+    "rarity": "Rare Rainbow",
+    "set_name": "Evolving Skies",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Duraludon VMAX",
+    "number": "220",
+    "rarity": "Rare Rainbow",
+    "set_name": "Evolving Skies",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Aroma Lady",
+    "number": "221",
+    "rarity": "Rare Rainbow",
+    "set_name": "Evolving Skies",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Copycat",
+    "number": "222",
+    "rarity": "Rare Rainbow",
+    "set_name": "Evolving Skies",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Zinnia's Resolve",
+    "number": "225",
+    "rarity": "Rare Rainbow",
+    "set_name": "Evolving Skies",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Raihan",
+    "number": "224",
+    "rarity": "Rare Rainbow",
+    "set_name": "Evolving Skies",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Gordie",
+    "number": "223",
+    "rarity": "Rare Rainbow",
+    "set_name": "Evolving Skies",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Cresselia",
+    "number": "228",
+    "rarity": "Rare Secret",
+    "set_name": "Evolving Skies",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Froslass",
+    "number": "226",
+    "rarity": "Rare Secret",
+    "set_name": "Evolving Skies",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Inteleon",
+    "number": "227",
+    "rarity": "Rare Secret",
+    "set_name": "Evolving Skies",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Crystal Cave",
+    "number": "230",
+    "rarity": "Rare Secret",
+    "set_name": "Evolving Skies",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Boost Shake",
+    "number": "229",
+    "rarity": "Rare Secret",
+    "set_name": "Evolving Skies",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Lightning Energy",
+    "number": "235",
+    "rarity": "Rare Secret",
+    "set_name": "Evolving Skies",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Turffield Stadium",
+    "number": "234",
+    "rarity": "Rare Secret",
+    "set_name": "Evolving Skies",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Toy Catcher",
+    "number": "233",
+    "rarity": "Rare Secret",
+    "set_name": "Evolving Skies",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Full Face Guard",
+    "number": "231",
+    "rarity": "Rare Secret",
+    "set_name": "Evolving Skies",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Stormy Mountains",
+    "number": "232",
+    "rarity": "Rare Secret",
+    "set_name": "Evolving Skies",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Darkness Energy",
+    "number": "236",
+    "rarity": "Rare Secret",
+    "set_name": "Evolving Skies",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Metal Energy",
+    "number": "237",
+    "rarity": "Rare Secret",
+    "set_name": "Evolving Skies",
+    "set_series": "Sword & Shield"
+  }
+]

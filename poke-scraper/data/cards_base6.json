@@ -1,0 +1,772 @@
+[
+  {
+    "name": "Alakazam",
+    "number": "1",
+    "rarity": "Rare Holo",
+    "set_name": "Legendary Collection",
+    "set_series": "Other"
+  },
+  {
+    "name": "Articuno",
+    "number": "2",
+    "rarity": "Rare Holo",
+    "set_name": "Legendary Collection",
+    "set_series": "Other"
+  },
+  {
+    "name": "Charizard",
+    "number": "3",
+    "rarity": "Rare Holo",
+    "set_name": "Legendary Collection",
+    "set_series": "Other"
+  },
+  {
+    "name": "Dark Blastoise",
+    "number": "4",
+    "rarity": "Rare Holo",
+    "set_name": "Legendary Collection",
+    "set_series": "Other"
+  },
+  {
+    "name": "Dark Dragonite",
+    "number": "5",
+    "rarity": "Rare Holo",
+    "set_name": "Legendary Collection",
+    "set_series": "Other"
+  },
+  {
+    "name": "Dark Persian",
+    "number": "6",
+    "rarity": "Rare Holo",
+    "set_name": "Legendary Collection",
+    "set_series": "Other"
+  },
+  {
+    "name": "Dark Raichu",
+    "number": "7",
+    "rarity": "Rare Holo",
+    "set_name": "Legendary Collection",
+    "set_series": "Other"
+  },
+  {
+    "name": "Dark Slowbro",
+    "number": "8",
+    "rarity": "Rare Holo",
+    "set_name": "Legendary Collection",
+    "set_series": "Other"
+  },
+  {
+    "name": "Dark Vaporeon",
+    "number": "9",
+    "rarity": "Rare Holo",
+    "set_name": "Legendary Collection",
+    "set_series": "Other"
+  },
+  {
+    "name": "Flareon",
+    "number": "10",
+    "rarity": "Rare Holo",
+    "set_name": "Legendary Collection",
+    "set_series": "Other"
+  },
+  {
+    "name": "Gengar",
+    "number": "11",
+    "rarity": "Rare Holo",
+    "set_name": "Legendary Collection",
+    "set_series": "Other"
+  },
+  {
+    "name": "Gyarados",
+    "number": "12",
+    "rarity": "Rare Holo",
+    "set_name": "Legendary Collection",
+    "set_series": "Other"
+  },
+  {
+    "name": "Hitmonlee",
+    "number": "13",
+    "rarity": "Rare Holo",
+    "set_name": "Legendary Collection",
+    "set_series": "Other"
+  },
+  {
+    "name": "Jolteon",
+    "number": "14",
+    "rarity": "Rare Holo",
+    "set_name": "Legendary Collection",
+    "set_series": "Other"
+  },
+  {
+    "name": "Machamp",
+    "number": "15",
+    "rarity": "Rare Holo",
+    "set_name": "Legendary Collection",
+    "set_series": "Other"
+  },
+  {
+    "name": "Muk",
+    "number": "16",
+    "rarity": "Rare Holo",
+    "set_name": "Legendary Collection",
+    "set_series": "Other"
+  },
+  {
+    "name": "Ninetales",
+    "number": "17",
+    "rarity": "Rare Holo",
+    "set_name": "Legendary Collection",
+    "set_series": "Other"
+  },
+  {
+    "name": "Venusaur",
+    "number": "18",
+    "rarity": "Rare Holo",
+    "set_name": "Legendary Collection",
+    "set_series": "Other"
+  },
+  {
+    "name": "Zapdos",
+    "number": "19",
+    "rarity": "Rare Holo",
+    "set_name": "Legendary Collection",
+    "set_series": "Other"
+  },
+  {
+    "name": "Beedrill",
+    "number": "20",
+    "rarity": "Rare",
+    "set_name": "Legendary Collection",
+    "set_series": "Other"
+  },
+  {
+    "name": "Butterfree",
+    "number": "21",
+    "rarity": "Rare",
+    "set_name": "Legendary Collection",
+    "set_series": "Other"
+  },
+  {
+    "name": "Electrode",
+    "number": "22",
+    "rarity": "Rare",
+    "set_name": "Legendary Collection",
+    "set_series": "Other"
+  },
+  {
+    "name": "Exeggutor",
+    "number": "23",
+    "rarity": "Rare",
+    "set_name": "Legendary Collection",
+    "set_series": "Other"
+  },
+  {
+    "name": "Golem",
+    "number": "24",
+    "rarity": "Rare",
+    "set_name": "Legendary Collection",
+    "set_series": "Other"
+  },
+  {
+    "name": "Hypno",
+    "number": "25",
+    "rarity": "Rare",
+    "set_name": "Legendary Collection",
+    "set_series": "Other"
+  },
+  {
+    "name": "Jynx",
+    "number": "26",
+    "rarity": "Rare",
+    "set_name": "Legendary Collection",
+    "set_series": "Other"
+  },
+  {
+    "name": "Kabutops",
+    "number": "27",
+    "rarity": "Rare",
+    "set_name": "Legendary Collection",
+    "set_series": "Other"
+  },
+  {
+    "name": "Magneton",
+    "number": "28",
+    "rarity": "Rare",
+    "set_name": "Legendary Collection",
+    "set_series": "Other"
+  },
+  {
+    "name": "Mewtwo",
+    "number": "29",
+    "rarity": "Rare",
+    "set_name": "Legendary Collection",
+    "set_series": "Other"
+  },
+  {
+    "name": "Moltres",
+    "number": "30",
+    "rarity": "Rare",
+    "set_name": "Legendary Collection",
+    "set_series": "Other"
+  },
+  {
+    "name": "Nidoking",
+    "number": "31",
+    "rarity": "Rare",
+    "set_name": "Legendary Collection",
+    "set_series": "Other"
+  },
+  {
+    "name": "Nidoqueen",
+    "number": "32",
+    "rarity": "Rare",
+    "set_name": "Legendary Collection",
+    "set_series": "Other"
+  },
+  {
+    "name": "Pidgeot",
+    "number": "33",
+    "rarity": "Rare",
+    "set_name": "Legendary Collection",
+    "set_series": "Other"
+  },
+  {
+    "name": "Pidgeotto",
+    "number": "34",
+    "rarity": "Rare",
+    "set_name": "Legendary Collection",
+    "set_series": "Other"
+  },
+  {
+    "name": "Rhydon",
+    "number": "35",
+    "rarity": "Rare",
+    "set_name": "Legendary Collection",
+    "set_series": "Other"
+  },
+  {
+    "name": "Arcanine",
+    "number": "36",
+    "rarity": "Uncommon",
+    "set_name": "Legendary Collection",
+    "set_series": "Other"
+  },
+  {
+    "name": "Charmeleon",
+    "number": "37",
+    "rarity": "Uncommon",
+    "set_name": "Legendary Collection",
+    "set_series": "Other"
+  },
+  {
+    "name": "Dark Dragonair",
+    "number": "38",
+    "rarity": "Uncommon",
+    "set_name": "Legendary Collection",
+    "set_series": "Other"
+  },
+  {
+    "name": "Dark Wartortle",
+    "number": "39",
+    "rarity": "Uncommon",
+    "set_name": "Legendary Collection",
+    "set_series": "Other"
+  },
+  {
+    "name": "Dewgong",
+    "number": "40",
+    "rarity": "Uncommon",
+    "set_name": "Legendary Collection",
+    "set_series": "Other"
+  },
+  {
+    "name": "Dodrio",
+    "number": "41",
+    "rarity": "Uncommon",
+    "set_name": "Legendary Collection",
+    "set_series": "Other"
+  },
+  {
+    "name": "Fearow",
+    "number": "42",
+    "rarity": "Uncommon",
+    "set_name": "Legendary Collection",
+    "set_series": "Other"
+  },
+  {
+    "name": "Golduck",
+    "number": "43",
+    "rarity": "Uncommon",
+    "set_name": "Legendary Collection",
+    "set_series": "Other"
+  },
+  {
+    "name": "Graveler",
+    "number": "44",
+    "rarity": "Uncommon",
+    "set_name": "Legendary Collection",
+    "set_series": "Other"
+  },
+  {
+    "name": "Growlithe",
+    "number": "45",
+    "rarity": "Uncommon",
+    "set_name": "Legendary Collection",
+    "set_series": "Other"
+  },
+  {
+    "name": "Haunter",
+    "number": "46",
+    "rarity": "Uncommon",
+    "set_name": "Legendary Collection",
+    "set_series": "Other"
+  },
+  {
+    "name": "Ivysaur",
+    "number": "47",
+    "rarity": "Uncommon",
+    "set_name": "Legendary Collection",
+    "set_series": "Other"
+  },
+  {
+    "name": "Kabuto",
+    "number": "48",
+    "rarity": "Uncommon",
+    "set_name": "Legendary Collection",
+    "set_series": "Other"
+  },
+  {
+    "name": "Kadabra",
+    "number": "49",
+    "rarity": "Uncommon",
+    "set_name": "Legendary Collection",
+    "set_series": "Other"
+  },
+  {
+    "name": "Kakuna",
+    "number": "50",
+    "rarity": "Uncommon",
+    "set_name": "Legendary Collection",
+    "set_series": "Other"
+  },
+  {
+    "name": "Machoke",
+    "number": "51",
+    "rarity": "Uncommon",
+    "set_name": "Legendary Collection",
+    "set_series": "Other"
+  },
+  {
+    "name": "Magikarp",
+    "number": "52",
+    "rarity": "Uncommon",
+    "set_name": "Legendary Collection",
+    "set_series": "Other"
+  },
+  {
+    "name": "Meowth",
+    "number": "53",
+    "rarity": "Uncommon",
+    "set_name": "Legendary Collection",
+    "set_series": "Other"
+  },
+  {
+    "name": "Metapod",
+    "number": "54",
+    "rarity": "Uncommon",
+    "set_name": "Legendary Collection",
+    "set_series": "Other"
+  },
+  {
+    "name": "Nidorina",
+    "number": "55",
+    "rarity": "Uncommon",
+    "set_name": "Legendary Collection",
+    "set_series": "Other"
+  },
+  {
+    "name": "Nidorino",
+    "number": "56",
+    "rarity": "Uncommon",
+    "set_name": "Legendary Collection",
+    "set_series": "Other"
+  },
+  {
+    "name": "Omanyte",
+    "number": "57",
+    "rarity": "Uncommon",
+    "set_name": "Legendary Collection",
+    "set_series": "Other"
+  },
+  {
+    "name": "Omastar",
+    "number": "58",
+    "rarity": "Uncommon",
+    "set_name": "Legendary Collection",
+    "set_series": "Other"
+  },
+  {
+    "name": "Primeape",
+    "number": "59",
+    "rarity": "Uncommon",
+    "set_name": "Legendary Collection",
+    "set_series": "Other"
+  },
+  {
+    "name": "Rapidash",
+    "number": "60",
+    "rarity": "Uncommon",
+    "set_name": "Legendary Collection",
+    "set_series": "Other"
+  },
+  {
+    "name": "Raticate",
+    "number": "61",
+    "rarity": "Uncommon",
+    "set_name": "Legendary Collection",
+    "set_series": "Other"
+  },
+  {
+    "name": "Sandslash",
+    "number": "62",
+    "rarity": "Uncommon",
+    "set_name": "Legendary Collection",
+    "set_series": "Other"
+  },
+  {
+    "name": "Seadra",
+    "number": "63",
+    "rarity": "Uncommon",
+    "set_name": "Legendary Collection",
+    "set_series": "Other"
+  },
+  {
+    "name": "Snorlax",
+    "number": "64",
+    "rarity": "Uncommon",
+    "set_name": "Legendary Collection",
+    "set_series": "Other"
+  },
+  {
+    "name": "Tauros",
+    "number": "65",
+    "rarity": "Uncommon",
+    "set_name": "Legendary Collection",
+    "set_series": "Other"
+  },
+  {
+    "name": "Tentacruel",
+    "number": "66",
+    "rarity": "Uncommon",
+    "set_name": "Legendary Collection",
+    "set_series": "Other"
+  },
+  {
+    "name": "Abra",
+    "number": "67",
+    "rarity": "Common",
+    "set_name": "Legendary Collection",
+    "set_series": "Other"
+  },
+  {
+    "name": "Bulbasaur",
+    "number": "68",
+    "rarity": "Common",
+    "set_name": "Legendary Collection",
+    "set_series": "Other"
+  },
+  {
+    "name": "Caterpie",
+    "number": "69",
+    "rarity": "Common",
+    "set_name": "Legendary Collection",
+    "set_series": "Other"
+  },
+  {
+    "name": "Charmander",
+    "number": "70",
+    "rarity": "Common",
+    "set_name": "Legendary Collection",
+    "set_series": "Other"
+  },
+  {
+    "name": "Doduo",
+    "number": "71",
+    "rarity": "Common",
+    "set_name": "Legendary Collection",
+    "set_series": "Other"
+  },
+  {
+    "name": "Dratini",
+    "number": "72",
+    "rarity": "Common",
+    "set_name": "Legendary Collection",
+    "set_series": "Other"
+  },
+  {
+    "name": "Drowzee",
+    "number": "73",
+    "rarity": "Common",
+    "set_name": "Legendary Collection",
+    "set_series": "Other"
+  },
+  {
+    "name": "Eevee",
+    "number": "74",
+    "rarity": "Common",
+    "set_name": "Legendary Collection",
+    "set_series": "Other"
+  },
+  {
+    "name": "Exeggcute",
+    "number": "75",
+    "rarity": "Common",
+    "set_name": "Legendary Collection",
+    "set_series": "Other"
+  },
+  {
+    "name": "Gastly",
+    "number": "76",
+    "rarity": "Common",
+    "set_name": "Legendary Collection",
+    "set_series": "Other"
+  },
+  {
+    "name": "Geodude",
+    "number": "77",
+    "rarity": "Common",
+    "set_name": "Legendary Collection",
+    "set_series": "Other"
+  },
+  {
+    "name": "Grimer",
+    "number": "78",
+    "rarity": "Common",
+    "set_name": "Legendary Collection",
+    "set_series": "Other"
+  },
+  {
+    "name": "Machop",
+    "number": "79",
+    "rarity": "Common",
+    "set_name": "Legendary Collection",
+    "set_series": "Other"
+  },
+  {
+    "name": "Magnemite",
+    "number": "80",
+    "rarity": "Common",
+    "set_name": "Legendary Collection",
+    "set_series": "Other"
+  },
+  {
+    "name": "Mankey",
+    "number": "81",
+    "rarity": "Common",
+    "set_name": "Legendary Collection",
+    "set_series": "Other"
+  },
+  {
+    "name": "Nidoran \u2640",
+    "number": "82",
+    "rarity": "Common",
+    "set_name": "Legendary Collection",
+    "set_series": "Other"
+  },
+  {
+    "name": "Nidoran \u2642",
+    "number": "83",
+    "rarity": "Common",
+    "set_name": "Legendary Collection",
+    "set_series": "Other"
+  },
+  {
+    "name": "Onix",
+    "number": "84",
+    "rarity": "Common",
+    "set_name": "Legendary Collection",
+    "set_series": "Other"
+  },
+  {
+    "name": "Pidgey",
+    "number": "85",
+    "rarity": "Common",
+    "set_name": "Legendary Collection",
+    "set_series": "Other"
+  },
+  {
+    "name": "Pikachu",
+    "number": "86",
+    "rarity": "Common",
+    "set_name": "Legendary Collection",
+    "set_series": "Other"
+  },
+  {
+    "name": "Ponyta",
+    "number": "87",
+    "rarity": "Common",
+    "set_name": "Legendary Collection",
+    "set_series": "Other"
+  },
+  {
+    "name": "Psyduck",
+    "number": "88",
+    "rarity": "Common",
+    "set_name": "Legendary Collection",
+    "set_series": "Other"
+  },
+  {
+    "name": "Rattata",
+    "number": "89",
+    "rarity": "Common",
+    "set_name": "Legendary Collection",
+    "set_series": "Other"
+  },
+  {
+    "name": "Rhyhorn",
+    "number": "90",
+    "rarity": "Common",
+    "set_name": "Legendary Collection",
+    "set_series": "Other"
+  },
+  {
+    "name": "Sandshrew",
+    "number": "91",
+    "rarity": "Common",
+    "set_name": "Legendary Collection",
+    "set_series": "Other"
+  },
+  {
+    "name": "Seel",
+    "number": "92",
+    "rarity": "Common",
+    "set_name": "Legendary Collection",
+    "set_series": "Other"
+  },
+  {
+    "name": "Slowpoke",
+    "number": "93",
+    "rarity": "Common",
+    "set_name": "Legendary Collection",
+    "set_series": "Other"
+  },
+  {
+    "name": "Spearow",
+    "number": "94",
+    "rarity": "Common",
+    "set_name": "Legendary Collection",
+    "set_series": "Other"
+  },
+  {
+    "name": "Squirtle",
+    "number": "95",
+    "rarity": "Common",
+    "set_name": "Legendary Collection",
+    "set_series": "Other"
+  },
+  {
+    "name": "Tentacool",
+    "number": "96",
+    "rarity": "Common",
+    "set_name": "Legendary Collection",
+    "set_series": "Other"
+  },
+  {
+    "name": "Voltorb",
+    "number": "97",
+    "rarity": "Common",
+    "set_name": "Legendary Collection",
+    "set_series": "Other"
+  },
+  {
+    "name": "Vulpix",
+    "number": "98",
+    "rarity": "Common",
+    "set_name": "Legendary Collection",
+    "set_series": "Other"
+  },
+  {
+    "name": "Weedle",
+    "number": "99",
+    "rarity": "Common",
+    "set_name": "Legendary Collection",
+    "set_series": "Other"
+  },
+  {
+    "name": "Full Heal Energy",
+    "number": "100",
+    "rarity": "Uncommon",
+    "set_name": "Legendary Collection",
+    "set_series": "Other"
+  },
+  {
+    "name": "Potion Energy",
+    "number": "101",
+    "rarity": "Uncommon",
+    "set_name": "Legendary Collection",
+    "set_series": "Other"
+  },
+  {
+    "name": "Pok\u00e9mon Breeder",
+    "number": "102",
+    "rarity": "Rare",
+    "set_name": "Legendary Collection",
+    "set_series": "Other"
+  },
+  {
+    "name": "Pok\u00e9mon Trader",
+    "number": "103",
+    "rarity": "Rare",
+    "set_name": "Legendary Collection",
+    "set_series": "Other"
+  },
+  {
+    "name": "Scoop Up",
+    "number": "104",
+    "rarity": "Rare",
+    "set_name": "Legendary Collection",
+    "set_series": "Other"
+  },
+  {
+    "name": "The Boss's Way",
+    "number": "105",
+    "rarity": "Uncommon",
+    "set_name": "Legendary Collection",
+    "set_series": "Other"
+  },
+  {
+    "name": "Challenge!",
+    "number": "106",
+    "rarity": "Uncommon",
+    "set_name": "Legendary Collection",
+    "set_series": "Other"
+  },
+  {
+    "name": "Energy Retrieval",
+    "number": "107",
+    "rarity": "Uncommon",
+    "set_name": "Legendary Collection",
+    "set_series": "Other"
+  },
+  {
+    "name": "Bill",
+    "number": "108",
+    "rarity": "Common",
+    "set_name": "Legendary Collection",
+    "set_series": "Other"
+  },
+  {
+    "name": "Mysterious Fossil",
+    "number": "109",
+    "rarity": "Common",
+    "set_name": "Legendary Collection",
+    "set_series": "Other"
+  },
+  {
+    "name": "Potion",
+    "number": "110",
+    "rarity": "Common",
+    "set_name": "Legendary Collection",
+    "set_series": "Other"
+  }
+]

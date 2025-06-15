@@ -1,0 +1,674 @@
+[
+  {
+    "name": "Jirachi",
+    "number": "1",
+    "rarity": "Rare Holo",
+    "set_name": "HS\u2014Unleashed",
+    "set_series": "HeartGold & SoulSilver"
+  },
+  {
+    "name": "Magmortar",
+    "number": "2",
+    "rarity": "Rare Holo",
+    "set_name": "HS\u2014Unleashed",
+    "set_series": "HeartGold & SoulSilver"
+  },
+  {
+    "name": "Manaphy",
+    "number": "3",
+    "rarity": "Rare Holo",
+    "set_name": "HS\u2014Unleashed",
+    "set_series": "HeartGold & SoulSilver"
+  },
+  {
+    "name": "Metagross",
+    "number": "4",
+    "rarity": "Rare Holo",
+    "set_name": "HS\u2014Unleashed",
+    "set_series": "HeartGold & SoulSilver"
+  },
+  {
+    "name": "Mismagius",
+    "number": "5",
+    "rarity": "Rare Holo",
+    "set_name": "HS\u2014Unleashed",
+    "set_series": "HeartGold & SoulSilver"
+  },
+  {
+    "name": "Octillery",
+    "number": "6",
+    "rarity": "Rare Holo",
+    "set_name": "HS\u2014Unleashed",
+    "set_series": "HeartGold & SoulSilver"
+  },
+  {
+    "name": "Politoed",
+    "number": "7",
+    "rarity": "Rare Holo",
+    "set_name": "HS\u2014Unleashed",
+    "set_series": "HeartGold & SoulSilver"
+  },
+  {
+    "name": "Shaymin",
+    "number": "8",
+    "rarity": "Rare Holo",
+    "set_name": "HS\u2014Unleashed",
+    "set_series": "HeartGold & SoulSilver"
+  },
+  {
+    "name": "Sudowoodo",
+    "number": "9",
+    "rarity": "Rare Holo",
+    "set_name": "HS\u2014Unleashed",
+    "set_series": "HeartGold & SoulSilver"
+  },
+  {
+    "name": "Torterra",
+    "number": "10",
+    "rarity": "Rare Holo",
+    "set_name": "HS\u2014Unleashed",
+    "set_series": "HeartGold & SoulSilver"
+  },
+  {
+    "name": "Xatu",
+    "number": "11",
+    "rarity": "Rare Holo",
+    "set_name": "HS\u2014Unleashed",
+    "set_series": "HeartGold & SoulSilver"
+  },
+  {
+    "name": "Beedrill",
+    "number": "12",
+    "rarity": "Rare",
+    "set_name": "HS\u2014Unleashed",
+    "set_series": "HeartGold & SoulSilver"
+  },
+  {
+    "name": "Blastoise",
+    "number": "13",
+    "rarity": "Rare",
+    "set_name": "HS\u2014Unleashed",
+    "set_series": "HeartGold & SoulSilver"
+  },
+  {
+    "name": "Crobat",
+    "number": "14",
+    "rarity": "Rare",
+    "set_name": "HS\u2014Unleashed",
+    "set_series": "HeartGold & SoulSilver"
+  },
+  {
+    "name": "Fearow",
+    "number": "15",
+    "rarity": "Rare",
+    "set_name": "HS\u2014Unleashed",
+    "set_series": "HeartGold & SoulSilver"
+  },
+  {
+    "name": "Floatzel",
+    "number": "16",
+    "rarity": "Rare",
+    "set_name": "HS\u2014Unleashed",
+    "set_series": "HeartGold & SoulSilver"
+  },
+  {
+    "name": "Kingdra",
+    "number": "17",
+    "rarity": "Rare",
+    "set_name": "HS\u2014Unleashed",
+    "set_series": "HeartGold & SoulSilver"
+  },
+  {
+    "name": "Lanturn",
+    "number": "18",
+    "rarity": "Rare",
+    "set_name": "HS\u2014Unleashed",
+    "set_series": "HeartGold & SoulSilver"
+  },
+  {
+    "name": "Lucario",
+    "number": "19",
+    "rarity": "Rare",
+    "set_name": "HS\u2014Unleashed",
+    "set_series": "HeartGold & SoulSilver"
+  },
+  {
+    "name": "Ninetales",
+    "number": "20",
+    "rarity": "Rare",
+    "set_name": "HS\u2014Unleashed",
+    "set_series": "HeartGold & SoulSilver"
+  },
+  {
+    "name": "Poliwrath",
+    "number": "21",
+    "rarity": "Rare",
+    "set_name": "HS\u2014Unleashed",
+    "set_series": "HeartGold & SoulSilver"
+  },
+  {
+    "name": "Primeape",
+    "number": "22",
+    "rarity": "Rare",
+    "set_name": "HS\u2014Unleashed",
+    "set_series": "HeartGold & SoulSilver"
+  },
+  {
+    "name": "Roserade",
+    "number": "23",
+    "rarity": "Rare",
+    "set_name": "HS\u2014Unleashed",
+    "set_series": "HeartGold & SoulSilver"
+  },
+  {
+    "name": "Steelix",
+    "number": "24",
+    "rarity": "Rare",
+    "set_name": "HS\u2014Unleashed",
+    "set_series": "HeartGold & SoulSilver"
+  },
+  {
+    "name": "Torkoal",
+    "number": "25",
+    "rarity": "Rare",
+    "set_name": "HS\u2014Unleashed",
+    "set_series": "HeartGold & SoulSilver"
+  },
+  {
+    "name": "Tyranitar",
+    "number": "26",
+    "rarity": "Rare",
+    "set_name": "HS\u2014Unleashed",
+    "set_series": "HeartGold & SoulSilver"
+  },
+  {
+    "name": "Ursaring",
+    "number": "27",
+    "rarity": "Rare",
+    "set_name": "HS\u2014Unleashed",
+    "set_series": "HeartGold & SoulSilver"
+  },
+  {
+    "name": "Cherrim",
+    "number": "28",
+    "rarity": "Uncommon",
+    "set_name": "HS\u2014Unleashed",
+    "set_series": "HeartGold & SoulSilver"
+  },
+  {
+    "name": "Dunsparce",
+    "number": "29",
+    "rarity": "Uncommon",
+    "set_name": "HS\u2014Unleashed",
+    "set_series": "HeartGold & SoulSilver"
+  },
+  {
+    "name": "Golbat",
+    "number": "30",
+    "rarity": "Uncommon",
+    "set_name": "HS\u2014Unleashed",
+    "set_series": "HeartGold & SoulSilver"
+  },
+  {
+    "name": "Grotle",
+    "number": "31",
+    "rarity": "Uncommon",
+    "set_name": "HS\u2014Unleashed",
+    "set_series": "HeartGold & SoulSilver"
+  },
+  {
+    "name": "Kakuna",
+    "number": "32",
+    "rarity": "Uncommon",
+    "set_name": "HS\u2014Unleashed",
+    "set_series": "HeartGold & SoulSilver"
+  },
+  {
+    "name": "Metang",
+    "number": "33",
+    "rarity": "Uncommon",
+    "set_name": "HS\u2014Unleashed",
+    "set_series": "HeartGold & SoulSilver"
+  },
+  {
+    "name": "Minun",
+    "number": "34",
+    "rarity": "Uncommon",
+    "set_name": "HS\u2014Unleashed",
+    "set_series": "HeartGold & SoulSilver"
+  },
+  {
+    "name": "Numel",
+    "number": "35",
+    "rarity": "Uncommon",
+    "set_name": "HS\u2014Unleashed",
+    "set_series": "HeartGold & SoulSilver"
+  },
+  {
+    "name": "Plusle",
+    "number": "36",
+    "rarity": "Uncommon",
+    "set_name": "HS\u2014Unleashed",
+    "set_series": "HeartGold & SoulSilver"
+  },
+  {
+    "name": "Poliwhirl",
+    "number": "37",
+    "rarity": "Uncommon",
+    "set_name": "HS\u2014Unleashed",
+    "set_series": "HeartGold & SoulSilver"
+  },
+  {
+    "name": "Pupitar",
+    "number": "38",
+    "rarity": "Uncommon",
+    "set_name": "HS\u2014Unleashed",
+    "set_series": "HeartGold & SoulSilver"
+  },
+  {
+    "name": "Pupitar",
+    "number": "39",
+    "rarity": "Uncommon",
+    "set_name": "HS\u2014Unleashed",
+    "set_series": "HeartGold & SoulSilver"
+  },
+  {
+    "name": "Seadra",
+    "number": "40",
+    "rarity": "Uncommon",
+    "set_name": "HS\u2014Unleashed",
+    "set_series": "HeartGold & SoulSilver"
+  },
+  {
+    "name": "Tauros",
+    "number": "41",
+    "rarity": "Uncommon",
+    "set_name": "HS\u2014Unleashed",
+    "set_series": "HeartGold & SoulSilver"
+  },
+  {
+    "name": "Wartortle",
+    "number": "42",
+    "rarity": "Uncommon",
+    "set_name": "HS\u2014Unleashed",
+    "set_series": "HeartGold & SoulSilver"
+  },
+  {
+    "name": "Aipom",
+    "number": "43",
+    "rarity": "Common",
+    "set_name": "HS\u2014Unleashed",
+    "set_series": "HeartGold & SoulSilver"
+  },
+  {
+    "name": "Beldum",
+    "number": "44",
+    "rarity": "Common",
+    "set_name": "HS\u2014Unleashed",
+    "set_series": "HeartGold & SoulSilver"
+  },
+  {
+    "name": "Buizel",
+    "number": "45",
+    "rarity": "Common",
+    "set_name": "HS\u2014Unleashed",
+    "set_series": "HeartGold & SoulSilver"
+  },
+  {
+    "name": "Carnivine",
+    "number": "46",
+    "rarity": "Common",
+    "set_name": "HS\u2014Unleashed",
+    "set_series": "HeartGold & SoulSilver"
+  },
+  {
+    "name": "Cherubi",
+    "number": "47",
+    "rarity": "Common",
+    "set_name": "HS\u2014Unleashed",
+    "set_series": "HeartGold & SoulSilver"
+  },
+  {
+    "name": "Chinchou",
+    "number": "48",
+    "rarity": "Common",
+    "set_name": "HS\u2014Unleashed",
+    "set_series": "HeartGold & SoulSilver"
+  },
+  {
+    "name": "Horsea",
+    "number": "49",
+    "rarity": "Common",
+    "set_name": "HS\u2014Unleashed",
+    "set_series": "HeartGold & SoulSilver"
+  },
+  {
+    "name": "Larvitar",
+    "number": "50",
+    "rarity": "Common",
+    "set_name": "HS\u2014Unleashed",
+    "set_series": "HeartGold & SoulSilver"
+  },
+  {
+    "name": "Larvitar",
+    "number": "51",
+    "rarity": "Common",
+    "set_name": "HS\u2014Unleashed",
+    "set_series": "HeartGold & SoulSilver"
+  },
+  {
+    "name": "Magmar",
+    "number": "52",
+    "rarity": "Common",
+    "set_name": "HS\u2014Unleashed",
+    "set_series": "HeartGold & SoulSilver"
+  },
+  {
+    "name": "Mankey",
+    "number": "53",
+    "rarity": "Common",
+    "set_name": "HS\u2014Unleashed",
+    "set_series": "HeartGold & SoulSilver"
+  },
+  {
+    "name": "Misdreavus",
+    "number": "54",
+    "rarity": "Common",
+    "set_name": "HS\u2014Unleashed",
+    "set_series": "HeartGold & SoulSilver"
+  },
+  {
+    "name": "Natu",
+    "number": "55",
+    "rarity": "Common",
+    "set_name": "HS\u2014Unleashed",
+    "set_series": "HeartGold & SoulSilver"
+  },
+  {
+    "name": "Onix",
+    "number": "56",
+    "rarity": "Common",
+    "set_name": "HS\u2014Unleashed",
+    "set_series": "HeartGold & SoulSilver"
+  },
+  {
+    "name": "Onix",
+    "number": "57",
+    "rarity": "Common",
+    "set_name": "HS\u2014Unleashed",
+    "set_series": "HeartGold & SoulSilver"
+  },
+  {
+    "name": "Poliwag",
+    "number": "58",
+    "rarity": "Common",
+    "set_name": "HS\u2014Unleashed",
+    "set_series": "HeartGold & SoulSilver"
+  },
+  {
+    "name": "Remoraid",
+    "number": "59",
+    "rarity": "Common",
+    "set_name": "HS\u2014Unleashed",
+    "set_series": "HeartGold & SoulSilver"
+  },
+  {
+    "name": "Riolu",
+    "number": "60",
+    "rarity": "Common",
+    "set_name": "HS\u2014Unleashed",
+    "set_series": "HeartGold & SoulSilver"
+  },
+  {
+    "name": "Roselia",
+    "number": "61",
+    "rarity": "Common",
+    "set_name": "HS\u2014Unleashed",
+    "set_series": "HeartGold & SoulSilver"
+  },
+  {
+    "name": "Spearow",
+    "number": "62",
+    "rarity": "Common",
+    "set_name": "HS\u2014Unleashed",
+    "set_series": "HeartGold & SoulSilver"
+  },
+  {
+    "name": "Squirtle",
+    "number": "63",
+    "rarity": "Common",
+    "set_name": "HS\u2014Unleashed",
+    "set_series": "HeartGold & SoulSilver"
+  },
+  {
+    "name": "Stantler",
+    "number": "64",
+    "rarity": "Common",
+    "set_name": "HS\u2014Unleashed",
+    "set_series": "HeartGold & SoulSilver"
+  },
+  {
+    "name": "Teddiursa",
+    "number": "65",
+    "rarity": "Common",
+    "set_name": "HS\u2014Unleashed",
+    "set_series": "HeartGold & SoulSilver"
+  },
+  {
+    "name": "Tropius",
+    "number": "66",
+    "rarity": "Common",
+    "set_name": "HS\u2014Unleashed",
+    "set_series": "HeartGold & SoulSilver"
+  },
+  {
+    "name": "Turtwig",
+    "number": "67",
+    "rarity": "Common",
+    "set_name": "HS\u2014Unleashed",
+    "set_series": "HeartGold & SoulSilver"
+  },
+  {
+    "name": "Vulpix",
+    "number": "68",
+    "rarity": "Common",
+    "set_name": "HS\u2014Unleashed",
+    "set_series": "HeartGold & SoulSilver"
+  },
+  {
+    "name": "Weedle",
+    "number": "69",
+    "rarity": "Common",
+    "set_name": "HS\u2014Unleashed",
+    "set_series": "HeartGold & SoulSilver"
+  },
+  {
+    "name": "Zubat",
+    "number": "70",
+    "rarity": "Common",
+    "set_name": "HS\u2014Unleashed",
+    "set_series": "HeartGold & SoulSilver"
+  },
+  {
+    "name": "Cheerleader's Cheer",
+    "number": "71",
+    "rarity": "Uncommon",
+    "set_name": "HS\u2014Unleashed",
+    "set_series": "HeartGold & SoulSilver"
+  },
+  {
+    "name": "Dual Ball",
+    "number": "72",
+    "rarity": "Uncommon",
+    "set_name": "HS\u2014Unleashed",
+    "set_series": "HeartGold & SoulSilver"
+  },
+  {
+    "name": "Emcee's Chatter",
+    "number": "73",
+    "rarity": "Uncommon",
+    "set_name": "HS\u2014Unleashed",
+    "set_series": "HeartGold & SoulSilver"
+  },
+  {
+    "name": "Energy Returner",
+    "number": "74",
+    "rarity": "Uncommon",
+    "set_name": "HS\u2014Unleashed",
+    "set_series": "HeartGold & SoulSilver"
+  },
+  {
+    "name": "Engineer's Adjustments",
+    "number": "75",
+    "rarity": "Uncommon",
+    "set_name": "HS\u2014Unleashed",
+    "set_series": "HeartGold & SoulSilver"
+  },
+  {
+    "name": "Good Rod",
+    "number": "76",
+    "rarity": "Uncommon",
+    "set_name": "HS\u2014Unleashed",
+    "set_series": "HeartGold & SoulSilver"
+  },
+  {
+    "name": "Interviewer's Questions",
+    "number": "77",
+    "rarity": "Uncommon",
+    "set_name": "HS\u2014Unleashed",
+    "set_series": "HeartGold & SoulSilver"
+  },
+  {
+    "name": "Judge",
+    "number": "78",
+    "rarity": "Uncommon",
+    "set_name": "HS\u2014Unleashed",
+    "set_series": "HeartGold & SoulSilver"
+  },
+  {
+    "name": "Life Herb",
+    "number": "79",
+    "rarity": "Uncommon",
+    "set_name": "HS\u2014Unleashed",
+    "set_series": "HeartGold & SoulSilver"
+  },
+  {
+    "name": "PlusPower",
+    "number": "80",
+    "rarity": "Uncommon",
+    "set_name": "HS\u2014Unleashed",
+    "set_series": "HeartGold & SoulSilver"
+  },
+  {
+    "name": "Pok\u00e9mon Circulator",
+    "number": "81",
+    "rarity": "Uncommon",
+    "set_name": "HS\u2014Unleashed",
+    "set_series": "HeartGold & SoulSilver"
+  },
+  {
+    "name": "Rare Candy",
+    "number": "82",
+    "rarity": "Uncommon",
+    "set_name": "HS\u2014Unleashed",
+    "set_series": "HeartGold & SoulSilver"
+  },
+  {
+    "name": "Super Scoop Up",
+    "number": "83",
+    "rarity": "Uncommon",
+    "set_name": "HS\u2014Unleashed",
+    "set_series": "HeartGold & SoulSilver"
+  },
+  {
+    "name": "Crobat",
+    "number": "84",
+    "rarity": "Rare Prime",
+    "set_name": "HS\u2014Unleashed",
+    "set_series": "HeartGold & SoulSilver"
+  },
+  {
+    "name": "Kingdra",
+    "number": "85",
+    "rarity": "Rare Prime",
+    "set_name": "HS\u2014Unleashed",
+    "set_series": "HeartGold & SoulSilver"
+  },
+  {
+    "name": "Lanturn",
+    "number": "86",
+    "rarity": "Rare Prime",
+    "set_name": "HS\u2014Unleashed",
+    "set_series": "HeartGold & SoulSilver"
+  },
+  {
+    "name": "Steelix",
+    "number": "87",
+    "rarity": "Rare Prime",
+    "set_name": "HS\u2014Unleashed",
+    "set_series": "HeartGold & SoulSilver"
+  },
+  {
+    "name": "Tyranitar",
+    "number": "88",
+    "rarity": "Rare Prime",
+    "set_name": "HS\u2014Unleashed",
+    "set_series": "HeartGold & SoulSilver"
+  },
+  {
+    "name": "Ursaring",
+    "number": "89",
+    "rarity": "Rare Prime",
+    "set_name": "HS\u2014Unleashed",
+    "set_series": "HeartGold & SoulSilver"
+  },
+  {
+    "name": "Entei & Raikou LEGEND",
+    "number": "90",
+    "rarity": "LEGEND",
+    "set_name": "HS\u2014Unleashed",
+    "set_series": "HeartGold & SoulSilver"
+  },
+  {
+    "name": "Entei & Raikou LEGEND",
+    "number": "91",
+    "rarity": "LEGEND",
+    "set_name": "HS\u2014Unleashed",
+    "set_series": "HeartGold & SoulSilver"
+  },
+  {
+    "name": "Raikou & Suicune LEGEND",
+    "number": "92",
+    "rarity": "LEGEND",
+    "set_name": "HS\u2014Unleashed",
+    "set_series": "HeartGold & SoulSilver"
+  },
+  {
+    "name": "Raikou & Suicune LEGEND",
+    "number": "93",
+    "rarity": "LEGEND",
+    "set_name": "HS\u2014Unleashed",
+    "set_series": "HeartGold & SoulSilver"
+  },
+  {
+    "name": "Suicune & Entei LEGEND",
+    "number": "94",
+    "rarity": "LEGEND",
+    "set_name": "HS\u2014Unleashed",
+    "set_series": "HeartGold & SoulSilver"
+  },
+  {
+    "name": "Suicune & Entei LEGEND",
+    "number": "95",
+    "rarity": "LEGEND",
+    "set_name": "HS\u2014Unleashed",
+    "set_series": "HeartGold & SoulSilver"
+  },
+  {
+    "name": "Alph Lithograph",
+    "number": "TWO",
+    "rarity": "Rare Secret",
+    "set_name": "HS\u2014Unleashed",
+    "set_series": "HeartGold & SoulSilver"
+  }
+]

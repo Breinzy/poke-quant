@@ -1,0 +1,884 @@
+[
+  {
+    "name": "Weedle",
+    "number": "1",
+    "rarity": "Common",
+    "set_name": "Crimson Invasion",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Kakuna",
+    "number": "2",
+    "rarity": "Uncommon",
+    "set_name": "Crimson Invasion",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Beedrill",
+    "number": "3",
+    "rarity": "Rare",
+    "set_name": "Crimson Invasion",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Exeggcute",
+    "number": "4",
+    "rarity": "Common",
+    "set_name": "Crimson Invasion",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Cacnea",
+    "number": "5",
+    "rarity": "Common",
+    "set_name": "Crimson Invasion",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Cacturne",
+    "number": "6",
+    "rarity": "Rare",
+    "set_name": "Crimson Invasion",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Karrablast",
+    "number": "7",
+    "rarity": "Common",
+    "set_name": "Crimson Invasion",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Shelmet",
+    "number": "8",
+    "rarity": "Common",
+    "set_name": "Crimson Invasion",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Accelgor",
+    "number": "9",
+    "rarity": "Uncommon",
+    "set_name": "Crimson Invasion",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Skiddo",
+    "number": "10",
+    "rarity": "Common",
+    "set_name": "Crimson Invasion",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Gogoat",
+    "number": "11",
+    "rarity": "Rare Holo",
+    "set_name": "Crimson Invasion",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Alolan Marowak",
+    "number": "12",
+    "rarity": "Rare Holo",
+    "set_name": "Crimson Invasion",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Numel",
+    "number": "13",
+    "rarity": "Common",
+    "set_name": "Crimson Invasion",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Camerupt",
+    "number": "14",
+    "rarity": "Rare",
+    "set_name": "Crimson Invasion",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Staryu",
+    "number": "15",
+    "rarity": "Common",
+    "set_name": "Crimson Invasion",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Starmie",
+    "number": "16",
+    "rarity": "Rare",
+    "set_name": "Crimson Invasion",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Magikarp",
+    "number": "17",
+    "rarity": "Common",
+    "set_name": "Crimson Invasion",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Gyarados-GX",
+    "number": "18",
+    "rarity": "Rare Holo GX",
+    "set_name": "Crimson Invasion",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Swinub",
+    "number": "19",
+    "rarity": "Common",
+    "set_name": "Crimson Invasion",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Piloswine",
+    "number": "20",
+    "rarity": "Uncommon",
+    "set_name": "Crimson Invasion",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Mamoswine",
+    "number": "21",
+    "rarity": "Rare",
+    "set_name": "Crimson Invasion",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Remoraid",
+    "number": "22",
+    "rarity": "Common",
+    "set_name": "Crimson Invasion",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Octillery",
+    "number": "23",
+    "rarity": "Rare",
+    "set_name": "Crimson Invasion",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Corphish",
+    "number": "24",
+    "rarity": "Common",
+    "set_name": "Crimson Invasion",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Crawdaunt",
+    "number": "25",
+    "rarity": "Rare",
+    "set_name": "Crimson Invasion",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Feebas",
+    "number": "26",
+    "rarity": "Common",
+    "set_name": "Crimson Invasion",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Milotic",
+    "number": "27",
+    "rarity": "Rare Holo",
+    "set_name": "Crimson Invasion",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Regice",
+    "number": "28",
+    "rarity": "Rare Holo",
+    "set_name": "Crimson Invasion",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Shellos",
+    "number": "29",
+    "rarity": "Common",
+    "set_name": "Crimson Invasion",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Pikachu",
+    "number": "30",
+    "rarity": "Common",
+    "set_name": "Crimson Invasion",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Alolan Raichu",
+    "number": "31",
+    "rarity": "Rare Holo",
+    "set_name": "Crimson Invasion",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Alolan Geodude",
+    "number": "32",
+    "rarity": "Common",
+    "set_name": "Crimson Invasion",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Alolan Graveler",
+    "number": "33",
+    "rarity": "Uncommon",
+    "set_name": "Crimson Invasion",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Alolan Golem-GX",
+    "number": "34",
+    "rarity": "Rare Holo GX",
+    "set_name": "Crimson Invasion",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Emolga",
+    "number": "35",
+    "rarity": "Uncommon",
+    "set_name": "Crimson Invasion",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Gastly",
+    "number": "36",
+    "rarity": "Common",
+    "set_name": "Crimson Invasion",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Haunter",
+    "number": "37",
+    "rarity": "Uncommon",
+    "set_name": "Crimson Invasion",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Gengar",
+    "number": "38",
+    "rarity": "Rare Holo",
+    "set_name": "Crimson Invasion",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Misdreavus",
+    "number": "39",
+    "rarity": "Common",
+    "set_name": "Crimson Invasion",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Mismagius",
+    "number": "40",
+    "rarity": "Rare",
+    "set_name": "Crimson Invasion",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Spoink",
+    "number": "41",
+    "rarity": "Common",
+    "set_name": "Crimson Invasion",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Grumpig",
+    "number": "42",
+    "rarity": "Uncommon",
+    "set_name": "Crimson Invasion",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Chimecho",
+    "number": "43",
+    "rarity": "Common",
+    "set_name": "Crimson Invasion",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Pumpkaboo",
+    "number": "44",
+    "rarity": "Common",
+    "set_name": "Crimson Invasion",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Gourgeist",
+    "number": "45",
+    "rarity": "Rare",
+    "set_name": "Crimson Invasion",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Salandit",
+    "number": "46",
+    "rarity": "Common",
+    "set_name": "Crimson Invasion",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Salazzle",
+    "number": "47",
+    "rarity": "Rare Holo",
+    "set_name": "Crimson Invasion",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Oranguru",
+    "number": "48",
+    "rarity": "Rare",
+    "set_name": "Crimson Invasion",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Nihilego-GX",
+    "number": "49",
+    "rarity": "Rare Holo GX",
+    "set_name": "Crimson Invasion",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Mankey",
+    "number": "50",
+    "rarity": "Common",
+    "set_name": "Crimson Invasion",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Primeape",
+    "number": "51",
+    "rarity": "Rare",
+    "set_name": "Crimson Invasion",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Cubone",
+    "number": "52",
+    "rarity": "Common",
+    "set_name": "Crimson Invasion",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Regirock",
+    "number": "53",
+    "rarity": "Rare",
+    "set_name": "Crimson Invasion",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Gastrodon",
+    "number": "54",
+    "rarity": "Uncommon",
+    "set_name": "Crimson Invasion",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Stufful",
+    "number": "55",
+    "rarity": "Common",
+    "set_name": "Crimson Invasion",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Bewear",
+    "number": "56",
+    "rarity": "Rare Holo",
+    "set_name": "Crimson Invasion",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Buzzwole-GX",
+    "number": "57",
+    "rarity": "Rare Holo GX",
+    "set_name": "Crimson Invasion",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Houndour",
+    "number": "58",
+    "rarity": "Common",
+    "set_name": "Crimson Invasion",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Houndoom",
+    "number": "59",
+    "rarity": "Rare",
+    "set_name": "Crimson Invasion",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Deino",
+    "number": "60",
+    "rarity": "Common",
+    "set_name": "Crimson Invasion",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Zweilous",
+    "number": "61",
+    "rarity": "Uncommon",
+    "set_name": "Crimson Invasion",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Hydreigon",
+    "number": "62",
+    "rarity": "Rare",
+    "set_name": "Crimson Invasion",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Guzzlord-GX",
+    "number": "63",
+    "rarity": "Rare Holo GX",
+    "set_name": "Crimson Invasion",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Guzzlord-GX",
+    "number": "63a",
+    "rarity": "Rare Holo GX",
+    "set_name": "Crimson Invasion",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Mawile",
+    "number": "64",
+    "rarity": "Uncommon",
+    "set_name": "Crimson Invasion",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Aron",
+    "number": "65",
+    "rarity": "Common",
+    "set_name": "Crimson Invasion",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Lairon",
+    "number": "66",
+    "rarity": "Uncommon",
+    "set_name": "Crimson Invasion",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Aggron",
+    "number": "67",
+    "rarity": "Rare Holo",
+    "set_name": "Crimson Invasion",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Registeel",
+    "number": "68",
+    "rarity": "Rare",
+    "set_name": "Crimson Invasion",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Escavalier",
+    "number": "69",
+    "rarity": "Rare",
+    "set_name": "Crimson Invasion",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Kartana-GX",
+    "number": "70",
+    "rarity": "Rare Holo GX",
+    "set_name": "Crimson Invasion",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Jigglypuff",
+    "number": "71",
+    "rarity": "Common",
+    "set_name": "Crimson Invasion",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Wigglytuff",
+    "number": "72",
+    "rarity": "Rare",
+    "set_name": "Crimson Invasion",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Xerneas",
+    "number": "73",
+    "rarity": "Rare Holo",
+    "set_name": "Crimson Invasion",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Alolan Exeggutor-GX",
+    "number": "74",
+    "rarity": "Rare Holo GX",
+    "set_name": "Crimson Invasion",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Jangmo-o",
+    "number": "75",
+    "rarity": "Common",
+    "set_name": "Crimson Invasion",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Hakamo-o",
+    "number": "76",
+    "rarity": "Uncommon",
+    "set_name": "Crimson Invasion",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Kommo-o",
+    "number": "77",
+    "rarity": "Rare",
+    "set_name": "Crimson Invasion",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Miltank",
+    "number": "78",
+    "rarity": "Uncommon",
+    "set_name": "Crimson Invasion",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Swablu",
+    "number": "79",
+    "rarity": "Common",
+    "set_name": "Crimson Invasion",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Altaria",
+    "number": "80",
+    "rarity": "Rare",
+    "set_name": "Crimson Invasion",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Starly",
+    "number": "81",
+    "rarity": "Common",
+    "set_name": "Crimson Invasion",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Staravia",
+    "number": "82",
+    "rarity": "Uncommon",
+    "set_name": "Crimson Invasion",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Staraptor",
+    "number": "83",
+    "rarity": "Rare",
+    "set_name": "Crimson Invasion",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Regigigas",
+    "number": "84",
+    "rarity": "Rare Holo",
+    "set_name": "Crimson Invasion",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Regigigas",
+    "number": "84a",
+    "rarity": "Rare Holo",
+    "set_name": "Crimson Invasion",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Minccino",
+    "number": "85",
+    "rarity": "Common",
+    "set_name": "Crimson Invasion",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Cinccino",
+    "number": "86",
+    "rarity": "Uncommon",
+    "set_name": "Crimson Invasion",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Bunnelby",
+    "number": "87",
+    "rarity": "Common",
+    "set_name": "Crimson Invasion",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Diggersby",
+    "number": "88",
+    "rarity": "Uncommon",
+    "set_name": "Crimson Invasion",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Type: Null",
+    "number": "89",
+    "rarity": "Rare Holo",
+    "set_name": "Crimson Invasion",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Silvally-GX",
+    "number": "90",
+    "rarity": "Rare Holo GX",
+    "set_name": "Crimson Invasion",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Counter Catcher",
+    "number": "91",
+    "rarity": "Uncommon",
+    "set_name": "Crimson Invasion",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Dashing Pouch",
+    "number": "92",
+    "rarity": "Uncommon",
+    "set_name": "Crimson Invasion",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Devoured Field",
+    "number": "93",
+    "rarity": "Uncommon",
+    "set_name": "Crimson Invasion",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Fighting Memory",
+    "number": "94",
+    "rarity": "Uncommon",
+    "set_name": "Crimson Invasion",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Gladion",
+    "number": "95",
+    "rarity": "Uncommon",
+    "set_name": "Crimson Invasion",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Lusamine",
+    "number": "96",
+    "rarity": "Uncommon",
+    "set_name": "Crimson Invasion",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Peeking Red Card",
+    "number": "97",
+    "rarity": "Uncommon",
+    "set_name": "Crimson Invasion",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Psychic Memory",
+    "number": "98",
+    "rarity": "Uncommon",
+    "set_name": "Crimson Invasion",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Sea of Nothingness",
+    "number": "99",
+    "rarity": "Uncommon",
+    "set_name": "Crimson Invasion",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Counter Energy",
+    "number": "100",
+    "rarity": "Uncommon",
+    "set_name": "Crimson Invasion",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Gyarados-GX",
+    "number": "101",
+    "rarity": "Rare Ultra",
+    "set_name": "Crimson Invasion",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Alolan Golem-GX",
+    "number": "102",
+    "rarity": "Rare Ultra",
+    "set_name": "Crimson Invasion",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Nihilego-GX",
+    "number": "103",
+    "rarity": "Rare Ultra",
+    "set_name": "Crimson Invasion",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Buzzwole-GX",
+    "number": "104",
+    "rarity": "Rare Ultra",
+    "set_name": "Crimson Invasion",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Guzzlord-GX",
+    "number": "105",
+    "rarity": "Rare Ultra",
+    "set_name": "Crimson Invasion",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Kartana-GX",
+    "number": "106",
+    "rarity": "Rare Ultra",
+    "set_name": "Crimson Invasion",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Alolan Exeggutor-GX",
+    "number": "107",
+    "rarity": "Rare Ultra",
+    "set_name": "Crimson Invasion",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Silvally-GX",
+    "number": "108",
+    "rarity": "Rare Ultra",
+    "set_name": "Crimson Invasion",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Gladion",
+    "number": "109",
+    "rarity": "Rare Ultra",
+    "set_name": "Crimson Invasion",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Lusamine",
+    "number": "110",
+    "rarity": "Rare Ultra",
+    "set_name": "Crimson Invasion",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Olivia",
+    "number": "111",
+    "rarity": "Rare Ultra",
+    "set_name": "Crimson Invasion",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Gyarados-GX",
+    "number": "112",
+    "rarity": "Rare Rainbow",
+    "set_name": "Crimson Invasion",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Alolan Golem-GX",
+    "number": "113",
+    "rarity": "Rare Rainbow",
+    "set_name": "Crimson Invasion",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Nihilego-GX",
+    "number": "114",
+    "rarity": "Rare Rainbow",
+    "set_name": "Crimson Invasion",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Buzzwole-GX",
+    "number": "115",
+    "rarity": "Rare Rainbow",
+    "set_name": "Crimson Invasion",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Guzzlord-GX",
+    "number": "116",
+    "rarity": "Rare Rainbow",
+    "set_name": "Crimson Invasion",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Kartana-GX",
+    "number": "117",
+    "rarity": "Rare Rainbow",
+    "set_name": "Crimson Invasion",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Alolan Exeggutor-GX",
+    "number": "118",
+    "rarity": "Rare Rainbow",
+    "set_name": "Crimson Invasion",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Silvally-GX",
+    "number": "119",
+    "rarity": "Rare Rainbow",
+    "set_name": "Crimson Invasion",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Counter Catcher",
+    "number": "120",
+    "rarity": "Rare Secret",
+    "set_name": "Crimson Invasion",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Wishful Baton",
+    "number": "121",
+    "rarity": "Rare Secret",
+    "set_name": "Crimson Invasion",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Counter Energy",
+    "number": "122",
+    "rarity": "Rare Secret",
+    "set_name": "Crimson Invasion",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Warp Energy",
+    "number": "123",
+    "rarity": "Rare Secret",
+    "set_name": "Crimson Invasion",
+    "set_series": "Sun & Moon"
+  },
+  {
+    "name": "Water Energy",
+    "number": "124",
+    "rarity": "Rare Secret",
+    "set_name": "Crimson Invasion",
+    "set_series": "Sun & Moon"
+  }
+]

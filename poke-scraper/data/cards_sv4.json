@@ -1,0 +1,1752 @@
+[
+  {
+    "name": "Surskit",
+    "number": "1",
+    "rarity": "Common",
+    "set_name": "Paradox Rift",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Masquerain",
+    "number": "2",
+    "rarity": "Uncommon",
+    "set_name": "Paradox Rift",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Froslass ex",
+    "number": "3",
+    "rarity": "Double Rare",
+    "set_name": "Paradox Rift",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Pansage",
+    "number": "4",
+    "rarity": "Common",
+    "set_name": "Paradox Rift",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Simisage",
+    "number": "5",
+    "rarity": "Uncommon",
+    "set_name": "Paradox Rift",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Dwebble",
+    "number": "6",
+    "rarity": "Common",
+    "set_name": "Paradox Rift",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Crustle",
+    "number": "7",
+    "rarity": "Common",
+    "set_name": "Paradox Rift",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Bounsweet",
+    "number": "8",
+    "rarity": "Common",
+    "set_name": "Paradox Rift",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Steenee",
+    "number": "9",
+    "rarity": "Uncommon",
+    "set_name": "Paradox Rift",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Blipbug",
+    "number": "10",
+    "rarity": "Common",
+    "set_name": "Paradox Rift",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Dottler",
+    "number": "11",
+    "rarity": "Common",
+    "set_name": "Paradox Rift",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Orbeetle",
+    "number": "12",
+    "rarity": "Uncommon",
+    "set_name": "Paradox Rift",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Nymble",
+    "number": "13",
+    "rarity": "Common",
+    "set_name": "Paradox Rift",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Nymble",
+    "number": "14",
+    "rarity": "Common",
+    "set_name": "Paradox Rift",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Toedscool",
+    "number": "15",
+    "rarity": "Common",
+    "set_name": "Paradox Rift",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Toedscool",
+    "number": "16",
+    "rarity": "Common",
+    "set_name": "Paradox Rift",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Toedscruel",
+    "number": "17",
+    "rarity": "Uncommon",
+    "set_name": "Paradox Rift",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Wo-Chien",
+    "number": "18",
+    "rarity": "Rare",
+    "set_name": "Paradox Rift",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Magby",
+    "number": "19",
+    "rarity": "Common",
+    "set_name": "Paradox Rift",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Pansear",
+    "number": "20",
+    "rarity": "Common",
+    "set_name": "Paradox Rift",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Simisear",
+    "number": "21",
+    "rarity": "Uncommon",
+    "set_name": "Paradox Rift",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Volcanion",
+    "number": "22",
+    "rarity": "Rare",
+    "set_name": "Paradox Rift",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Fuecoco",
+    "number": "23",
+    "rarity": "Common",
+    "set_name": "Paradox Rift",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Crocalor",
+    "number": "24",
+    "rarity": "Uncommon",
+    "set_name": "Paradox Rift",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Charcadet",
+    "number": "25",
+    "rarity": "Common",
+    "set_name": "Paradox Rift",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Charcadet",
+    "number": "26",
+    "rarity": "Common",
+    "set_name": "Paradox Rift",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Armarouge ex",
+    "number": "27",
+    "rarity": "Double Rare",
+    "set_name": "Paradox Rift",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Iron Moth",
+    "number": "28",
+    "rarity": "Rare",
+    "set_name": "Paradox Rift",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Chi-Yu",
+    "number": "29",
+    "rarity": "Rare",
+    "set_name": "Paradox Rift",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Horsea",
+    "number": "30",
+    "rarity": "Common",
+    "set_name": "Paradox Rift",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Seadra",
+    "number": "31",
+    "rarity": "Common",
+    "set_name": "Paradox Rift",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Kingdra",
+    "number": "32",
+    "rarity": "Rare",
+    "set_name": "Paradox Rift",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Remoraid",
+    "number": "33",
+    "rarity": "Common",
+    "set_name": "Paradox Rift",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Octillery",
+    "number": "34",
+    "rarity": "Common",
+    "set_name": "Paradox Rift",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Feebas",
+    "number": "35",
+    "rarity": "Common",
+    "set_name": "Paradox Rift",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Milotic",
+    "number": "36",
+    "rarity": "Rare",
+    "set_name": "Paradox Rift",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Snorunt",
+    "number": "37",
+    "rarity": "Common",
+    "set_name": "Paradox Rift",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Garchomp ex",
+    "number": "38",
+    "rarity": "Double Rare",
+    "set_name": "Paradox Rift",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Mantyke",
+    "number": "39",
+    "rarity": "Common",
+    "set_name": "Paradox Rift",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Palkia",
+    "number": "40",
+    "rarity": "Rare",
+    "set_name": "Paradox Rift",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Panpour",
+    "number": "41",
+    "rarity": "Common",
+    "set_name": "Paradox Rift",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Simipour",
+    "number": "42",
+    "rarity": "Uncommon",
+    "set_name": "Paradox Rift",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Vanillite",
+    "number": "43",
+    "rarity": "Common",
+    "set_name": "Paradox Rift",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Vanillish",
+    "number": "44",
+    "rarity": "Common",
+    "set_name": "Paradox Rift",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Vanilluxe",
+    "number": "45",
+    "rarity": "Uncommon",
+    "set_name": "Paradox Rift",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Tsareena ex",
+    "number": "46",
+    "rarity": "Double Rare",
+    "set_name": "Paradox Rift",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Wimpod",
+    "number": "47",
+    "rarity": "Common",
+    "set_name": "Paradox Rift",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Wimpod",
+    "number": "48",
+    "rarity": "Common",
+    "set_name": "Paradox Rift",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Golisopod",
+    "number": "49",
+    "rarity": "Rare",
+    "set_name": "Paradox Rift",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Golisopod ex",
+    "number": "50",
+    "rarity": "Double Rare",
+    "set_name": "Paradox Rift",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Wiglett",
+    "number": "51",
+    "rarity": "Common",
+    "set_name": "Paradox Rift",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Wiglett",
+    "number": "52",
+    "rarity": "Common",
+    "set_name": "Paradox Rift",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Wugtrio",
+    "number": "53",
+    "rarity": "Uncommon",
+    "set_name": "Paradox Rift",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Veluza",
+    "number": "54",
+    "rarity": "Uncommon",
+    "set_name": "Paradox Rift",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Dondozo",
+    "number": "55",
+    "rarity": "Uncommon",
+    "set_name": "Paradox Rift",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Iron Bundle",
+    "number": "56",
+    "rarity": "Uncommon",
+    "set_name": "Paradox Rift",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Chien-Pao",
+    "number": "57",
+    "rarity": "Rare",
+    "set_name": "Paradox Rift",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Mewtwo ex",
+    "number": "58",
+    "rarity": "Double Rare",
+    "set_name": "Paradox Rift",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Elekid",
+    "number": "59",
+    "rarity": "Common",
+    "set_name": "Paradox Rift",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Plusle",
+    "number": "60",
+    "rarity": "Common",
+    "set_name": "Paradox Rift",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Minun",
+    "number": "61",
+    "rarity": "Common",
+    "set_name": "Paradox Rift",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Blitzle",
+    "number": "62",
+    "rarity": "Common",
+    "set_name": "Paradox Rift",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Zebstrika",
+    "number": "63",
+    "rarity": "Uncommon",
+    "set_name": "Paradox Rift",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Joltik",
+    "number": "64",
+    "rarity": "Common",
+    "set_name": "Paradox Rift",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Galvantula",
+    "number": "65",
+    "rarity": "Common",
+    "set_name": "Paradox Rift",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Zekrom",
+    "number": "66",
+    "rarity": "Rare",
+    "set_name": "Paradox Rift",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Oricorio",
+    "number": "67",
+    "rarity": "Common",
+    "set_name": "Paradox Rift",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Tapu Koko ex",
+    "number": "68",
+    "rarity": "Double Rare",
+    "set_name": "Paradox Rift",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Toxel",
+    "number": "69",
+    "rarity": "Common",
+    "set_name": "Paradox Rift",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Iron Hands ex",
+    "number": "70",
+    "rarity": "Double Rare",
+    "set_name": "Paradox Rift",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Natu",
+    "number": "71",
+    "rarity": "Common",
+    "set_name": "Paradox Rift",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Xatu",
+    "number": "72",
+    "rarity": "Rare",
+    "set_name": "Paradox Rift",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Latios",
+    "number": "73",
+    "rarity": "Rare",
+    "set_name": "Paradox Rift",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Deoxys",
+    "number": "74",
+    "rarity": "Rare",
+    "set_name": "Paradox Rift",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Yamask",
+    "number": "75",
+    "rarity": "Common",
+    "set_name": "Paradox Rift",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Cofagrigus ex",
+    "number": "76",
+    "rarity": "Double Rare",
+    "set_name": "Paradox Rift",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Pumpkaboo",
+    "number": "77",
+    "rarity": "Common",
+    "set_name": "Paradox Rift",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Gourgeist",
+    "number": "78",
+    "rarity": "Uncommon",
+    "set_name": "Paradox Rift",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Flittle",
+    "number": "79",
+    "rarity": "Common",
+    "set_name": "Paradox Rift",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Flittle",
+    "number": "80",
+    "rarity": "Common",
+    "set_name": "Paradox Rift",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Espathra",
+    "number": "81",
+    "rarity": "Rare",
+    "set_name": "Paradox Rift",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Tinkatink",
+    "number": "82",
+    "rarity": "Common",
+    "set_name": "Paradox Rift",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Tinkatink",
+    "number": "83",
+    "rarity": "Common",
+    "set_name": "Paradox Rift",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Tinkatuff",
+    "number": "84",
+    "rarity": "Common",
+    "set_name": "Paradox Rift",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Tinkaton",
+    "number": "85",
+    "rarity": "Uncommon",
+    "set_name": "Paradox Rift",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Scream Tail",
+    "number": "86",
+    "rarity": "Uncommon",
+    "set_name": "Paradox Rift",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Gimmighoul",
+    "number": "87",
+    "rarity": "Common",
+    "set_name": "Paradox Rift",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Gimmighoul",
+    "number": "88",
+    "rarity": "Common",
+    "set_name": "Paradox Rift",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Iron Valiant ex",
+    "number": "89",
+    "rarity": "Double Rare",
+    "set_name": "Paradox Rift",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Onix",
+    "number": "90",
+    "rarity": "Common",
+    "set_name": "Paradox Rift",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Gligar",
+    "number": "91",
+    "rarity": "Common",
+    "set_name": "Paradox Rift",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Gliscor",
+    "number": "92",
+    "rarity": "Uncommon",
+    "set_name": "Paradox Rift",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Groudon",
+    "number": "93",
+    "rarity": "Rare",
+    "set_name": "Paradox Rift",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Gible",
+    "number": "94",
+    "rarity": "Common",
+    "set_name": "Paradox Rift",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Gabite",
+    "number": "95",
+    "rarity": "Common",
+    "set_name": "Paradox Rift",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Mienfoo",
+    "number": "96",
+    "rarity": "Common",
+    "set_name": "Paradox Rift",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Mienshao",
+    "number": "97",
+    "rarity": "Uncommon",
+    "set_name": "Paradox Rift",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Hoopa ex",
+    "number": "98",
+    "rarity": "Double Rare",
+    "set_name": "Paradox Rift",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Minior",
+    "number": "99",
+    "rarity": "Uncommon",
+    "set_name": "Paradox Rift",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Toxtricity ex",
+    "number": "100",
+    "rarity": "Double Rare",
+    "set_name": "Paradox Rift",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Nacli",
+    "number": "101",
+    "rarity": "Common",
+    "set_name": "Paradox Rift",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Nacli",
+    "number": "102",
+    "rarity": "Common",
+    "set_name": "Paradox Rift",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Naclstack",
+    "number": "103",
+    "rarity": "Common",
+    "set_name": "Paradox Rift",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Garganacl",
+    "number": "104",
+    "rarity": "Rare",
+    "set_name": "Paradox Rift",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Klawf",
+    "number": "105",
+    "rarity": "Uncommon",
+    "set_name": "Paradox Rift",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Flamigo",
+    "number": "106",
+    "rarity": "Common",
+    "set_name": "Paradox Rift",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Slither Wing",
+    "number": "107",
+    "rarity": "Uncommon",
+    "set_name": "Paradox Rift",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Sandy Shocks ex",
+    "number": "108",
+    "rarity": "Double Rare",
+    "set_name": "Paradox Rift",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Ting-Lu",
+    "number": "109",
+    "rarity": "Rare",
+    "set_name": "Paradox Rift",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Zubat",
+    "number": "110",
+    "rarity": "Common",
+    "set_name": "Paradox Rift",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Golbat",
+    "number": "111",
+    "rarity": "Common",
+    "set_name": "Paradox Rift",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Crobat",
+    "number": "112",
+    "rarity": "Uncommon",
+    "set_name": "Paradox Rift",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Absol",
+    "number": "113",
+    "rarity": "Uncommon",
+    "set_name": "Paradox Rift",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Purrloin",
+    "number": "114",
+    "rarity": "Common",
+    "set_name": "Paradox Rift",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Liepard",
+    "number": "115",
+    "rarity": "Common",
+    "set_name": "Paradox Rift",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Trubbish",
+    "number": "116",
+    "rarity": "Common",
+    "set_name": "Paradox Rift",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Garbodor",
+    "number": "117",
+    "rarity": "Uncommon",
+    "set_name": "Paradox Rift",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Yveltal",
+    "number": "118",
+    "rarity": "Rare",
+    "set_name": "Paradox Rift",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Nickit",
+    "number": "119",
+    "rarity": "Common",
+    "set_name": "Paradox Rift",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Thievul",
+    "number": "120",
+    "rarity": "Rare",
+    "set_name": "Paradox Rift",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Morpeko",
+    "number": "121",
+    "rarity": "Rare",
+    "set_name": "Paradox Rift",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Lokix",
+    "number": "122",
+    "rarity": "Rare",
+    "set_name": "Paradox Rift",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Brute Bonnet",
+    "number": "123",
+    "rarity": "Rare",
+    "set_name": "Paradox Rift",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Roaring Moon ex",
+    "number": "124",
+    "rarity": "Double Rare",
+    "set_name": "Paradox Rift",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Steelix",
+    "number": "125",
+    "rarity": "Rare",
+    "set_name": "Paradox Rift",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Jirachi",
+    "number": "126",
+    "rarity": "Common",
+    "set_name": "Paradox Rift",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Ferroseed",
+    "number": "127",
+    "rarity": "Common",
+    "set_name": "Paradox Rift",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Ferrothorn",
+    "number": "128",
+    "rarity": "Uncommon",
+    "set_name": "Paradox Rift",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Durant",
+    "number": "129",
+    "rarity": "Uncommon",
+    "set_name": "Paradox Rift",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Honedge",
+    "number": "130",
+    "rarity": "Common",
+    "set_name": "Paradox Rift",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Honedge",
+    "number": "131",
+    "rarity": "Common",
+    "set_name": "Paradox Rift",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Doublade",
+    "number": "132",
+    "rarity": "Common",
+    "set_name": "Paradox Rift",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Doublade",
+    "number": "133",
+    "rarity": "Common",
+    "set_name": "Paradox Rift",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Aegislash",
+    "number": "134",
+    "rarity": "Rare",
+    "set_name": "Paradox Rift",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Aegislash ex",
+    "number": "135",
+    "rarity": "Double Rare",
+    "set_name": "Paradox Rift",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Zacian",
+    "number": "136",
+    "rarity": "Rare",
+    "set_name": "Paradox Rift",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Skeledirge ex",
+    "number": "137",
+    "rarity": "Double Rare",
+    "set_name": "Paradox Rift",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Orthworm",
+    "number": "138",
+    "rarity": "Uncommon",
+    "set_name": "Paradox Rift",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Gholdengo ex",
+    "number": "139",
+    "rarity": "Double Rare",
+    "set_name": "Paradox Rift",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Altaria ex",
+    "number": "140",
+    "rarity": "Double Rare",
+    "set_name": "Paradox Rift",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Tatsugiri",
+    "number": "141",
+    "rarity": "Uncommon",
+    "set_name": "Paradox Rift",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Porygon",
+    "number": "142",
+    "rarity": "Common",
+    "set_name": "Paradox Rift",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Porygon2",
+    "number": "143",
+    "rarity": "Common",
+    "set_name": "Paradox Rift",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Porygon-Z",
+    "number": "144",
+    "rarity": "Rare",
+    "set_name": "Paradox Rift",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Aipom",
+    "number": "145",
+    "rarity": "Common",
+    "set_name": "Paradox Rift",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Ambipom",
+    "number": "146",
+    "rarity": "Uncommon",
+    "set_name": "Paradox Rift",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Miltank",
+    "number": "147",
+    "rarity": "Common",
+    "set_name": "Paradox Rift",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Whismur",
+    "number": "148",
+    "rarity": "Common",
+    "set_name": "Paradox Rift",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Loudred",
+    "number": "149",
+    "rarity": "Common",
+    "set_name": "Paradox Rift",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Exploud",
+    "number": "150",
+    "rarity": "Uncommon",
+    "set_name": "Paradox Rift",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Spinda",
+    "number": "151",
+    "rarity": "Common",
+    "set_name": "Paradox Rift",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Swablu",
+    "number": "152",
+    "rarity": "Common",
+    "set_name": "Paradox Rift",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Tandemaus",
+    "number": "153",
+    "rarity": "Common",
+    "set_name": "Paradox Rift",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Tandemaus",
+    "number": "154",
+    "rarity": "Common",
+    "set_name": "Paradox Rift",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Maushold ex",
+    "number": "155",
+    "rarity": "Double Rare",
+    "set_name": "Paradox Rift",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Bombirdier ex",
+    "number": "156",
+    "rarity": "Double Rare",
+    "set_name": "Paradox Rift",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Cyclizar",
+    "number": "157",
+    "rarity": "Uncommon",
+    "set_name": "Paradox Rift",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Iron Jugulis",
+    "number": "158",
+    "rarity": "Rare",
+    "set_name": "Paradox Rift",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Ancient Booster Energy Capsule",
+    "number": "159",
+    "rarity": "Uncommon",
+    "set_name": "Paradox Rift",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Counter Catcher",
+    "number": "160",
+    "rarity": "Uncommon",
+    "set_name": "Paradox Rift",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Cursed Duster",
+    "number": "161",
+    "rarity": "Uncommon",
+    "set_name": "Paradox Rift",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Defiance Vest",
+    "number": "162",
+    "rarity": "Uncommon",
+    "set_name": "Paradox Rift",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Earthen Vessel",
+    "number": "163",
+    "rarity": "Uncommon",
+    "set_name": "Paradox Rift",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Future Booster Energy Capsule",
+    "number": "164",
+    "rarity": "Uncommon",
+    "set_name": "Paradox Rift",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Larry",
+    "number": "165",
+    "rarity": "Common",
+    "set_name": "Paradox Rift",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Luxurious Cape",
+    "number": "166",
+    "rarity": "Uncommon",
+    "set_name": "Paradox Rift",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Mela",
+    "number": "167",
+    "rarity": "Uncommon",
+    "set_name": "Paradox Rift",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Norman",
+    "number": "168",
+    "rarity": "Uncommon",
+    "set_name": "Paradox Rift",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Parasol Lady",
+    "number": "169",
+    "rarity": "Common",
+    "set_name": "Paradox Rift",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Professor Sada's Vitality",
+    "number": "170",
+    "rarity": "Uncommon",
+    "set_name": "Paradox Rift",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Professor Turo's Scenario",
+    "number": "171",
+    "rarity": "Uncommon",
+    "set_name": "Paradox Rift",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Rika",
+    "number": "172",
+    "rarity": "Uncommon",
+    "set_name": "Paradox Rift",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Roark",
+    "number": "173",
+    "rarity": "Uncommon",
+    "set_name": "Paradox Rift",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Shauntal",
+    "number": "174",
+    "rarity": "Uncommon",
+    "set_name": "Paradox Rift",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Snorlax Doll",
+    "number": "175",
+    "rarity": "Uncommon",
+    "set_name": "Paradox Rift",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Technical Machine: Blindside",
+    "number": "176",
+    "rarity": "Uncommon",
+    "set_name": "Paradox Rift",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Technical Machine: Devolution",
+    "number": "177",
+    "rarity": "Uncommon",
+    "set_name": "Paradox Rift",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Technical Machine: Evolution",
+    "number": "178",
+    "rarity": "Uncommon",
+    "set_name": "Paradox Rift",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Technical Machine: Turbo Energize",
+    "number": "179",
+    "rarity": "Uncommon",
+    "set_name": "Paradox Rift",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Techno Radar",
+    "number": "180",
+    "rarity": "Uncommon",
+    "set_name": "Paradox Rift",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Tulip",
+    "number": "181",
+    "rarity": "Uncommon",
+    "set_name": "Paradox Rift",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Medical Energy",
+    "number": "182",
+    "rarity": "Uncommon",
+    "set_name": "Paradox Rift",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Crustle",
+    "number": "183",
+    "rarity": "Illustration Rare",
+    "set_name": "Paradox Rift",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Dottler",
+    "number": "184",
+    "rarity": "Illustration Rare",
+    "set_name": "Paradox Rift",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Toedscruel",
+    "number": "185",
+    "rarity": "Illustration Rare",
+    "set_name": "Paradox Rift",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Magby",
+    "number": "186",
+    "rarity": "Illustration Rare",
+    "set_name": "Paradox Rift",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Iron Moth",
+    "number": "187",
+    "rarity": "Illustration Rare",
+    "set_name": "Paradox Rift",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Snorunt",
+    "number": "188",
+    "rarity": "Illustration Rare",
+    "set_name": "Paradox Rift",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Mantyke",
+    "number": "189",
+    "rarity": "Illustration Rare",
+    "set_name": "Paradox Rift",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Vanillish",
+    "number": "190",
+    "rarity": "Illustration Rare",
+    "set_name": "Paradox Rift",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Wimpod",
+    "number": "191",
+    "rarity": "Illustration Rare",
+    "set_name": "Paradox Rift",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Veluza",
+    "number": "192",
+    "rarity": "Illustration Rare",
+    "set_name": "Paradox Rift",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Plusle",
+    "number": "193",
+    "rarity": "Illustration Rare",
+    "set_name": "Paradox Rift",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Minun",
+    "number": "194",
+    "rarity": "Illustration Rare",
+    "set_name": "Paradox Rift",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Blitzle",
+    "number": "195",
+    "rarity": "Illustration Rare",
+    "set_name": "Paradox Rift",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Joltik",
+    "number": "196",
+    "rarity": "Illustration Rare",
+    "set_name": "Paradox Rift",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Espathra",
+    "number": "197",
+    "rarity": "Illustration Rare",
+    "set_name": "Paradox Rift",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Gimmighoul",
+    "number": "198",
+    "rarity": "Illustration Rare",
+    "set_name": "Paradox Rift",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Groudon",
+    "number": "199",
+    "rarity": "Illustration Rare",
+    "set_name": "Paradox Rift",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Mienshao",
+    "number": "200",
+    "rarity": "Illustration Rare",
+    "set_name": "Paradox Rift",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Minior",
+    "number": "201",
+    "rarity": "Illustration Rare",
+    "set_name": "Paradox Rift",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Garganacl",
+    "number": "202",
+    "rarity": "Illustration Rare",
+    "set_name": "Paradox Rift",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Slither Wing",
+    "number": "203",
+    "rarity": "Illustration Rare",
+    "set_name": "Paradox Rift",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Garbodor",
+    "number": "204",
+    "rarity": "Illustration Rare",
+    "set_name": "Paradox Rift",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Yveltal",
+    "number": "205",
+    "rarity": "Illustration Rare",
+    "set_name": "Paradox Rift",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Morpeko",
+    "number": "206",
+    "rarity": "Illustration Rare",
+    "set_name": "Paradox Rift",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Brute Bonnet",
+    "number": "207",
+    "rarity": "Illustration Rare",
+    "set_name": "Paradox Rift",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Steelix",
+    "number": "208",
+    "rarity": "Illustration Rare",
+    "set_name": "Paradox Rift",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Ferrothorn",
+    "number": "209",
+    "rarity": "Illustration Rare",
+    "set_name": "Paradox Rift",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Aegislash",
+    "number": "210",
+    "rarity": "Illustration Rare",
+    "set_name": "Paradox Rift",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Aipom",
+    "number": "211",
+    "rarity": "Illustration Rare",
+    "set_name": "Paradox Rift",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Loudred",
+    "number": "212",
+    "rarity": "Illustration Rare",
+    "set_name": "Paradox Rift",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Swablu",
+    "number": "213",
+    "rarity": "Illustration Rare",
+    "set_name": "Paradox Rift",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Porygon-Z",
+    "number": "214",
+    "rarity": "Illustration Rare",
+    "set_name": "Paradox Rift",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Cyclizar",
+    "number": "215",
+    "rarity": "Illustration Rare",
+    "set_name": "Paradox Rift",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Iron Jugulis",
+    "number": "216",
+    "rarity": "Illustration Rare",
+    "set_name": "Paradox Rift",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Froslass ex",
+    "number": "217",
+    "rarity": "Ultra Rare",
+    "set_name": "Paradox Rift",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Armarouge ex",
+    "number": "218",
+    "rarity": "Ultra Rare",
+    "set_name": "Paradox Rift",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Garchomp ex",
+    "number": "219",
+    "rarity": "Ultra Rare",
+    "set_name": "Paradox Rift",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Tsareena ex",
+    "number": "220",
+    "rarity": "Ultra Rare",
+    "set_name": "Paradox Rift",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Golisopod ex",
+    "number": "221",
+    "rarity": "Ultra Rare",
+    "set_name": "Paradox Rift",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Tapu Koko ex",
+    "number": "222",
+    "rarity": "Ultra Rare",
+    "set_name": "Paradox Rift",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Iron Hands ex",
+    "number": "223",
+    "rarity": "Ultra Rare",
+    "set_name": "Paradox Rift",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Cofagrigus ex",
+    "number": "224",
+    "rarity": "Ultra Rare",
+    "set_name": "Paradox Rift",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Iron Valiant ex",
+    "number": "225",
+    "rarity": "Ultra Rare",
+    "set_name": "Paradox Rift",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Hoopa ex",
+    "number": "226",
+    "rarity": "Ultra Rare",
+    "set_name": "Paradox Rift",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Toxtricity ex",
+    "number": "227",
+    "rarity": "Ultra Rare",
+    "set_name": "Paradox Rift",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Sandy Shocks ex",
+    "number": "228",
+    "rarity": "Ultra Rare",
+    "set_name": "Paradox Rift",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Roaring Moon ex",
+    "number": "229",
+    "rarity": "Ultra Rare",
+    "set_name": "Paradox Rift",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Aegislash ex",
+    "number": "230",
+    "rarity": "Ultra Rare",
+    "set_name": "Paradox Rift",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Gholdengo ex",
+    "number": "231",
+    "rarity": "Ultra Rare",
+    "set_name": "Paradox Rift",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Altaria ex",
+    "number": "232",
+    "rarity": "Ultra Rare",
+    "set_name": "Paradox Rift",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Maushold ex",
+    "number": "233",
+    "rarity": "Ultra Rare",
+    "set_name": "Paradox Rift",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Bombirdier ex",
+    "number": "234",
+    "rarity": "Ultra Rare",
+    "set_name": "Paradox Rift",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Larry",
+    "number": "235",
+    "rarity": "Ultra Rare",
+    "set_name": "Paradox Rift",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Mela",
+    "number": "236",
+    "rarity": "Ultra Rare",
+    "set_name": "Paradox Rift",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Norman",
+    "number": "237",
+    "rarity": "Ultra Rare",
+    "set_name": "Paradox Rift",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Parasol Lady",
+    "number": "238",
+    "rarity": "Ultra Rare",
+    "set_name": "Paradox Rift",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Professor Sada's Vitality",
+    "number": "239",
+    "rarity": "Ultra Rare",
+    "set_name": "Paradox Rift",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Professor Turo's Scenario",
+    "number": "240",
+    "rarity": "Ultra Rare",
+    "set_name": "Paradox Rift",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Rika",
+    "number": "241",
+    "rarity": "Ultra Rare",
+    "set_name": "Paradox Rift",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Roark",
+    "number": "242",
+    "rarity": "Ultra Rare",
+    "set_name": "Paradox Rift",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Shauntal",
+    "number": "243",
+    "rarity": "Ultra Rare",
+    "set_name": "Paradox Rift",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Tulip",
+    "number": "244",
+    "rarity": "Ultra Rare",
+    "set_name": "Paradox Rift",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Garchomp ex",
+    "number": "245",
+    "rarity": "Special Illustration Rare",
+    "set_name": "Paradox Rift",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Golisopod ex",
+    "number": "246",
+    "rarity": "Special Illustration Rare",
+    "set_name": "Paradox Rift",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Tapu Koko ex",
+    "number": "247",
+    "rarity": "Special Illustration Rare",
+    "set_name": "Paradox Rift",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Iron Hands ex",
+    "number": "248",
+    "rarity": "Special Illustration Rare",
+    "set_name": "Paradox Rift",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Iron Valiant ex",
+    "number": "249",
+    "rarity": "Special Illustration Rare",
+    "set_name": "Paradox Rift",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Sandy Shocks ex",
+    "number": "250",
+    "rarity": "Special Illustration Rare",
+    "set_name": "Paradox Rift",
+    "set_series": "Scarlet & Violet"
+  }
+]

@@ -1,0 +1,583 @@
+[
+  {
+    "name": "Dark Alakazam",
+    "number": "1",
+    "rarity": "Rare Holo",
+    "set_name": "Team Rocket",
+    "set_series": "Base"
+  },
+  {
+    "name": "Dark Arbok",
+    "number": "2",
+    "rarity": "Rare Holo",
+    "set_name": "Team Rocket",
+    "set_series": "Base"
+  },
+  {
+    "name": "Dark Blastoise",
+    "number": "3",
+    "rarity": "Rare Holo",
+    "set_name": "Team Rocket",
+    "set_series": "Base"
+  },
+  {
+    "name": "Dark Charizard",
+    "number": "4",
+    "rarity": "Rare Holo",
+    "set_name": "Team Rocket",
+    "set_series": "Base"
+  },
+  {
+    "name": "Dark Dragonite",
+    "number": "5",
+    "rarity": "Rare Holo",
+    "set_name": "Team Rocket",
+    "set_series": "Base"
+  },
+  {
+    "name": "Dark Dugtrio",
+    "number": "6",
+    "rarity": "Rare Holo",
+    "set_name": "Team Rocket",
+    "set_series": "Base"
+  },
+  {
+    "name": "Dark Golbat",
+    "number": "7",
+    "rarity": "Rare Holo",
+    "set_name": "Team Rocket",
+    "set_series": "Base"
+  },
+  {
+    "name": "Dark Gyarados",
+    "number": "8",
+    "rarity": "Rare Holo",
+    "set_name": "Team Rocket",
+    "set_series": "Base"
+  },
+  {
+    "name": "Dark Hypno",
+    "number": "9",
+    "rarity": "Rare Holo",
+    "set_name": "Team Rocket",
+    "set_series": "Base"
+  },
+  {
+    "name": "Dark Machamp",
+    "number": "10",
+    "rarity": "Rare Holo",
+    "set_name": "Team Rocket",
+    "set_series": "Base"
+  },
+  {
+    "name": "Dark Magneton",
+    "number": "11",
+    "rarity": "Rare Holo",
+    "set_name": "Team Rocket",
+    "set_series": "Base"
+  },
+  {
+    "name": "Dark Slowbro",
+    "number": "12",
+    "rarity": "Rare Holo",
+    "set_name": "Team Rocket",
+    "set_series": "Base"
+  },
+  {
+    "name": "Dark Vileplume",
+    "number": "13",
+    "rarity": "Rare Holo",
+    "set_name": "Team Rocket",
+    "set_series": "Base"
+  },
+  {
+    "name": "Dark Weezing",
+    "number": "14",
+    "rarity": "Rare Holo",
+    "set_name": "Team Rocket",
+    "set_series": "Base"
+  },
+  {
+    "name": "Here Comes Team Rocket!",
+    "number": "15",
+    "rarity": "Rare Holo",
+    "set_name": "Team Rocket",
+    "set_series": "Base"
+  },
+  {
+    "name": "Rocket's Sneak Attack",
+    "number": "16",
+    "rarity": "Rare Holo",
+    "set_name": "Team Rocket",
+    "set_series": "Base"
+  },
+  {
+    "name": "Rainbow Energy",
+    "number": "17",
+    "rarity": "Rare Holo",
+    "set_name": "Team Rocket",
+    "set_series": "Base"
+  },
+  {
+    "name": "Dark Alakazam",
+    "number": "18",
+    "rarity": "Rare",
+    "set_name": "Team Rocket",
+    "set_series": "Base"
+  },
+  {
+    "name": "Dark Arbok",
+    "number": "19",
+    "rarity": "Rare",
+    "set_name": "Team Rocket",
+    "set_series": "Base"
+  },
+  {
+    "name": "Dark Blastoise",
+    "number": "20",
+    "rarity": "Rare",
+    "set_name": "Team Rocket",
+    "set_series": "Base"
+  },
+  {
+    "name": "Dark Charizard",
+    "number": "21",
+    "rarity": "Rare",
+    "set_name": "Team Rocket",
+    "set_series": "Base"
+  },
+  {
+    "name": "Dark Dragonite",
+    "number": "22",
+    "rarity": "Rare",
+    "set_name": "Team Rocket",
+    "set_series": "Base"
+  },
+  {
+    "name": "Dark Dugtrio",
+    "number": "23",
+    "rarity": "Rare",
+    "set_name": "Team Rocket",
+    "set_series": "Base"
+  },
+  {
+    "name": "Dark Golbat",
+    "number": "24",
+    "rarity": "Rare",
+    "set_name": "Team Rocket",
+    "set_series": "Base"
+  },
+  {
+    "name": "Dark Gyarados",
+    "number": "25",
+    "rarity": "Rare",
+    "set_name": "Team Rocket",
+    "set_series": "Base"
+  },
+  {
+    "name": "Dark Hypno",
+    "number": "26",
+    "rarity": "Rare",
+    "set_name": "Team Rocket",
+    "set_series": "Base"
+  },
+  {
+    "name": "Dark Machamp",
+    "number": "27",
+    "rarity": "Rare",
+    "set_name": "Team Rocket",
+    "set_series": "Base"
+  },
+  {
+    "name": "Dark Magneton",
+    "number": "28",
+    "rarity": "Rare",
+    "set_name": "Team Rocket",
+    "set_series": "Base"
+  },
+  {
+    "name": "Dark Slowbro",
+    "number": "29",
+    "rarity": "Rare",
+    "set_name": "Team Rocket",
+    "set_series": "Base"
+  },
+  {
+    "name": "Dark Vileplume",
+    "number": "30",
+    "rarity": "Rare",
+    "set_name": "Team Rocket",
+    "set_series": "Base"
+  },
+  {
+    "name": "Dark Weezing",
+    "number": "31",
+    "rarity": "Rare",
+    "set_name": "Team Rocket",
+    "set_series": "Base"
+  },
+  {
+    "name": "Dark Charmeleon",
+    "number": "32",
+    "rarity": "Uncommon",
+    "set_name": "Team Rocket",
+    "set_series": "Base"
+  },
+  {
+    "name": "Dark Dragonair",
+    "number": "33",
+    "rarity": "Uncommon",
+    "set_name": "Team Rocket",
+    "set_series": "Base"
+  },
+  {
+    "name": "Dark Electrode",
+    "number": "34",
+    "rarity": "Uncommon",
+    "set_name": "Team Rocket",
+    "set_series": "Base"
+  },
+  {
+    "name": "Dark Flareon",
+    "number": "35",
+    "rarity": "Uncommon",
+    "set_name": "Team Rocket",
+    "set_series": "Base"
+  },
+  {
+    "name": "Dark Gloom",
+    "number": "36",
+    "rarity": "Uncommon",
+    "set_name": "Team Rocket",
+    "set_series": "Base"
+  },
+  {
+    "name": "Dark Golduck",
+    "number": "37",
+    "rarity": "Uncommon",
+    "set_name": "Team Rocket",
+    "set_series": "Base"
+  },
+  {
+    "name": "Dark Jolteon",
+    "number": "38",
+    "rarity": "Uncommon",
+    "set_name": "Team Rocket",
+    "set_series": "Base"
+  },
+  {
+    "name": "Dark Kadabra",
+    "number": "39",
+    "rarity": "Uncommon",
+    "set_name": "Team Rocket",
+    "set_series": "Base"
+  },
+  {
+    "name": "Dark Machoke",
+    "number": "40",
+    "rarity": "Uncommon",
+    "set_name": "Team Rocket",
+    "set_series": "Base"
+  },
+  {
+    "name": "Dark Muk",
+    "number": "41",
+    "rarity": "Uncommon",
+    "set_name": "Team Rocket",
+    "set_series": "Base"
+  },
+  {
+    "name": "Dark Persian",
+    "number": "42",
+    "rarity": "Uncommon",
+    "set_name": "Team Rocket",
+    "set_series": "Base"
+  },
+  {
+    "name": "Dark Primeape",
+    "number": "43",
+    "rarity": "Uncommon",
+    "set_name": "Team Rocket",
+    "set_series": "Base"
+  },
+  {
+    "name": "Dark Rapidash",
+    "number": "44",
+    "rarity": "Uncommon",
+    "set_name": "Team Rocket",
+    "set_series": "Base"
+  },
+  {
+    "name": "Dark Vaporeon",
+    "number": "45",
+    "rarity": "Uncommon",
+    "set_name": "Team Rocket",
+    "set_series": "Base"
+  },
+  {
+    "name": "Dark Wartortle",
+    "number": "46",
+    "rarity": "Uncommon",
+    "set_name": "Team Rocket",
+    "set_series": "Base"
+  },
+  {
+    "name": "Magikarp",
+    "number": "47",
+    "rarity": "Uncommon",
+    "set_name": "Team Rocket",
+    "set_series": "Base"
+  },
+  {
+    "name": "Porygon",
+    "number": "48",
+    "rarity": "Uncommon",
+    "set_name": "Team Rocket",
+    "set_series": "Base"
+  },
+  {
+    "name": "Abra",
+    "number": "49",
+    "rarity": "Common",
+    "set_name": "Team Rocket",
+    "set_series": "Base"
+  },
+  {
+    "name": "Charmander",
+    "number": "50",
+    "rarity": "Common",
+    "set_name": "Team Rocket",
+    "set_series": "Base"
+  },
+  {
+    "name": "Dark Raticate",
+    "number": "51",
+    "rarity": "Common",
+    "set_name": "Team Rocket",
+    "set_series": "Base"
+  },
+  {
+    "name": "Diglett",
+    "number": "52",
+    "rarity": "Common",
+    "set_name": "Team Rocket",
+    "set_series": "Base"
+  },
+  {
+    "name": "Dratini",
+    "number": "53",
+    "rarity": "Common",
+    "set_name": "Team Rocket",
+    "set_series": "Base"
+  },
+  {
+    "name": "Drowzee",
+    "number": "54",
+    "rarity": "Common",
+    "set_name": "Team Rocket",
+    "set_series": "Base"
+  },
+  {
+    "name": "Eevee",
+    "number": "55",
+    "rarity": "Common",
+    "set_name": "Team Rocket",
+    "set_series": "Base"
+  },
+  {
+    "name": "Ekans",
+    "number": "56",
+    "rarity": "Common",
+    "set_name": "Team Rocket",
+    "set_series": "Base"
+  },
+  {
+    "name": "Grimer",
+    "number": "57",
+    "rarity": "Common",
+    "set_name": "Team Rocket",
+    "set_series": "Base"
+  },
+  {
+    "name": "Koffing",
+    "number": "58",
+    "rarity": "Common",
+    "set_name": "Team Rocket",
+    "set_series": "Base"
+  },
+  {
+    "name": "Machop",
+    "number": "59",
+    "rarity": "Common",
+    "set_name": "Team Rocket",
+    "set_series": "Base"
+  },
+  {
+    "name": "Magnemite",
+    "number": "60",
+    "rarity": "Common",
+    "set_name": "Team Rocket",
+    "set_series": "Base"
+  },
+  {
+    "name": "Mankey",
+    "number": "61",
+    "rarity": "Common",
+    "set_name": "Team Rocket",
+    "set_series": "Base"
+  },
+  {
+    "name": "Meowth",
+    "number": "62",
+    "rarity": "Common",
+    "set_name": "Team Rocket",
+    "set_series": "Base"
+  },
+  {
+    "name": "Oddish",
+    "number": "63",
+    "rarity": "Common",
+    "set_name": "Team Rocket",
+    "set_series": "Base"
+  },
+  {
+    "name": "Ponyta",
+    "number": "64",
+    "rarity": "Common",
+    "set_name": "Team Rocket",
+    "set_series": "Base"
+  },
+  {
+    "name": "Psyduck",
+    "number": "65",
+    "rarity": "Common",
+    "set_name": "Team Rocket",
+    "set_series": "Base"
+  },
+  {
+    "name": "Rattata",
+    "number": "66",
+    "rarity": "Common",
+    "set_name": "Team Rocket",
+    "set_series": "Base"
+  },
+  {
+    "name": "Slowpoke",
+    "number": "67",
+    "rarity": "Common",
+    "set_name": "Team Rocket",
+    "set_series": "Base"
+  },
+  {
+    "name": "Squirtle",
+    "number": "68",
+    "rarity": "Common",
+    "set_name": "Team Rocket",
+    "set_series": "Base"
+  },
+  {
+    "name": "Voltorb",
+    "number": "69",
+    "rarity": "Common",
+    "set_name": "Team Rocket",
+    "set_series": "Base"
+  },
+  {
+    "name": "Zubat",
+    "number": "70",
+    "rarity": "Common",
+    "set_name": "Team Rocket",
+    "set_series": "Base"
+  },
+  {
+    "name": "Here Comes Team Rocket!",
+    "number": "71",
+    "rarity": "Rare",
+    "set_name": "Team Rocket",
+    "set_series": "Base"
+  },
+  {
+    "name": "Rocket's Sneak Attack",
+    "number": "72",
+    "rarity": "Rare",
+    "set_name": "Team Rocket",
+    "set_series": "Base"
+  },
+  {
+    "name": "The Boss's Way",
+    "number": "73",
+    "rarity": "Uncommon",
+    "set_name": "Team Rocket",
+    "set_series": "Base"
+  },
+  {
+    "name": "Challenge!",
+    "number": "74",
+    "rarity": "Uncommon",
+    "set_name": "Team Rocket",
+    "set_series": "Base"
+  },
+  {
+    "name": "Digger",
+    "number": "75",
+    "rarity": "Uncommon",
+    "set_name": "Team Rocket",
+    "set_series": "Base"
+  },
+  {
+    "name": "Imposter Oak's Revenge",
+    "number": "76",
+    "rarity": "Uncommon",
+    "set_name": "Team Rocket",
+    "set_series": "Base"
+  },
+  {
+    "name": "Nightly Garbage Run",
+    "number": "77",
+    "rarity": "Uncommon",
+    "set_name": "Team Rocket",
+    "set_series": "Base"
+  },
+  {
+    "name": "Goop Gas Attack",
+    "number": "78",
+    "rarity": "Common",
+    "set_name": "Team Rocket",
+    "set_series": "Base"
+  },
+  {
+    "name": "Sleep!",
+    "number": "79",
+    "rarity": "Common",
+    "set_name": "Team Rocket",
+    "set_series": "Base"
+  },
+  {
+    "name": "Rainbow Energy",
+    "number": "80",
+    "rarity": "Rare",
+    "set_name": "Team Rocket",
+    "set_series": "Base"
+  },
+  {
+    "name": "Full Heal Energy",
+    "number": "81",
+    "rarity": "Uncommon",
+    "set_name": "Team Rocket",
+    "set_series": "Base"
+  },
+  {
+    "name": "Potion Energy",
+    "number": "82",
+    "rarity": "Uncommon",
+    "set_name": "Team Rocket",
+    "set_series": "Base"
+  },
+  {
+    "name": "Dark Raichu",
+    "number": "83",
+    "rarity": "Rare Secret",
+    "set_name": "Team Rocket",
+    "set_series": "Base"
+  }
+]

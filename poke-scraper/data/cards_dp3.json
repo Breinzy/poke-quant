@@ -1,0 +1,926 @@
+[
+  {
+    "name": "Ampharos",
+    "number": "1",
+    "rarity": "Rare Holo",
+    "set_name": "Secret Wonders",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Blastoise",
+    "number": "2",
+    "rarity": "Rare Holo",
+    "set_name": "Secret Wonders",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Charizard",
+    "number": "3",
+    "rarity": "Rare Holo",
+    "set_name": "Secret Wonders",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Entei",
+    "number": "4",
+    "rarity": "Rare Holo",
+    "set_name": "Secret Wonders",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Flygon",
+    "number": "5",
+    "rarity": "Rare Holo",
+    "set_name": "Secret Wonders",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Gallade",
+    "number": "6",
+    "rarity": "Rare Holo",
+    "set_name": "Secret Wonders",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Gardevoir",
+    "number": "7",
+    "rarity": "Rare Holo",
+    "set_name": "Secret Wonders",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Gastrodon East Sea",
+    "number": "8",
+    "rarity": "Rare Holo",
+    "set_name": "Secret Wonders",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Gastrodon West Sea",
+    "number": "9",
+    "rarity": "Rare Holo",
+    "set_name": "Secret Wonders",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Ho-Oh",
+    "number": "10",
+    "rarity": "Rare Holo",
+    "set_name": "Secret Wonders",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Jumpluff",
+    "number": "11",
+    "rarity": "Rare Holo",
+    "set_name": "Secret Wonders",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Lickilicky",
+    "number": "12",
+    "rarity": "Rare Holo",
+    "set_name": "Secret Wonders",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Ludicolo",
+    "number": "13",
+    "rarity": "Rare Holo",
+    "set_name": "Secret Wonders",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Lugia",
+    "number": "14",
+    "rarity": "Rare Holo",
+    "set_name": "Secret Wonders",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Mew",
+    "number": "15",
+    "rarity": "Rare Holo",
+    "set_name": "Secret Wonders",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Raikou",
+    "number": "16",
+    "rarity": "Rare Holo",
+    "set_name": "Secret Wonders",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Roserade",
+    "number": "17",
+    "rarity": "Rare Holo",
+    "set_name": "Secret Wonders",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Salamence",
+    "number": "18",
+    "rarity": "Rare Holo",
+    "set_name": "Secret Wonders",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Suicune",
+    "number": "19",
+    "rarity": "Rare Holo",
+    "set_name": "Secret Wonders",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Venusaur",
+    "number": "20",
+    "rarity": "Rare Holo",
+    "set_name": "Secret Wonders",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Absol",
+    "number": "21",
+    "rarity": "Rare",
+    "set_name": "Secret Wonders",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Arcanine",
+    "number": "22",
+    "rarity": "Rare",
+    "set_name": "Secret Wonders",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Banette",
+    "number": "23",
+    "rarity": "Rare",
+    "set_name": "Secret Wonders",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Dugtrio",
+    "number": "24",
+    "rarity": "Rare",
+    "set_name": "Secret Wonders",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Electivire",
+    "number": "25",
+    "rarity": "Rare",
+    "set_name": "Secret Wonders",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Electrode",
+    "number": "26",
+    "rarity": "Rare",
+    "set_name": "Secret Wonders",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Furret",
+    "number": "27",
+    "rarity": "Rare",
+    "set_name": "Secret Wonders",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Golduck",
+    "number": "28",
+    "rarity": "Rare",
+    "set_name": "Secret Wonders",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Golem",
+    "number": "29",
+    "rarity": "Rare",
+    "set_name": "Secret Wonders",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Jynx",
+    "number": "30",
+    "rarity": "Rare",
+    "set_name": "Secret Wonders",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Magmortar",
+    "number": "31",
+    "rarity": "Rare",
+    "set_name": "Secret Wonders",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Minun",
+    "number": "32",
+    "rarity": "Rare",
+    "set_name": "Secret Wonders",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Mothim",
+    "number": "33",
+    "rarity": "Rare",
+    "set_name": "Secret Wonders",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Nidoking",
+    "number": "34",
+    "rarity": "Rare",
+    "set_name": "Secret Wonders",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Pidgeot",
+    "number": "35",
+    "rarity": "Rare",
+    "set_name": "Secret Wonders",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Plusle",
+    "number": "36",
+    "rarity": "Rare",
+    "set_name": "Secret Wonders",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Sharpedo",
+    "number": "37",
+    "rarity": "Rare",
+    "set_name": "Secret Wonders",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Sunflora",
+    "number": "38",
+    "rarity": "Rare",
+    "set_name": "Secret Wonders",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Unown [S]",
+    "number": "39",
+    "rarity": "Rare",
+    "set_name": "Secret Wonders",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Weavile",
+    "number": "40",
+    "rarity": "Rare",
+    "set_name": "Secret Wonders",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Wormadam Plant Cloak",
+    "number": "41",
+    "rarity": "Rare",
+    "set_name": "Secret Wonders",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Wormadam Sandy Cloak",
+    "number": "42",
+    "rarity": "Rare",
+    "set_name": "Secret Wonders",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Wormadam Trash Cloak",
+    "number": "43",
+    "rarity": "Rare",
+    "set_name": "Secret Wonders",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Xatu",
+    "number": "44",
+    "rarity": "Rare",
+    "set_name": "Secret Wonders",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Breloom",
+    "number": "45",
+    "rarity": "Uncommon",
+    "set_name": "Secret Wonders",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Charmeleon",
+    "number": "46",
+    "rarity": "Uncommon",
+    "set_name": "Secret Wonders",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Cloyster",
+    "number": "47",
+    "rarity": "Uncommon",
+    "set_name": "Secret Wonders",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Donphan",
+    "number": "48",
+    "rarity": "Uncommon",
+    "set_name": "Secret Wonders",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Farfetch'd",
+    "number": "49",
+    "rarity": "Uncommon",
+    "set_name": "Secret Wonders",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Flaaffy",
+    "number": "50",
+    "rarity": "Uncommon",
+    "set_name": "Secret Wonders",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Ivysaur",
+    "number": "51",
+    "rarity": "Uncommon",
+    "set_name": "Secret Wonders",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Kecleon",
+    "number": "52",
+    "rarity": "Uncommon",
+    "set_name": "Secret Wonders",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Kirlia",
+    "number": "53",
+    "rarity": "Uncommon",
+    "set_name": "Secret Wonders",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Lombre",
+    "number": "54",
+    "rarity": "Uncommon",
+    "set_name": "Secret Wonders",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Miltank",
+    "number": "55",
+    "rarity": "Uncommon",
+    "set_name": "Secret Wonders",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Muk",
+    "number": "56",
+    "rarity": "Uncommon",
+    "set_name": "Secret Wonders",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Nidorino",
+    "number": "57",
+    "rarity": "Uncommon",
+    "set_name": "Secret Wonders",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Pidgeotto",
+    "number": "58",
+    "rarity": "Uncommon",
+    "set_name": "Secret Wonders",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Pinsir",
+    "number": "59",
+    "rarity": "Uncommon",
+    "set_name": "Secret Wonders",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Quagsire",
+    "number": "60",
+    "rarity": "Uncommon",
+    "set_name": "Secret Wonders",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Raticate",
+    "number": "61",
+    "rarity": "Uncommon",
+    "set_name": "Secret Wonders",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Roselia",
+    "number": "62",
+    "rarity": "Uncommon",
+    "set_name": "Secret Wonders",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Sableye",
+    "number": "63",
+    "rarity": "Uncommon",
+    "set_name": "Secret Wonders",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Shelgon",
+    "number": "64",
+    "rarity": "Uncommon",
+    "set_name": "Secret Wonders",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Skiploom",
+    "number": "65",
+    "rarity": "Uncommon",
+    "set_name": "Secret Wonders",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Smeargle",
+    "number": "66",
+    "rarity": "Uncommon",
+    "set_name": "Secret Wonders",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Smoochum",
+    "number": "67",
+    "rarity": "Uncommon",
+    "set_name": "Secret Wonders",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Unown [K]",
+    "number": "68",
+    "rarity": "Uncommon",
+    "set_name": "Secret Wonders",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Unown [N]",
+    "number": "69",
+    "rarity": "Uncommon",
+    "set_name": "Secret Wonders",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Unown [O]",
+    "number": "70",
+    "rarity": "Uncommon",
+    "set_name": "Secret Wonders",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Unown [X]",
+    "number": "71",
+    "rarity": "Uncommon",
+    "set_name": "Secret Wonders",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Unown [Z]",
+    "number": "72",
+    "rarity": "Uncommon",
+    "set_name": "Secret Wonders",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Venomoth",
+    "number": "73",
+    "rarity": "Uncommon",
+    "set_name": "Secret Wonders",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Vibrava",
+    "number": "74",
+    "rarity": "Uncommon",
+    "set_name": "Secret Wonders",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Wartortle",
+    "number": "75",
+    "rarity": "Uncommon",
+    "set_name": "Secret Wonders",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Bagon",
+    "number": "76",
+    "rarity": "Common",
+    "set_name": "Secret Wonders",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Bulbasaur",
+    "number": "77",
+    "rarity": "Common",
+    "set_name": "Secret Wonders",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Burmy Plant Cloak",
+    "number": "78",
+    "rarity": "Common",
+    "set_name": "Secret Wonders",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Burmy Sandy Cloak",
+    "number": "79",
+    "rarity": "Common",
+    "set_name": "Secret Wonders",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Burmy Trash Cloak",
+    "number": "80",
+    "rarity": "Common",
+    "set_name": "Secret Wonders",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Carvanha",
+    "number": "81",
+    "rarity": "Common",
+    "set_name": "Secret Wonders",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Charmander",
+    "number": "82",
+    "rarity": "Common",
+    "set_name": "Secret Wonders",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Clefairy",
+    "number": "83",
+    "rarity": "Common",
+    "set_name": "Secret Wonders",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Corsola",
+    "number": "84",
+    "rarity": "Common",
+    "set_name": "Secret Wonders",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Diglett",
+    "number": "85",
+    "rarity": "Common",
+    "set_name": "Secret Wonders",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Duskull",
+    "number": "86",
+    "rarity": "Common",
+    "set_name": "Secret Wonders",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Electabuzz",
+    "number": "87",
+    "rarity": "Common",
+    "set_name": "Secret Wonders",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Grimer",
+    "number": "88",
+    "rarity": "Common",
+    "set_name": "Secret Wonders",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Growlithe",
+    "number": "89",
+    "rarity": "Common",
+    "set_name": "Secret Wonders",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Hoppip",
+    "number": "90",
+    "rarity": "Common",
+    "set_name": "Secret Wonders",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Lickitung",
+    "number": "91",
+    "rarity": "Common",
+    "set_name": "Secret Wonders",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Lotad",
+    "number": "92",
+    "rarity": "Common",
+    "set_name": "Secret Wonders",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Magmar",
+    "number": "93",
+    "rarity": "Common",
+    "set_name": "Secret Wonders",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Mareep",
+    "number": "94",
+    "rarity": "Common",
+    "set_name": "Secret Wonders",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Murkrow",
+    "number": "95",
+    "rarity": "Common",
+    "set_name": "Secret Wonders",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Natu",
+    "number": "96",
+    "rarity": "Common",
+    "set_name": "Secret Wonders",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Nidoran \u2642",
+    "number": "97",
+    "rarity": "Common",
+    "set_name": "Secret Wonders",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Phanpy",
+    "number": "98",
+    "rarity": "Common",
+    "set_name": "Secret Wonders",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Pidgey",
+    "number": "99",
+    "rarity": "Common",
+    "set_name": "Secret Wonders",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Psyduck",
+    "number": "100",
+    "rarity": "Common",
+    "set_name": "Secret Wonders",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Qwilfish",
+    "number": "101",
+    "rarity": "Common",
+    "set_name": "Secret Wonders",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Ralts",
+    "number": "102",
+    "rarity": "Common",
+    "set_name": "Secret Wonders",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Rattata",
+    "number": "103",
+    "rarity": "Common",
+    "set_name": "Secret Wonders",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Sentret",
+    "number": "104",
+    "rarity": "Common",
+    "set_name": "Secret Wonders",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Shellder",
+    "number": "105",
+    "rarity": "Common",
+    "set_name": "Secret Wonders",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Shellos East Sea",
+    "number": "106",
+    "rarity": "Common",
+    "set_name": "Secret Wonders",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Shellos West Sea",
+    "number": "107",
+    "rarity": "Common",
+    "set_name": "Secret Wonders",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Shroomish",
+    "number": "108",
+    "rarity": "Common",
+    "set_name": "Secret Wonders",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Shuckle",
+    "number": "109",
+    "rarity": "Common",
+    "set_name": "Secret Wonders",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Shuppet",
+    "number": "110",
+    "rarity": "Common",
+    "set_name": "Secret Wonders",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Spinda",
+    "number": "111",
+    "rarity": "Common",
+    "set_name": "Secret Wonders",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Squirtle",
+    "number": "112",
+    "rarity": "Common",
+    "set_name": "Secret Wonders",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Stantler",
+    "number": "113",
+    "rarity": "Common",
+    "set_name": "Secret Wonders",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Sunkern",
+    "number": "114",
+    "rarity": "Common",
+    "set_name": "Secret Wonders",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Trapinch",
+    "number": "115",
+    "rarity": "Common",
+    "set_name": "Secret Wonders",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Venonat",
+    "number": "116",
+    "rarity": "Common",
+    "set_name": "Secret Wonders",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Voltorb",
+    "number": "117",
+    "rarity": "Common",
+    "set_name": "Secret Wonders",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Wooper",
+    "number": "118",
+    "rarity": "Common",
+    "set_name": "Secret Wonders",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Bebe's Search",
+    "number": "119",
+    "rarity": "Uncommon",
+    "set_name": "Secret Wonders",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Night Maintenance",
+    "number": "120",
+    "rarity": "Uncommon",
+    "set_name": "Secret Wonders",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "PlusPower",
+    "number": "121",
+    "rarity": "Uncommon",
+    "set_name": "Secret Wonders",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Professor Oak's Visit",
+    "number": "122",
+    "rarity": "Uncommon",
+    "set_name": "Secret Wonders",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Professor Rowan",
+    "number": "123",
+    "rarity": "Uncommon",
+    "set_name": "Secret Wonders",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Rival",
+    "number": "124",
+    "rarity": "Uncommon",
+    "set_name": "Secret Wonders",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Roseanne's Research",
+    "number": "125",
+    "rarity": "Uncommon",
+    "set_name": "Secret Wonders",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Team Galactic's Mars",
+    "number": "126",
+    "rarity": "Uncommon",
+    "set_name": "Secret Wonders",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Potion",
+    "number": "127",
+    "rarity": "Common",
+    "set_name": "Secret Wonders",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Switch",
+    "number": "128",
+    "rarity": "Common",
+    "set_name": "Secret Wonders",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Darkness Energy",
+    "number": "129",
+    "rarity": "Uncommon",
+    "set_name": "Secret Wonders",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Metal Energy",
+    "number": "130",
+    "rarity": "Uncommon",
+    "set_name": "Secret Wonders",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Gardevoir LV.X",
+    "number": "131",
+    "rarity": "Rare Holo LV.X",
+    "set_name": "Secret Wonders",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Honchkrow LV.X",
+    "number": "132",
+    "rarity": "Rare Holo LV.X",
+    "set_name": "Secret Wonders",
+    "set_series": "Diamond & Pearl"
+  }
+]

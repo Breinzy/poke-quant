@@ -1,0 +1,751 @@
+[
+  {
+    "name": "Blaziken",
+    "number": "1",
+    "rarity": "Rare Holo",
+    "set_name": "Emerald",
+    "set_series": "EX"
+  },
+  {
+    "name": "Deoxys",
+    "number": "2",
+    "rarity": "Rare Holo",
+    "set_name": "Emerald",
+    "set_series": "EX"
+  },
+  {
+    "name": "Exploud",
+    "number": "3",
+    "rarity": "Rare Holo",
+    "set_name": "Emerald",
+    "set_series": "EX"
+  },
+  {
+    "name": "Gardevoir",
+    "number": "4",
+    "rarity": "Rare Holo",
+    "set_name": "Emerald",
+    "set_series": "EX"
+  },
+  {
+    "name": "Groudon",
+    "number": "5",
+    "rarity": "Rare Holo",
+    "set_name": "Emerald",
+    "set_series": "EX"
+  },
+  {
+    "name": "Kyogre",
+    "number": "6",
+    "rarity": "Rare Holo",
+    "set_name": "Emerald",
+    "set_series": "EX"
+  },
+  {
+    "name": "Manectric",
+    "number": "7",
+    "rarity": "Rare Holo",
+    "set_name": "Emerald",
+    "set_series": "EX"
+  },
+  {
+    "name": "Milotic",
+    "number": "8",
+    "rarity": "Rare Holo",
+    "set_name": "Emerald",
+    "set_series": "EX"
+  },
+  {
+    "name": "Rayquaza",
+    "number": "9",
+    "rarity": "Rare Holo",
+    "set_name": "Emerald",
+    "set_series": "EX"
+  },
+  {
+    "name": "Sceptile",
+    "number": "10",
+    "rarity": "Rare Holo",
+    "set_name": "Emerald",
+    "set_series": "EX"
+  },
+  {
+    "name": "Swampert",
+    "number": "11",
+    "rarity": "Rare Holo",
+    "set_name": "Emerald",
+    "set_series": "EX"
+  },
+  {
+    "name": "Chimecho",
+    "number": "12",
+    "rarity": "Rare",
+    "set_name": "Emerald",
+    "set_series": "EX"
+  },
+  {
+    "name": "Glalie",
+    "number": "13",
+    "rarity": "Rare",
+    "set_name": "Emerald",
+    "set_series": "EX"
+  },
+  {
+    "name": "Groudon",
+    "number": "14",
+    "rarity": "Rare",
+    "set_name": "Emerald",
+    "set_series": "EX"
+  },
+  {
+    "name": "Kyogre",
+    "number": "15",
+    "rarity": "Rare",
+    "set_name": "Emerald",
+    "set_series": "EX"
+  },
+  {
+    "name": "Manectric",
+    "number": "16",
+    "rarity": "Rare",
+    "set_name": "Emerald",
+    "set_series": "EX"
+  },
+  {
+    "name": "Nosepass",
+    "number": "17",
+    "rarity": "Rare",
+    "set_name": "Emerald",
+    "set_series": "EX"
+  },
+  {
+    "name": "Relicanth",
+    "number": "18",
+    "rarity": "Rare",
+    "set_name": "Emerald",
+    "set_series": "EX"
+  },
+  {
+    "name": "Rhydon",
+    "number": "19",
+    "rarity": "Rare",
+    "set_name": "Emerald",
+    "set_series": "EX"
+  },
+  {
+    "name": "Seviper",
+    "number": "20",
+    "rarity": "Rare",
+    "set_name": "Emerald",
+    "set_series": "EX"
+  },
+  {
+    "name": "Zangoose",
+    "number": "21",
+    "rarity": "Rare",
+    "set_name": "Emerald",
+    "set_series": "EX"
+  },
+  {
+    "name": "Breloom",
+    "number": "22",
+    "rarity": "Uncommon",
+    "set_name": "Emerald",
+    "set_series": "EX"
+  },
+  {
+    "name": "Camerupt",
+    "number": "23",
+    "rarity": "Uncommon",
+    "set_name": "Emerald",
+    "set_series": "EX"
+  },
+  {
+    "name": "Claydol",
+    "number": "24",
+    "rarity": "Uncommon",
+    "set_name": "Emerald",
+    "set_series": "EX"
+  },
+  {
+    "name": "Combusken",
+    "number": "25",
+    "rarity": "Uncommon",
+    "set_name": "Emerald",
+    "set_series": "EX"
+  },
+  {
+    "name": "Dodrio",
+    "number": "26",
+    "rarity": "Uncommon",
+    "set_name": "Emerald",
+    "set_series": "EX"
+  },
+  {
+    "name": "Electrode",
+    "number": "27",
+    "rarity": "Uncommon",
+    "set_name": "Emerald",
+    "set_series": "EX"
+  },
+  {
+    "name": "Grovyle",
+    "number": "28",
+    "rarity": "Uncommon",
+    "set_name": "Emerald",
+    "set_series": "EX"
+  },
+  {
+    "name": "Grumpig",
+    "number": "29",
+    "rarity": "Uncommon",
+    "set_name": "Emerald",
+    "set_series": "EX"
+  },
+  {
+    "name": "Grumpig",
+    "number": "30",
+    "rarity": "Uncommon",
+    "set_name": "Emerald",
+    "set_series": "EX"
+  },
+  {
+    "name": "Hariyama",
+    "number": "31",
+    "rarity": "Uncommon",
+    "set_name": "Emerald",
+    "set_series": "EX"
+  },
+  {
+    "name": "Illumise",
+    "number": "32",
+    "rarity": "Uncommon",
+    "set_name": "Emerald",
+    "set_series": "EX"
+  },
+  {
+    "name": "Kirlia",
+    "number": "33",
+    "rarity": "Uncommon",
+    "set_name": "Emerald",
+    "set_series": "EX"
+  },
+  {
+    "name": "Linoone",
+    "number": "34",
+    "rarity": "Uncommon",
+    "set_name": "Emerald",
+    "set_series": "EX"
+  },
+  {
+    "name": "Loudred",
+    "number": "35",
+    "rarity": "Uncommon",
+    "set_name": "Emerald",
+    "set_series": "EX"
+  },
+  {
+    "name": "Marshtomp",
+    "number": "36",
+    "rarity": "Uncommon",
+    "set_name": "Emerald",
+    "set_series": "EX"
+  },
+  {
+    "name": "Minun",
+    "number": "37",
+    "rarity": "Uncommon",
+    "set_name": "Emerald",
+    "set_series": "EX"
+  },
+  {
+    "name": "Ninetales",
+    "number": "38",
+    "rarity": "Uncommon",
+    "set_name": "Emerald",
+    "set_series": "EX"
+  },
+  {
+    "name": "Plusle",
+    "number": "39",
+    "rarity": "Uncommon",
+    "set_name": "Emerald",
+    "set_series": "EX"
+  },
+  {
+    "name": "Swalot",
+    "number": "40",
+    "rarity": "Uncommon",
+    "set_name": "Emerald",
+    "set_series": "EX"
+  },
+  {
+    "name": "Swellow",
+    "number": "41",
+    "rarity": "Uncommon",
+    "set_name": "Emerald",
+    "set_series": "EX"
+  },
+  {
+    "name": "Volbeat",
+    "number": "42",
+    "rarity": "Uncommon",
+    "set_name": "Emerald",
+    "set_series": "EX"
+  },
+  {
+    "name": "Baltoy",
+    "number": "43",
+    "rarity": "Common",
+    "set_name": "Emerald",
+    "set_series": "EX"
+  },
+  {
+    "name": "Cacnea",
+    "number": "44",
+    "rarity": "Common",
+    "set_name": "Emerald",
+    "set_series": "EX"
+  },
+  {
+    "name": "Doduo",
+    "number": "45",
+    "rarity": "Common",
+    "set_name": "Emerald",
+    "set_series": "EX"
+  },
+  {
+    "name": "Duskull",
+    "number": "46",
+    "rarity": "Common",
+    "set_name": "Emerald",
+    "set_series": "EX"
+  },
+  {
+    "name": "Electrike",
+    "number": "47",
+    "rarity": "Common",
+    "set_name": "Emerald",
+    "set_series": "EX"
+  },
+  {
+    "name": "Electrike",
+    "number": "48",
+    "rarity": "Common",
+    "set_name": "Emerald",
+    "set_series": "EX"
+  },
+  {
+    "name": "Feebas",
+    "number": "49",
+    "rarity": "Common",
+    "set_name": "Emerald",
+    "set_series": "EX"
+  },
+  {
+    "name": "Feebas",
+    "number": "50",
+    "rarity": "Common",
+    "set_name": "Emerald",
+    "set_series": "EX"
+  },
+  {
+    "name": "Gulpin",
+    "number": "51",
+    "rarity": "Common",
+    "set_name": "Emerald",
+    "set_series": "EX"
+  },
+  {
+    "name": "Larvitar",
+    "number": "52",
+    "rarity": "Common",
+    "set_name": "Emerald",
+    "set_series": "EX"
+  },
+  {
+    "name": "Luvdisc",
+    "number": "53",
+    "rarity": "Common",
+    "set_name": "Emerald",
+    "set_series": "EX"
+  },
+  {
+    "name": "Makuhita",
+    "number": "54",
+    "rarity": "Common",
+    "set_name": "Emerald",
+    "set_series": "EX"
+  },
+  {
+    "name": "Meditite",
+    "number": "55",
+    "rarity": "Common",
+    "set_name": "Emerald",
+    "set_series": "EX"
+  },
+  {
+    "name": "Mudkip",
+    "number": "56",
+    "rarity": "Common",
+    "set_name": "Emerald",
+    "set_series": "EX"
+  },
+  {
+    "name": "Numel",
+    "number": "57",
+    "rarity": "Common",
+    "set_name": "Emerald",
+    "set_series": "EX"
+  },
+  {
+    "name": "Numel",
+    "number": "58",
+    "rarity": "Common",
+    "set_name": "Emerald",
+    "set_series": "EX"
+  },
+  {
+    "name": "Pichu",
+    "number": "59",
+    "rarity": "Common",
+    "set_name": "Emerald",
+    "set_series": "EX"
+  },
+  {
+    "name": "Pikachu",
+    "number": "60",
+    "rarity": "Common",
+    "set_name": "Emerald",
+    "set_series": "EX"
+  },
+  {
+    "name": "Ralts",
+    "number": "61",
+    "rarity": "Common",
+    "set_name": "Emerald",
+    "set_series": "EX"
+  },
+  {
+    "name": "Rhyhorn",
+    "number": "62",
+    "rarity": "Common",
+    "set_name": "Emerald",
+    "set_series": "EX"
+  },
+  {
+    "name": "Shroomish",
+    "number": "63",
+    "rarity": "Common",
+    "set_name": "Emerald",
+    "set_series": "EX"
+  },
+  {
+    "name": "Snorunt",
+    "number": "64",
+    "rarity": "Common",
+    "set_name": "Emerald",
+    "set_series": "EX"
+  },
+  {
+    "name": "Spoink",
+    "number": "65",
+    "rarity": "Common",
+    "set_name": "Emerald",
+    "set_series": "EX"
+  },
+  {
+    "name": "Spoink",
+    "number": "66",
+    "rarity": "Common",
+    "set_name": "Emerald",
+    "set_series": "EX"
+  },
+  {
+    "name": "Swablu",
+    "number": "67",
+    "rarity": "Common",
+    "set_name": "Emerald",
+    "set_series": "EX"
+  },
+  {
+    "name": "Taillow",
+    "number": "68",
+    "rarity": "Common",
+    "set_name": "Emerald",
+    "set_series": "EX"
+  },
+  {
+    "name": "Torchic",
+    "number": "69",
+    "rarity": "Common",
+    "set_name": "Emerald",
+    "set_series": "EX"
+  },
+  {
+    "name": "Treecko",
+    "number": "70",
+    "rarity": "Common",
+    "set_name": "Emerald",
+    "set_series": "EX"
+  },
+  {
+    "name": "Voltorb",
+    "number": "71",
+    "rarity": "Common",
+    "set_name": "Emerald",
+    "set_series": "EX"
+  },
+  {
+    "name": "Vulpix",
+    "number": "72",
+    "rarity": "Common",
+    "set_name": "Emerald",
+    "set_series": "EX"
+  },
+  {
+    "name": "Whismur",
+    "number": "73",
+    "rarity": "Common",
+    "set_name": "Emerald",
+    "set_series": "EX"
+  },
+  {
+    "name": "Zigzagoon",
+    "number": "74",
+    "rarity": "Common",
+    "set_name": "Emerald",
+    "set_series": "EX"
+  },
+  {
+    "name": "Battle Frontier",
+    "number": "75",
+    "rarity": "Uncommon",
+    "set_name": "Emerald",
+    "set_series": "EX"
+  },
+  {
+    "name": "Double Full Heal",
+    "number": "76",
+    "rarity": "Uncommon",
+    "set_name": "Emerald",
+    "set_series": "EX"
+  },
+  {
+    "name": "Lanette's Net Search",
+    "number": "77",
+    "rarity": "Uncommon",
+    "set_name": "Emerald",
+    "set_series": "EX"
+  },
+  {
+    "name": "Lum Berry",
+    "number": "78",
+    "rarity": "Uncommon",
+    "set_name": "Emerald",
+    "set_series": "EX"
+  },
+  {
+    "name": "Mr. Stone's Project",
+    "number": "79",
+    "rarity": "Uncommon",
+    "set_name": "Emerald",
+    "set_series": "EX"
+  },
+  {
+    "name": "Oran Berry",
+    "number": "80",
+    "rarity": "Uncommon",
+    "set_name": "Emerald",
+    "set_series": "EX"
+  },
+  {
+    "name": "Pok\u00e9Nav",
+    "number": "81",
+    "rarity": "Uncommon",
+    "set_name": "Emerald",
+    "set_series": "EX"
+  },
+  {
+    "name": "Professor Birch",
+    "number": "82",
+    "rarity": "Uncommon",
+    "set_name": "Emerald",
+    "set_series": "EX"
+  },
+  {
+    "name": "Rare Candy",
+    "number": "83",
+    "rarity": "Uncommon",
+    "set_name": "Emerald",
+    "set_series": "EX"
+  },
+  {
+    "name": "Scott",
+    "number": "84",
+    "rarity": "Uncommon",
+    "set_name": "Emerald",
+    "set_series": "EX"
+  },
+  {
+    "name": "Wally's Training",
+    "number": "85",
+    "rarity": "Uncommon",
+    "set_name": "Emerald",
+    "set_series": "EX"
+  },
+  {
+    "name": "Darkness Energy",
+    "number": "86",
+    "rarity": "Rare",
+    "set_name": "Emerald",
+    "set_series": "EX"
+  },
+  {
+    "name": "Double Rainbow Energy",
+    "number": "87",
+    "rarity": "Rare",
+    "set_name": "Emerald",
+    "set_series": "EX"
+  },
+  {
+    "name": "Metal Energy",
+    "number": "88",
+    "rarity": "Rare",
+    "set_name": "Emerald",
+    "set_series": "EX"
+  },
+  {
+    "name": "Multi Energy",
+    "number": "89",
+    "rarity": "Rare",
+    "set_name": "Emerald",
+    "set_series": "EX"
+  },
+  {
+    "name": "Altaria ex",
+    "number": "90",
+    "rarity": "Rare Holo EX",
+    "set_name": "Emerald",
+    "set_series": "EX"
+  },
+  {
+    "name": "Cacturne ex",
+    "number": "91",
+    "rarity": "Rare Holo EX",
+    "set_name": "Emerald",
+    "set_series": "EX"
+  },
+  {
+    "name": "Camerupt ex",
+    "number": "92",
+    "rarity": "Rare Holo EX",
+    "set_name": "Emerald",
+    "set_series": "EX"
+  },
+  {
+    "name": "Deoxys ex",
+    "number": "93",
+    "rarity": "Rare Holo EX",
+    "set_name": "Emerald",
+    "set_series": "EX"
+  },
+  {
+    "name": "Dusclops ex",
+    "number": "94",
+    "rarity": "Rare Holo EX",
+    "set_name": "Emerald",
+    "set_series": "EX"
+  },
+  {
+    "name": "Medicham ex",
+    "number": "95",
+    "rarity": "Rare Holo EX",
+    "set_name": "Emerald",
+    "set_series": "EX"
+  },
+  {
+    "name": "Milotic ex",
+    "number": "96",
+    "rarity": "Rare Holo EX",
+    "set_name": "Emerald",
+    "set_series": "EX"
+  },
+  {
+    "name": "Raichu ex",
+    "number": "97",
+    "rarity": "Rare Holo EX",
+    "set_name": "Emerald",
+    "set_series": "EX"
+  },
+  {
+    "name": "Regice ex",
+    "number": "98",
+    "rarity": "Rare Holo EX",
+    "set_name": "Emerald",
+    "set_series": "EX"
+  },
+  {
+    "name": "Regirock ex",
+    "number": "99",
+    "rarity": "Rare Holo EX",
+    "set_name": "Emerald",
+    "set_series": "EX"
+  },
+  {
+    "name": "Registeel ex",
+    "number": "100",
+    "rarity": "Rare Holo EX",
+    "set_name": "Emerald",
+    "set_series": "EX"
+  },
+  {
+    "name": "Grass Energy",
+    "number": "101",
+    "rarity": "Rare Holo",
+    "set_name": "Emerald",
+    "set_series": "EX"
+  },
+  {
+    "name": "Fire Energy",
+    "number": "102",
+    "rarity": "Rare Holo",
+    "set_name": "Emerald",
+    "set_series": "EX"
+  },
+  {
+    "name": "Water Energy",
+    "number": "103",
+    "rarity": "Rare Holo",
+    "set_name": "Emerald",
+    "set_series": "EX"
+  },
+  {
+    "name": "Lightning Energy",
+    "number": "104",
+    "rarity": "Rare Holo",
+    "set_name": "Emerald",
+    "set_series": "EX"
+  },
+  {
+    "name": "Psychic Energy",
+    "number": "105",
+    "rarity": "Rare Holo",
+    "set_name": "Emerald",
+    "set_series": "EX"
+  },
+  {
+    "name": "Fighting Energy",
+    "number": "106",
+    "rarity": "Rare Holo",
+    "set_name": "Emerald",
+    "set_series": "EX"
+  },
+  {
+    "name": "Farfetch'd",
+    "number": "107",
+    "rarity": "Rare Secret",
+    "set_name": "Emerald",
+    "set_series": "EX"
+  }
+]

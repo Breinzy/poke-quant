@@ -1,0 +1,65 @@
+[
+  {
+    "name": "Electabuzz",
+    "number": "1",
+    "rarity": "Promo",
+    "set_name": "Best of Game",
+    "set_series": "Other"
+  },
+  {
+    "name": "Hitmonchan",
+    "number": "2",
+    "rarity": "Promo",
+    "set_name": "Best of Game",
+    "set_series": "Other"
+  },
+  {
+    "name": "Rocket's Scizor",
+    "number": "4",
+    "rarity": "Promo",
+    "set_name": "Best of Game",
+    "set_series": "Other"
+  },
+  {
+    "name": "Professor Elm",
+    "number": "3",
+    "rarity": "Promo",
+    "set_name": "Best of Game",
+    "set_series": "Other"
+  },
+  {
+    "name": "Dark Ivysaur",
+    "number": "6",
+    "rarity": "Promo",
+    "set_name": "Best of Game",
+    "set_series": "Other"
+  },
+  {
+    "name": "Rocket's Sneasel",
+    "number": "5",
+    "rarity": "Promo",
+    "set_name": "Best of Game",
+    "set_series": "Other"
+  },
+  {
+    "name": "Dark Venusaur",
+    "number": "7",
+    "rarity": "Promo",
+    "set_name": "Best of Game",
+    "set_series": "Other"
+  },
+  {
+    "name": "Rocket's Mewtwo",
+    "number": "8",
+    "rarity": "Promo",
+    "set_name": "Best of Game",
+    "set_series": "Other"
+  },
+  {
+    "name": "Rocket's Hitmonchan",
+    "number": "9",
+    "rarity": "Promo",
+    "set_name": "Best of Game",
+    "set_series": "Other"
+  }
+]

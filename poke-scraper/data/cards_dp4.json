@@ -1,0 +1,744 @@
+[
+  {
+    "name": "Blaziken",
+    "number": "1",
+    "rarity": "Rare Holo",
+    "set_name": "Great Encounters",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Cresselia",
+    "number": "2",
+    "rarity": "Rare Holo",
+    "set_name": "Great Encounters",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Darkrai",
+    "number": "3",
+    "rarity": "Rare Holo",
+    "set_name": "Great Encounters",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Darkrai",
+    "number": "4",
+    "rarity": "Rare Holo",
+    "set_name": "Great Encounters",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Pachirisu",
+    "number": "5",
+    "rarity": "Rare Holo",
+    "set_name": "Great Encounters",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Porygon-Z",
+    "number": "6",
+    "rarity": "Rare Holo",
+    "set_name": "Great Encounters",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Rotom",
+    "number": "7",
+    "rarity": "Rare Holo",
+    "set_name": "Great Encounters",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Sceptile",
+    "number": "8",
+    "rarity": "Rare Holo",
+    "set_name": "Great Encounters",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Swampert",
+    "number": "9",
+    "rarity": "Rare Holo",
+    "set_name": "Great Encounters",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Tangrowth",
+    "number": "10",
+    "rarity": "Rare Holo",
+    "set_name": "Great Encounters",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Togekiss",
+    "number": "11",
+    "rarity": "Rare Holo",
+    "set_name": "Great Encounters",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Altaria",
+    "number": "12",
+    "rarity": "Rare",
+    "set_name": "Great Encounters",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Beedrill",
+    "number": "13",
+    "rarity": "Rare",
+    "set_name": "Great Encounters",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Butterfree",
+    "number": "14",
+    "rarity": "Rare",
+    "set_name": "Great Encounters",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Claydol",
+    "number": "15",
+    "rarity": "Rare",
+    "set_name": "Great Encounters",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Dialga",
+    "number": "16",
+    "rarity": "Rare",
+    "set_name": "Great Encounters",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Exploud",
+    "number": "17",
+    "rarity": "Rare",
+    "set_name": "Great Encounters",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Houndoom",
+    "number": "18",
+    "rarity": "Rare",
+    "set_name": "Great Encounters",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Hypno",
+    "number": "19",
+    "rarity": "Rare",
+    "set_name": "Great Encounters",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Kingler",
+    "number": "20",
+    "rarity": "Rare",
+    "set_name": "Great Encounters",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Lapras",
+    "number": "21",
+    "rarity": "Rare",
+    "set_name": "Great Encounters",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Latias",
+    "number": "22",
+    "rarity": "Rare",
+    "set_name": "Great Encounters",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Latios",
+    "number": "23",
+    "rarity": "Rare",
+    "set_name": "Great Encounters",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Mawile",
+    "number": "24",
+    "rarity": "Rare",
+    "set_name": "Great Encounters",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Milotic",
+    "number": "25",
+    "rarity": "Rare",
+    "set_name": "Great Encounters",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Palkia",
+    "number": "26",
+    "rarity": "Rare",
+    "set_name": "Great Encounters",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Primeape",
+    "number": "27",
+    "rarity": "Rare",
+    "set_name": "Great Encounters",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Slowking",
+    "number": "28",
+    "rarity": "Rare",
+    "set_name": "Great Encounters",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Unown [H]",
+    "number": "29",
+    "rarity": "Rare",
+    "set_name": "Great Encounters",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Wailord",
+    "number": "30",
+    "rarity": "Rare",
+    "set_name": "Great Encounters",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Weezing",
+    "number": "31",
+    "rarity": "Rare",
+    "set_name": "Great Encounters",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Wigglytuff",
+    "number": "32",
+    "rarity": "Rare",
+    "set_name": "Great Encounters",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Arbok",
+    "number": "33",
+    "rarity": "Uncommon",
+    "set_name": "Great Encounters",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Cacturne",
+    "number": "34",
+    "rarity": "Uncommon",
+    "set_name": "Great Encounters",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Combusken",
+    "number": "35",
+    "rarity": "Uncommon",
+    "set_name": "Great Encounters",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Delibird",
+    "number": "36",
+    "rarity": "Uncommon",
+    "set_name": "Great Encounters",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Floatzel",
+    "number": "37",
+    "rarity": "Uncommon",
+    "set_name": "Great Encounters",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Gorebyss",
+    "number": "38",
+    "rarity": "Uncommon",
+    "set_name": "Great Encounters",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Granbull",
+    "number": "39",
+    "rarity": "Uncommon",
+    "set_name": "Great Encounters",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Grovyle",
+    "number": "40",
+    "rarity": "Common",
+    "set_name": "Great Encounters",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Hariyama",
+    "number": "41",
+    "rarity": "Uncommon",
+    "set_name": "Great Encounters",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Huntail",
+    "number": "42",
+    "rarity": "Uncommon",
+    "set_name": "Great Encounters",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Linoone",
+    "number": "43",
+    "rarity": "Uncommon",
+    "set_name": "Great Encounters",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Loudred",
+    "number": "44",
+    "rarity": "Uncommon",
+    "set_name": "Great Encounters",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Magcargo",
+    "number": "45",
+    "rarity": "Uncommon",
+    "set_name": "Great Encounters",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Marshtomp",
+    "number": "46",
+    "rarity": "Uncommon",
+    "set_name": "Great Encounters",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Metapod",
+    "number": "47",
+    "rarity": "Uncommon",
+    "set_name": "Great Encounters",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Pelipper",
+    "number": "48",
+    "rarity": "Uncommon",
+    "set_name": "Great Encounters",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Porygon2",
+    "number": "49",
+    "rarity": "Uncommon",
+    "set_name": "Great Encounters",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Purugly",
+    "number": "50",
+    "rarity": "Uncommon",
+    "set_name": "Great Encounters",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Relicanth",
+    "number": "51",
+    "rarity": "Uncommon",
+    "set_name": "Great Encounters",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Seviper",
+    "number": "52",
+    "rarity": "Uncommon",
+    "set_name": "Great Encounters",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Skarmory",
+    "number": "53",
+    "rarity": "Uncommon",
+    "set_name": "Great Encounters",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Slowbro",
+    "number": "54",
+    "rarity": "Uncommon",
+    "set_name": "Great Encounters",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Togetic",
+    "number": "55",
+    "rarity": "Uncommon",
+    "set_name": "Great Encounters",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Unown [F]",
+    "number": "56",
+    "rarity": "Uncommon",
+    "set_name": "Great Encounters",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Unown [G]",
+    "number": "57",
+    "rarity": "Uncommon",
+    "set_name": "Great Encounters",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Wailmer",
+    "number": "58",
+    "rarity": "Uncommon",
+    "set_name": "Great Encounters",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Zangoose",
+    "number": "59",
+    "rarity": "Uncommon",
+    "set_name": "Great Encounters",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Baltoy",
+    "number": "60",
+    "rarity": "Common",
+    "set_name": "Great Encounters",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Buizel",
+    "number": "61",
+    "rarity": "Common",
+    "set_name": "Great Encounters",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Cacnea",
+    "number": "62",
+    "rarity": "Common",
+    "set_name": "Great Encounters",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Caterpie",
+    "number": "63",
+    "rarity": "Common",
+    "set_name": "Great Encounters",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Clamperl",
+    "number": "64",
+    "rarity": "Common",
+    "set_name": "Great Encounters",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Drowzee",
+    "number": "65",
+    "rarity": "Common",
+    "set_name": "Great Encounters",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Ekans",
+    "number": "66",
+    "rarity": "Common",
+    "set_name": "Great Encounters",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Feebas",
+    "number": "67",
+    "rarity": "Common",
+    "set_name": "Great Encounters",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Glameow",
+    "number": "68",
+    "rarity": "Common",
+    "set_name": "Great Encounters",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Houndour",
+    "number": "69",
+    "rarity": "Common",
+    "set_name": "Great Encounters",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Igglybuff",
+    "number": "70",
+    "rarity": "Common",
+    "set_name": "Great Encounters",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Illumise",
+    "number": "71",
+    "rarity": "Common",
+    "set_name": "Great Encounters",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Jigglypuff",
+    "number": "72",
+    "rarity": "Common",
+    "set_name": "Great Encounters",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Kakuna",
+    "number": "73",
+    "rarity": "Common",
+    "set_name": "Great Encounters",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Koffing",
+    "number": "74",
+    "rarity": "Common",
+    "set_name": "Great Encounters",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Krabby",
+    "number": "75",
+    "rarity": "Common",
+    "set_name": "Great Encounters",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Lunatone",
+    "number": "76",
+    "rarity": "Common",
+    "set_name": "Great Encounters",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Luvdisc",
+    "number": "77",
+    "rarity": "Common",
+    "set_name": "Great Encounters",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Makuhita",
+    "number": "78",
+    "rarity": "Common",
+    "set_name": "Great Encounters",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Mankey",
+    "number": "79",
+    "rarity": "Common",
+    "set_name": "Great Encounters",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Mudkip",
+    "number": "80",
+    "rarity": "Common",
+    "set_name": "Great Encounters",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Porygon",
+    "number": "81",
+    "rarity": "Common",
+    "set_name": "Great Encounters",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Slowpoke",
+    "number": "82",
+    "rarity": "Common",
+    "set_name": "Great Encounters",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Slugma",
+    "number": "83",
+    "rarity": "Common",
+    "set_name": "Great Encounters",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Snubbull",
+    "number": "84",
+    "rarity": "Common",
+    "set_name": "Great Encounters",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Solrock",
+    "number": "85",
+    "rarity": "Common",
+    "set_name": "Great Encounters",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Swablu",
+    "number": "86",
+    "rarity": "Common",
+    "set_name": "Great Encounters",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Tangela",
+    "number": "87",
+    "rarity": "Common",
+    "set_name": "Great Encounters",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Togepi",
+    "number": "88",
+    "rarity": "Common",
+    "set_name": "Great Encounters",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Torchic",
+    "number": "89",
+    "rarity": "Common",
+    "set_name": "Great Encounters",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Treecko",
+    "number": "90",
+    "rarity": "Common",
+    "set_name": "Great Encounters",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Unown [L]",
+    "number": "91",
+    "rarity": "Common",
+    "set_name": "Great Encounters",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Volbeat",
+    "number": "92",
+    "rarity": "Common",
+    "set_name": "Great Encounters",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Weedle",
+    "number": "93",
+    "rarity": "Common",
+    "set_name": "Great Encounters",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Whismur",
+    "number": "94",
+    "rarity": "Common",
+    "set_name": "Great Encounters",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Wingull",
+    "number": "95",
+    "rarity": "Common",
+    "set_name": "Great Encounters",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Zigzagoon",
+    "number": "96",
+    "rarity": "Common",
+    "set_name": "Great Encounters",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Amulet Coin",
+    "number": "97",
+    "rarity": "Uncommon",
+    "set_name": "Great Encounters",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Felicity's Drawing",
+    "number": "98",
+    "rarity": "Uncommon",
+    "set_name": "Great Encounters",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Leftovers",
+    "number": "99",
+    "rarity": "Uncommon",
+    "set_name": "Great Encounters",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Moonlight Stadium",
+    "number": "100",
+    "rarity": "Uncommon",
+    "set_name": "Great Encounters",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Premier Ball",
+    "number": "101",
+    "rarity": "Uncommon",
+    "set_name": "Great Encounters",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Rare Candy",
+    "number": "102",
+    "rarity": "Uncommon",
+    "set_name": "Great Encounters",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Cresselia LV.X",
+    "number": "103",
+    "rarity": "Rare Holo LV.X",
+    "set_name": "Great Encounters",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Darkrai LV.X",
+    "number": "104",
+    "rarity": "Rare Holo LV.X",
+    "set_name": "Great Encounters",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Dialga LV.X",
+    "number": "105",
+    "rarity": "Rare Holo LV.X",
+    "set_name": "Great Encounters",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Palkia LV.X",
+    "number": "106",
+    "rarity": "Rare Holo LV.X",
+    "set_name": "Great Encounters",
+    "set_series": "Diamond & Pearl"
+  }
+]

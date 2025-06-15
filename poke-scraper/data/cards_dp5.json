@@ -1,0 +1,702 @@
+[
+  {
+    "name": "Articuno",
+    "number": "1",
+    "rarity": "Rare Holo",
+    "set_name": "Majestic Dawn",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Cresselia",
+    "number": "2",
+    "rarity": "Rare Holo",
+    "set_name": "Majestic Dawn",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Darkrai",
+    "number": "3",
+    "rarity": "Rare Holo",
+    "set_name": "Majestic Dawn",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Dialga",
+    "number": "4",
+    "rarity": "Rare Holo",
+    "set_name": "Majestic Dawn",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Glaceon",
+    "number": "5",
+    "rarity": "Rare Holo",
+    "set_name": "Majestic Dawn",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Kabutops",
+    "number": "6",
+    "rarity": "Rare Holo",
+    "set_name": "Majestic Dawn",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Leafeon",
+    "number": "7",
+    "rarity": "Rare Holo",
+    "set_name": "Majestic Dawn",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Manaphy",
+    "number": "8",
+    "rarity": "Rare Holo",
+    "set_name": "Majestic Dawn",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Mewtwo",
+    "number": "9",
+    "rarity": "Rare Holo",
+    "set_name": "Majestic Dawn",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Moltres",
+    "number": "10",
+    "rarity": "Rare Holo",
+    "set_name": "Majestic Dawn",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Palkia",
+    "number": "11",
+    "rarity": "Rare Holo",
+    "set_name": "Majestic Dawn",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Phione",
+    "number": "12",
+    "rarity": "Rare Holo",
+    "set_name": "Majestic Dawn",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Rotom",
+    "number": "13",
+    "rarity": "Rare Holo",
+    "set_name": "Majestic Dawn",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Zapdos",
+    "number": "14",
+    "rarity": "Rare Holo",
+    "set_name": "Majestic Dawn",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Aerodactyl",
+    "number": "15",
+    "rarity": "Rare",
+    "set_name": "Majestic Dawn",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Bronzong",
+    "number": "16",
+    "rarity": "Rare",
+    "set_name": "Majestic Dawn",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Empoleon",
+    "number": "17",
+    "rarity": "Rare",
+    "set_name": "Majestic Dawn",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Espeon",
+    "number": "18",
+    "rarity": "Rare",
+    "set_name": "Majestic Dawn",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Flareon",
+    "number": "19",
+    "rarity": "Rare",
+    "set_name": "Majestic Dawn",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Glaceon",
+    "number": "20",
+    "rarity": "Rare",
+    "set_name": "Majestic Dawn",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Hippowdon",
+    "number": "21",
+    "rarity": "Rare",
+    "set_name": "Majestic Dawn",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Infernape",
+    "number": "22",
+    "rarity": "Rare",
+    "set_name": "Majestic Dawn",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Jolteon",
+    "number": "23",
+    "rarity": "Rare",
+    "set_name": "Majestic Dawn",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Leafeon",
+    "number": "24",
+    "rarity": "Rare",
+    "set_name": "Majestic Dawn",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Minun",
+    "number": "25",
+    "rarity": "Rare",
+    "set_name": "Majestic Dawn",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Omastar",
+    "number": "26",
+    "rarity": "Rare",
+    "set_name": "Majestic Dawn",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Phione",
+    "number": "27",
+    "rarity": "Rare",
+    "set_name": "Majestic Dawn",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Plusle",
+    "number": "28",
+    "rarity": "Rare",
+    "set_name": "Majestic Dawn",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Scizor",
+    "number": "29",
+    "rarity": "Rare",
+    "set_name": "Majestic Dawn",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Torterra",
+    "number": "30",
+    "rarity": "Rare",
+    "set_name": "Majestic Dawn",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Toxicroak",
+    "number": "31",
+    "rarity": "Rare",
+    "set_name": "Majestic Dawn",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Umbreon",
+    "number": "32",
+    "rarity": "Rare",
+    "set_name": "Majestic Dawn",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Unown [P]",
+    "number": "33",
+    "rarity": "Rare",
+    "set_name": "Majestic Dawn",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Vaporeon",
+    "number": "34",
+    "rarity": "Rare",
+    "set_name": "Majestic Dawn",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Ambipom",
+    "number": "35",
+    "rarity": "Uncommon",
+    "set_name": "Majestic Dawn",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Fearow",
+    "number": "36",
+    "rarity": "Uncommon",
+    "set_name": "Majestic Dawn",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Grotle",
+    "number": "37",
+    "rarity": "Uncommon",
+    "set_name": "Majestic Dawn",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Kangaskhan",
+    "number": "38",
+    "rarity": "Uncommon",
+    "set_name": "Majestic Dawn",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Lickitung",
+    "number": "39",
+    "rarity": "Uncommon",
+    "set_name": "Majestic Dawn",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Manectric",
+    "number": "40",
+    "rarity": "Uncommon",
+    "set_name": "Majestic Dawn",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Monferno",
+    "number": "41",
+    "rarity": "Uncommon",
+    "set_name": "Majestic Dawn",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Mothim",
+    "number": "42",
+    "rarity": "Uncommon",
+    "set_name": "Majestic Dawn",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Pachirisu",
+    "number": "43",
+    "rarity": "Uncommon",
+    "set_name": "Majestic Dawn",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Prinplup",
+    "number": "44",
+    "rarity": "Uncommon",
+    "set_name": "Majestic Dawn",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Raichu",
+    "number": "45",
+    "rarity": "Uncommon",
+    "set_name": "Majestic Dawn",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Scyther",
+    "number": "46",
+    "rarity": "Uncommon",
+    "set_name": "Majestic Dawn",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Staravia",
+    "number": "47",
+    "rarity": "Uncommon",
+    "set_name": "Majestic Dawn",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Sudowoodo",
+    "number": "48",
+    "rarity": "Uncommon",
+    "set_name": "Majestic Dawn",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Unown [Q]",
+    "number": "49",
+    "rarity": "Uncommon",
+    "set_name": "Majestic Dawn",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Aipom",
+    "number": "50",
+    "rarity": "Common",
+    "set_name": "Majestic Dawn",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Aipom",
+    "number": "51",
+    "rarity": "Common",
+    "set_name": "Majestic Dawn",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Bronzor",
+    "number": "52",
+    "rarity": "Common",
+    "set_name": "Majestic Dawn",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Buneary",
+    "number": "53",
+    "rarity": "Common",
+    "set_name": "Majestic Dawn",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Burmy Sandy Cloak",
+    "number": "54",
+    "rarity": "Common",
+    "set_name": "Majestic Dawn",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Chatot",
+    "number": "55",
+    "rarity": "Common",
+    "set_name": "Majestic Dawn",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Chimchar",
+    "number": "56",
+    "rarity": "Common",
+    "set_name": "Majestic Dawn",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Chimchar",
+    "number": "57",
+    "rarity": "Common",
+    "set_name": "Majestic Dawn",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Chingling",
+    "number": "58",
+    "rarity": "Common",
+    "set_name": "Majestic Dawn",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Combee",
+    "number": "59",
+    "rarity": "Common",
+    "set_name": "Majestic Dawn",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Croagunk",
+    "number": "60",
+    "rarity": "Common",
+    "set_name": "Majestic Dawn",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Drifloon",
+    "number": "61",
+    "rarity": "Common",
+    "set_name": "Majestic Dawn",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Eevee",
+    "number": "62",
+    "rarity": "Common",
+    "set_name": "Majestic Dawn",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Eevee",
+    "number": "63",
+    "rarity": "Common",
+    "set_name": "Majestic Dawn",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Electrike",
+    "number": "64",
+    "rarity": "Common",
+    "set_name": "Majestic Dawn",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Glameow",
+    "number": "65",
+    "rarity": "Common",
+    "set_name": "Majestic Dawn",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Hippopotas",
+    "number": "66",
+    "rarity": "Common",
+    "set_name": "Majestic Dawn",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Kabuto",
+    "number": "67",
+    "rarity": "Common",
+    "set_name": "Majestic Dawn",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Munchlax",
+    "number": "68",
+    "rarity": "Common",
+    "set_name": "Majestic Dawn",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Omanyte",
+    "number": "69",
+    "rarity": "Common",
+    "set_name": "Majestic Dawn",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Pikachu",
+    "number": "70",
+    "rarity": "Common",
+    "set_name": "Majestic Dawn",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Piplup",
+    "number": "71",
+    "rarity": "Common",
+    "set_name": "Majestic Dawn",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Piplup",
+    "number": "72",
+    "rarity": "Common",
+    "set_name": "Majestic Dawn",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Shellos East Sea",
+    "number": "73",
+    "rarity": "Common",
+    "set_name": "Majestic Dawn",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Spearow",
+    "number": "74",
+    "rarity": "Common",
+    "set_name": "Majestic Dawn",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Starly",
+    "number": "75",
+    "rarity": "Common",
+    "set_name": "Majestic Dawn",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Stunky",
+    "number": "76",
+    "rarity": "Common",
+    "set_name": "Majestic Dawn",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Turtwig",
+    "number": "77",
+    "rarity": "Common",
+    "set_name": "Majestic Dawn",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Turtwig",
+    "number": "78",
+    "rarity": "Common",
+    "set_name": "Majestic Dawn",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Dawn Stadium",
+    "number": "79",
+    "rarity": "Uncommon",
+    "set_name": "Majestic Dawn",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Dusk Ball",
+    "number": "80",
+    "rarity": "Uncommon",
+    "set_name": "Majestic Dawn",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Energy Restore",
+    "number": "81",
+    "rarity": "Uncommon",
+    "set_name": "Majestic Dawn",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Fossil Excavator",
+    "number": "82",
+    "rarity": "Uncommon",
+    "set_name": "Majestic Dawn",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Mom's Kindness",
+    "number": "83",
+    "rarity": "Uncommon",
+    "set_name": "Majestic Dawn",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Old Amber",
+    "number": "84",
+    "rarity": "Uncommon",
+    "set_name": "Majestic Dawn",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Pok\u00e9 Ball",
+    "number": "85",
+    "rarity": "Uncommon",
+    "set_name": "Majestic Dawn",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Quick Ball",
+    "number": "86",
+    "rarity": "Uncommon",
+    "set_name": "Majestic Dawn",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Super Scoop Up",
+    "number": "87",
+    "rarity": "Uncommon",
+    "set_name": "Majestic Dawn",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Warp Point",
+    "number": "88",
+    "rarity": "Uncommon",
+    "set_name": "Majestic Dawn",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Dome Fossil",
+    "number": "89",
+    "rarity": "Common",
+    "set_name": "Majestic Dawn",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Energy Search",
+    "number": "90",
+    "rarity": "Common",
+    "set_name": "Majestic Dawn",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Helix Fossil",
+    "number": "91",
+    "rarity": "Common",
+    "set_name": "Majestic Dawn",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Call Energy",
+    "number": "92",
+    "rarity": "Uncommon",
+    "set_name": "Majestic Dawn",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Darkness Energy",
+    "number": "93",
+    "rarity": "Uncommon",
+    "set_name": "Majestic Dawn",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Health Energy",
+    "number": "94",
+    "rarity": "Uncommon",
+    "set_name": "Majestic Dawn",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Metal Energy",
+    "number": "95",
+    "rarity": "Uncommon",
+    "set_name": "Majestic Dawn",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Recover Energy",
+    "number": "96",
+    "rarity": "Uncommon",
+    "set_name": "Majestic Dawn",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Garchomp LV.X",
+    "number": "97",
+    "rarity": "Rare Holo LV.X",
+    "set_name": "Majestic Dawn",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Glaceon LV.X",
+    "number": "98",
+    "rarity": "Rare Holo LV.X",
+    "set_name": "Majestic Dawn",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Leafeon LV.X",
+    "number": "99",
+    "rarity": "Rare Holo LV.X",
+    "set_name": "Majestic Dawn",
+    "set_series": "Diamond & Pearl"
+  },
+  {
+    "name": "Porygon-Z LV.X",
+    "number": "100",
+    "rarity": "Rare Holo LV.X",
+    "set_name": "Majestic Dawn",
+    "set_series": "Diamond & Pearl"
+  }
+]

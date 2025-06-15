@@ -1,0 +1,1521 @@
+[
+  {
+    "name": "Oddish",
+    "number": "1",
+    "rarity": "Common",
+    "set_name": "Lost Origin",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Gloom",
+    "number": "2",
+    "rarity": "Uncommon",
+    "set_name": "Lost Origin",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Vileplume",
+    "number": "3",
+    "rarity": "Rare Holo",
+    "set_name": "Lost Origin",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Paras",
+    "number": "4",
+    "rarity": "Common",
+    "set_name": "Lost Origin",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Parasect",
+    "number": "5",
+    "rarity": "Rare",
+    "set_name": "Lost Origin",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Wurmple",
+    "number": "6",
+    "rarity": "Common",
+    "set_name": "Lost Origin",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Silcoon",
+    "number": "7",
+    "rarity": "Uncommon",
+    "set_name": "Lost Origin",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Beautifly",
+    "number": "8",
+    "rarity": "Rare Holo",
+    "set_name": "Lost Origin",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Cascoon",
+    "number": "9",
+    "rarity": "Uncommon",
+    "set_name": "Lost Origin",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Dustox",
+    "number": "10",
+    "rarity": "Rare",
+    "set_name": "Lost Origin",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Seedot",
+    "number": "11",
+    "rarity": "Common",
+    "set_name": "Lost Origin",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Nuzleaf",
+    "number": "12",
+    "rarity": "Uncommon",
+    "set_name": "Lost Origin",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Shiftry",
+    "number": "13",
+    "rarity": "Rare Holo",
+    "set_name": "Lost Origin",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Roselia",
+    "number": "14",
+    "rarity": "Common",
+    "set_name": "Lost Origin",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Roserade",
+    "number": "15",
+    "rarity": "Uncommon",
+    "set_name": "Lost Origin",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Phantump",
+    "number": "16",
+    "rarity": "Common",
+    "set_name": "Lost Origin",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Trevenant",
+    "number": "17",
+    "rarity": "Rare Holo",
+    "set_name": "Lost Origin",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Blipbug",
+    "number": "18",
+    "rarity": "Common",
+    "set_name": "Lost Origin",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Dottler",
+    "number": "19",
+    "rarity": "Uncommon",
+    "set_name": "Lost Origin",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Orbeetle",
+    "number": "20",
+    "rarity": "Rare Holo",
+    "set_name": "Lost Origin",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Slugma",
+    "number": "21",
+    "rarity": "Common",
+    "set_name": "Lost Origin",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Magcargo",
+    "number": "22",
+    "rarity": "Rare",
+    "set_name": "Lost Origin",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Torkoal",
+    "number": "23",
+    "rarity": "Uncommon",
+    "set_name": "Lost Origin",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Litwick",
+    "number": "24",
+    "rarity": "Common",
+    "set_name": "Lost Origin",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Lampent",
+    "number": "25",
+    "rarity": "Uncommon",
+    "set_name": "Lost Origin",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Chandelure",
+    "number": "26",
+    "rarity": "Rare Holo",
+    "set_name": "Lost Origin",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Delphox V",
+    "number": "27",
+    "rarity": "Rare Holo V",
+    "set_name": "Lost Origin",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Litleo",
+    "number": "28",
+    "rarity": "Common",
+    "set_name": "Lost Origin",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Pyroar",
+    "number": "29",
+    "rarity": "Rare Holo",
+    "set_name": "Lost Origin",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Poliwag",
+    "number": "30",
+    "rarity": "Common",
+    "set_name": "Lost Origin",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Poliwhirl",
+    "number": "31",
+    "rarity": "Uncommon",
+    "set_name": "Lost Origin",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Politoed",
+    "number": "32",
+    "rarity": "Rare",
+    "set_name": "Lost Origin",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Seel",
+    "number": "33",
+    "rarity": "Common",
+    "set_name": "Lost Origin",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Dewgong",
+    "number": "34",
+    "rarity": "Rare",
+    "set_name": "Lost Origin",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Horsea",
+    "number": "35",
+    "rarity": "Common",
+    "set_name": "Lost Origin",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Seadra",
+    "number": "36",
+    "rarity": "Uncommon",
+    "set_name": "Lost Origin",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Kingdra",
+    "number": "37",
+    "rarity": "Rare Holo",
+    "set_name": "Lost Origin",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Luvdisc",
+    "number": "38",
+    "rarity": "Common",
+    "set_name": "Lost Origin",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Shellos",
+    "number": "39",
+    "rarity": "Common",
+    "set_name": "Lost Origin",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Finneon",
+    "number": "40",
+    "rarity": "Common",
+    "set_name": "Lost Origin",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Lumineon",
+    "number": "41",
+    "rarity": "Uncommon",
+    "set_name": "Lost Origin",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Snover",
+    "number": "42",
+    "rarity": "Common",
+    "set_name": "Lost Origin",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Abomasnow",
+    "number": "43",
+    "rarity": "Uncommon",
+    "set_name": "Lost Origin",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Hisuian Basculin",
+    "number": "44",
+    "rarity": "Common",
+    "set_name": "Lost Origin",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Hisuian Basculegion",
+    "number": "45",
+    "rarity": "Rare Holo",
+    "set_name": "Lost Origin",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Ducklett",
+    "number": "46",
+    "rarity": "Common",
+    "set_name": "Lost Origin",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Swanna",
+    "number": "47",
+    "rarity": "Uncommon",
+    "set_name": "Lost Origin",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Kyurem V",
+    "number": "48",
+    "rarity": "Rare Holo V",
+    "set_name": "Lost Origin",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Kyurem VMAX",
+    "number": "49",
+    "rarity": "Rare Holo VMAX",
+    "set_name": "Lost Origin",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Cramorant",
+    "number": "50",
+    "rarity": "Rare",
+    "set_name": "Lost Origin",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Glastrier",
+    "number": "51",
+    "rarity": "Rare Holo",
+    "set_name": "Lost Origin",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Pikachu",
+    "number": "52",
+    "rarity": "Common",
+    "set_name": "Lost Origin",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Raichu",
+    "number": "53",
+    "rarity": "Rare",
+    "set_name": "Lost Origin",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Electrike",
+    "number": "54",
+    "rarity": "Common",
+    "set_name": "Lost Origin",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Manectric",
+    "number": "55",
+    "rarity": "Rare",
+    "set_name": "Lost Origin",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Magnezone V",
+    "number": "56",
+    "rarity": "Rare Holo V",
+    "set_name": "Lost Origin",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Magnezone VSTAR",
+    "number": "57",
+    "rarity": "Rare Holo VSTAR",
+    "set_name": "Lost Origin",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Rotom V",
+    "number": "58",
+    "rarity": "Rare Holo V",
+    "set_name": "Lost Origin",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Tynamo",
+    "number": "59",
+    "rarity": "Common",
+    "set_name": "Lost Origin",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Eelektrik",
+    "number": "60",
+    "rarity": "Uncommon",
+    "set_name": "Lost Origin",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Eelektross",
+    "number": "61",
+    "rarity": "Rare",
+    "set_name": "Lost Origin",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Clefairy",
+    "number": "62",
+    "rarity": "Common",
+    "set_name": "Lost Origin",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Clefable",
+    "number": "63",
+    "rarity": "Rare",
+    "set_name": "Lost Origin",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Gastly",
+    "number": "64",
+    "rarity": "Common",
+    "set_name": "Lost Origin",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Haunter",
+    "number": "65",
+    "rarity": "Uncommon",
+    "set_name": "Lost Origin",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Gengar",
+    "number": "66",
+    "rarity": "Rare Holo",
+    "set_name": "Lost Origin",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Mr. Mime",
+    "number": "67",
+    "rarity": "Rare",
+    "set_name": "Lost Origin",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Jynx",
+    "number": "68",
+    "rarity": "Common",
+    "set_name": "Lost Origin",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Radiant Gardevoir",
+    "number": "69",
+    "rarity": "Radiant Rare",
+    "set_name": "Lost Origin",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Sableye",
+    "number": "70",
+    "rarity": "Rare Holo",
+    "set_name": "Lost Origin",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Mawile",
+    "number": "71",
+    "rarity": "Common",
+    "set_name": "Lost Origin",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Shuppet",
+    "number": "72",
+    "rarity": "Common",
+    "set_name": "Lost Origin",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Banette",
+    "number": "73",
+    "rarity": "Rare",
+    "set_name": "Lost Origin",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Cresselia",
+    "number": "74",
+    "rarity": "Rare Holo",
+    "set_name": "Lost Origin",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Hisuian Zorua",
+    "number": "75",
+    "rarity": "Common",
+    "set_name": "Lost Origin",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Hisuian Zoroark",
+    "number": "76",
+    "rarity": "Rare Holo",
+    "set_name": "Lost Origin",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Inkay",
+    "number": "77",
+    "rarity": "Common",
+    "set_name": "Lost Origin",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Malamar",
+    "number": "78",
+    "rarity": "Rare",
+    "set_name": "Lost Origin",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Comfey",
+    "number": "79",
+    "rarity": "Rare",
+    "set_name": "Lost Origin",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Mimikyu",
+    "number": "80",
+    "rarity": "Rare",
+    "set_name": "Lost Origin",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Spectrier",
+    "number": "81",
+    "rarity": "Rare Holo",
+    "set_name": "Lost Origin",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Enamorus V",
+    "number": "82",
+    "rarity": "Rare Holo V",
+    "set_name": "Lost Origin",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Hisuian Growlithe",
+    "number": "83",
+    "rarity": "Common",
+    "set_name": "Lost Origin",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Hisuian Arcanine",
+    "number": "84",
+    "rarity": "Rare Holo",
+    "set_name": "Lost Origin",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Poliwrath",
+    "number": "85",
+    "rarity": "Rare",
+    "set_name": "Lost Origin",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Machop",
+    "number": "86",
+    "rarity": "Common",
+    "set_name": "Lost Origin",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Machoke",
+    "number": "87",
+    "rarity": "Uncommon",
+    "set_name": "Lost Origin",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Machamp",
+    "number": "88",
+    "rarity": "Rare Holo",
+    "set_name": "Lost Origin",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Rhyhorn",
+    "number": "89",
+    "rarity": "Common",
+    "set_name": "Lost Origin",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Rhydon",
+    "number": "90",
+    "rarity": "Uncommon",
+    "set_name": "Lost Origin",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Rhyperior",
+    "number": "91",
+    "rarity": "Rare",
+    "set_name": "Lost Origin",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Aerodactyl V",
+    "number": "92",
+    "rarity": "Rare Holo V",
+    "set_name": "Lost Origin",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Aerodactyl VSTAR",
+    "number": "93",
+    "rarity": "Rare Holo VSTAR",
+    "set_name": "Lost Origin",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Sudowoodo",
+    "number": "94",
+    "rarity": "Common",
+    "set_name": "Lost Origin",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Gligar",
+    "number": "95",
+    "rarity": "Common",
+    "set_name": "Lost Origin",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Gliscor",
+    "number": "96",
+    "rarity": "Rare",
+    "set_name": "Lost Origin",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Makuhita",
+    "number": "97",
+    "rarity": "Common",
+    "set_name": "Lost Origin",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Hariyama",
+    "number": "98",
+    "rarity": "Uncommon",
+    "set_name": "Lost Origin",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Meditite",
+    "number": "99",
+    "rarity": "Common",
+    "set_name": "Lost Origin",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Medicham",
+    "number": "100",
+    "rarity": "Uncommon",
+    "set_name": "Lost Origin",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Relicanth",
+    "number": "101",
+    "rarity": "Uncommon",
+    "set_name": "Lost Origin",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Gastrodon",
+    "number": "102",
+    "rarity": "Uncommon",
+    "set_name": "Lost Origin",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Mienfoo",
+    "number": "103",
+    "rarity": "Common",
+    "set_name": "Lost Origin",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Mienshao",
+    "number": "104",
+    "rarity": "Uncommon",
+    "set_name": "Lost Origin",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Landorus",
+    "number": "105",
+    "rarity": "Rare",
+    "set_name": "Lost Origin",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Binacle",
+    "number": "106",
+    "rarity": "Common",
+    "set_name": "Lost Origin",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Barbaracle",
+    "number": "107",
+    "rarity": "Rare Holo",
+    "set_name": "Lost Origin",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Carbink",
+    "number": "108",
+    "rarity": "Uncommon",
+    "set_name": "Lost Origin",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Rockruff",
+    "number": "109",
+    "rarity": "Common",
+    "set_name": "Lost Origin",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Falinks",
+    "number": "110",
+    "rarity": "Common",
+    "set_name": "Lost Origin",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Stonjourner",
+    "number": "111",
+    "rarity": "Rare",
+    "set_name": "Lost Origin",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Spinarak",
+    "number": "112",
+    "rarity": "Common",
+    "set_name": "Lost Origin",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Ariados",
+    "number": "113",
+    "rarity": "Rare",
+    "set_name": "Lost Origin",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Murkrow",
+    "number": "114",
+    "rarity": "Common",
+    "set_name": "Lost Origin",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Honchkrow",
+    "number": "115",
+    "rarity": "Rare",
+    "set_name": "Lost Origin",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Seviper",
+    "number": "116",
+    "rarity": "Uncommon",
+    "set_name": "Lost Origin",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Spiritomb",
+    "number": "117",
+    "rarity": "Rare",
+    "set_name": "Lost Origin",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Drapion V",
+    "number": "118",
+    "rarity": "Rare Holo V",
+    "set_name": "Lost Origin",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Drapion VSTAR",
+    "number": "119",
+    "rarity": "Rare Holo VSTAR",
+    "set_name": "Lost Origin",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Darkrai",
+    "number": "120",
+    "rarity": "Rare Holo",
+    "set_name": "Lost Origin",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Inkay",
+    "number": "121",
+    "rarity": "Common",
+    "set_name": "Lost Origin",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Hoopa",
+    "number": "122",
+    "rarity": "Rare",
+    "set_name": "Lost Origin",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Radiant Hisuian Sneasler",
+    "number": "123",
+    "rarity": "Radiant Rare",
+    "set_name": "Lost Origin",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Radiant Steelix",
+    "number": "124",
+    "rarity": "Radiant Rare",
+    "set_name": "Lost Origin",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Bronzor",
+    "number": "125",
+    "rarity": "Common",
+    "set_name": "Lost Origin",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Bronzong",
+    "number": "126",
+    "rarity": "Uncommon",
+    "set_name": "Lost Origin",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Galarian Stunfisk",
+    "number": "127",
+    "rarity": "Uncommon",
+    "set_name": "Lost Origin",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Magearna",
+    "number": "128",
+    "rarity": "Rare",
+    "set_name": "Lost Origin",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Galarian Perrserker V",
+    "number": "129",
+    "rarity": "Rare Holo V",
+    "set_name": "Lost Origin",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Giratina V",
+    "number": "130",
+    "rarity": "Rare Holo V",
+    "set_name": "Lost Origin",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Giratina VSTAR",
+    "number": "131",
+    "rarity": "Rare Holo VSTAR",
+    "set_name": "Lost Origin",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Goomy",
+    "number": "132",
+    "rarity": "Common",
+    "set_name": "Lost Origin",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Hisuian Sliggoo",
+    "number": "133",
+    "rarity": "Uncommon",
+    "set_name": "Lost Origin",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Hisuian Goodra",
+    "number": "134",
+    "rarity": "Rare Holo",
+    "set_name": "Lost Origin",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Hisuian Goodra V",
+    "number": "135",
+    "rarity": "Rare Holo V",
+    "set_name": "Lost Origin",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Hisuian Goodra VSTAR",
+    "number": "136",
+    "rarity": "Rare Holo VSTAR",
+    "set_name": "Lost Origin",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Pidgeot V",
+    "number": "137",
+    "rarity": "Rare Holo V",
+    "set_name": "Lost Origin",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Lickitung",
+    "number": "138",
+    "rarity": "Common",
+    "set_name": "Lost Origin",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Lickilicky",
+    "number": "139",
+    "rarity": "Uncommon",
+    "set_name": "Lost Origin",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Porygon",
+    "number": "140",
+    "rarity": "Common",
+    "set_name": "Lost Origin",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Porygon2",
+    "number": "141",
+    "rarity": "Uncommon",
+    "set_name": "Lost Origin",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Porygon-Z",
+    "number": "142",
+    "rarity": "Rare",
+    "set_name": "Lost Origin",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Snorlax",
+    "number": "143",
+    "rarity": "Rare Holo",
+    "set_name": "Lost Origin",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Aipom",
+    "number": "144",
+    "rarity": "Common",
+    "set_name": "Lost Origin",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Ambipom",
+    "number": "145",
+    "rarity": "Uncommon",
+    "set_name": "Lost Origin",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Hisuian Zoroark V",
+    "number": "146",
+    "rarity": "Rare Holo V",
+    "set_name": "Lost Origin",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Hisuian Zoroark VSTAR",
+    "number": "147",
+    "rarity": "Rare Holo VSTAR",
+    "set_name": "Lost Origin",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Bouffalant",
+    "number": "148",
+    "rarity": "Rare",
+    "set_name": "Lost Origin",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Komala",
+    "number": "149",
+    "rarity": "Uncommon",
+    "set_name": "Lost Origin",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Skwovet",
+    "number": "150",
+    "rarity": "Common",
+    "set_name": "Lost Origin",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Greedent",
+    "number": "151",
+    "rarity": "Rare",
+    "set_name": "Lost Origin",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Arc Phone",
+    "number": "152",
+    "rarity": "Uncommon",
+    "set_name": "Lost Origin",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Arezu",
+    "number": "153",
+    "rarity": "Uncommon",
+    "set_name": "Lost Origin",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Box of Disaster",
+    "number": "154",
+    "rarity": "Uncommon",
+    "set_name": "Lost Origin",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Colress's Experiment",
+    "number": "155",
+    "rarity": "Uncommon",
+    "set_name": "Lost Origin",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Damage Pump",
+    "number": "156",
+    "rarity": "Uncommon",
+    "set_name": "Lost Origin",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Fantina",
+    "number": "157",
+    "rarity": "Uncommon",
+    "set_name": "Lost Origin",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Iscan",
+    "number": "158",
+    "rarity": "Uncommon",
+    "set_name": "Lost Origin",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Lady",
+    "number": "159",
+    "rarity": "Uncommon",
+    "set_name": "Lost Origin",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Lake Acuity",
+    "number": "160",
+    "rarity": "Uncommon",
+    "set_name": "Lost Origin",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Lost City",
+    "number": "161",
+    "rarity": "Uncommon",
+    "set_name": "Lost Origin",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Lost Vacuum",
+    "number": "162",
+    "rarity": "Uncommon",
+    "set_name": "Lost Origin",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Mirage Gate",
+    "number": "163",
+    "rarity": "Uncommon",
+    "set_name": "Lost Origin",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Miss Fortune Sisters",
+    "number": "164",
+    "rarity": "Uncommon",
+    "set_name": "Lost Origin",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Panic Mask",
+    "number": "165",
+    "rarity": "Uncommon",
+    "set_name": "Lost Origin",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Riley",
+    "number": "166",
+    "rarity": "Uncommon",
+    "set_name": "Lost Origin",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Thorton",
+    "number": "167",
+    "rarity": "Uncommon",
+    "set_name": "Lost Origin",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Tool Box",
+    "number": "168",
+    "rarity": "Uncommon",
+    "set_name": "Lost Origin",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Volo",
+    "number": "169",
+    "rarity": "Rare Holo",
+    "set_name": "Lost Origin",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Windup Arm",
+    "number": "170",
+    "rarity": "Uncommon",
+    "set_name": "Lost Origin",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Gift Energy",
+    "number": "171",
+    "rarity": "Uncommon",
+    "set_name": "Lost Origin",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Hisuian Electrode V",
+    "number": "172",
+    "rarity": "Rare Ultra",
+    "set_name": "Lost Origin",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Delphox V",
+    "number": "173",
+    "rarity": "Rare Ultra",
+    "set_name": "Lost Origin",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Kyurem V",
+    "number": "174",
+    "rarity": "Rare Ultra",
+    "set_name": "Lost Origin",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Magnezone V",
+    "number": "175",
+    "rarity": "Rare Ultra",
+    "set_name": "Lost Origin",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Rotom V",
+    "number": "176",
+    "rarity": "Rare Ultra",
+    "set_name": "Lost Origin",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Rotom V",
+    "number": "177",
+    "rarity": "Rare Ultra",
+    "set_name": "Lost Origin",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Enamorus V",
+    "number": "178",
+    "rarity": "Rare Ultra",
+    "set_name": "Lost Origin",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Aerodactyl V",
+    "number": "179",
+    "rarity": "Rare Ultra",
+    "set_name": "Lost Origin",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Aerodactyl V",
+    "number": "180",
+    "rarity": "Rare Ultra",
+    "set_name": "Lost Origin",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Gallade V",
+    "number": "181",
+    "rarity": "Rare Ultra",
+    "set_name": "Lost Origin",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Drapion V",
+    "number": "182",
+    "rarity": "Rare Ultra",
+    "set_name": "Lost Origin",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Galarian Perrserker V",
+    "number": "183",
+    "rarity": "Rare Ultra",
+    "set_name": "Lost Origin",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Galarian Perrserker V",
+    "number": "184",
+    "rarity": "Rare Ultra",
+    "set_name": "Lost Origin",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Giratina V",
+    "number": "185",
+    "rarity": "Rare Ultra",
+    "set_name": "Lost Origin",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Giratina V",
+    "number": "186",
+    "rarity": "Rare Ultra",
+    "set_name": "Lost Origin",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Hisuian Goodra V",
+    "number": "187",
+    "rarity": "Rare Ultra",
+    "set_name": "Lost Origin",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Pidgeot V",
+    "number": "188",
+    "rarity": "Rare Ultra",
+    "set_name": "Lost Origin",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Arezu",
+    "number": "189",
+    "rarity": "Rare Ultra",
+    "set_name": "Lost Origin",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Colress's Experiment",
+    "number": "190",
+    "rarity": "Rare Ultra",
+    "set_name": "Lost Origin",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Fantina",
+    "number": "191",
+    "rarity": "Rare Ultra",
+    "set_name": "Lost Origin",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Iscan",
+    "number": "192",
+    "rarity": "Rare Ultra",
+    "set_name": "Lost Origin",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Lady",
+    "number": "193",
+    "rarity": "Rare Ultra",
+    "set_name": "Lost Origin",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Miss Fortune Sisters",
+    "number": "194",
+    "rarity": "Rare Ultra",
+    "set_name": "Lost Origin",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Thorton",
+    "number": "195",
+    "rarity": "Rare Ultra",
+    "set_name": "Lost Origin",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Volo",
+    "number": "196",
+    "rarity": "Rare Ultra",
+    "set_name": "Lost Origin",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Kyurem VMAX",
+    "number": "197",
+    "rarity": "Rare Rainbow",
+    "set_name": "Lost Origin",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Magnezone VSTAR",
+    "number": "198",
+    "rarity": "Rare Rainbow",
+    "set_name": "Lost Origin",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Aerodactyl VSTAR",
+    "number": "199",
+    "rarity": "Rare Rainbow",
+    "set_name": "Lost Origin",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Drapion VSTAR",
+    "number": "200",
+    "rarity": "Rare Rainbow",
+    "set_name": "Lost Origin",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Giratina VSTAR",
+    "number": "201",
+    "rarity": "Rare Rainbow",
+    "set_name": "Lost Origin",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Hisuian Goodra VSTAR",
+    "number": "202",
+    "rarity": "Rare Rainbow",
+    "set_name": "Lost Origin",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Hisuian Zoroark VSTAR",
+    "number": "203",
+    "rarity": "Rare Rainbow",
+    "set_name": "Lost Origin",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Arezu",
+    "number": "204",
+    "rarity": "Rare Rainbow",
+    "set_name": "Lost Origin",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Colress's Experiment",
+    "number": "205",
+    "rarity": "Rare Rainbow",
+    "set_name": "Lost Origin",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Fantina",
+    "number": "206",
+    "rarity": "Rare Rainbow",
+    "set_name": "Lost Origin",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Iscan",
+    "number": "207",
+    "rarity": "Rare Rainbow",
+    "set_name": "Lost Origin",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Lady",
+    "number": "208",
+    "rarity": "Rare Rainbow",
+    "set_name": "Lost Origin",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Miss Fortune Sisters",
+    "number": "209",
+    "rarity": "Rare Rainbow",
+    "set_name": "Lost Origin",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Thorton",
+    "number": "210",
+    "rarity": "Rare Rainbow",
+    "set_name": "Lost Origin",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Volo",
+    "number": "211",
+    "rarity": "Rare Rainbow",
+    "set_name": "Lost Origin",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Giratina VSTAR",
+    "number": "212",
+    "rarity": "Rare Secret",
+    "set_name": "Lost Origin",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Hisuian Zoroark VSTAR",
+    "number": "213",
+    "rarity": "Rare Secret",
+    "set_name": "Lost Origin",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Box of Disaster",
+    "number": "214",
+    "rarity": "Rare Secret",
+    "set_name": "Lost Origin",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Collapsed Stadium",
+    "number": "215",
+    "rarity": "Rare Secret",
+    "set_name": "Lost Origin",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Dark Patch",
+    "number": "216",
+    "rarity": "Rare Secret",
+    "set_name": "Lost Origin",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Lost Vacuum",
+    "number": "217",
+    "rarity": "Rare Secret",
+    "set_name": "Lost Origin",
+    "set_series": "Sword & Shield"
+  }
+]

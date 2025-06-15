@@ -1,0 +1,737 @@
+[
+  {
+    "name": "Surskit",
+    "number": "1",
+    "rarity": "Common",
+    "set_name": "Plasma Blast",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Masquerain",
+    "number": "2",
+    "rarity": "Rare",
+    "set_name": "Plasma Blast",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Lileep",
+    "number": "3",
+    "rarity": "Uncommon",
+    "set_name": "Plasma Blast",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Cradily",
+    "number": "4",
+    "rarity": "Rare",
+    "set_name": "Plasma Blast",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Tropius",
+    "number": "5",
+    "rarity": "Uncommon",
+    "set_name": "Plasma Blast",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Karrablast",
+    "number": "6",
+    "rarity": "Common",
+    "set_name": "Plasma Blast",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Shelmet",
+    "number": "7",
+    "rarity": "Common",
+    "set_name": "Plasma Blast",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Accelgor",
+    "number": "8",
+    "rarity": "Rare",
+    "set_name": "Plasma Blast",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Virizion-EX",
+    "number": "9",
+    "rarity": "Rare Holo EX",
+    "set_name": "Plasma Blast",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Genesect",
+    "number": "10",
+    "rarity": "Rare",
+    "set_name": "Plasma Blast",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Genesect-EX",
+    "number": "11",
+    "rarity": "Rare Holo EX",
+    "set_name": "Plasma Blast",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Larvesta",
+    "number": "12",
+    "rarity": "Common",
+    "set_name": "Plasma Blast",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Volcarona",
+    "number": "13",
+    "rarity": "Rare",
+    "set_name": "Plasma Blast",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Squirtle",
+    "number": "14",
+    "rarity": "Common",
+    "set_name": "Plasma Blast",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Wartortle",
+    "number": "15",
+    "rarity": "Uncommon",
+    "set_name": "Plasma Blast",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Blastoise",
+    "number": "16",
+    "rarity": "Rare Holo",
+    "set_name": "Plasma Blast",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Lapras",
+    "number": "17",
+    "rarity": "Common",
+    "set_name": "Plasma Blast",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Remoraid",
+    "number": "18",
+    "rarity": "Common",
+    "set_name": "Plasma Blast",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Octillery",
+    "number": "19",
+    "rarity": "Uncommon",
+    "set_name": "Plasma Blast",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Suicune",
+    "number": "20",
+    "rarity": "Rare",
+    "set_name": "Plasma Blast",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Snorunt",
+    "number": "21",
+    "rarity": "Common",
+    "set_name": "Plasma Blast",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Glalie",
+    "number": "22",
+    "rarity": "Uncommon",
+    "set_name": "Plasma Blast",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Froslass",
+    "number": "23",
+    "rarity": "Rare",
+    "set_name": "Plasma Blast",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Relicanth",
+    "number": "24",
+    "rarity": "Uncommon",
+    "set_name": "Plasma Blast",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Snover",
+    "number": "25",
+    "rarity": "Common",
+    "set_name": "Plasma Blast",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Abomasnow",
+    "number": "26",
+    "rarity": "Uncommon",
+    "set_name": "Plasma Blast",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Tirtouga",
+    "number": "27",
+    "rarity": "Uncommon",
+    "set_name": "Plasma Blast",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Carracosta",
+    "number": "28",
+    "rarity": "Rare",
+    "set_name": "Plasma Blast",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Ducklett",
+    "number": "29",
+    "rarity": "Common",
+    "set_name": "Plasma Blast",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Kyurem-EX",
+    "number": "30",
+    "rarity": "Rare Holo EX",
+    "set_name": "Plasma Blast",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Tynamo",
+    "number": "31",
+    "rarity": "Common",
+    "set_name": "Plasma Blast",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Eelektrik",
+    "number": "32",
+    "rarity": "Uncommon",
+    "set_name": "Plasma Blast",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Eelektross",
+    "number": "33",
+    "rarity": "Rare Holo",
+    "set_name": "Plasma Blast",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Drifloon",
+    "number": "34",
+    "rarity": "Common",
+    "set_name": "Plasma Blast",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Drifblim",
+    "number": "35",
+    "rarity": "Rare",
+    "set_name": "Plasma Blast",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Uxie",
+    "number": "36",
+    "rarity": "Rare",
+    "set_name": "Plasma Blast",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Mesprit",
+    "number": "37",
+    "rarity": "Rare Holo",
+    "set_name": "Plasma Blast",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Azelf",
+    "number": "38",
+    "rarity": "Rare",
+    "set_name": "Plasma Blast",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Munna",
+    "number": "39",
+    "rarity": "Common",
+    "set_name": "Plasma Blast",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Musharna",
+    "number": "40",
+    "rarity": "Uncommon",
+    "set_name": "Plasma Blast",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Sigilyph",
+    "number": "41",
+    "rarity": "Rare Holo",
+    "set_name": "Plasma Blast",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Solosis",
+    "number": "42",
+    "rarity": "Common",
+    "set_name": "Plasma Blast",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Duosion",
+    "number": "43",
+    "rarity": "Uncommon",
+    "set_name": "Plasma Blast",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Reuniclus",
+    "number": "44",
+    "rarity": "Rare",
+    "set_name": "Plasma Blast",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Golett",
+    "number": "45",
+    "rarity": "Common",
+    "set_name": "Plasma Blast",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Golurk",
+    "number": "46",
+    "rarity": "Rare Holo",
+    "set_name": "Plasma Blast",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Machop",
+    "number": "47",
+    "rarity": "Common",
+    "set_name": "Plasma Blast",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Machoke",
+    "number": "48",
+    "rarity": "Uncommon",
+    "set_name": "Plasma Blast",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Machamp",
+    "number": "49",
+    "rarity": "Rare Holo",
+    "set_name": "Plasma Blast",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Machamp",
+    "number": "50",
+    "rarity": "Rare",
+    "set_name": "Plasma Blast",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Throh",
+    "number": "51",
+    "rarity": "Common",
+    "set_name": "Plasma Blast",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Sawk",
+    "number": "52",
+    "rarity": "Common",
+    "set_name": "Plasma Blast",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Archen",
+    "number": "53",
+    "rarity": "Uncommon",
+    "set_name": "Plasma Blast",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Archeops",
+    "number": "54",
+    "rarity": "Rare Holo",
+    "set_name": "Plasma Blast",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Houndour",
+    "number": "55",
+    "rarity": "Common",
+    "set_name": "Plasma Blast",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Houndoom",
+    "number": "56",
+    "rarity": "Rare Holo",
+    "set_name": "Plasma Blast",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Aron",
+    "number": "57",
+    "rarity": "Common",
+    "set_name": "Plasma Blast",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Lairon",
+    "number": "58",
+    "rarity": "Uncommon",
+    "set_name": "Plasma Blast",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Aggron",
+    "number": "59",
+    "rarity": "Rare",
+    "set_name": "Plasma Blast",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Jirachi-EX",
+    "number": "60",
+    "rarity": "Rare Holo EX",
+    "set_name": "Plasma Blast",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Escavalier",
+    "number": "61",
+    "rarity": "Rare",
+    "set_name": "Plasma Blast",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Bagon",
+    "number": "62",
+    "rarity": "Common",
+    "set_name": "Plasma Blast",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Shelgon",
+    "number": "63",
+    "rarity": "Uncommon",
+    "set_name": "Plasma Blast",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Salamence",
+    "number": "64",
+    "rarity": "Rare Holo",
+    "set_name": "Plasma Blast",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Dialga-EX",
+    "number": "65",
+    "rarity": "Rare Holo EX",
+    "set_name": "Plasma Blast",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Palkia-EX",
+    "number": "66",
+    "rarity": "Rare Holo EX",
+    "set_name": "Plasma Blast",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Axew",
+    "number": "67",
+    "rarity": "Common",
+    "set_name": "Plasma Blast",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Fraxure",
+    "number": "68",
+    "rarity": "Uncommon",
+    "set_name": "Plasma Blast",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Haxorus",
+    "number": "69",
+    "rarity": "Rare Holo",
+    "set_name": "Plasma Blast",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Druddigon",
+    "number": "70",
+    "rarity": "Common",
+    "set_name": "Plasma Blast",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Kangaskhan",
+    "number": "71",
+    "rarity": "Common",
+    "set_name": "Plasma Blast",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Porygon",
+    "number": "72",
+    "rarity": "Common",
+    "set_name": "Plasma Blast",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Porygon2",
+    "number": "73",
+    "rarity": "Uncommon",
+    "set_name": "Plasma Blast",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Porygon-Z",
+    "number": "74",
+    "rarity": "Rare Holo",
+    "set_name": "Plasma Blast",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Teddiursa",
+    "number": "75",
+    "rarity": "Common",
+    "set_name": "Plasma Blast",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Ursaring",
+    "number": "76",
+    "rarity": "Uncommon",
+    "set_name": "Plasma Blast",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Chatot",
+    "number": "77",
+    "rarity": "Uncommon",
+    "set_name": "Plasma Blast",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Caitlin",
+    "number": "78",
+    "rarity": "Uncommon",
+    "set_name": "Plasma Blast",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Cover Fossil",
+    "number": "79",
+    "rarity": "Uncommon",
+    "set_name": "Plasma Blast",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Energy Retrieval",
+    "number": "80",
+    "rarity": "Uncommon",
+    "set_name": "Plasma Blast",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Iris",
+    "number": "81",
+    "rarity": "Uncommon",
+    "set_name": "Plasma Blast",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Plume Fossil",
+    "number": "82",
+    "rarity": "Uncommon",
+    "set_name": "Plasma Blast",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Pok\u00e9mon Catcher",
+    "number": "83",
+    "rarity": "Uncommon",
+    "set_name": "Plasma Blast",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Professor Juniper",
+    "number": "84",
+    "rarity": "Uncommon",
+    "set_name": "Plasma Blast",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Rare Candy",
+    "number": "85",
+    "rarity": "Uncommon",
+    "set_name": "Plasma Blast",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Reversal Trigger",
+    "number": "86",
+    "rarity": "Uncommon",
+    "set_name": "Plasma Blast",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Root Fossil Lileep",
+    "number": "87",
+    "rarity": "Uncommon",
+    "set_name": "Plasma Blast",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Silver Bangle",
+    "number": "88",
+    "rarity": "Uncommon",
+    "set_name": "Plasma Blast",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Silver Mirror",
+    "number": "89",
+    "rarity": "Uncommon",
+    "set_name": "Plasma Blast",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Ultra Ball",
+    "number": "90",
+    "rarity": "Uncommon",
+    "set_name": "Plasma Blast",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Plasma Energy",
+    "number": "91",
+    "rarity": "Uncommon",
+    "set_name": "Plasma Blast",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "G Booster",
+    "number": "92",
+    "rarity": "Rare ACE",
+    "set_name": "Plasma Blast",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "G Scope",
+    "number": "93",
+    "rarity": "Rare ACE",
+    "set_name": "Plasma Blast",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Master Ball",
+    "number": "94",
+    "rarity": "Rare ACE",
+    "set_name": "Plasma Blast",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Scoop Up Cyclone",
+    "number": "95",
+    "rarity": "Rare ACE",
+    "set_name": "Plasma Blast",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Virizion-EX",
+    "number": "96",
+    "rarity": "Rare Ultra",
+    "set_name": "Plasma Blast",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Genesect-EX",
+    "number": "97",
+    "rarity": "Rare Ultra",
+    "set_name": "Plasma Blast",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Jirachi-EX",
+    "number": "98",
+    "rarity": "Rare Ultra",
+    "set_name": "Plasma Blast",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Dialga-EX",
+    "number": "99",
+    "rarity": "Rare Ultra",
+    "set_name": "Plasma Blast",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Palkia-EX",
+    "number": "100",
+    "rarity": "Rare Ultra",
+    "set_name": "Plasma Blast",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Iris",
+    "number": "101",
+    "rarity": "Rare Ultra",
+    "set_name": "Plasma Blast",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Exeggcute",
+    "number": "102",
+    "rarity": "Rare Secret",
+    "set_name": "Plasma Blast",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Virizion",
+    "number": "103",
+    "rarity": "Rare Secret",
+    "set_name": "Plasma Blast",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Dusknoir",
+    "number": "104",
+    "rarity": "Rare Secret",
+    "set_name": "Plasma Blast",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Rare Candy",
+    "number": "105",
+    "rarity": "Rare Secret",
+    "set_name": "Plasma Blast",
+    "set_series": "Black & White"
+  }
+]

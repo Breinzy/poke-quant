@@ -1,0 +1,618 @@
+[
+  {
+    "name": "Bulbasaur",
+    "number": "1",
+    "rarity": "Common",
+    "set_name": "Pok\u00e9mon GO",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Ivysaur",
+    "number": "2",
+    "rarity": "Uncommon",
+    "set_name": "Pok\u00e9mon GO",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Venusaur",
+    "number": "3",
+    "rarity": "Rare Holo",
+    "set_name": "Pok\u00e9mon GO",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Radiant Venusaur",
+    "number": "4",
+    "rarity": "Radiant Rare",
+    "set_name": "Pok\u00e9mon GO",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Alolan Exeggutor V",
+    "number": "5",
+    "rarity": "Rare Holo V",
+    "set_name": "Pok\u00e9mon GO",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Spinarak",
+    "number": "6",
+    "rarity": "Common",
+    "set_name": "Pok\u00e9mon GO",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Ariados",
+    "number": "7",
+    "rarity": "Uncommon",
+    "set_name": "Pok\u00e9mon GO",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Charmander",
+    "number": "8",
+    "rarity": "Common",
+    "set_name": "Pok\u00e9mon GO",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Charmeleon",
+    "number": "9",
+    "rarity": "Uncommon",
+    "set_name": "Pok\u00e9mon GO",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Charizard",
+    "number": "10",
+    "rarity": "Rare Holo",
+    "set_name": "Pok\u00e9mon GO",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Radiant Charizard",
+    "number": "11",
+    "rarity": "Radiant Rare",
+    "set_name": "Pok\u00e9mon GO",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Moltres",
+    "number": "12",
+    "rarity": "Rare Holo",
+    "set_name": "Pok\u00e9mon GO",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Numel",
+    "number": "13",
+    "rarity": "Common",
+    "set_name": "Pok\u00e9mon GO",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Camerupt",
+    "number": "14",
+    "rarity": "Uncommon",
+    "set_name": "Pok\u00e9mon GO",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Squirtle",
+    "number": "15",
+    "rarity": "Common",
+    "set_name": "Pok\u00e9mon GO",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Wartortle",
+    "number": "16",
+    "rarity": "Uncommon",
+    "set_name": "Pok\u00e9mon GO",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Blastoise",
+    "number": "17",
+    "rarity": "Rare Holo",
+    "set_name": "Pok\u00e9mon GO",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Radiant Blastoise",
+    "number": "18",
+    "rarity": "Radiant Rare",
+    "set_name": "Pok\u00e9mon GO",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Slowpoke",
+    "number": "19",
+    "rarity": "Common",
+    "set_name": "Pok\u00e9mon GO",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Slowbro",
+    "number": "20",
+    "rarity": "Uncommon",
+    "set_name": "Pok\u00e9mon GO",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Magikarp",
+    "number": "21",
+    "rarity": "Common",
+    "set_name": "Pok\u00e9mon GO",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Gyarados",
+    "number": "22",
+    "rarity": "Rare Holo",
+    "set_name": "Pok\u00e9mon GO",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Lapras",
+    "number": "23",
+    "rarity": "Rare Holo",
+    "set_name": "Pok\u00e9mon GO",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Articuno",
+    "number": "24",
+    "rarity": "Rare Holo",
+    "set_name": "Pok\u00e9mon GO",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Wimpod",
+    "number": "25",
+    "rarity": "Common",
+    "set_name": "Pok\u00e9mon GO",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Golisopod",
+    "number": "26",
+    "rarity": "Rare Holo",
+    "set_name": "Pok\u00e9mon GO",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Pikachu",
+    "number": "27",
+    "rarity": "Common",
+    "set_name": "Pok\u00e9mon GO",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Pikachu",
+    "number": "28",
+    "rarity": "Rare Holo",
+    "set_name": "Pok\u00e9mon GO",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Zapdos",
+    "number": "29",
+    "rarity": "Rare Holo",
+    "set_name": "Pok\u00e9mon GO",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Mewtwo V",
+    "number": "30",
+    "rarity": "Rare Holo V",
+    "set_name": "Pok\u00e9mon GO",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Mewtwo VSTAR",
+    "number": "31",
+    "rarity": "Rare Holo VSTAR",
+    "set_name": "Pok\u00e9mon GO",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Natu",
+    "number": "32",
+    "rarity": "Common",
+    "set_name": "Pok\u00e9mon GO",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Xatu",
+    "number": "33",
+    "rarity": "Uncommon",
+    "set_name": "Pok\u00e9mon GO",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Lunatone",
+    "number": "34",
+    "rarity": "Uncommon",
+    "set_name": "Pok\u00e9mon GO",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Sylveon",
+    "number": "35",
+    "rarity": "Rare Holo",
+    "set_name": "Pok\u00e9mon GO",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Onix",
+    "number": "36",
+    "rarity": "Common",
+    "set_name": "Pok\u00e9mon GO",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Larvitar",
+    "number": "37",
+    "rarity": "Common",
+    "set_name": "Pok\u00e9mon GO",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Pupitar",
+    "number": "38",
+    "rarity": "Uncommon",
+    "set_name": "Pok\u00e9mon GO",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Solrock",
+    "number": "39",
+    "rarity": "Uncommon",
+    "set_name": "Pok\u00e9mon GO",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Conkeldurr V",
+    "number": "40",
+    "rarity": "Rare Holo V",
+    "set_name": "Pok\u00e9mon GO",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Alolan Rattata",
+    "number": "41",
+    "rarity": "Common",
+    "set_name": "Pok\u00e9mon GO",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Alolan Raticate",
+    "number": "42",
+    "rarity": "Common",
+    "set_name": "Pok\u00e9mon GO",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Tyranitar",
+    "number": "43",
+    "rarity": "Rare Holo",
+    "set_name": "Pok\u00e9mon GO",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Steelix",
+    "number": "44",
+    "rarity": "Uncommon",
+    "set_name": "Pok\u00e9mon GO",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Meltan",
+    "number": "45",
+    "rarity": "Common",
+    "set_name": "Pok\u00e9mon GO",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Melmetal",
+    "number": "46",
+    "rarity": "Rare Holo",
+    "set_name": "Pok\u00e9mon GO",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Melmetal V",
+    "number": "47",
+    "rarity": "Rare Holo V",
+    "set_name": "Pok\u00e9mon GO",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Melmetal VMAX",
+    "number": "48",
+    "rarity": "Rare Holo VMAX",
+    "set_name": "Pok\u00e9mon GO",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Dragonite V",
+    "number": "49",
+    "rarity": "Rare Holo V",
+    "set_name": "Pok\u00e9mon GO",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Dragonite VSTAR",
+    "number": "50",
+    "rarity": "Rare Holo VSTAR",
+    "set_name": "Pok\u00e9mon GO",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Chansey",
+    "number": "51",
+    "rarity": "Uncommon",
+    "set_name": "Pok\u00e9mon GO",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Blissey",
+    "number": "52",
+    "rarity": "Rare Holo",
+    "set_name": "Pok\u00e9mon GO",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Ditto",
+    "number": "53",
+    "rarity": "Rare Holo",
+    "set_name": "Pok\u00e9mon GO",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Eevee",
+    "number": "54",
+    "rarity": "Common",
+    "set_name": "Pok\u00e9mon GO",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Snorlax",
+    "number": "55",
+    "rarity": "Rare Holo",
+    "set_name": "Pok\u00e9mon GO",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Aipom",
+    "number": "56",
+    "rarity": "Common",
+    "set_name": "Pok\u00e9mon GO",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Ambipom",
+    "number": "57",
+    "rarity": "Common",
+    "set_name": "Pok\u00e9mon GO",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Slaking V",
+    "number": "58",
+    "rarity": "Rare Holo V",
+    "set_name": "Pok\u00e9mon GO",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Bidoof",
+    "number": "59",
+    "rarity": "Common",
+    "set_name": "Pok\u00e9mon GO",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Bibarel",
+    "number": "60",
+    "rarity": "Common",
+    "set_name": "Pok\u00e9mon GO",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Pidove",
+    "number": "61",
+    "rarity": "Common",
+    "set_name": "Pok\u00e9mon GO",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Tranquill",
+    "number": "62",
+    "rarity": "Common",
+    "set_name": "Pok\u00e9mon GO",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Unfezant",
+    "number": "63",
+    "rarity": "Uncommon",
+    "set_name": "Pok\u00e9mon GO",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Blanche",
+    "number": "64",
+    "rarity": "Uncommon",
+    "set_name": "Pok\u00e9mon GO",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Candela",
+    "number": "65",
+    "rarity": "Uncommon",
+    "set_name": "Pok\u00e9mon GO",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Egg Incubator",
+    "number": "66",
+    "rarity": "Uncommon",
+    "set_name": "Pok\u00e9mon GO",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Lure Module",
+    "number": "67",
+    "rarity": "Uncommon",
+    "set_name": "Pok\u00e9mon GO",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Pok\u00e9Stop",
+    "number": "68",
+    "rarity": "Uncommon",
+    "set_name": "Pok\u00e9mon GO",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Rare Candy",
+    "number": "69",
+    "rarity": "Uncommon",
+    "set_name": "Pok\u00e9mon GO",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Spark",
+    "number": "70",
+    "rarity": "Uncommon",
+    "set_name": "Pok\u00e9mon GO",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Alolan Exeggutor V",
+    "number": "71",
+    "rarity": "Rare Ultra",
+    "set_name": "Pok\u00e9mon GO",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Mewtwo V",
+    "number": "72",
+    "rarity": "Rare Ultra",
+    "set_name": "Pok\u00e9mon GO",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Conkeldurr V",
+    "number": "73",
+    "rarity": "Rare Ultra",
+    "set_name": "Pok\u00e9mon GO",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Conkeldurr V",
+    "number": "74",
+    "rarity": "Rare Ultra",
+    "set_name": "Pok\u00e9mon GO",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Melmetal V",
+    "number": "75",
+    "rarity": "Rare Ultra",
+    "set_name": "Pok\u00e9mon GO",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Dragonite V",
+    "number": "76",
+    "rarity": "Rare Ultra",
+    "set_name": "Pok\u00e9mon GO",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Slaking V",
+    "number": "77",
+    "rarity": "Rare Ultra",
+    "set_name": "Pok\u00e9mon GO",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Professor's Research",
+    "number": "78",
+    "rarity": "Rare Ultra",
+    "set_name": "Pok\u00e9mon GO",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Mewtwo VSTAR",
+    "number": "79",
+    "rarity": "Rare Rainbow",
+    "set_name": "Pok\u00e9mon GO",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Melmetal VMAX",
+    "number": "80",
+    "rarity": "Rare Rainbow",
+    "set_name": "Pok\u00e9mon GO",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Dragonite VSTAR",
+    "number": "81",
+    "rarity": "Rare Rainbow",
+    "set_name": "Pok\u00e9mon GO",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Blanche",
+    "number": "82",
+    "rarity": "Rare Rainbow",
+    "set_name": "Pok\u00e9mon GO",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Candela",
+    "number": "83",
+    "rarity": "Rare Rainbow",
+    "set_name": "Pok\u00e9mon GO",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Professor's Research",
+    "number": "84",
+    "rarity": "Rare Rainbow",
+    "set_name": "Pok\u00e9mon GO",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Spark",
+    "number": "85",
+    "rarity": "Rare Rainbow",
+    "set_name": "Pok\u00e9mon GO",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Mewtwo VSTAR",
+    "number": "86",
+    "rarity": "Rare Secret",
+    "set_name": "Pok\u00e9mon GO",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Egg Incubator",
+    "number": "87",
+    "rarity": "Rare Secret",
+    "set_name": "Pok\u00e9mon GO",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Lure Module",
+    "number": "88",
+    "rarity": "Rare Secret",
+    "set_name": "Pok\u00e9mon GO",
+    "set_series": "Sword & Shield"
+  }
+]

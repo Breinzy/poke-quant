@@ -1,0 +1,1332 @@
+[
+  {
+    "name": "Caterpie",
+    "number": "1",
+    "rarity": "Common",
+    "set_name": "Journey Together",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Metapod",
+    "number": "2",
+    "rarity": "Common",
+    "set_name": "Journey Together",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Butterfree",
+    "number": "3",
+    "rarity": "Rare",
+    "set_name": "Journey Together",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Paras",
+    "number": "4",
+    "rarity": "Common",
+    "set_name": "Journey Together",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Parasect",
+    "number": "5",
+    "rarity": "Common",
+    "set_name": "Journey Together",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Petilil",
+    "number": "6",
+    "rarity": "Common",
+    "set_name": "Journey Together",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Lilligant",
+    "number": "7",
+    "rarity": "Common",
+    "set_name": "Journey Together",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Maractus",
+    "number": "8",
+    "rarity": "Uncommon",
+    "set_name": "Journey Together",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Karrablast",
+    "number": "9",
+    "rarity": "Common",
+    "set_name": "Journey Together",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Foongus",
+    "number": "10",
+    "rarity": "Common",
+    "set_name": "Journey Together",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Amoonguss ex",
+    "number": "11",
+    "rarity": "Double Rare",
+    "set_name": "Journey Together",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Shelmet",
+    "number": "12",
+    "rarity": "Common",
+    "set_name": "Journey Together",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Accelgor",
+    "number": "13",
+    "rarity": "Uncommon",
+    "set_name": "Journey Together",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Durant",
+    "number": "14",
+    "rarity": "Common",
+    "set_name": "Journey Together",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Virizion",
+    "number": "15",
+    "rarity": "Uncommon",
+    "set_name": "Journey Together",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Sprigatito",
+    "number": "16",
+    "rarity": "Common",
+    "set_name": "Journey Together",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Floragato",
+    "number": "17",
+    "rarity": "Common",
+    "set_name": "Journey Together",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Meowscarada",
+    "number": "18",
+    "rarity": "Rare",
+    "set_name": "Journey Together",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Nymble",
+    "number": "19",
+    "rarity": "Common",
+    "set_name": "Journey Together",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Magmar",
+    "number": "20",
+    "rarity": "Common",
+    "set_name": "Journey Together",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Magmortar",
+    "number": "21",
+    "rarity": "Rare",
+    "set_name": "Journey Together",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Torchic",
+    "number": "22",
+    "rarity": "Common",
+    "set_name": "Journey Together",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Combusken",
+    "number": "23",
+    "rarity": "Uncommon",
+    "set_name": "Journey Together",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Blaziken ex",
+    "number": "24",
+    "rarity": "Double Rare",
+    "set_name": "Journey Together",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Torkoal",
+    "number": "25",
+    "rarity": "Common",
+    "set_name": "Journey Together",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "N's Darumaka",
+    "number": "26",
+    "rarity": "Common",
+    "set_name": "Journey Together",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "N's Darmanitan",
+    "number": "27",
+    "rarity": "Uncommon",
+    "set_name": "Journey Together",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Larvesta",
+    "number": "28",
+    "rarity": "Common",
+    "set_name": "Journey Together",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Volcarona",
+    "number": "29",
+    "rarity": "Uncommon",
+    "set_name": "Journey Together",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Reshiram ex",
+    "number": "30",
+    "rarity": "Double Rare",
+    "set_name": "Journey Together",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Volcanion ex",
+    "number": "31",
+    "rarity": "Double Rare",
+    "set_name": "Journey Together",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Articuno",
+    "number": "32",
+    "rarity": "Uncommon",
+    "set_name": "Journey Together",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Remoraid",
+    "number": "33",
+    "rarity": "Common",
+    "set_name": "Journey Together",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Octillery",
+    "number": "34",
+    "rarity": "Uncommon",
+    "set_name": "Journey Together",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Lotad",
+    "number": "35",
+    "rarity": "Common",
+    "set_name": "Journey Together",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Lombre",
+    "number": "36",
+    "rarity": "Common",
+    "set_name": "Journey Together",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Ludicolo",
+    "number": "37",
+    "rarity": "Rare",
+    "set_name": "Journey Together",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Wingull",
+    "number": "38",
+    "rarity": "Common",
+    "set_name": "Journey Together",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Pelipper",
+    "number": "39",
+    "rarity": "Uncommon",
+    "set_name": "Journey Together",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Wailmer",
+    "number": "40",
+    "rarity": "Common",
+    "set_name": "Journey Together",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Wailord",
+    "number": "41",
+    "rarity": "Rare",
+    "set_name": "Journey Together",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Regice",
+    "number": "42",
+    "rarity": "Uncommon",
+    "set_name": "Journey Together",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Veluza ex",
+    "number": "43",
+    "rarity": "Double Rare",
+    "set_name": "Journey Together",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Alolan Geodude",
+    "number": "44",
+    "rarity": "Common",
+    "set_name": "Journey Together",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Alolan Graveler",
+    "number": "45",
+    "rarity": "Common",
+    "set_name": "Journey Together",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Alolan Golem",
+    "number": "46",
+    "rarity": "Uncommon",
+    "set_name": "Journey Together",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Iono's Voltorb",
+    "number": "47",
+    "rarity": "Common",
+    "set_name": "Journey Together",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Iono's Electrode",
+    "number": "48",
+    "rarity": "Uncommon",
+    "set_name": "Journey Together",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "N's Joltik",
+    "number": "49",
+    "rarity": "Common",
+    "set_name": "Journey Together",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Togedemaru",
+    "number": "50",
+    "rarity": "Common",
+    "set_name": "Journey Together",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Tapu Koko ex",
+    "number": "51",
+    "rarity": "Double Rare",
+    "set_name": "Journey Together",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Iono's Tadbulb",
+    "number": "52",
+    "rarity": "Common",
+    "set_name": "Journey Together",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Iono's Bellibolt ex",
+    "number": "53",
+    "rarity": "Double Rare",
+    "set_name": "Journey Together",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Iono's Wattrel",
+    "number": "54",
+    "rarity": "Common",
+    "set_name": "Journey Together",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Iono's Kilowattrel",
+    "number": "55",
+    "rarity": "Rare",
+    "set_name": "Journey Together",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Lillie's Clefairy ex",
+    "number": "56",
+    "rarity": "Double Rare",
+    "set_name": "Journey Together",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Alolan Marowak",
+    "number": "57",
+    "rarity": "Uncommon",
+    "set_name": "Journey Together",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Mr. Mime",
+    "number": "58",
+    "rarity": "Common",
+    "set_name": "Journey Together",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Shuppet",
+    "number": "59",
+    "rarity": "Common",
+    "set_name": "Journey Together",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Banette",
+    "number": "60",
+    "rarity": "Uncommon",
+    "set_name": "Journey Together",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Beldum",
+    "number": "61",
+    "rarity": "Common",
+    "set_name": "Journey Together",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Metang",
+    "number": "62",
+    "rarity": "Common",
+    "set_name": "Journey Together",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Metagross",
+    "number": "63",
+    "rarity": "Rare",
+    "set_name": "Journey Together",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "N's Sigilyph",
+    "number": "64",
+    "rarity": "Common",
+    "set_name": "Journey Together",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Oricorio",
+    "number": "65",
+    "rarity": "Common",
+    "set_name": "Journey Together",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Lillie's Cutiefly",
+    "number": "66",
+    "rarity": "Common",
+    "set_name": "Journey Together",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Lillie's Ribombee",
+    "number": "67",
+    "rarity": "Rare",
+    "set_name": "Journey Together",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Lillie's Comfey",
+    "number": "68",
+    "rarity": "Common",
+    "set_name": "Journey Together",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Mimikyu ex",
+    "number": "69",
+    "rarity": "Double Rare",
+    "set_name": "Journey Together",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Dhelmise",
+    "number": "70",
+    "rarity": "Common",
+    "set_name": "Journey Together",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Impidimp",
+    "number": "71",
+    "rarity": "Common",
+    "set_name": "Journey Together",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Morgrem",
+    "number": "72",
+    "rarity": "Common",
+    "set_name": "Journey Together",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Grimmsnarl",
+    "number": "73",
+    "rarity": "Uncommon",
+    "set_name": "Journey Together",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Milcery",
+    "number": "74",
+    "rarity": "Common",
+    "set_name": "Journey Together",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Alcremie ex",
+    "number": "75",
+    "rarity": "Double Rare",
+    "set_name": "Journey Together",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Cubone",
+    "number": "76",
+    "rarity": "Common",
+    "set_name": "Journey Together",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Swinub",
+    "number": "77",
+    "rarity": "Common",
+    "set_name": "Journey Together",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Piloswine",
+    "number": "78",
+    "rarity": "Common",
+    "set_name": "Journey Together",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Mamoswine ex",
+    "number": "79",
+    "rarity": "Double Rare",
+    "set_name": "Journey Together",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Larvitar",
+    "number": "80",
+    "rarity": "Common",
+    "set_name": "Journey Together",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Pupitar",
+    "number": "81",
+    "rarity": "Common",
+    "set_name": "Journey Together",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Regirock",
+    "number": "82",
+    "rarity": "Rare",
+    "set_name": "Journey Together",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Pancham",
+    "number": "83",
+    "rarity": "Common",
+    "set_name": "Journey Together",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Rockruff",
+    "number": "84",
+    "rarity": "Common",
+    "set_name": "Journey Together",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Lycanroc",
+    "number": "85",
+    "rarity": "Rare",
+    "set_name": "Journey Together",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Hop's Silicobra",
+    "number": "86",
+    "rarity": "Common",
+    "set_name": "Journey Together",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Hop's Sandaconda",
+    "number": "87",
+    "rarity": "Uncommon",
+    "set_name": "Journey Together",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Toedscool",
+    "number": "88",
+    "rarity": "Common",
+    "set_name": "Journey Together",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Toedscruel",
+    "number": "89",
+    "rarity": "Uncommon",
+    "set_name": "Journey Together",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Klawf",
+    "number": "90",
+    "rarity": "Uncommon",
+    "set_name": "Journey Together",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Koffing",
+    "number": "91",
+    "rarity": "Common",
+    "set_name": "Journey Together",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Weezing",
+    "number": "92",
+    "rarity": "Uncommon",
+    "set_name": "Journey Together",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Paldean Wooper",
+    "number": "93",
+    "rarity": "Common",
+    "set_name": "Journey Together",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Paldean Clodsire ex",
+    "number": "94",
+    "rarity": "Double Rare",
+    "set_name": "Journey Together",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Tyranitar",
+    "number": "95",
+    "rarity": "Rare",
+    "set_name": "Journey Together",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "N's Purrloin",
+    "number": "96",
+    "rarity": "Common",
+    "set_name": "Journey Together",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "N's Zorua",
+    "number": "97",
+    "rarity": "Common",
+    "set_name": "Journey Together",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "N's Zoroark ex",
+    "number": "98",
+    "rarity": "Double Rare",
+    "set_name": "Journey Together",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Pangoro",
+    "number": "99",
+    "rarity": "Uncommon",
+    "set_name": "Journey Together",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Lokix",
+    "number": "100",
+    "rarity": "Uncommon",
+    "set_name": "Journey Together",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Bombirdier",
+    "number": "101",
+    "rarity": "Common",
+    "set_name": "Journey Together",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Escavalier",
+    "number": "102",
+    "rarity": "Uncommon",
+    "set_name": "Journey Together",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "N's Klink",
+    "number": "103",
+    "rarity": "Common",
+    "set_name": "Journey Together",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "N's Klang",
+    "number": "104",
+    "rarity": "Common",
+    "set_name": "Journey Together",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "N's Klinklang",
+    "number": "105",
+    "rarity": "Uncommon",
+    "set_name": "Journey Together",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Galarian Stunfisk",
+    "number": "106",
+    "rarity": "Common",
+    "set_name": "Journey Together",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Magearna",
+    "number": "107",
+    "rarity": "Rare",
+    "set_name": "Journey Together",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Hop's Corviknight",
+    "number": "108",
+    "rarity": "Uncommon",
+    "set_name": "Journey Together",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Cufant",
+    "number": "109",
+    "rarity": "Common",
+    "set_name": "Journey Together",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Copperajah",
+    "number": "110",
+    "rarity": "Uncommon",
+    "set_name": "Journey Together",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Hop's Zacian ex",
+    "number": "111",
+    "rarity": "Double Rare",
+    "set_name": "Journey Together",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Bagon",
+    "number": "112",
+    "rarity": "Common",
+    "set_name": "Journey Together",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Shelgon",
+    "number": "113",
+    "rarity": "Common",
+    "set_name": "Journey Together",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Salamence ex",
+    "number": "114",
+    "rarity": "Double Rare",
+    "set_name": "Journey Together",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Druddigon",
+    "number": "115",
+    "rarity": "Common",
+    "set_name": "Journey Together",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "N's Reshiram",
+    "number": "116",
+    "rarity": "Rare",
+    "set_name": "Journey Together",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Hop's Snorlax",
+    "number": "117",
+    "rarity": "Rare",
+    "set_name": "Journey Together",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Sentret",
+    "number": "118",
+    "rarity": "Common",
+    "set_name": "Journey Together",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Furret",
+    "number": "119",
+    "rarity": "Common",
+    "set_name": "Journey Together",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Dunsparce",
+    "number": "120",
+    "rarity": "Common",
+    "set_name": "Journey Together",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Dudunsparce ex",
+    "number": "121",
+    "rarity": "Double Rare",
+    "set_name": "Journey Together",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Kecleon",
+    "number": "122",
+    "rarity": "Common",
+    "set_name": "Journey Together",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Tropius",
+    "number": "123",
+    "rarity": "Common",
+    "set_name": "Journey Together",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Audino",
+    "number": "124",
+    "rarity": "Common",
+    "set_name": "Journey Together",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Minccino",
+    "number": "125",
+    "rarity": "Common",
+    "set_name": "Journey Together",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Cinccino",
+    "number": "126",
+    "rarity": "Uncommon",
+    "set_name": "Journey Together",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Noibat",
+    "number": "127",
+    "rarity": "Common",
+    "set_name": "Journey Together",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Noivern",
+    "number": "128",
+    "rarity": "Rare",
+    "set_name": "Journey Together",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Komala",
+    "number": "129",
+    "rarity": "Common",
+    "set_name": "Journey Together",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Drampa",
+    "number": "130",
+    "rarity": "Common",
+    "set_name": "Journey Together",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Skwovet",
+    "number": "131",
+    "rarity": "Common",
+    "set_name": "Journey Together",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Greedent",
+    "number": "132",
+    "rarity": "Uncommon",
+    "set_name": "Journey Together",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Hop's Rookidee",
+    "number": "133",
+    "rarity": "Common",
+    "set_name": "Journey Together",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Hop's Corvisquire",
+    "number": "134",
+    "rarity": "Common",
+    "set_name": "Journey Together",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Hop's Wooloo",
+    "number": "135",
+    "rarity": "Common",
+    "set_name": "Journey Together",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Hop's Dubwool",
+    "number": "136",
+    "rarity": "Rare",
+    "set_name": "Journey Together",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Cramorant",
+    "number": "137",
+    "rarity": "Common",
+    "set_name": "Journey Together",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Hop's Cramorant",
+    "number": "138",
+    "rarity": "Uncommon",
+    "set_name": "Journey Together",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Lechonk",
+    "number": "139",
+    "rarity": "Common",
+    "set_name": "Journey Together",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Oinkologne",
+    "number": "140",
+    "rarity": "Uncommon",
+    "set_name": "Journey Together",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Squawkabilly",
+    "number": "141",
+    "rarity": "Common",
+    "set_name": "Journey Together",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Billy & O'Nare",
+    "number": "142",
+    "rarity": "Common",
+    "set_name": "Journey Together",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Black Belt's Training",
+    "number": "143",
+    "rarity": "Common",
+    "set_name": "Journey Together",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Black Belt's Training",
+    "number": "144",
+    "rarity": "Common",
+    "set_name": "Journey Together",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Black Belt's Training",
+    "number": "145",
+    "rarity": "Common",
+    "set_name": "Journey Together",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Brock's Scouting",
+    "number": "146",
+    "rarity": "Uncommon",
+    "set_name": "Journey Together",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Hop's Bag",
+    "number": "147",
+    "rarity": "Uncommon",
+    "set_name": "Journey Together",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Hop's Choice Band",
+    "number": "148",
+    "rarity": "Uncommon",
+    "set_name": "Journey Together",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Iris's Fighting Spirit",
+    "number": "149",
+    "rarity": "Uncommon",
+    "set_name": "Journey Together",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Levincia",
+    "number": "150",
+    "rarity": "Uncommon",
+    "set_name": "Journey Together",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Lillie's Pearl",
+    "number": "151",
+    "rarity": "Uncommon",
+    "set_name": "Journey Together",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "N's Castle",
+    "number": "152",
+    "rarity": "Uncommon",
+    "set_name": "Journey Together",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "N's PP Up",
+    "number": "153",
+    "rarity": "Uncommon",
+    "set_name": "Journey Together",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Postwick",
+    "number": "154",
+    "rarity": "Uncommon",
+    "set_name": "Journey Together",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Professor's Research",
+    "number": "155",
+    "rarity": "Common",
+    "set_name": "Journey Together",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Redeemable Ticket",
+    "number": "156",
+    "rarity": "Uncommon",
+    "set_name": "Journey Together",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Ruffian",
+    "number": "157",
+    "rarity": "Uncommon",
+    "set_name": "Journey Together",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Super Potion",
+    "number": "158",
+    "rarity": "Uncommon",
+    "set_name": "Journey Together",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Spiky Energy",
+    "number": "159",
+    "rarity": "Uncommon",
+    "set_name": "Journey Together",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Maractus",
+    "number": "160",
+    "rarity": "Illustration Rare",
+    "set_name": "Journey Together",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Articuno",
+    "number": "161",
+    "rarity": "Illustration Rare",
+    "set_name": "Journey Together",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Wailord",
+    "number": "162",
+    "rarity": "Illustration Rare",
+    "set_name": "Journey Together",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Iono's Kilowattrel",
+    "number": "163",
+    "rarity": "Illustration Rare",
+    "set_name": "Journey Together",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Lillie's Ribombee",
+    "number": "164",
+    "rarity": "Illustration Rare",
+    "set_name": "Journey Together",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Swinub",
+    "number": "165",
+    "rarity": "Illustration Rare",
+    "set_name": "Journey Together",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Lycanroc",
+    "number": "166",
+    "rarity": "Illustration Rare",
+    "set_name": "Journey Together",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "N's Reshiram",
+    "number": "167",
+    "rarity": "Illustration Rare",
+    "set_name": "Journey Together",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Furret",
+    "number": "168",
+    "rarity": "Illustration Rare",
+    "set_name": "Journey Together",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Noibat",
+    "number": "169",
+    "rarity": "Illustration Rare",
+    "set_name": "Journey Together",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Hop's Wooloo",
+    "number": "170",
+    "rarity": "Illustration Rare",
+    "set_name": "Journey Together",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Volcanion ex",
+    "number": "171",
+    "rarity": "Ultra Rare",
+    "set_name": "Journey Together",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Iono's Bellibolt ex",
+    "number": "172",
+    "rarity": "Ultra Rare",
+    "set_name": "Journey Together",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Lillie's Clefairy ex",
+    "number": "173",
+    "rarity": "Ultra Rare",
+    "set_name": "Journey Together",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Mamoswine ex",
+    "number": "174",
+    "rarity": "Ultra Rare",
+    "set_name": "Journey Together",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "N's Zoroark ex",
+    "number": "175",
+    "rarity": "Ultra Rare",
+    "set_name": "Journey Together",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Hop's Zacian ex",
+    "number": "176",
+    "rarity": "Ultra Rare",
+    "set_name": "Journey Together",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Salamence ex",
+    "number": "177",
+    "rarity": "Ultra Rare",
+    "set_name": "Journey Together",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Dudunsparce ex",
+    "number": "178",
+    "rarity": "Ultra Rare",
+    "set_name": "Journey Together",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Brock's Scouting",
+    "number": "179",
+    "rarity": "Ultra Rare",
+    "set_name": "Journey Together",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Iris's Fighting Spirit",
+    "number": "180",
+    "rarity": "Ultra Rare",
+    "set_name": "Journey Together",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Ruffian",
+    "number": "181",
+    "rarity": "Ultra Rare",
+    "set_name": "Journey Together",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Volcanion ex",
+    "number": "182",
+    "rarity": "Special Illustration Rare",
+    "set_name": "Journey Together",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Iono's Bellibolt ex",
+    "number": "183",
+    "rarity": "Special Illustration Rare",
+    "set_name": "Journey Together",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Lillie's Clefairy ex",
+    "number": "184",
+    "rarity": "Special Illustration Rare",
+    "set_name": "Journey Together",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "N's Zoroark ex",
+    "number": "185",
+    "rarity": "Special Illustration Rare",
+    "set_name": "Journey Together",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Hop's Zacian ex",
+    "number": "186",
+    "rarity": "Special Illustration Rare",
+    "set_name": "Journey Together",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Salamence ex",
+    "number": "187",
+    "rarity": "Special Illustration Rare",
+    "set_name": "Journey Together",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Iono's Bellibolt ex",
+    "number": "188",
+    "rarity": "Hyper Rare",
+    "set_name": "Journey Together",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "N's Zoroark ex",
+    "number": "189",
+    "rarity": "Hyper Rare",
+    "set_name": "Journey Together",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Spiky Energy",
+    "number": "190",
+    "rarity": "Hyper Rare",
+    "set_name": "Journey Together",
+    "set_series": "Scarlet & Violet"
+  }
+]

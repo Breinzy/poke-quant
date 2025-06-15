@@ -1,0 +1,1465 @@
+[
+  {
+    "name": "Caterpie",
+    "number": "1",
+    "rarity": "Common",
+    "set_name": "Rebel Clash",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Metapod",
+    "number": "2",
+    "rarity": "Uncommon",
+    "set_name": "Rebel Clash",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Butterfree",
+    "number": "3",
+    "rarity": "Rare",
+    "set_name": "Rebel Clash",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Scyther",
+    "number": "4",
+    "rarity": "Common",
+    "set_name": "Rebel Clash",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Shuckle",
+    "number": "5",
+    "rarity": "Uncommon",
+    "set_name": "Rebel Clash",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Heracross",
+    "number": "6",
+    "rarity": "Uncommon",
+    "set_name": "Rebel Clash",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Lotad",
+    "number": "7",
+    "rarity": "Common",
+    "set_name": "Rebel Clash",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Lombre",
+    "number": "8",
+    "rarity": "Uncommon",
+    "set_name": "Rebel Clash",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Ludicolo",
+    "number": "9",
+    "rarity": "Rare",
+    "set_name": "Rebel Clash",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Surskit",
+    "number": "10",
+    "rarity": "Common",
+    "set_name": "Rebel Clash",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Masquerain",
+    "number": "11",
+    "rarity": "Uncommon",
+    "set_name": "Rebel Clash",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Snover",
+    "number": "12",
+    "rarity": "Common",
+    "set_name": "Rebel Clash",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Abomasnow",
+    "number": "13",
+    "rarity": "Rare",
+    "set_name": "Rebel Clash",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Phantump",
+    "number": "14",
+    "rarity": "Common",
+    "set_name": "Rebel Clash",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Trevenant",
+    "number": "15",
+    "rarity": "Rare",
+    "set_name": "Rebel Clash",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Grubbin",
+    "number": "16",
+    "rarity": "Common",
+    "set_name": "Rebel Clash",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Rillaboom V",
+    "number": "17",
+    "rarity": "Rare Holo V",
+    "set_name": "Rebel Clash",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Rillaboom VMAX",
+    "number": "18",
+    "rarity": "Rare Holo VMAX",
+    "set_name": "Rebel Clash",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Eldegoss V",
+    "number": "19",
+    "rarity": "Rare Holo V",
+    "set_name": "Rebel Clash",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Applin",
+    "number": "20",
+    "rarity": "Common",
+    "set_name": "Rebel Clash",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Applin",
+    "number": "21",
+    "rarity": "Common",
+    "set_name": "Rebel Clash",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Flapple",
+    "number": "22",
+    "rarity": "Rare Holo",
+    "set_name": "Rebel Clash",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Appletun",
+    "number": "23",
+    "rarity": "Rare Holo",
+    "set_name": "Rebel Clash",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Vulpix",
+    "number": "24",
+    "rarity": "Common",
+    "set_name": "Rebel Clash",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Ninetales",
+    "number": "25",
+    "rarity": "Rare",
+    "set_name": "Rebel Clash",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Ninetales V",
+    "number": "26",
+    "rarity": "Rare Holo V",
+    "set_name": "Rebel Clash",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Growlithe",
+    "number": "27",
+    "rarity": "Common",
+    "set_name": "Rebel Clash",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Arcanine",
+    "number": "28",
+    "rarity": "Rare",
+    "set_name": "Rebel Clash",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Magmar",
+    "number": "29",
+    "rarity": "Common",
+    "set_name": "Rebel Clash",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Magmortar",
+    "number": "30",
+    "rarity": "Rare",
+    "set_name": "Rebel Clash",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Litwick",
+    "number": "31",
+    "rarity": "Common",
+    "set_name": "Rebel Clash",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Lampent",
+    "number": "32",
+    "rarity": "Uncommon",
+    "set_name": "Rebel Clash",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Chandelure",
+    "number": "33",
+    "rarity": "Rare Holo",
+    "set_name": "Rebel Clash",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Heatmor",
+    "number": "34",
+    "rarity": "Uncommon",
+    "set_name": "Rebel Clash",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Cinderace V",
+    "number": "35",
+    "rarity": "Rare Holo V",
+    "set_name": "Rebel Clash",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Cinderace VMAX",
+    "number": "36",
+    "rarity": "Rare Holo VMAX",
+    "set_name": "Rebel Clash",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Galarian Mr. Mime",
+    "number": "37",
+    "rarity": "Common",
+    "set_name": "Rebel Clash",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Galarian Mr. Rime",
+    "number": "38",
+    "rarity": "Rare",
+    "set_name": "Rebel Clash",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Magikarp",
+    "number": "39",
+    "rarity": "Common",
+    "set_name": "Rebel Clash",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Gyarados",
+    "number": "40",
+    "rarity": "Rare Holo",
+    "set_name": "Rebel Clash",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Wingull",
+    "number": "41",
+    "rarity": "Common",
+    "set_name": "Rebel Clash",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Pelipper",
+    "number": "42",
+    "rarity": "Uncommon",
+    "set_name": "Rebel Clash",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Milotic V",
+    "number": "43",
+    "rarity": "Rare Holo V",
+    "set_name": "Rebel Clash",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Tympole",
+    "number": "44",
+    "rarity": "Common",
+    "set_name": "Rebel Clash",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Palpitoad",
+    "number": "45",
+    "rarity": "Uncommon",
+    "set_name": "Rebel Clash",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Seismitoad",
+    "number": "46",
+    "rarity": "Rare",
+    "set_name": "Rebel Clash",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Galarian Darumaka",
+    "number": "47",
+    "rarity": "Common",
+    "set_name": "Rebel Clash",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Galarian Darmanitan",
+    "number": "48",
+    "rarity": "Rare",
+    "set_name": "Rebel Clash",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Inteleon V",
+    "number": "49",
+    "rarity": "Rare Holo V",
+    "set_name": "Rebel Clash",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Inteleon VMAX",
+    "number": "50",
+    "rarity": "Rare Holo VMAX",
+    "set_name": "Rebel Clash",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Cramorant",
+    "number": "51",
+    "rarity": "Rare",
+    "set_name": "Rebel Clash",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Arrokuda",
+    "number": "52",
+    "rarity": "Common",
+    "set_name": "Rebel Clash",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Barraskewda",
+    "number": "53",
+    "rarity": "Rare",
+    "set_name": "Rebel Clash",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Eiscue",
+    "number": "54",
+    "rarity": "Rare Holo",
+    "set_name": "Rebel Clash",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Eiscue V",
+    "number": "55",
+    "rarity": "Rare Holo V",
+    "set_name": "Rebel Clash",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Voltorb",
+    "number": "56",
+    "rarity": "Common",
+    "set_name": "Rebel Clash",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Electrode",
+    "number": "57",
+    "rarity": "Uncommon",
+    "set_name": "Rebel Clash",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Electabuzz",
+    "number": "58",
+    "rarity": "Common",
+    "set_name": "Rebel Clash",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Electivire",
+    "number": "59",
+    "rarity": "Rare",
+    "set_name": "Rebel Clash",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Shinx",
+    "number": "60",
+    "rarity": "Common",
+    "set_name": "Rebel Clash",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Luxio",
+    "number": "61",
+    "rarity": "Uncommon",
+    "set_name": "Rebel Clash",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Luxray",
+    "number": "62",
+    "rarity": "Rare Holo",
+    "set_name": "Rebel Clash",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Helioptile",
+    "number": "63",
+    "rarity": "Common",
+    "set_name": "Rebel Clash",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Heliolisk",
+    "number": "64",
+    "rarity": "Uncommon",
+    "set_name": "Rebel Clash",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Charjabug",
+    "number": "65",
+    "rarity": "Uncommon",
+    "set_name": "Rebel Clash",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Vikavolt",
+    "number": "66",
+    "rarity": "Rare Holo",
+    "set_name": "Rebel Clash",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Boltund V",
+    "number": "67",
+    "rarity": "Rare Holo V",
+    "set_name": "Rebel Clash",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Toxel",
+    "number": "68",
+    "rarity": "Common",
+    "set_name": "Rebel Clash",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Toxtricity",
+    "number": "69",
+    "rarity": "Rare",
+    "set_name": "Rebel Clash",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Toxtricity V",
+    "number": "70",
+    "rarity": "Rare Holo V",
+    "set_name": "Rebel Clash",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Toxtricity VMAX",
+    "number": "71",
+    "rarity": "Rare Holo VMAX",
+    "set_name": "Rebel Clash",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Pincurchin V",
+    "number": "72",
+    "rarity": "Rare Holo V",
+    "set_name": "Rebel Clash",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Morpeko",
+    "number": "73",
+    "rarity": "Uncommon",
+    "set_name": "Rebel Clash",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Clefairy",
+    "number": "74",
+    "rarity": "Common",
+    "set_name": "Rebel Clash",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Clefable",
+    "number": "75",
+    "rarity": "Rare Holo",
+    "set_name": "Rebel Clash",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Natu",
+    "number": "76",
+    "rarity": "Common",
+    "set_name": "Rebel Clash",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Xatu",
+    "number": "77",
+    "rarity": "Uncommon",
+    "set_name": "Rebel Clash",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Galarian Corsola",
+    "number": "78",
+    "rarity": "Common",
+    "set_name": "Rebel Clash",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Galarian Cursola",
+    "number": "79",
+    "rarity": "Rare Holo",
+    "set_name": "Rebel Clash",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Sigilyph",
+    "number": "80",
+    "rarity": "Rare",
+    "set_name": "Rebel Clash",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Sandygast",
+    "number": "81",
+    "rarity": "Common",
+    "set_name": "Rebel Clash",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Palossand",
+    "number": "82",
+    "rarity": "Uncommon",
+    "set_name": "Rebel Clash",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Hatenna",
+    "number": "83",
+    "rarity": "Common",
+    "set_name": "Rebel Clash",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Hattrem",
+    "number": "84",
+    "rarity": "Uncommon",
+    "set_name": "Rebel Clash",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Hatterene",
+    "number": "85",
+    "rarity": "Rare Holo",
+    "set_name": "Rebel Clash",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Milcery",
+    "number": "86",
+    "rarity": "Common",
+    "set_name": "Rebel Clash",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Alcremie",
+    "number": "87",
+    "rarity": "Rare",
+    "set_name": "Rebel Clash",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Indeedee",
+    "number": "88",
+    "rarity": "Uncommon",
+    "set_name": "Rebel Clash",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Dreepy",
+    "number": "89",
+    "rarity": "Common",
+    "set_name": "Rebel Clash",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Drakloak",
+    "number": "90",
+    "rarity": "Uncommon",
+    "set_name": "Rebel Clash",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Dragapult",
+    "number": "91",
+    "rarity": "Rare Holo",
+    "set_name": "Rebel Clash",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Dragapult V",
+    "number": "92",
+    "rarity": "Rare Holo V",
+    "set_name": "Rebel Clash",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Dragapult VMAX",
+    "number": "93",
+    "rarity": "Rare Holo VMAX",
+    "set_name": "Rebel Clash",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Galarian Farfetch'd",
+    "number": "94",
+    "rarity": "Common",
+    "set_name": "Rebel Clash",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Galarian Sirfetch'd",
+    "number": "95",
+    "rarity": "Rare Holo",
+    "set_name": "Rebel Clash",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Nosepass",
+    "number": "96",
+    "rarity": "Common",
+    "set_name": "Rebel Clash",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Meditite",
+    "number": "97",
+    "rarity": "Common",
+    "set_name": "Rebel Clash",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Medicham",
+    "number": "98",
+    "rarity": "Uncommon",
+    "set_name": "Rebel Clash",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Barboach",
+    "number": "99",
+    "rarity": "Common",
+    "set_name": "Rebel Clash",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Whiscash",
+    "number": "100",
+    "rarity": "Rare",
+    "set_name": "Rebel Clash",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Galarian Yamask",
+    "number": "101",
+    "rarity": "Common",
+    "set_name": "Rebel Clash",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Galarian Runerigus",
+    "number": "102",
+    "rarity": "Rare",
+    "set_name": "Rebel Clash",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Binacle",
+    "number": "103",
+    "rarity": "Common",
+    "set_name": "Rebel Clash",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Barbaracle",
+    "number": "104",
+    "rarity": "Rare",
+    "set_name": "Rebel Clash",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Rolycoly",
+    "number": "105",
+    "rarity": "Common",
+    "set_name": "Rebel Clash",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Carkol",
+    "number": "106",
+    "rarity": "Uncommon",
+    "set_name": "Rebel Clash",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Coalossal",
+    "number": "107",
+    "rarity": "Rare Holo",
+    "set_name": "Rebel Clash",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Sandaconda V",
+    "number": "108",
+    "rarity": "Rare Holo V",
+    "set_name": "Rebel Clash",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Falinks",
+    "number": "109",
+    "rarity": "Uncommon",
+    "set_name": "Rebel Clash",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Falinks V",
+    "number": "110",
+    "rarity": "Rare Holo V",
+    "set_name": "Rebel Clash",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Stonjourner",
+    "number": "111",
+    "rarity": "Rare Holo",
+    "set_name": "Rebel Clash",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Koffing",
+    "number": "112",
+    "rarity": "Common",
+    "set_name": "Rebel Clash",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Galarian Weezing",
+    "number": "113",
+    "rarity": "Rare Holo",
+    "set_name": "Rebel Clash",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Stunky",
+    "number": "114",
+    "rarity": "Common",
+    "set_name": "Rebel Clash",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Skuntank",
+    "number": "115",
+    "rarity": "Uncommon",
+    "set_name": "Rebel Clash",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Spiritomb",
+    "number": "116",
+    "rarity": "Rare",
+    "set_name": "Rebel Clash",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Trubbish",
+    "number": "117",
+    "rarity": "Common",
+    "set_name": "Rebel Clash",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Garbodor",
+    "number": "118",
+    "rarity": "Rare",
+    "set_name": "Rebel Clash",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Vullaby",
+    "number": "119",
+    "rarity": "Common",
+    "set_name": "Rebel Clash",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Mandibuzz",
+    "number": "120",
+    "rarity": "Rare",
+    "set_name": "Rebel Clash",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Malamar V",
+    "number": "121",
+    "rarity": "Rare Holo V",
+    "set_name": "Rebel Clash",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Malamar VMAX",
+    "number": "122",
+    "rarity": "Rare Holo VMAX",
+    "set_name": "Rebel Clash",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Impidimp",
+    "number": "123",
+    "rarity": "Common",
+    "set_name": "Rebel Clash",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Morgrem",
+    "number": "124",
+    "rarity": "Uncommon",
+    "set_name": "Rebel Clash",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Grimmsnarl",
+    "number": "125",
+    "rarity": "Rare Holo",
+    "set_name": "Rebel Clash",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Galarian Meowth",
+    "number": "126",
+    "rarity": "Common",
+    "set_name": "Rebel Clash",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Galarian Perrserker",
+    "number": "127",
+    "rarity": "Rare",
+    "set_name": "Rebel Clash",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Scizor",
+    "number": "128",
+    "rarity": "Rare",
+    "set_name": "Rebel Clash",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Bronzor",
+    "number": "129",
+    "rarity": "Common",
+    "set_name": "Rebel Clash",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Bronzong",
+    "number": "130",
+    "rarity": "Uncommon",
+    "set_name": "Rebel Clash",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Probopass",
+    "number": "131",
+    "rarity": "Rare",
+    "set_name": "Rebel Clash",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Durant",
+    "number": "132",
+    "rarity": "Uncommon",
+    "set_name": "Rebel Clash",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Honedge",
+    "number": "133",
+    "rarity": "Common",
+    "set_name": "Rebel Clash",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Doublade",
+    "number": "134",
+    "rarity": "Uncommon",
+    "set_name": "Rebel Clash",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Aegislash",
+    "number": "135",
+    "rarity": "Rare",
+    "set_name": "Rebel Clash",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Copperajah V",
+    "number": "136",
+    "rarity": "Rare Holo V",
+    "set_name": "Rebel Clash",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Copperajah VMAX",
+    "number": "137",
+    "rarity": "Rare Holo VMAX",
+    "set_name": "Rebel Clash",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Duraludon",
+    "number": "138",
+    "rarity": "Rare Holo",
+    "set_name": "Rebel Clash",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Zacian",
+    "number": "139",
+    "rarity": "Rare",
+    "set_name": "Rebel Clash",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Zamazenta",
+    "number": "140",
+    "rarity": "Rare",
+    "set_name": "Rebel Clash",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Snorlax",
+    "number": "141",
+    "rarity": "Rare",
+    "set_name": "Rebel Clash",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Chatot",
+    "number": "142",
+    "rarity": "Uncommon",
+    "set_name": "Rebel Clash",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Pidove",
+    "number": "143",
+    "rarity": "Common",
+    "set_name": "Rebel Clash",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Tranquill",
+    "number": "144",
+    "rarity": "Uncommon",
+    "set_name": "Rebel Clash",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Unfezant",
+    "number": "145",
+    "rarity": "Rare",
+    "set_name": "Rebel Clash",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Bunnelby",
+    "number": "146",
+    "rarity": "Common",
+    "set_name": "Rebel Clash",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Diggersby",
+    "number": "147",
+    "rarity": "Rare",
+    "set_name": "Rebel Clash",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Hawlucha",
+    "number": "148",
+    "rarity": "Uncommon",
+    "set_name": "Rebel Clash",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Stufful",
+    "number": "149",
+    "rarity": "Common",
+    "set_name": "Rebel Clash",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Bewear",
+    "number": "150",
+    "rarity": "Uncommon",
+    "set_name": "Rebel Clash",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Skwovet",
+    "number": "151",
+    "rarity": "Common",
+    "set_name": "Rebel Clash",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Greedent",
+    "number": "152",
+    "rarity": "Rare",
+    "set_name": "Rebel Clash",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Dubwool V",
+    "number": "153",
+    "rarity": "Rare Holo V",
+    "set_name": "Rebel Clash",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Boss's Orders",
+    "number": "154",
+    "rarity": "Rare Holo",
+    "set_name": "Rebel Clash",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Burning Scarf",
+    "number": "155",
+    "rarity": "Uncommon",
+    "set_name": "Rebel Clash",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Capacious Bucket",
+    "number": "156",
+    "rarity": "Uncommon",
+    "set_name": "Rebel Clash",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Cursed Shovel",
+    "number": "157",
+    "rarity": "Uncommon",
+    "set_name": "Rebel Clash",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Dan",
+    "number": "158",
+    "rarity": "Uncommon",
+    "set_name": "Rebel Clash",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Full Heal",
+    "number": "159",
+    "rarity": "Uncommon",
+    "set_name": "Rebel Clash",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Galar Mine",
+    "number": "160",
+    "rarity": "Uncommon",
+    "set_name": "Rebel Clash",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Milo",
+    "number": "161",
+    "rarity": "Uncommon",
+    "set_name": "Rebel Clash",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Nugget",
+    "number": "162",
+    "rarity": "Uncommon",
+    "set_name": "Rebel Clash",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Oleana",
+    "number": "163",
+    "rarity": "Uncommon",
+    "set_name": "Rebel Clash",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Pok\u00e9 Ball",
+    "number": "164",
+    "rarity": "Uncommon",
+    "set_name": "Rebel Clash",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Scoop Up Net",
+    "number": "165",
+    "rarity": "Uncommon",
+    "set_name": "Rebel Clash",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Skyla",
+    "number": "166",
+    "rarity": "Uncommon",
+    "set_name": "Rebel Clash",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Sonia",
+    "number": "167",
+    "rarity": "Uncommon",
+    "set_name": "Rebel Clash",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Tool Scrapper",
+    "number": "168",
+    "rarity": "Uncommon",
+    "set_name": "Rebel Clash",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Training Court",
+    "number": "169",
+    "rarity": "Uncommon",
+    "set_name": "Rebel Clash",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Turffield Stadium",
+    "number": "170",
+    "rarity": "Uncommon",
+    "set_name": "Rebel Clash",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Capture Energy",
+    "number": "171",
+    "rarity": "Uncommon",
+    "set_name": "Rebel Clash",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Horror Psychic Energy",
+    "number": "172",
+    "rarity": "Uncommon",
+    "set_name": "Rebel Clash",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Speed Lightning Energy",
+    "number": "173",
+    "rarity": "Uncommon",
+    "set_name": "Rebel Clash",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Twin Energy",
+    "number": "174",
+    "rarity": "Uncommon",
+    "set_name": "Rebel Clash",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Rillaboom V",
+    "number": "175",
+    "rarity": "Rare Ultra",
+    "set_name": "Rebel Clash",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Eldegoss V",
+    "number": "176",
+    "rarity": "Rare Ultra",
+    "set_name": "Rebel Clash",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Ninetales V",
+    "number": "177",
+    "rarity": "Rare Ultra",
+    "set_name": "Rebel Clash",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Cinderace V",
+    "number": "178",
+    "rarity": "Rare Ultra",
+    "set_name": "Rebel Clash",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Milotic V",
+    "number": "179",
+    "rarity": "Rare Ultra",
+    "set_name": "Rebel Clash",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Inteleon V",
+    "number": "180",
+    "rarity": "Rare Ultra",
+    "set_name": "Rebel Clash",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Boltund V",
+    "number": "181",
+    "rarity": "Rare Ultra",
+    "set_name": "Rebel Clash",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Toxtricity V",
+    "number": "182",
+    "rarity": "Rare Ultra",
+    "set_name": "Rebel Clash",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Dragapult V",
+    "number": "183",
+    "rarity": "Rare Ultra",
+    "set_name": "Rebel Clash",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Sandaconda V",
+    "number": "184",
+    "rarity": "Rare Ultra",
+    "set_name": "Rebel Clash",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Falinks V",
+    "number": "185",
+    "rarity": "Rare Ultra",
+    "set_name": "Rebel Clash",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Malamar V",
+    "number": "186",
+    "rarity": "Rare Ultra",
+    "set_name": "Rebel Clash",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Copperajah V",
+    "number": "187",
+    "rarity": "Rare Ultra",
+    "set_name": "Rebel Clash",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Dubwool V",
+    "number": "188",
+    "rarity": "Rare Ultra",
+    "set_name": "Rebel Clash",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Boss's Orders",
+    "number": "189",
+    "rarity": "Rare Ultra",
+    "set_name": "Rebel Clash",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Milo",
+    "number": "190",
+    "rarity": "Rare Ultra",
+    "set_name": "Rebel Clash",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Oleana",
+    "number": "191",
+    "rarity": "Rare Ultra",
+    "set_name": "Rebel Clash",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Sonia",
+    "number": "192",
+    "rarity": "Rare Ultra",
+    "set_name": "Rebel Clash",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Rillaboom VMAX",
+    "number": "193",
+    "rarity": "Rare Rainbow",
+    "set_name": "Rebel Clash",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Cinderace VMAX",
+    "number": "194",
+    "rarity": "Rare Rainbow",
+    "set_name": "Rebel Clash",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Inteleon VMAX",
+    "number": "195",
+    "rarity": "Rare Rainbow",
+    "set_name": "Rebel Clash",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Toxtricity VMAX",
+    "number": "196",
+    "rarity": "Rare Rainbow",
+    "set_name": "Rebel Clash",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Dragapult VMAX",
+    "number": "197",
+    "rarity": "Rare Rainbow",
+    "set_name": "Rebel Clash",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Malamar VMAX",
+    "number": "198",
+    "rarity": "Rare Rainbow",
+    "set_name": "Rebel Clash",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Copperajah VMAX",
+    "number": "199",
+    "rarity": "Rare Rainbow",
+    "set_name": "Rebel Clash",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Boss's Orders",
+    "number": "200",
+    "rarity": "Rare Rainbow",
+    "set_name": "Rebel Clash",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Milo",
+    "number": "201",
+    "rarity": "Rare Rainbow",
+    "set_name": "Rebel Clash",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Oleana",
+    "number": "202",
+    "rarity": "Rare Rainbow",
+    "set_name": "Rebel Clash",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Sonia",
+    "number": "203",
+    "rarity": "Rare Rainbow",
+    "set_name": "Rebel Clash",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Frosmoth",
+    "number": "204",
+    "rarity": "Rare Secret",
+    "set_name": "Rebel Clash",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Galarian Perrserker",
+    "number": "205",
+    "rarity": "Rare Secret",
+    "set_name": "Rebel Clash",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Big Charm",
+    "number": "206",
+    "rarity": "Rare Secret",
+    "set_name": "Rebel Clash",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Scoop Up Net",
+    "number": "207",
+    "rarity": "Rare Secret",
+    "set_name": "Rebel Clash",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Tool Scrapper",
+    "number": "208",
+    "rarity": "Rare Secret",
+    "set_name": "Rebel Clash",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Twin Energy",
+    "number": "209",
+    "rarity": "Rare Secret",
+    "set_name": "Rebel Clash",
+    "set_series": "Sword & Shield"
+  }
+]

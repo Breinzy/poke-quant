@@ -1,0 +1,1017 @@
+[
+  {
+    "name": "Ampharos",
+    "number": "1",
+    "rarity": "Rare Holo",
+    "set_name": "Unseen Forces",
+    "set_series": "EX"
+  },
+  {
+    "name": "Ariados",
+    "number": "2",
+    "rarity": "Rare Holo",
+    "set_name": "Unseen Forces",
+    "set_series": "EX"
+  },
+  {
+    "name": "Bellossom",
+    "number": "3",
+    "rarity": "Rare Holo",
+    "set_name": "Unseen Forces",
+    "set_series": "EX"
+  },
+  {
+    "name": "Feraligatr",
+    "number": "4",
+    "rarity": "Rare Holo",
+    "set_name": "Unseen Forces",
+    "set_series": "EX"
+  },
+  {
+    "name": "Flareon",
+    "number": "5",
+    "rarity": "Rare Holo",
+    "set_name": "Unseen Forces",
+    "set_series": "EX"
+  },
+  {
+    "name": "Forretress",
+    "number": "6",
+    "rarity": "Rare Holo",
+    "set_name": "Unseen Forces",
+    "set_series": "EX"
+  },
+  {
+    "name": "Houndoom",
+    "number": "7",
+    "rarity": "Rare Holo",
+    "set_name": "Unseen Forces",
+    "set_series": "EX"
+  },
+  {
+    "name": "Jolteon",
+    "number": "8",
+    "rarity": "Rare Holo",
+    "set_name": "Unseen Forces",
+    "set_series": "EX"
+  },
+  {
+    "name": "Meganium",
+    "number": "9",
+    "rarity": "Rare Holo",
+    "set_name": "Unseen Forces",
+    "set_series": "EX"
+  },
+  {
+    "name": "Octillery",
+    "number": "10",
+    "rarity": "Rare Holo",
+    "set_name": "Unseen Forces",
+    "set_series": "EX"
+  },
+  {
+    "name": "Poliwrath",
+    "number": "11",
+    "rarity": "Rare Holo",
+    "set_name": "Unseen Forces",
+    "set_series": "EX"
+  },
+  {
+    "name": "Porygon2",
+    "number": "12",
+    "rarity": "Rare Holo",
+    "set_name": "Unseen Forces",
+    "set_series": "EX"
+  },
+  {
+    "name": "Slowbro",
+    "number": "13",
+    "rarity": "Rare Holo",
+    "set_name": "Unseen Forces",
+    "set_series": "EX"
+  },
+  {
+    "name": "Slowking",
+    "number": "14",
+    "rarity": "Rare Holo",
+    "set_name": "Unseen Forces",
+    "set_series": "EX"
+  },
+  {
+    "name": "Sudowoodo",
+    "number": "15",
+    "rarity": "Rare Holo",
+    "set_name": "Unseen Forces",
+    "set_series": "EX"
+  },
+  {
+    "name": "Sunflora",
+    "number": "16",
+    "rarity": "Rare Holo",
+    "set_name": "Unseen Forces",
+    "set_series": "EX"
+  },
+  {
+    "name": "Typhlosion",
+    "number": "17",
+    "rarity": "Rare Holo",
+    "set_name": "Unseen Forces",
+    "set_series": "EX"
+  },
+  {
+    "name": "Ursaring",
+    "number": "18",
+    "rarity": "Rare Holo",
+    "set_name": "Unseen Forces",
+    "set_series": "EX"
+  },
+  {
+    "name": "Vaporeon",
+    "number": "19",
+    "rarity": "Rare Holo",
+    "set_name": "Unseen Forces",
+    "set_series": "EX"
+  },
+  {
+    "name": "Chansey",
+    "number": "20",
+    "rarity": "Rare",
+    "set_name": "Unseen Forces",
+    "set_series": "EX"
+  },
+  {
+    "name": "Cleffa",
+    "number": "21",
+    "rarity": "Rare",
+    "set_name": "Unseen Forces",
+    "set_series": "EX"
+  },
+  {
+    "name": "Electabuzz",
+    "number": "22",
+    "rarity": "Rare",
+    "set_name": "Unseen Forces",
+    "set_series": "EX"
+  },
+  {
+    "name": "Elekid",
+    "number": "23",
+    "rarity": "Rare",
+    "set_name": "Unseen Forces",
+    "set_series": "EX"
+  },
+  {
+    "name": "Hitmonchan",
+    "number": "24",
+    "rarity": "Rare",
+    "set_name": "Unseen Forces",
+    "set_series": "EX"
+  },
+  {
+    "name": "Hitmonlee",
+    "number": "25",
+    "rarity": "Rare",
+    "set_name": "Unseen Forces",
+    "set_series": "EX"
+  },
+  {
+    "name": "Hitmontop",
+    "number": "26",
+    "rarity": "Rare",
+    "set_name": "Unseen Forces",
+    "set_series": "EX"
+  },
+  {
+    "name": "Ho-Oh",
+    "number": "27",
+    "rarity": "Rare",
+    "set_name": "Unseen Forces",
+    "set_series": "EX"
+  },
+  {
+    "name": "Jynx",
+    "number": "28",
+    "rarity": "Rare",
+    "set_name": "Unseen Forces",
+    "set_series": "EX"
+  },
+  {
+    "name": "Lugia",
+    "number": "29",
+    "rarity": "Rare",
+    "set_name": "Unseen Forces",
+    "set_series": "EX"
+  },
+  {
+    "name": "Murkrow",
+    "number": "30",
+    "rarity": "Rare",
+    "set_name": "Unseen Forces",
+    "set_series": "EX"
+  },
+  {
+    "name": "Smoochum",
+    "number": "31",
+    "rarity": "Rare",
+    "set_name": "Unseen Forces",
+    "set_series": "EX"
+  },
+  {
+    "name": "Stantler",
+    "number": "32",
+    "rarity": "Rare",
+    "set_name": "Unseen Forces",
+    "set_series": "EX"
+  },
+  {
+    "name": "Tyrogue",
+    "number": "33",
+    "rarity": "Rare",
+    "set_name": "Unseen Forces",
+    "set_series": "EX"
+  },
+  {
+    "name": "Aipom",
+    "number": "34",
+    "rarity": "Uncommon",
+    "set_name": "Unseen Forces",
+    "set_series": "EX"
+  },
+  {
+    "name": "Bayleef",
+    "number": "35",
+    "rarity": "Uncommon",
+    "set_name": "Unseen Forces",
+    "set_series": "EX"
+  },
+  {
+    "name": "Clefable",
+    "number": "36",
+    "rarity": "Uncommon",
+    "set_name": "Unseen Forces",
+    "set_series": "EX"
+  },
+  {
+    "name": "Corsola",
+    "number": "37",
+    "rarity": "Uncommon",
+    "set_name": "Unseen Forces",
+    "set_series": "EX"
+  },
+  {
+    "name": "Croconaw",
+    "number": "38",
+    "rarity": "Uncommon",
+    "set_name": "Unseen Forces",
+    "set_series": "EX"
+  },
+  {
+    "name": "Granbull",
+    "number": "39",
+    "rarity": "Uncommon",
+    "set_name": "Unseen Forces",
+    "set_series": "EX"
+  },
+  {
+    "name": "Lanturn",
+    "number": "40",
+    "rarity": "Uncommon",
+    "set_name": "Unseen Forces",
+    "set_series": "EX"
+  },
+  {
+    "name": "Magcargo",
+    "number": "41",
+    "rarity": "Uncommon",
+    "set_name": "Unseen Forces",
+    "set_series": "EX"
+  },
+  {
+    "name": "Miltank",
+    "number": "42",
+    "rarity": "Uncommon",
+    "set_name": "Unseen Forces",
+    "set_series": "EX"
+  },
+  {
+    "name": "Noctowl",
+    "number": "43",
+    "rarity": "Uncommon",
+    "set_name": "Unseen Forces",
+    "set_series": "EX"
+  },
+  {
+    "name": "Quagsire",
+    "number": "44",
+    "rarity": "Uncommon",
+    "set_name": "Unseen Forces",
+    "set_series": "EX"
+  },
+  {
+    "name": "Quilava",
+    "number": "45",
+    "rarity": "Uncommon",
+    "set_name": "Unseen Forces",
+    "set_series": "EX"
+  },
+  {
+    "name": "Scyther",
+    "number": "46",
+    "rarity": "Uncommon",
+    "set_name": "Unseen Forces",
+    "set_series": "EX"
+  },
+  {
+    "name": "Shuckle",
+    "number": "47",
+    "rarity": "Uncommon",
+    "set_name": "Unseen Forces",
+    "set_series": "EX"
+  },
+  {
+    "name": "Smeargle",
+    "number": "48",
+    "rarity": "Uncommon",
+    "set_name": "Unseen Forces",
+    "set_series": "EX"
+  },
+  {
+    "name": "Xatu",
+    "number": "49",
+    "rarity": "Uncommon",
+    "set_name": "Unseen Forces",
+    "set_series": "EX"
+  },
+  {
+    "name": "Yanma",
+    "number": "50",
+    "rarity": "Uncommon",
+    "set_name": "Unseen Forces",
+    "set_series": "EX"
+  },
+  {
+    "name": "Chikorita",
+    "number": "51",
+    "rarity": "Common",
+    "set_name": "Unseen Forces",
+    "set_series": "EX"
+  },
+  {
+    "name": "Chinchou",
+    "number": "52",
+    "rarity": "Common",
+    "set_name": "Unseen Forces",
+    "set_series": "EX"
+  },
+  {
+    "name": "Clefairy",
+    "number": "53",
+    "rarity": "Common",
+    "set_name": "Unseen Forces",
+    "set_series": "EX"
+  },
+  {
+    "name": "Cyndaquil",
+    "number": "54",
+    "rarity": "Common",
+    "set_name": "Unseen Forces",
+    "set_series": "EX"
+  },
+  {
+    "name": "Eevee",
+    "number": "55",
+    "rarity": "Common",
+    "set_name": "Unseen Forces",
+    "set_series": "EX"
+  },
+  {
+    "name": "Flaaffy",
+    "number": "56",
+    "rarity": "Common",
+    "set_name": "Unseen Forces",
+    "set_series": "EX"
+  },
+  {
+    "name": "Gligar",
+    "number": "57",
+    "rarity": "Common",
+    "set_name": "Unseen Forces",
+    "set_series": "EX"
+  },
+  {
+    "name": "Gloom",
+    "number": "58",
+    "rarity": "Common",
+    "set_name": "Unseen Forces",
+    "set_series": "EX"
+  },
+  {
+    "name": "Hoothoot",
+    "number": "59",
+    "rarity": "Common",
+    "set_name": "Unseen Forces",
+    "set_series": "EX"
+  },
+  {
+    "name": "Houndour",
+    "number": "60",
+    "rarity": "Common",
+    "set_name": "Unseen Forces",
+    "set_series": "EX"
+  },
+  {
+    "name": "Larvitar",
+    "number": "61",
+    "rarity": "Common",
+    "set_name": "Unseen Forces",
+    "set_series": "EX"
+  },
+  {
+    "name": "Mareep",
+    "number": "62",
+    "rarity": "Common",
+    "set_name": "Unseen Forces",
+    "set_series": "EX"
+  },
+  {
+    "name": "Natu",
+    "number": "63",
+    "rarity": "Common",
+    "set_name": "Unseen Forces",
+    "set_series": "EX"
+  },
+  {
+    "name": "Oddish",
+    "number": "64",
+    "rarity": "Common",
+    "set_name": "Unseen Forces",
+    "set_series": "EX"
+  },
+  {
+    "name": "Onix",
+    "number": "65",
+    "rarity": "Common",
+    "set_name": "Unseen Forces",
+    "set_series": "EX"
+  },
+  {
+    "name": "Pineco",
+    "number": "66",
+    "rarity": "Common",
+    "set_name": "Unseen Forces",
+    "set_series": "EX"
+  },
+  {
+    "name": "Poliwag",
+    "number": "67",
+    "rarity": "Common",
+    "set_name": "Unseen Forces",
+    "set_series": "EX"
+  },
+  {
+    "name": "Poliwhirl",
+    "number": "68",
+    "rarity": "Common",
+    "set_name": "Unseen Forces",
+    "set_series": "EX"
+  },
+  {
+    "name": "Porygon",
+    "number": "69",
+    "rarity": "Common",
+    "set_name": "Unseen Forces",
+    "set_series": "EX"
+  },
+  {
+    "name": "Pupitar",
+    "number": "70",
+    "rarity": "Common",
+    "set_name": "Unseen Forces",
+    "set_series": "EX"
+  },
+  {
+    "name": "Remoraid",
+    "number": "71",
+    "rarity": "Common",
+    "set_name": "Unseen Forces",
+    "set_series": "EX"
+  },
+  {
+    "name": "Slowpoke",
+    "number": "72",
+    "rarity": "Common",
+    "set_name": "Unseen Forces",
+    "set_series": "EX"
+  },
+  {
+    "name": "Slugma",
+    "number": "73",
+    "rarity": "Common",
+    "set_name": "Unseen Forces",
+    "set_series": "EX"
+  },
+  {
+    "name": "Snubbull",
+    "number": "74",
+    "rarity": "Common",
+    "set_name": "Unseen Forces",
+    "set_series": "EX"
+  },
+  {
+    "name": "Spinarak",
+    "number": "75",
+    "rarity": "Common",
+    "set_name": "Unseen Forces",
+    "set_series": "EX"
+  },
+  {
+    "name": "Sunkern",
+    "number": "76",
+    "rarity": "Common",
+    "set_name": "Unseen Forces",
+    "set_series": "EX"
+  },
+  {
+    "name": "Teddiursa",
+    "number": "77",
+    "rarity": "Common",
+    "set_name": "Unseen Forces",
+    "set_series": "EX"
+  },
+  {
+    "name": "Totodile",
+    "number": "78",
+    "rarity": "Common",
+    "set_name": "Unseen Forces",
+    "set_series": "EX"
+  },
+  {
+    "name": "Wooper",
+    "number": "79",
+    "rarity": "Common",
+    "set_name": "Unseen Forces",
+    "set_series": "EX"
+  },
+  {
+    "name": "Curse Powder",
+    "number": "80",
+    "rarity": "Uncommon",
+    "set_name": "Unseen Forces",
+    "set_series": "EX"
+  },
+  {
+    "name": "Energy Recycle System",
+    "number": "81",
+    "rarity": "Uncommon",
+    "set_name": "Unseen Forces",
+    "set_series": "EX"
+  },
+  {
+    "name": "Energy Removal 2",
+    "number": "82",
+    "rarity": "Uncommon",
+    "set_name": "Unseen Forces",
+    "set_series": "EX"
+  },
+  {
+    "name": "Energy Root",
+    "number": "83",
+    "rarity": "Uncommon",
+    "set_name": "Unseen Forces",
+    "set_series": "EX"
+  },
+  {
+    "name": "Energy Switch",
+    "number": "84",
+    "rarity": "Uncommon",
+    "set_name": "Unseen Forces",
+    "set_series": "EX"
+  },
+  {
+    "name": "Fluffy Berry",
+    "number": "85",
+    "rarity": "Uncommon",
+    "set_name": "Unseen Forces",
+    "set_series": "EX"
+  },
+  {
+    "name": "Mary's Request",
+    "number": "86",
+    "rarity": "Uncommon",
+    "set_name": "Unseen Forces",
+    "set_series": "EX"
+  },
+  {
+    "name": "Pok\u00e9 Ball",
+    "number": "87",
+    "rarity": "Uncommon",
+    "set_name": "Unseen Forces",
+    "set_series": "EX"
+  },
+  {
+    "name": "Pok\u00e9mon Reversal",
+    "number": "88",
+    "rarity": "Uncommon",
+    "set_name": "Unseen Forces",
+    "set_series": "EX"
+  },
+  {
+    "name": "Professor Elm's Training Method",
+    "number": "89",
+    "rarity": "Uncommon",
+    "set_name": "Unseen Forces",
+    "set_series": "EX"
+  },
+  {
+    "name": "Protective Orb",
+    "number": "90",
+    "rarity": "Uncommon",
+    "set_name": "Unseen Forces",
+    "set_series": "EX"
+  },
+  {
+    "name": "Sitrus Berry",
+    "number": "91",
+    "rarity": "Uncommon",
+    "set_name": "Unseen Forces",
+    "set_series": "EX"
+  },
+  {
+    "name": "Solid Rage",
+    "number": "92",
+    "rarity": "Uncommon",
+    "set_name": "Unseen Forces",
+    "set_series": "EX"
+  },
+  {
+    "name": "Warp Point",
+    "number": "93",
+    "rarity": "Uncommon",
+    "set_name": "Unseen Forces",
+    "set_series": "EX"
+  },
+  {
+    "name": "Energy Search",
+    "number": "94",
+    "rarity": "Common",
+    "set_name": "Unseen Forces",
+    "set_series": "EX"
+  },
+  {
+    "name": "Potion",
+    "number": "95",
+    "rarity": "Common",
+    "set_name": "Unseen Forces",
+    "set_series": "EX"
+  },
+  {
+    "name": "Darkness Energy",
+    "number": "96",
+    "rarity": "Rare",
+    "set_name": "Unseen Forces",
+    "set_series": "EX"
+  },
+  {
+    "name": "Metal Energy",
+    "number": "97",
+    "rarity": "Rare",
+    "set_name": "Unseen Forces",
+    "set_series": "EX"
+  },
+  {
+    "name": "Boost Energy",
+    "number": "98",
+    "rarity": "Uncommon",
+    "set_name": "Unseen Forces",
+    "set_series": "EX"
+  },
+  {
+    "name": "Cyclone Energy",
+    "number": "99",
+    "rarity": "Uncommon",
+    "set_name": "Unseen Forces",
+    "set_series": "EX"
+  },
+  {
+    "name": "Warp Energy",
+    "number": "100",
+    "rarity": "Uncommon",
+    "set_name": "Unseen Forces",
+    "set_series": "EX"
+  },
+  {
+    "name": "Blissey ex",
+    "number": "101",
+    "rarity": "Rare Holo EX",
+    "set_name": "Unseen Forces",
+    "set_series": "EX"
+  },
+  {
+    "name": "Espeon ex",
+    "number": "102",
+    "rarity": "Rare Holo EX",
+    "set_name": "Unseen Forces",
+    "set_series": "EX"
+  },
+  {
+    "name": "Feraligatr ex",
+    "number": "103",
+    "rarity": "Rare Holo EX",
+    "set_name": "Unseen Forces",
+    "set_series": "EX"
+  },
+  {
+    "name": "Ho-Oh ex",
+    "number": "104",
+    "rarity": "Rare Holo EX",
+    "set_name": "Unseen Forces",
+    "set_series": "EX"
+  },
+  {
+    "name": "Lugia ex",
+    "number": "105",
+    "rarity": "Rare Holo EX",
+    "set_name": "Unseen Forces",
+    "set_series": "EX"
+  },
+  {
+    "name": "Meganium ex",
+    "number": "106",
+    "rarity": "Rare Holo EX",
+    "set_name": "Unseen Forces",
+    "set_series": "EX"
+  },
+  {
+    "name": "Politoed ex",
+    "number": "107",
+    "rarity": "Rare Holo EX",
+    "set_name": "Unseen Forces",
+    "set_series": "EX"
+  },
+  {
+    "name": "Scizor ex",
+    "number": "108",
+    "rarity": "Rare Holo EX",
+    "set_name": "Unseen Forces",
+    "set_series": "EX"
+  },
+  {
+    "name": "Steelix ex",
+    "number": "109",
+    "rarity": "Rare Holo EX",
+    "set_name": "Unseen Forces",
+    "set_series": "EX"
+  },
+  {
+    "name": "Typhlosion ex",
+    "number": "110",
+    "rarity": "Rare Holo EX",
+    "set_name": "Unseen Forces",
+    "set_series": "EX"
+  },
+  {
+    "name": "Tyranitar ex",
+    "number": "111",
+    "rarity": "Rare Holo EX",
+    "set_name": "Unseen Forces",
+    "set_series": "EX"
+  },
+  {
+    "name": "Umbreon ex",
+    "number": "112",
+    "rarity": "Rare Holo EX",
+    "set_name": "Unseen Forces",
+    "set_series": "EX"
+  },
+  {
+    "name": "Entei \u2605",
+    "number": "113",
+    "rarity": "Rare Holo Star",
+    "set_name": "Unseen Forces",
+    "set_series": "EX"
+  },
+  {
+    "name": "Raikou \u2605",
+    "number": "114",
+    "rarity": "Rare Holo Star",
+    "set_name": "Unseen Forces",
+    "set_series": "EX"
+  },
+  {
+    "name": "Suicune \u2605",
+    "number": "115",
+    "rarity": "Rare Holo Star",
+    "set_name": "Unseen Forces",
+    "set_series": "EX"
+  },
+  {
+    "name": "Rocket's Persian ex",
+    "number": "116",
+    "rarity": "Rare Secret",
+    "set_name": "Unseen Forces",
+    "set_series": "EX"
+  },
+  {
+    "name": "Celebi ex",
+    "number": "117",
+    "rarity": "Rare Secret",
+    "set_name": "Unseen Forces",
+    "set_series": "EX"
+  },
+  {
+    "name": "Unown",
+    "number": "A",
+    "rarity": "Rare",
+    "set_name": "Unseen Forces",
+    "set_series": "EX"
+  },
+  {
+    "name": "Unown",
+    "number": "B",
+    "rarity": "Rare",
+    "set_name": "Unseen Forces",
+    "set_series": "EX"
+  },
+  {
+    "name": "Unown",
+    "number": "C",
+    "rarity": "Rare",
+    "set_name": "Unseen Forces",
+    "set_series": "EX"
+  },
+  {
+    "name": "Unown",
+    "number": "D",
+    "rarity": "Rare",
+    "set_name": "Unseen Forces",
+    "set_series": "EX"
+  },
+  {
+    "name": "Unown",
+    "number": "E",
+    "rarity": "Rare",
+    "set_name": "Unseen Forces",
+    "set_series": "EX"
+  },
+  {
+    "name": "Unown",
+    "number": "F",
+    "rarity": "Rare",
+    "set_name": "Unseen Forces",
+    "set_series": "EX"
+  },
+  {
+    "name": "Unown",
+    "number": "G",
+    "rarity": "Rare",
+    "set_name": "Unseen Forces",
+    "set_series": "EX"
+  },
+  {
+    "name": "Unown",
+    "number": "H",
+    "rarity": "Rare",
+    "set_name": "Unseen Forces",
+    "set_series": "EX"
+  },
+  {
+    "name": "Unown",
+    "number": "I",
+    "rarity": "Rare",
+    "set_name": "Unseen Forces",
+    "set_series": "EX"
+  },
+  {
+    "name": "Unown",
+    "number": "J",
+    "rarity": "Rare",
+    "set_name": "Unseen Forces",
+    "set_series": "EX"
+  },
+  {
+    "name": "Unown",
+    "number": "K",
+    "rarity": "Rare",
+    "set_name": "Unseen Forces",
+    "set_series": "EX"
+  },
+  {
+    "name": "Unown",
+    "number": "L",
+    "rarity": "Rare",
+    "set_name": "Unseen Forces",
+    "set_series": "EX"
+  },
+  {
+    "name": "Unown",
+    "number": "M",
+    "rarity": "Rare",
+    "set_name": "Unseen Forces",
+    "set_series": "EX"
+  },
+  {
+    "name": "Unown",
+    "number": "N",
+    "rarity": "Rare",
+    "set_name": "Unseen Forces",
+    "set_series": "EX"
+  },
+  {
+    "name": "Unown",
+    "number": "O",
+    "rarity": "Rare",
+    "set_name": "Unseen Forces",
+    "set_series": "EX"
+  },
+  {
+    "name": "Unown",
+    "number": "P",
+    "rarity": "Rare",
+    "set_name": "Unseen Forces",
+    "set_series": "EX"
+  },
+  {
+    "name": "Unown",
+    "number": "Q",
+    "rarity": "Rare",
+    "set_name": "Unseen Forces",
+    "set_series": "EX"
+  },
+  {
+    "name": "Unown",
+    "number": "R",
+    "rarity": "Rare",
+    "set_name": "Unseen Forces",
+    "set_series": "EX"
+  },
+  {
+    "name": "Unown",
+    "number": "S",
+    "rarity": "Rare",
+    "set_name": "Unseen Forces",
+    "set_series": "EX"
+  },
+  {
+    "name": "Unown",
+    "number": "T",
+    "rarity": "Rare",
+    "set_name": "Unseen Forces",
+    "set_series": "EX"
+  },
+  {
+    "name": "Unown",
+    "number": "U",
+    "rarity": "Rare",
+    "set_name": "Unseen Forces",
+    "set_series": "EX"
+  },
+  {
+    "name": "Unown",
+    "number": "V",
+    "rarity": "Rare",
+    "set_name": "Unseen Forces",
+    "set_series": "EX"
+  },
+  {
+    "name": "Unown",
+    "number": "W",
+    "rarity": "Rare",
+    "set_name": "Unseen Forces",
+    "set_series": "EX"
+  },
+  {
+    "name": "Unown",
+    "number": "X",
+    "rarity": "Rare",
+    "set_name": "Unseen Forces",
+    "set_series": "EX"
+  },
+  {
+    "name": "Unown",
+    "number": "Y",
+    "rarity": "Rare",
+    "set_name": "Unseen Forces",
+    "set_series": "EX"
+  },
+  {
+    "name": "Unown",
+    "number": "Z",
+    "rarity": "Rare",
+    "set_name": "Unseen Forces",
+    "set_series": "EX"
+  },
+  {
+    "name": "Unown",
+    "number": "!",
+    "rarity": "Rare",
+    "set_name": "Unseen Forces",
+    "set_series": "EX"
+  },
+  {
+    "name": "Unown",
+    "number": "?",
+    "rarity": "Rare",
+    "set_name": "Unseen Forces",
+    "set_series": "EX"
+  }
+]

@@ -1,0 +1,1612 @@
+[
+  {
+    "name": "Surskit",
+    "number": "6",
+    "rarity": "Common",
+    "set_name": "Obsidian Flames",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Gloom",
+    "number": "2",
+    "rarity": "Common",
+    "set_name": "Obsidian Flames",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Oddish",
+    "number": "1",
+    "rarity": "Common",
+    "set_name": "Obsidian Flames",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Phantump",
+    "number": "11",
+    "rarity": "Common",
+    "set_name": "Obsidian Flames",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Steenee",
+    "number": "17",
+    "rarity": "Common",
+    "set_name": "Obsidian Flames",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Charmeleon",
+    "number": "27",
+    "rarity": "Uncommon",
+    "set_name": "Obsidian Flames",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Camerupt",
+    "number": "32",
+    "rarity": "Uncommon",
+    "set_name": "Obsidian Flames",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Victini ex",
+    "number": "33",
+    "rarity": "Double Rare",
+    "set_name": "Obsidian Flames",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Darmanitan",
+    "number": "35",
+    "rarity": "Uncommon",
+    "set_name": "Obsidian Flames",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Scyther",
+    "number": "4",
+    "rarity": "Common",
+    "set_name": "Obsidian Flames",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Foongus",
+    "number": "9",
+    "rarity": "Common",
+    "set_name": "Obsidian Flames",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Capsakid",
+    "number": "24",
+    "rarity": "Common",
+    "set_name": "Obsidian Flames",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Scovillain",
+    "number": "25",
+    "rarity": "Rare",
+    "set_name": "Obsidian Flames",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Numel",
+    "number": "31",
+    "rarity": "Common",
+    "set_name": "Obsidian Flames",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Darumaka",
+    "number": "34",
+    "rarity": "Common",
+    "set_name": "Obsidian Flames",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Combee",
+    "number": "8",
+    "rarity": "Common",
+    "set_name": "Obsidian Flames",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Bellossom",
+    "number": "3",
+    "rarity": "Uncommon",
+    "set_name": "Obsidian Flames",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Shuckle",
+    "number": "5",
+    "rarity": "Common",
+    "set_name": "Obsidian Flames",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Masquerain",
+    "number": "7",
+    "rarity": "Uncommon",
+    "set_name": "Obsidian Flames",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Amoonguss",
+    "number": "10",
+    "rarity": "Uncommon",
+    "set_name": "Obsidian Flames",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Trevenant",
+    "number": "12",
+    "rarity": "Uncommon",
+    "set_name": "Obsidian Flames",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Decidueye ex",
+    "number": "15",
+    "rarity": "Double Rare",
+    "set_name": "Obsidian Flames",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Bounsweet",
+    "number": "16",
+    "rarity": "Common",
+    "set_name": "Obsidian Flames",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Tsareena",
+    "number": "18",
+    "rarity": "Uncommon",
+    "set_name": "Obsidian Flames",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Smoliv",
+    "number": "19",
+    "rarity": "Common",
+    "set_name": "Obsidian Flames",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Dolliv",
+    "number": "20",
+    "rarity": "Common",
+    "set_name": "Obsidian Flames",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Toedscruel ex",
+    "number": "22",
+    "rarity": "Double Rare",
+    "set_name": "Obsidian Flames",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Vulpix",
+    "number": "28",
+    "rarity": "Common",
+    "set_name": "Obsidian Flames",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Rowlet",
+    "number": "13",
+    "rarity": "Common",
+    "set_name": "Obsidian Flames",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Dartrix",
+    "number": "14",
+    "rarity": "Uncommon",
+    "set_name": "Obsidian Flames",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Arboliva",
+    "number": "21",
+    "rarity": "Uncommon",
+    "set_name": "Obsidian Flames",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Capsakid",
+    "number": "23",
+    "rarity": "Common",
+    "set_name": "Obsidian Flames",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Charmander",
+    "number": "26",
+    "rarity": "Common",
+    "set_name": "Obsidian Flames",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Ninetales",
+    "number": "29",
+    "rarity": "Uncommon",
+    "set_name": "Obsidian Flames",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Entei",
+    "number": "30",
+    "rarity": "Rare",
+    "set_name": "Obsidian Flames",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Litwick",
+    "number": "36",
+    "rarity": "Common",
+    "set_name": "Obsidian Flames",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Eiscue ex",
+    "number": "42",
+    "rarity": "Double Rare",
+    "set_name": "Obsidian Flames",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Lapras",
+    "number": "45",
+    "rarity": "Uncommon",
+    "set_name": "Obsidian Flames",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Buizel",
+    "number": "48",
+    "rarity": "Common",
+    "set_name": "Obsidian Flames",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Beartic",
+    "number": "54",
+    "rarity": "Uncommon",
+    "set_name": "Obsidian Flames",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Wiglett",
+    "number": "58",
+    "rarity": "Common",
+    "set_name": "Obsidian Flames",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Finizen",
+    "number": "60",
+    "rarity": "Common",
+    "set_name": "Obsidian Flames",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Palafin",
+    "number": "62",
+    "rarity": "Rare",
+    "set_name": "Obsidian Flames",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Magneton",
+    "number": "64",
+    "rarity": "Common",
+    "set_name": "Obsidian Flames",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Magnezone",
+    "number": "65",
+    "rarity": "Uncommon",
+    "set_name": "Obsidian Flames",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Thundurus",
+    "number": "70",
+    "rarity": "Rare",
+    "set_name": "Obsidian Flames",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Toxel",
+    "number": "71",
+    "rarity": "Common",
+    "set_name": "Obsidian Flames",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Tadbulb",
+    "number": "74",
+    "rarity": "Common",
+    "set_name": "Obsidian Flames",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Clefable ex",
+    "number": "82",
+    "rarity": "Double Rare",
+    "set_name": "Obsidian Flames",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Espeon",
+    "number": "86",
+    "rarity": "Uncommon",
+    "set_name": "Obsidian Flames",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Granbull",
+    "number": "88",
+    "rarity": "Uncommon",
+    "set_name": "Obsidian Flames",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Baltoy",
+    "number": "94",
+    "rarity": "Common",
+    "set_name": "Obsidian Flames",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Claydol",
+    "number": "95",
+    "rarity": "Rare",
+    "set_name": "Obsidian Flames",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Vespiquen ex",
+    "number": "96",
+    "rarity": "Double Rare",
+    "set_name": "Obsidian Flames",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Sinistea",
+    "number": "97",
+    "rarity": "Common",
+    "set_name": "Obsidian Flames",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Diglett",
+    "number": "103",
+    "rarity": "Common",
+    "set_name": "Obsidian Flames",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Barboach",
+    "number": "108",
+    "rarity": "Common",
+    "set_name": "Obsidian Flames",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Whiscash",
+    "number": "109",
+    "rarity": "Uncommon",
+    "set_name": "Obsidian Flames",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Crabrawler",
+    "number": "114",
+    "rarity": "Common",
+    "set_name": "Obsidian Flames",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Crabominable",
+    "number": "115",
+    "rarity": "Uncommon",
+    "set_name": "Obsidian Flames",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Rockruff",
+    "number": "116",
+    "rarity": "Common",
+    "set_name": "Obsidian Flames",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Lycanroc",
+    "number": "117",
+    "rarity": "Uncommon",
+    "set_name": "Obsidian Flames",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Glimmet",
+    "number": "121",
+    "rarity": "Common",
+    "set_name": "Obsidian Flames",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Paldean Wooper",
+    "number": "127",
+    "rarity": "Common",
+    "set_name": "Obsidian Flames",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Paldean Clodsire",
+    "number": "129",
+    "rarity": "Uncommon",
+    "set_name": "Obsidian Flames",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Heatmor",
+    "number": "39",
+    "rarity": "Common",
+    "set_name": "Obsidian Flames",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Floatzel",
+    "number": "49",
+    "rarity": "Uncommon",
+    "set_name": "Obsidian Flames",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Tympole",
+    "number": "50",
+    "rarity": "Common",
+    "set_name": "Obsidian Flames",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Cubchoo",
+    "number": "53",
+    "rarity": "Common",
+    "set_name": "Obsidian Flames",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Cryogonal",
+    "number": "55",
+    "rarity": "Common",
+    "set_name": "Obsidian Flames",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Magnemite",
+    "number": "63",
+    "rarity": "Common",
+    "set_name": "Obsidian Flames",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Tyranitar ex",
+    "number": "66",
+    "rarity": "Double Rare",
+    "set_name": "Obsidian Flames",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Tynamo",
+    "number": "67",
+    "rarity": "Common",
+    "set_name": "Obsidian Flames",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Eelektrik",
+    "number": "68",
+    "rarity": "Common",
+    "set_name": "Obsidian Flames",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Eelektross",
+    "number": "69",
+    "rarity": "Uncommon",
+    "set_name": "Obsidian Flames",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Tadbulb",
+    "number": "76",
+    "rarity": "Common",
+    "set_name": "Obsidian Flames",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Cleffa",
+    "number": "80",
+    "rarity": "Common",
+    "set_name": "Obsidian Flames",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Clefairy",
+    "number": "81",
+    "rarity": "Common",
+    "set_name": "Obsidian Flames",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Togepi",
+    "number": "83",
+    "rarity": "Common",
+    "set_name": "Obsidian Flames",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Togekiss",
+    "number": "85",
+    "rarity": "Rare",
+    "set_name": "Obsidian Flames",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Snubbull",
+    "number": "87",
+    "rarity": "Common",
+    "set_name": "Obsidian Flames",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Lunatone",
+    "number": "92",
+    "rarity": "Uncommon",
+    "set_name": "Obsidian Flames",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Greavard",
+    "number": "100",
+    "rarity": "Common",
+    "set_name": "Obsidian Flames",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Larvitar",
+    "number": "105",
+    "rarity": "Common",
+    "set_name": "Obsidian Flames",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Pupitar",
+    "number": "106",
+    "rarity": "Uncommon",
+    "set_name": "Obsidian Flames",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Toedscruel",
+    "number": "119",
+    "rarity": "Uncommon",
+    "set_name": "Obsidian Flames",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Koraidon ex",
+    "number": "124",
+    "rarity": "Double Rare",
+    "set_name": "Obsidian Flames",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Lampent",
+    "number": "37",
+    "rarity": "Common",
+    "set_name": "Obsidian Flames",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Volcarona",
+    "number": "41",
+    "rarity": "Uncommon",
+    "set_name": "Obsidian Flames",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Armarouge",
+    "number": "44",
+    "rarity": "Uncommon",
+    "set_name": "Obsidian Flames",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Sharpedo",
+    "number": "47",
+    "rarity": "Uncommon",
+    "set_name": "Obsidian Flames",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Seismitoad",
+    "number": "52",
+    "rarity": "Uncommon",
+    "set_name": "Obsidian Flames",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Toxtricity",
+    "number": "72",
+    "rarity": "Rare",
+    "set_name": "Obsidian Flames",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Bellibolt",
+    "number": "77",
+    "rarity": "Uncommon",
+    "set_name": "Obsidian Flames",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Mawile",
+    "number": "89",
+    "rarity": "Common",
+    "set_name": "Obsidian Flames",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Spoink",
+    "number": "90",
+    "rarity": "Common",
+    "set_name": "Obsidian Flames",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Greavard",
+    "number": "99",
+    "rarity": "Common",
+    "set_name": "Obsidian Flames",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Nosepass",
+    "number": "107",
+    "rarity": "Common",
+    "set_name": "Obsidian Flames",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Bonsly",
+    "number": "110",
+    "rarity": "Common",
+    "set_name": "Obsidian Flames",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Drilbur",
+    "number": "111",
+    "rarity": "Common",
+    "set_name": "Obsidian Flames",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Stunfisk",
+    "number": "112",
+    "rarity": "Uncommon",
+    "set_name": "Obsidian Flames",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Klawf ex",
+    "number": "120",
+    "rarity": "Double Rare",
+    "set_name": "Obsidian Flames",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Paldean Clodsire",
+    "number": "128",
+    "rarity": "Uncommon",
+    "set_name": "Obsidian Flames",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Chandelure",
+    "number": "38",
+    "rarity": "Uncommon",
+    "set_name": "Obsidian Flames",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Larvesta",
+    "number": "40",
+    "rarity": "Common",
+    "set_name": "Obsidian Flames",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Charcadet",
+    "number": "43",
+    "rarity": "Common",
+    "set_name": "Obsidian Flames",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Carvanha",
+    "number": "46",
+    "rarity": "Common",
+    "set_name": "Obsidian Flames",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Palpitoad",
+    "number": "51",
+    "rarity": "Common",
+    "set_name": "Obsidian Flames",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Froakie",
+    "number": "56",
+    "rarity": "Common",
+    "set_name": "Obsidian Flames",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Frogadier",
+    "number": "57",
+    "rarity": "Uncommon",
+    "set_name": "Obsidian Flames",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Wugtrio",
+    "number": "59",
+    "rarity": "Uncommon",
+    "set_name": "Obsidian Flames",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Finizen",
+    "number": "61",
+    "rarity": "Common",
+    "set_name": "Obsidian Flames",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Pawmot ex",
+    "number": "73",
+    "rarity": "Double Rare",
+    "set_name": "Obsidian Flames",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Tadbulb",
+    "number": "75",
+    "rarity": "Common",
+    "set_name": "Obsidian Flames",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Bellibolt",
+    "number": "78",
+    "rarity": "Uncommon",
+    "set_name": "Obsidian Flames",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Miraidon ex",
+    "number": "79",
+    "rarity": "Double Rare",
+    "set_name": "Obsidian Flames",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Togetic",
+    "number": "84",
+    "rarity": "Uncommon",
+    "set_name": "Obsidian Flames",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Grumpig",
+    "number": "91",
+    "rarity": "Uncommon",
+    "set_name": "Obsidian Flames",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Solrock",
+    "number": "93",
+    "rarity": "Uncommon",
+    "set_name": "Obsidian Flames",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Polteageist",
+    "number": "98",
+    "rarity": "Uncommon",
+    "set_name": "Obsidian Flames",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Houndstone",
+    "number": "101",
+    "rarity": "Uncommon",
+    "set_name": "Obsidian Flames",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Houndstone ex",
+    "number": "102",
+    "rarity": "Double Rare",
+    "set_name": "Obsidian Flames",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Dugtrio",
+    "number": "104",
+    "rarity": "Uncommon",
+    "set_name": "Obsidian Flames",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Diggersby",
+    "number": "113",
+    "rarity": "Uncommon",
+    "set_name": "Obsidian Flames",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Toedscool",
+    "number": "118",
+    "rarity": "Common",
+    "set_name": "Obsidian Flames",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Glimmet",
+    "number": "122",
+    "rarity": "Common",
+    "set_name": "Obsidian Flames",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Glimmora ex",
+    "number": "123",
+    "rarity": "Double Rare",
+    "set_name": "Obsidian Flames",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Charizard ex",
+    "number": "125",
+    "rarity": "Double Rare",
+    "set_name": "Obsidian Flames",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Paldean Wooper",
+    "number": "126",
+    "rarity": "Common",
+    "set_name": "Obsidian Flames",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Houndour",
+    "number": "132",
+    "rarity": "Common",
+    "set_name": "Obsidian Flames",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Houndour",
+    "number": "131",
+    "rarity": "Common",
+    "set_name": "Obsidian Flames",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Houndoom",
+    "number": "133",
+    "rarity": "Uncommon",
+    "set_name": "Obsidian Flames",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Scizor",
+    "number": "141",
+    "rarity": "Rare",
+    "set_name": "Obsidian Flames",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Darkrai",
+    "number": "136",
+    "rarity": "Rare",
+    "set_name": "Obsidian Flames",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Skarmory",
+    "number": "142",
+    "rarity": "Uncommon",
+    "set_name": "Obsidian Flames",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Salandit",
+    "number": "139",
+    "rarity": "Common",
+    "set_name": "Obsidian Flames",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Togedemaru",
+    "number": "151",
+    "rarity": "Common",
+    "set_name": "Obsidian Flames",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Bronzor",
+    "number": "144",
+    "rarity": "Common",
+    "set_name": "Obsidian Flames",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Meltan",
+    "number": "152",
+    "rarity": "Common",
+    "set_name": "Obsidian Flames",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Bronzong",
+    "number": "145",
+    "rarity": "Uncommon",
+    "set_name": "Obsidian Flames",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Melmetal ex",
+    "number": "153",
+    "rarity": "Double Rare",
+    "set_name": "Obsidian Flames",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Bisharp",
+    "number": "149",
+    "rarity": "Common",
+    "set_name": "Obsidian Flames",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Dragonair",
+    "number": "158",
+    "rarity": "Uncommon",
+    "set_name": "Obsidian Flames",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Kingambit",
+    "number": "150",
+    "rarity": "Uncommon",
+    "set_name": "Obsidian Flames",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Pidgey",
+    "number": "162",
+    "rarity": "Common",
+    "set_name": "Obsidian Flames",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Inkay",
+    "number": "137",
+    "rarity": "Common",
+    "set_name": "Obsidian Flames",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Umbreon",
+    "number": "130",
+    "rarity": "Uncommon",
+    "set_name": "Obsidian Flames",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Malamar",
+    "number": "138",
+    "rarity": "Uncommon",
+    "set_name": "Obsidian Flames",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Salazzle",
+    "number": "140",
+    "rarity": "Uncommon",
+    "set_name": "Obsidian Flames",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Mawile",
+    "number": "143",
+    "rarity": "Uncommon",
+    "set_name": "Obsidian Flames",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Excadrill",
+    "number": "147",
+    "rarity": "Uncommon",
+    "set_name": "Obsidian Flames",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Dratini",
+    "number": "157",
+    "rarity": "Common",
+    "set_name": "Obsidian Flames",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Dragonite ex",
+    "number": "159",
+    "rarity": "Double Rare",
+    "set_name": "Obsidian Flames",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Drampa",
+    "number": "161",
+    "rarity": "Uncommon",
+    "set_name": "Obsidian Flames",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Houndoom ex",
+    "number": "134",
+    "rarity": "Double Rare",
+    "set_name": "Obsidian Flames",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Absol ex",
+    "number": "135",
+    "rarity": "Double Rare",
+    "set_name": "Obsidian Flames",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Probopass",
+    "number": "146",
+    "rarity": "Uncommon",
+    "set_name": "Obsidian Flames",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Pawniard",
+    "number": "148",
+    "rarity": "Common",
+    "set_name": "Obsidian Flames",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Varoom",
+    "number": "154",
+    "rarity": "Common",
+    "set_name": "Obsidian Flames",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Varoom",
+    "number": "155",
+    "rarity": "Common",
+    "set_name": "Obsidian Flames",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Revavroom ex",
+    "number": "156",
+    "rarity": "Double Rare",
+    "set_name": "Obsidian Flames",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Altaria",
+    "number": "160",
+    "rarity": "Uncommon",
+    "set_name": "Obsidian Flames",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Pidgeot ex",
+    "number": "164",
+    "rarity": "Double Rare",
+    "set_name": "Obsidian Flames",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Kangaskhan",
+    "number": "165",
+    "rarity": "Uncommon",
+    "set_name": "Obsidian Flames",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Pidgeotto",
+    "number": "163",
+    "rarity": "Uncommon",
+    "set_name": "Obsidian Flames",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Eevee",
+    "number": "166",
+    "rarity": "Common",
+    "set_name": "Obsidian Flames",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Linoone",
+    "number": "168",
+    "rarity": "Uncommon",
+    "set_name": "Obsidian Flames",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Zigzagoon",
+    "number": "167",
+    "rarity": "Common",
+    "set_name": "Obsidian Flames",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Swablu",
+    "number": "169",
+    "rarity": "Common",
+    "set_name": "Obsidian Flames",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Lillipup",
+    "number": "170",
+    "rarity": "Common",
+    "set_name": "Obsidian Flames",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Bouffalant",
+    "number": "174",
+    "rarity": "Uncommon",
+    "set_name": "Obsidian Flames",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Yungoos",
+    "number": "176",
+    "rarity": "Common",
+    "set_name": "Obsidian Flames",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Greedent ex",
+    "number": "179",
+    "rarity": "Double Rare",
+    "set_name": "Obsidian Flames",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Lechonk",
+    "number": "181",
+    "rarity": "Common",
+    "set_name": "Obsidian Flames",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Geeta",
+    "number": "188",
+    "rarity": "Rare",
+    "set_name": "Obsidian Flames",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Letter of Encouragement",
+    "number": "189",
+    "rarity": "Uncommon",
+    "set_name": "Obsidian Flames",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Bunnelby",
+    "number": "175",
+    "rarity": "Common",
+    "set_name": "Obsidian Flames",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Gumshoos",
+    "number": "177",
+    "rarity": "Uncommon",
+    "set_name": "Obsidian Flames",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Lechonk",
+    "number": "180",
+    "rarity": "Common",
+    "set_name": "Obsidian Flames",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Ortega",
+    "number": "190",
+    "rarity": "Uncommon",
+    "set_name": "Obsidian Flames",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Stoutland",
+    "number": "172",
+    "rarity": "Uncommon",
+    "set_name": "Obsidian Flames",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Audino",
+    "number": "173",
+    "rarity": "Common",
+    "set_name": "Obsidian Flames",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Oinkologne",
+    "number": "184",
+    "rarity": "Uncommon",
+    "set_name": "Obsidian Flames",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Flamigo",
+    "number": "185",
+    "rarity": "Uncommon",
+    "set_name": "Obsidian Flames",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Arven",
+    "number": "186",
+    "rarity": "Uncommon",
+    "set_name": "Obsidian Flames",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Brassius",
+    "number": "187",
+    "rarity": "Uncommon",
+    "set_name": "Obsidian Flames",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Herdier",
+    "number": "171",
+    "rarity": "Common",
+    "set_name": "Obsidian Flames",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Skwovet",
+    "number": "178",
+    "rarity": "Common",
+    "set_name": "Obsidian Flames",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Lechonk",
+    "number": "182",
+    "rarity": "Common",
+    "set_name": "Obsidian Flames",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Oinkologne",
+    "number": "183",
+    "rarity": "Uncommon",
+    "set_name": "Obsidian Flames",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Patrol Cap",
+    "number": "191",
+    "rarity": "Uncommon",
+    "set_name": "Obsidian Flames",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Poppy",
+    "number": "193",
+    "rarity": "Uncommon",
+    "set_name": "Obsidian Flames",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Vengeful Punch",
+    "number": "197",
+    "rarity": "Uncommon",
+    "set_name": "Obsidian Flames",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Pok\u00e9mon League Headquarters",
+    "number": "192",
+    "rarity": "Uncommon",
+    "set_name": "Obsidian Flames",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Palafin",
+    "number": "200",
+    "rarity": "Illustration Rare",
+    "set_name": "Obsidian Flames",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Team Star Grunt",
+    "number": "195",
+    "rarity": "Uncommon",
+    "set_name": "Obsidian Flames",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Vespiquen ex",
+    "number": "212",
+    "rarity": "Ultra Rare",
+    "set_name": "Obsidian Flames",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Ninetales",
+    "number": "199",
+    "rarity": "Illustration Rare",
+    "set_name": "Obsidian Flames",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Charizard ex",
+    "number": "215",
+    "rarity": "Ultra Rare",
+    "set_name": "Obsidian Flames",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Cleffa",
+    "number": "202",
+    "rarity": "Illustration Rare",
+    "set_name": "Obsidian Flames",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Pidgeot ex",
+    "number": "217",
+    "rarity": "Ultra Rare",
+    "set_name": "Obsidian Flames",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Larvitar",
+    "number": "203",
+    "rarity": "Illustration Rare",
+    "set_name": "Obsidian Flames",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Ryme",
+    "number": "221",
+    "rarity": "Ultra Rare",
+    "set_name": "Obsidian Flames",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Houndour",
+    "number": "204",
+    "rarity": "Illustration Rare",
+    "set_name": "Obsidian Flames",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Eiscue ex",
+    "number": "222",
+    "rarity": "Special Illustration Rare",
+    "set_name": "Obsidian Flames",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Varoom",
+    "number": "206",
+    "rarity": "Illustration Rare",
+    "set_name": "Obsidian Flames",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Pidgeot ex",
+    "number": "225",
+    "rarity": "Special Illustration Rare",
+    "set_name": "Obsidian Flames",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Pidgey",
+    "number": "207",
+    "rarity": "Illustration Rare",
+    "set_name": "Obsidian Flames",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Geeta",
+    "number": "226",
+    "rarity": "Special Illustration Rare",
+    "set_name": "Obsidian Flames",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Glimmora ex",
+    "number": "213",
+    "rarity": "Ultra Rare",
+    "set_name": "Obsidian Flames",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Charizard ex",
+    "number": "228",
+    "rarity": "Hyper Rare",
+    "set_name": "Obsidian Flames",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Basic Fire Energy",
+    "number": "230",
+    "rarity": "Hyper Rare",
+    "set_name": "Obsidian Flames",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Artazon",
+    "number": "229",
+    "rarity": "Hyper Rare",
+    "set_name": "Obsidian Flames",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Pidgeotto",
+    "number": "208",
+    "rarity": "Illustration Rare",
+    "set_name": "Obsidian Flames",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Ryme",
+    "number": "194",
+    "rarity": "Common",
+    "set_name": "Obsidian Flames",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Lechonk",
+    "number": "209",
+    "rarity": "Illustration Rare",
+    "set_name": "Obsidian Flames",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Town Store",
+    "number": "196",
+    "rarity": "Common",
+    "set_name": "Obsidian Flames",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Tyranitar ex",
+    "number": "211",
+    "rarity": "Ultra Rare",
+    "set_name": "Obsidian Flames",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Gloom",
+    "number": "198",
+    "rarity": "Illustration Rare",
+    "set_name": "Obsidian Flames",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Absol ex",
+    "number": "214",
+    "rarity": "Ultra Rare",
+    "set_name": "Obsidian Flames",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Bellibolt",
+    "number": "201",
+    "rarity": "Illustration Rare",
+    "set_name": "Obsidian Flames",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Poppy",
+    "number": "220",
+    "rarity": "Ultra Rare",
+    "set_name": "Obsidian Flames",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Scizor",
+    "number": "205",
+    "rarity": "Illustration Rare",
+    "set_name": "Obsidian Flames",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Charizard ex",
+    "number": "223",
+    "rarity": "Special Illustration Rare",
+    "set_name": "Obsidian Flames",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Eiscue ex",
+    "number": "210",
+    "rarity": "Ultra Rare",
+    "set_name": "Obsidian Flames",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Revavroom ex",
+    "number": "216",
+    "rarity": "Ultra Rare",
+    "set_name": "Obsidian Flames",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Geeta",
+    "number": "218",
+    "rarity": "Ultra Rare",
+    "set_name": "Obsidian Flames",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Ortega",
+    "number": "219",
+    "rarity": "Ultra Rare",
+    "set_name": "Obsidian Flames",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Revavroom ex",
+    "number": "224",
+    "rarity": "Special Illustration Rare",
+    "set_name": "Obsidian Flames",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Poppy",
+    "number": "227",
+    "rarity": "Special Illustration Rare",
+    "set_name": "Obsidian Flames",
+    "set_series": "Scarlet & Violet"
+  }
+]

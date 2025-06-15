@@ -1,0 +1,702 @@
+[
+  {
+    "name": "Absol",
+    "number": "1",
+    "rarity": "Rare Holo",
+    "set_name": "Dragon",
+    "set_series": "EX"
+  },
+  {
+    "name": "Altaria",
+    "number": "2",
+    "rarity": "Rare Holo",
+    "set_name": "Dragon",
+    "set_series": "EX"
+  },
+  {
+    "name": "Crawdaunt",
+    "number": "3",
+    "rarity": "Rare Holo",
+    "set_name": "Dragon",
+    "set_series": "EX"
+  },
+  {
+    "name": "Flygon",
+    "number": "4",
+    "rarity": "Rare Holo",
+    "set_name": "Dragon",
+    "set_series": "EX"
+  },
+  {
+    "name": "Golem",
+    "number": "5",
+    "rarity": "Rare Holo",
+    "set_name": "Dragon",
+    "set_series": "EX"
+  },
+  {
+    "name": "Grumpig",
+    "number": "6",
+    "rarity": "Rare Holo",
+    "set_name": "Dragon",
+    "set_series": "EX"
+  },
+  {
+    "name": "Minun",
+    "number": "7",
+    "rarity": "Rare Holo",
+    "set_name": "Dragon",
+    "set_series": "EX"
+  },
+  {
+    "name": "Plusle",
+    "number": "8",
+    "rarity": "Rare Holo",
+    "set_name": "Dragon",
+    "set_series": "EX"
+  },
+  {
+    "name": "Roselia",
+    "number": "9",
+    "rarity": "Rare Holo",
+    "set_name": "Dragon",
+    "set_series": "EX"
+  },
+  {
+    "name": "Salamence",
+    "number": "10",
+    "rarity": "Rare Holo",
+    "set_name": "Dragon",
+    "set_series": "EX"
+  },
+  {
+    "name": "Shedinja",
+    "number": "11",
+    "rarity": "Rare Holo",
+    "set_name": "Dragon",
+    "set_series": "EX"
+  },
+  {
+    "name": "Torkoal",
+    "number": "12",
+    "rarity": "Rare Holo",
+    "set_name": "Dragon",
+    "set_series": "EX"
+  },
+  {
+    "name": "Crawdaunt",
+    "number": "13",
+    "rarity": "Rare",
+    "set_name": "Dragon",
+    "set_series": "EX"
+  },
+  {
+    "name": "Dragonair",
+    "number": "14",
+    "rarity": "Rare",
+    "set_name": "Dragon",
+    "set_series": "EX"
+  },
+  {
+    "name": "Flygon",
+    "number": "15",
+    "rarity": "Rare",
+    "set_name": "Dragon",
+    "set_series": "EX"
+  },
+  {
+    "name": "Girafarig",
+    "number": "16",
+    "rarity": "Rare",
+    "set_name": "Dragon",
+    "set_series": "EX"
+  },
+  {
+    "name": "Magneton",
+    "number": "17",
+    "rarity": "Rare",
+    "set_name": "Dragon",
+    "set_series": "EX"
+  },
+  {
+    "name": "Ninjask",
+    "number": "18",
+    "rarity": "Rare",
+    "set_name": "Dragon",
+    "set_series": "EX"
+  },
+  {
+    "name": "Salamence",
+    "number": "19",
+    "rarity": "Rare",
+    "set_name": "Dragon",
+    "set_series": "EX"
+  },
+  {
+    "name": "Shelgon",
+    "number": "20",
+    "rarity": "Rare",
+    "set_name": "Dragon",
+    "set_series": "EX"
+  },
+  {
+    "name": "Skarmory",
+    "number": "21",
+    "rarity": "Rare",
+    "set_name": "Dragon",
+    "set_series": "EX"
+  },
+  {
+    "name": "Vibrava",
+    "number": "22",
+    "rarity": "Rare",
+    "set_name": "Dragon",
+    "set_series": "EX"
+  },
+  {
+    "name": "Bagon",
+    "number": "23",
+    "rarity": "Uncommon",
+    "set_name": "Dragon",
+    "set_series": "EX"
+  },
+  {
+    "name": "Camerupt",
+    "number": "24",
+    "rarity": "Uncommon",
+    "set_name": "Dragon",
+    "set_series": "EX"
+  },
+  {
+    "name": "Combusken",
+    "number": "25",
+    "rarity": "Uncommon",
+    "set_name": "Dragon",
+    "set_series": "EX"
+  },
+  {
+    "name": "Dratini",
+    "number": "26",
+    "rarity": "Uncommon",
+    "set_name": "Dragon",
+    "set_series": "EX"
+  },
+  {
+    "name": "Flaaffy",
+    "number": "27",
+    "rarity": "Uncommon",
+    "set_name": "Dragon",
+    "set_series": "EX"
+  },
+  {
+    "name": "Forretress",
+    "number": "28",
+    "rarity": "Uncommon",
+    "set_name": "Dragon",
+    "set_series": "EX"
+  },
+  {
+    "name": "Graveler",
+    "number": "29",
+    "rarity": "Uncommon",
+    "set_name": "Dragon",
+    "set_series": "EX"
+  },
+  {
+    "name": "Graveler",
+    "number": "30",
+    "rarity": "Uncommon",
+    "set_name": "Dragon",
+    "set_series": "EX"
+  },
+  {
+    "name": "Grovyle",
+    "number": "31",
+    "rarity": "Uncommon",
+    "set_name": "Dragon",
+    "set_series": "EX"
+  },
+  {
+    "name": "Gyarados",
+    "number": "32",
+    "rarity": "Uncommon",
+    "set_name": "Dragon",
+    "set_series": "EX"
+  },
+  {
+    "name": "Horsea",
+    "number": "33",
+    "rarity": "Uncommon",
+    "set_name": "Dragon",
+    "set_series": "EX"
+  },
+  {
+    "name": "Houndoom",
+    "number": "34",
+    "rarity": "Uncommon",
+    "set_name": "Dragon",
+    "set_series": "EX"
+  },
+  {
+    "name": "Magneton",
+    "number": "35",
+    "rarity": "Uncommon",
+    "set_name": "Dragon",
+    "set_series": "EX"
+  },
+  {
+    "name": "Marshtomp",
+    "number": "36",
+    "rarity": "Uncommon",
+    "set_name": "Dragon",
+    "set_series": "EX"
+  },
+  {
+    "name": "Meditite",
+    "number": "37",
+    "rarity": "Uncommon",
+    "set_name": "Dragon",
+    "set_series": "EX"
+  },
+  {
+    "name": "Ninjask",
+    "number": "38",
+    "rarity": "Uncommon",
+    "set_name": "Dragon",
+    "set_series": "EX"
+  },
+  {
+    "name": "Seadra",
+    "number": "39",
+    "rarity": "Uncommon",
+    "set_name": "Dragon",
+    "set_series": "EX"
+  },
+  {
+    "name": "Seadra",
+    "number": "40",
+    "rarity": "Uncommon",
+    "set_name": "Dragon",
+    "set_series": "EX"
+  },
+  {
+    "name": "Shelgon",
+    "number": "41",
+    "rarity": "Uncommon",
+    "set_name": "Dragon",
+    "set_series": "EX"
+  },
+  {
+    "name": "Shelgon",
+    "number": "42",
+    "rarity": "Uncommon",
+    "set_name": "Dragon",
+    "set_series": "EX"
+  },
+  {
+    "name": "Shuppet",
+    "number": "43",
+    "rarity": "Uncommon",
+    "set_name": "Dragon",
+    "set_series": "EX"
+  },
+  {
+    "name": "Snorunt",
+    "number": "44",
+    "rarity": "Uncommon",
+    "set_name": "Dragon",
+    "set_series": "EX"
+  },
+  {
+    "name": "Swellow",
+    "number": "45",
+    "rarity": "Uncommon",
+    "set_name": "Dragon",
+    "set_series": "EX"
+  },
+  {
+    "name": "Vibrava",
+    "number": "46",
+    "rarity": "Uncommon",
+    "set_name": "Dragon",
+    "set_series": "EX"
+  },
+  {
+    "name": "Vibrava",
+    "number": "47",
+    "rarity": "Uncommon",
+    "set_name": "Dragon",
+    "set_series": "EX"
+  },
+  {
+    "name": "Whiscash",
+    "number": "48",
+    "rarity": "Uncommon",
+    "set_name": "Dragon",
+    "set_series": "EX"
+  },
+  {
+    "name": "Bagon",
+    "number": "49",
+    "rarity": "Common",
+    "set_name": "Dragon",
+    "set_series": "EX"
+  },
+  {
+    "name": "Bagon",
+    "number": "50",
+    "rarity": "Common",
+    "set_name": "Dragon",
+    "set_series": "EX"
+  },
+  {
+    "name": "Barboach",
+    "number": "51",
+    "rarity": "Common",
+    "set_name": "Dragon",
+    "set_series": "EX"
+  },
+  {
+    "name": "Corphish",
+    "number": "52",
+    "rarity": "Common",
+    "set_name": "Dragon",
+    "set_series": "EX"
+  },
+  {
+    "name": "Corphish",
+    "number": "53",
+    "rarity": "Common",
+    "set_name": "Dragon",
+    "set_series": "EX"
+  },
+  {
+    "name": "Corphish",
+    "number": "54",
+    "rarity": "Common",
+    "set_name": "Dragon",
+    "set_series": "EX"
+  },
+  {
+    "name": "Geodude",
+    "number": "55",
+    "rarity": "Common",
+    "set_name": "Dragon",
+    "set_series": "EX"
+  },
+  {
+    "name": "Geodude",
+    "number": "56",
+    "rarity": "Common",
+    "set_name": "Dragon",
+    "set_series": "EX"
+  },
+  {
+    "name": "Grimer",
+    "number": "57",
+    "rarity": "Common",
+    "set_name": "Dragon",
+    "set_series": "EX"
+  },
+  {
+    "name": "Horsea",
+    "number": "58",
+    "rarity": "Common",
+    "set_name": "Dragon",
+    "set_series": "EX"
+  },
+  {
+    "name": "Houndour",
+    "number": "59",
+    "rarity": "Common",
+    "set_name": "Dragon",
+    "set_series": "EX"
+  },
+  {
+    "name": "Magikarp",
+    "number": "60",
+    "rarity": "Common",
+    "set_name": "Dragon",
+    "set_series": "EX"
+  },
+  {
+    "name": "Magnemite",
+    "number": "61",
+    "rarity": "Common",
+    "set_name": "Dragon",
+    "set_series": "EX"
+  },
+  {
+    "name": "Magnemite",
+    "number": "62",
+    "rarity": "Common",
+    "set_name": "Dragon",
+    "set_series": "EX"
+  },
+  {
+    "name": "Magnemite",
+    "number": "63",
+    "rarity": "Common",
+    "set_name": "Dragon",
+    "set_series": "EX"
+  },
+  {
+    "name": "Mareep",
+    "number": "64",
+    "rarity": "Common",
+    "set_name": "Dragon",
+    "set_series": "EX"
+  },
+  {
+    "name": "Mudkip",
+    "number": "65",
+    "rarity": "Common",
+    "set_name": "Dragon",
+    "set_series": "EX"
+  },
+  {
+    "name": "Nincada",
+    "number": "66",
+    "rarity": "Common",
+    "set_name": "Dragon",
+    "set_series": "EX"
+  },
+  {
+    "name": "Nincada",
+    "number": "67",
+    "rarity": "Common",
+    "set_name": "Dragon",
+    "set_series": "EX"
+  },
+  {
+    "name": "Nincada",
+    "number": "68",
+    "rarity": "Common",
+    "set_name": "Dragon",
+    "set_series": "EX"
+  },
+  {
+    "name": "Numel",
+    "number": "69",
+    "rarity": "Common",
+    "set_name": "Dragon",
+    "set_series": "EX"
+  },
+  {
+    "name": "Numel",
+    "number": "70",
+    "rarity": "Common",
+    "set_name": "Dragon",
+    "set_series": "EX"
+  },
+  {
+    "name": "Pineco",
+    "number": "71",
+    "rarity": "Common",
+    "set_name": "Dragon",
+    "set_series": "EX"
+  },
+  {
+    "name": "Slugma",
+    "number": "72",
+    "rarity": "Common",
+    "set_name": "Dragon",
+    "set_series": "EX"
+  },
+  {
+    "name": "Spoink",
+    "number": "73",
+    "rarity": "Common",
+    "set_name": "Dragon",
+    "set_series": "EX"
+  },
+  {
+    "name": "Spoink",
+    "number": "74",
+    "rarity": "Common",
+    "set_name": "Dragon",
+    "set_series": "EX"
+  },
+  {
+    "name": "Swablu",
+    "number": "75",
+    "rarity": "Common",
+    "set_name": "Dragon",
+    "set_series": "EX"
+  },
+  {
+    "name": "Taillow",
+    "number": "76",
+    "rarity": "Common",
+    "set_name": "Dragon",
+    "set_series": "EX"
+  },
+  {
+    "name": "Torchic",
+    "number": "77",
+    "rarity": "Common",
+    "set_name": "Dragon",
+    "set_series": "EX"
+  },
+  {
+    "name": "Trapinch",
+    "number": "78",
+    "rarity": "Common",
+    "set_name": "Dragon",
+    "set_series": "EX"
+  },
+  {
+    "name": "Trapinch",
+    "number": "79",
+    "rarity": "Common",
+    "set_name": "Dragon",
+    "set_series": "EX"
+  },
+  {
+    "name": "Treecko",
+    "number": "80",
+    "rarity": "Common",
+    "set_name": "Dragon",
+    "set_series": "EX"
+  },
+  {
+    "name": "Wurmple",
+    "number": "81",
+    "rarity": "Common",
+    "set_name": "Dragon",
+    "set_series": "EX"
+  },
+  {
+    "name": "Balloon Berry",
+    "number": "82",
+    "rarity": "Uncommon",
+    "set_name": "Dragon",
+    "set_series": "EX"
+  },
+  {
+    "name": "Buffer Piece",
+    "number": "83",
+    "rarity": "Uncommon",
+    "set_name": "Dragon",
+    "set_series": "EX"
+  },
+  {
+    "name": "Energy Recycle System",
+    "number": "84",
+    "rarity": "Uncommon",
+    "set_name": "Dragon",
+    "set_series": "EX"
+  },
+  {
+    "name": "High Pressure System",
+    "number": "85",
+    "rarity": "Uncommon",
+    "set_name": "Dragon",
+    "set_series": "EX"
+  },
+  {
+    "name": "Low Pressure System",
+    "number": "86",
+    "rarity": "Uncommon",
+    "set_name": "Dragon",
+    "set_series": "EX"
+  },
+  {
+    "name": "Mr. Briney's Compassion",
+    "number": "87",
+    "rarity": "Uncommon",
+    "set_name": "Dragon",
+    "set_series": "EX"
+  },
+  {
+    "name": "TV Reporter",
+    "number": "88",
+    "rarity": "Uncommon",
+    "set_name": "Dragon",
+    "set_series": "EX"
+  },
+  {
+    "name": "Ampharos ex",
+    "number": "89",
+    "rarity": "Rare Holo EX",
+    "set_name": "Dragon",
+    "set_series": "EX"
+  },
+  {
+    "name": "Dragonite ex",
+    "number": "90",
+    "rarity": "Rare Holo EX",
+    "set_name": "Dragon",
+    "set_series": "EX"
+  },
+  {
+    "name": "Golem ex",
+    "number": "91",
+    "rarity": "Rare Holo EX",
+    "set_name": "Dragon",
+    "set_series": "EX"
+  },
+  {
+    "name": "Kingdra ex",
+    "number": "92",
+    "rarity": "Rare Holo EX",
+    "set_name": "Dragon",
+    "set_series": "EX"
+  },
+  {
+    "name": "Latias ex",
+    "number": "93",
+    "rarity": "Rare Holo EX",
+    "set_name": "Dragon",
+    "set_series": "EX"
+  },
+  {
+    "name": "Latios ex",
+    "number": "94",
+    "rarity": "Rare Holo EX",
+    "set_name": "Dragon",
+    "set_series": "EX"
+  },
+  {
+    "name": "Magcargo ex",
+    "number": "95",
+    "rarity": "Rare Holo EX",
+    "set_name": "Dragon",
+    "set_series": "EX"
+  },
+  {
+    "name": "Muk ex",
+    "number": "96",
+    "rarity": "Rare Holo EX",
+    "set_name": "Dragon",
+    "set_series": "EX"
+  },
+  {
+    "name": "Rayquaza ex",
+    "number": "97",
+    "rarity": "Rare Holo EX",
+    "set_name": "Dragon",
+    "set_series": "EX"
+  },
+  {
+    "name": "Charmander",
+    "number": "98",
+    "rarity": "Rare Secret",
+    "set_name": "Dragon",
+    "set_series": "EX"
+  },
+  {
+    "name": "Charmeleon",
+    "number": "99",
+    "rarity": "Rare Secret",
+    "set_name": "Dragon",
+    "set_series": "EX"
+  },
+  {
+    "name": "Charizard",
+    "number": "100",
+    "rarity": "Rare Secret",
+    "set_name": "Dragon",
+    "set_series": "EX"
+  }
+]

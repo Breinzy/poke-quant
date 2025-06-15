@@ -1,0 +1,779 @@
+[
+  {
+    "name": "Armaldo \u03b4",
+    "number": "1",
+    "rarity": "Rare Holo",
+    "set_name": "Holon Phantoms",
+    "set_series": "EX"
+  },
+  {
+    "name": "Cradily \u03b4",
+    "number": "2",
+    "rarity": "Rare Holo",
+    "set_name": "Holon Phantoms",
+    "set_series": "EX"
+  },
+  {
+    "name": "Deoxys \u03b4",
+    "number": "3",
+    "rarity": "Rare Holo",
+    "set_name": "Holon Phantoms",
+    "set_series": "EX"
+  },
+  {
+    "name": "Deoxys \u03b4",
+    "number": "4",
+    "rarity": "Rare Holo",
+    "set_name": "Holon Phantoms",
+    "set_series": "EX"
+  },
+  {
+    "name": "Deoxys \u03b4",
+    "number": "5",
+    "rarity": "Rare Holo",
+    "set_name": "Holon Phantoms",
+    "set_series": "EX"
+  },
+  {
+    "name": "Deoxys \u03b4",
+    "number": "6",
+    "rarity": "Rare Holo",
+    "set_name": "Holon Phantoms",
+    "set_series": "EX"
+  },
+  {
+    "name": "Flygon \u03b4",
+    "number": "7",
+    "rarity": "Rare Holo",
+    "set_name": "Holon Phantoms",
+    "set_series": "EX"
+  },
+  {
+    "name": "Gyarados \u03b4",
+    "number": "8",
+    "rarity": "Rare Holo",
+    "set_name": "Holon Phantoms",
+    "set_series": "EX"
+  },
+  {
+    "name": "Kabutops \u03b4",
+    "number": "9",
+    "rarity": "Rare Holo",
+    "set_name": "Holon Phantoms",
+    "set_series": "EX"
+  },
+  {
+    "name": "Kingdra \u03b4",
+    "number": "10",
+    "rarity": "Rare Holo",
+    "set_name": "Holon Phantoms",
+    "set_series": "EX"
+  },
+  {
+    "name": "Latias \u03b4",
+    "number": "11",
+    "rarity": "Rare Holo",
+    "set_name": "Holon Phantoms",
+    "set_series": "EX"
+  },
+  {
+    "name": "Latios \u03b4",
+    "number": "12",
+    "rarity": "Rare Holo",
+    "set_name": "Holon Phantoms",
+    "set_series": "EX"
+  },
+  {
+    "name": "Omastar \u03b4",
+    "number": "13",
+    "rarity": "Rare Holo",
+    "set_name": "Holon Phantoms",
+    "set_series": "EX"
+  },
+  {
+    "name": "Pidgeot \u03b4",
+    "number": "14",
+    "rarity": "Rare Holo",
+    "set_name": "Holon Phantoms",
+    "set_series": "EX"
+  },
+  {
+    "name": "Raichu \u03b4",
+    "number": "15",
+    "rarity": "Rare Holo",
+    "set_name": "Holon Phantoms",
+    "set_series": "EX"
+  },
+  {
+    "name": "Rayquaza \u03b4",
+    "number": "16",
+    "rarity": "Rare Holo",
+    "set_name": "Holon Phantoms",
+    "set_series": "EX"
+  },
+  {
+    "name": "Vileplume \u03b4",
+    "number": "17",
+    "rarity": "Rare Holo",
+    "set_name": "Holon Phantoms",
+    "set_series": "EX"
+  },
+  {
+    "name": "Absol",
+    "number": "18",
+    "rarity": "Rare",
+    "set_name": "Holon Phantoms",
+    "set_series": "EX"
+  },
+  {
+    "name": "Bellossom \u03b4",
+    "number": "19",
+    "rarity": "Rare",
+    "set_name": "Holon Phantoms",
+    "set_series": "EX"
+  },
+  {
+    "name": "Blaziken",
+    "number": "20",
+    "rarity": "Rare",
+    "set_name": "Holon Phantoms",
+    "set_series": "EX"
+  },
+  {
+    "name": "Latias \u03b4",
+    "number": "21",
+    "rarity": "Rare",
+    "set_name": "Holon Phantoms",
+    "set_series": "EX"
+  },
+  {
+    "name": "Latios \u03b4",
+    "number": "22",
+    "rarity": "Rare",
+    "set_name": "Holon Phantoms",
+    "set_series": "EX"
+  },
+  {
+    "name": "Mawile",
+    "number": "23",
+    "rarity": "Rare",
+    "set_name": "Holon Phantoms",
+    "set_series": "EX"
+  },
+  {
+    "name": "Mewtwo \u03b4",
+    "number": "24",
+    "rarity": "Rare",
+    "set_name": "Holon Phantoms",
+    "set_series": "EX"
+  },
+  {
+    "name": "Nosepass",
+    "number": "25",
+    "rarity": "Rare",
+    "set_name": "Holon Phantoms",
+    "set_series": "EX"
+  },
+  {
+    "name": "Rayquaza \u03b4",
+    "number": "26",
+    "rarity": "Rare",
+    "set_name": "Holon Phantoms",
+    "set_series": "EX"
+  },
+  {
+    "name": "Regice",
+    "number": "27",
+    "rarity": "Rare",
+    "set_name": "Holon Phantoms",
+    "set_series": "EX"
+  },
+  {
+    "name": "Regirock",
+    "number": "28",
+    "rarity": "Rare",
+    "set_name": "Holon Phantoms",
+    "set_series": "EX"
+  },
+  {
+    "name": "Registeel",
+    "number": "29",
+    "rarity": "Rare",
+    "set_name": "Holon Phantoms",
+    "set_series": "EX"
+  },
+  {
+    "name": "Relicanth",
+    "number": "30",
+    "rarity": "Rare",
+    "set_name": "Holon Phantoms",
+    "set_series": "EX"
+  },
+  {
+    "name": "Sableye",
+    "number": "31",
+    "rarity": "Rare",
+    "set_name": "Holon Phantoms",
+    "set_series": "EX"
+  },
+  {
+    "name": "Seviper",
+    "number": "32",
+    "rarity": "Rare",
+    "set_name": "Holon Phantoms",
+    "set_series": "EX"
+  },
+  {
+    "name": "Torkoal",
+    "number": "33",
+    "rarity": "Rare",
+    "set_name": "Holon Phantoms",
+    "set_series": "EX"
+  },
+  {
+    "name": "Zangoose",
+    "number": "34",
+    "rarity": "Rare",
+    "set_name": "Holon Phantoms",
+    "set_series": "EX"
+  },
+  {
+    "name": "Aerodactyl \u03b4",
+    "number": "35",
+    "rarity": "Uncommon",
+    "set_name": "Holon Phantoms",
+    "set_series": "EX"
+  },
+  {
+    "name": "Camerupt",
+    "number": "36",
+    "rarity": "Uncommon",
+    "set_name": "Holon Phantoms",
+    "set_series": "EX"
+  },
+  {
+    "name": "Chimecho \u03b4",
+    "number": "37",
+    "rarity": "Uncommon",
+    "set_name": "Holon Phantoms",
+    "set_series": "EX"
+  },
+  {
+    "name": "Claydol",
+    "number": "38",
+    "rarity": "Uncommon",
+    "set_name": "Holon Phantoms",
+    "set_series": "EX"
+  },
+  {
+    "name": "Combusken",
+    "number": "39",
+    "rarity": "Uncommon",
+    "set_name": "Holon Phantoms",
+    "set_series": "EX"
+  },
+  {
+    "name": "Donphan",
+    "number": "40",
+    "rarity": "Uncommon",
+    "set_name": "Holon Phantoms",
+    "set_series": "EX"
+  },
+  {
+    "name": "Exeggutor \u03b4",
+    "number": "41",
+    "rarity": "Uncommon",
+    "set_name": "Holon Phantoms",
+    "set_series": "EX"
+  },
+  {
+    "name": "Gloom \u03b4",
+    "number": "42",
+    "rarity": "Uncommon",
+    "set_name": "Holon Phantoms",
+    "set_series": "EX"
+  },
+  {
+    "name": "Golduck \u03b4",
+    "number": "43",
+    "rarity": "Uncommon",
+    "set_name": "Holon Phantoms",
+    "set_series": "EX"
+  },
+  {
+    "name": "Holon's Castform",
+    "number": "44",
+    "rarity": "Uncommon",
+    "set_name": "Holon Phantoms",
+    "set_series": "EX"
+  },
+  {
+    "name": "Lairon",
+    "number": "45",
+    "rarity": "Uncommon",
+    "set_name": "Holon Phantoms",
+    "set_series": "EX"
+  },
+  {
+    "name": "Manectric",
+    "number": "46",
+    "rarity": "Uncommon",
+    "set_name": "Holon Phantoms",
+    "set_series": "EX"
+  },
+  {
+    "name": "Masquerain",
+    "number": "47",
+    "rarity": "Uncommon",
+    "set_name": "Holon Phantoms",
+    "set_series": "EX"
+  },
+  {
+    "name": "Persian \u03b4",
+    "number": "48",
+    "rarity": "Uncommon",
+    "set_name": "Holon Phantoms",
+    "set_series": "EX"
+  },
+  {
+    "name": "Pidgeotto \u03b4",
+    "number": "49",
+    "rarity": "Uncommon",
+    "set_name": "Holon Phantoms",
+    "set_series": "EX"
+  },
+  {
+    "name": "Primeape \u03b4",
+    "number": "50",
+    "rarity": "Uncommon",
+    "set_name": "Holon Phantoms",
+    "set_series": "EX"
+  },
+  {
+    "name": "Raichu",
+    "number": "51",
+    "rarity": "Uncommon",
+    "set_name": "Holon Phantoms",
+    "set_series": "EX"
+  },
+  {
+    "name": "Seadra \u03b4",
+    "number": "52",
+    "rarity": "Uncommon",
+    "set_name": "Holon Phantoms",
+    "set_series": "EX"
+  },
+  {
+    "name": "Sharpedo \u03b4",
+    "number": "53",
+    "rarity": "Uncommon",
+    "set_name": "Holon Phantoms",
+    "set_series": "EX"
+  },
+  {
+    "name": "Vibrava \u03b4",
+    "number": "54",
+    "rarity": "Uncommon",
+    "set_name": "Holon Phantoms",
+    "set_series": "EX"
+  },
+  {
+    "name": "Whiscash",
+    "number": "55",
+    "rarity": "Uncommon",
+    "set_name": "Holon Phantoms",
+    "set_series": "EX"
+  },
+  {
+    "name": "Wobbuffet",
+    "number": "56",
+    "rarity": "Uncommon",
+    "set_name": "Holon Phantoms",
+    "set_series": "EX"
+  },
+  {
+    "name": "Anorith \u03b4",
+    "number": "57",
+    "rarity": "Common",
+    "set_name": "Holon Phantoms",
+    "set_series": "EX"
+  },
+  {
+    "name": "Aron",
+    "number": "58",
+    "rarity": "Common",
+    "set_name": "Holon Phantoms",
+    "set_series": "EX"
+  },
+  {
+    "name": "Baltoy",
+    "number": "59",
+    "rarity": "Common",
+    "set_name": "Holon Phantoms",
+    "set_series": "EX"
+  },
+  {
+    "name": "Barboach",
+    "number": "60",
+    "rarity": "Common",
+    "set_name": "Holon Phantoms",
+    "set_series": "EX"
+  },
+  {
+    "name": "Carvanha \u03b4",
+    "number": "61",
+    "rarity": "Common",
+    "set_name": "Holon Phantoms",
+    "set_series": "EX"
+  },
+  {
+    "name": "Corphish",
+    "number": "62",
+    "rarity": "Common",
+    "set_name": "Holon Phantoms",
+    "set_series": "EX"
+  },
+  {
+    "name": "Corphish",
+    "number": "63",
+    "rarity": "Common",
+    "set_name": "Holon Phantoms",
+    "set_series": "EX"
+  },
+  {
+    "name": "Electrike",
+    "number": "64",
+    "rarity": "Common",
+    "set_name": "Holon Phantoms",
+    "set_series": "EX"
+  },
+  {
+    "name": "Exeggcute \u03b4",
+    "number": "65",
+    "rarity": "Common",
+    "set_name": "Holon Phantoms",
+    "set_series": "EX"
+  },
+  {
+    "name": "Horsea \u03b4",
+    "number": "66",
+    "rarity": "Common",
+    "set_name": "Holon Phantoms",
+    "set_series": "EX"
+  },
+  {
+    "name": "Kabuto \u03b4",
+    "number": "67",
+    "rarity": "Common",
+    "set_name": "Holon Phantoms",
+    "set_series": "EX"
+  },
+  {
+    "name": "Lileep \u03b4",
+    "number": "68",
+    "rarity": "Common",
+    "set_name": "Holon Phantoms",
+    "set_series": "EX"
+  },
+  {
+    "name": "Magikarp \u03b4",
+    "number": "69",
+    "rarity": "Common",
+    "set_name": "Holon Phantoms",
+    "set_series": "EX"
+  },
+  {
+    "name": "Mankey \u03b4",
+    "number": "70",
+    "rarity": "Common",
+    "set_name": "Holon Phantoms",
+    "set_series": "EX"
+  },
+  {
+    "name": "Meowth \u03b4",
+    "number": "71",
+    "rarity": "Common",
+    "set_name": "Holon Phantoms",
+    "set_series": "EX"
+  },
+  {
+    "name": "Numel",
+    "number": "72",
+    "rarity": "Common",
+    "set_name": "Holon Phantoms",
+    "set_series": "EX"
+  },
+  {
+    "name": "Oddish \u03b4",
+    "number": "73",
+    "rarity": "Common",
+    "set_name": "Holon Phantoms",
+    "set_series": "EX"
+  },
+  {
+    "name": "Omanyte \u03b4",
+    "number": "74",
+    "rarity": "Common",
+    "set_name": "Holon Phantoms",
+    "set_series": "EX"
+  },
+  {
+    "name": "Phanpy",
+    "number": "75",
+    "rarity": "Common",
+    "set_name": "Holon Phantoms",
+    "set_series": "EX"
+  },
+  {
+    "name": "Pichu \u03b4",
+    "number": "76",
+    "rarity": "Common",
+    "set_name": "Holon Phantoms",
+    "set_series": "EX"
+  },
+  {
+    "name": "Pidgey \u03b4",
+    "number": "77",
+    "rarity": "Common",
+    "set_name": "Holon Phantoms",
+    "set_series": "EX"
+  },
+  {
+    "name": "Pikachu",
+    "number": "78",
+    "rarity": "Common",
+    "set_name": "Holon Phantoms",
+    "set_series": "EX"
+  },
+  {
+    "name": "Pikachu \u03b4",
+    "number": "79",
+    "rarity": "Common",
+    "set_name": "Holon Phantoms",
+    "set_series": "EX"
+  },
+  {
+    "name": "Poochyena",
+    "number": "80",
+    "rarity": "Common",
+    "set_name": "Holon Phantoms",
+    "set_series": "EX"
+  },
+  {
+    "name": "Psyduck \u03b4",
+    "number": "81",
+    "rarity": "Common",
+    "set_name": "Holon Phantoms",
+    "set_series": "EX"
+  },
+  {
+    "name": "Surskit",
+    "number": "82",
+    "rarity": "Common",
+    "set_name": "Holon Phantoms",
+    "set_series": "EX"
+  },
+  {
+    "name": "Torchic",
+    "number": "83",
+    "rarity": "Common",
+    "set_name": "Holon Phantoms",
+    "set_series": "EX"
+  },
+  {
+    "name": "Trapinch \u03b4",
+    "number": "84",
+    "rarity": "Common",
+    "set_name": "Holon Phantoms",
+    "set_series": "EX"
+  },
+  {
+    "name": "Holon Adventurer",
+    "number": "85",
+    "rarity": "Uncommon",
+    "set_name": "Holon Phantoms",
+    "set_series": "EX"
+  },
+  {
+    "name": "Holon Fossil",
+    "number": "86",
+    "rarity": "Uncommon",
+    "set_name": "Holon Phantoms",
+    "set_series": "EX"
+  },
+  {
+    "name": "Holon Lake",
+    "number": "87",
+    "rarity": "Uncommon",
+    "set_name": "Holon Phantoms",
+    "set_series": "EX"
+  },
+  {
+    "name": "Mr. Stone's Project",
+    "number": "88",
+    "rarity": "Uncommon",
+    "set_name": "Holon Phantoms",
+    "set_series": "EX"
+  },
+  {
+    "name": "Professor Cozmo's Discovery",
+    "number": "89",
+    "rarity": "Uncommon",
+    "set_name": "Holon Phantoms",
+    "set_series": "EX"
+  },
+  {
+    "name": "Rare Candy",
+    "number": "90",
+    "rarity": "Uncommon",
+    "set_name": "Holon Phantoms",
+    "set_series": "EX"
+  },
+  {
+    "name": "Claw Fossil",
+    "number": "91",
+    "rarity": "Common",
+    "set_name": "Holon Phantoms",
+    "set_series": "EX"
+  },
+  {
+    "name": "Mysterious Fossil",
+    "number": "92",
+    "rarity": "Common",
+    "set_name": "Holon Phantoms",
+    "set_series": "EX"
+  },
+  {
+    "name": "Root Fossil",
+    "number": "93",
+    "rarity": "Common",
+    "set_name": "Holon Phantoms",
+    "set_series": "EX"
+  },
+  {
+    "name": "Darkness Energy",
+    "number": "94",
+    "rarity": "Rare",
+    "set_name": "Holon Phantoms",
+    "set_series": "EX"
+  },
+  {
+    "name": "Metal Energy",
+    "number": "95",
+    "rarity": "Rare",
+    "set_name": "Holon Phantoms",
+    "set_series": "EX"
+  },
+  {
+    "name": "Multi Energy",
+    "number": "96",
+    "rarity": "Rare",
+    "set_name": "Holon Phantoms",
+    "set_series": "EX"
+  },
+  {
+    "name": "Dark Metal Energy",
+    "number": "97",
+    "rarity": "Uncommon",
+    "set_name": "Holon Phantoms",
+    "set_series": "EX"
+  },
+  {
+    "name": "\u03b4 Rainbow Energy",
+    "number": "98",
+    "rarity": "Uncommon",
+    "set_name": "Holon Phantoms",
+    "set_series": "EX"
+  },
+  {
+    "name": "Crawdaunt ex",
+    "number": "99",
+    "rarity": "Rare Holo EX",
+    "set_name": "Holon Phantoms",
+    "set_series": "EX"
+  },
+  {
+    "name": "Mew ex",
+    "number": "100",
+    "rarity": "Rare Holo EX",
+    "set_name": "Holon Phantoms",
+    "set_series": "EX"
+  },
+  {
+    "name": "Mightyena ex",
+    "number": "101",
+    "rarity": "Rare Holo EX",
+    "set_name": "Holon Phantoms",
+    "set_series": "EX"
+  },
+  {
+    "name": "Gyarados \u2605 \u03b4",
+    "number": "102",
+    "rarity": "Rare Holo Star",
+    "set_name": "Holon Phantoms",
+    "set_series": "EX"
+  },
+  {
+    "name": "Mewtwo \u2605",
+    "number": "103",
+    "rarity": "Rare Holo Star",
+    "set_name": "Holon Phantoms",
+    "set_series": "EX"
+  },
+  {
+    "name": "Pikachu \u2605",
+    "number": "104",
+    "rarity": "Rare Holo Star",
+    "set_name": "Holon Phantoms",
+    "set_series": "EX"
+  },
+  {
+    "name": "Grass Energy",
+    "number": "105",
+    "rarity": "Rare Holo",
+    "set_name": "Holon Phantoms",
+    "set_series": "EX"
+  },
+  {
+    "name": "Fire Energy",
+    "number": "106",
+    "rarity": "Rare Holo",
+    "set_name": "Holon Phantoms",
+    "set_series": "EX"
+  },
+  {
+    "name": "Water Energy",
+    "number": "107",
+    "rarity": "Rare Holo",
+    "set_name": "Holon Phantoms",
+    "set_series": "EX"
+  },
+  {
+    "name": "Lightning Energy",
+    "number": "108",
+    "rarity": "Rare Holo",
+    "set_name": "Holon Phantoms",
+    "set_series": "EX"
+  },
+  {
+    "name": "Psychic Energy",
+    "number": "109",
+    "rarity": "Rare Holo",
+    "set_name": "Holon Phantoms",
+    "set_series": "EX"
+  },
+  {
+    "name": "Fighting Energy",
+    "number": "110",
+    "rarity": "Rare Holo",
+    "set_name": "Holon Phantoms",
+    "set_series": "EX"
+  },
+  {
+    "name": "Mew",
+    "number": "111",
+    "rarity": "Rare Secret",
+    "set_name": "Holon Phantoms",
+    "set_series": "EX"
+  }
+]

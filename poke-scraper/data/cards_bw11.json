@@ -1,0 +1,982 @@
+[
+  {
+    "name": "Tangela",
+    "number": "1",
+    "rarity": "Common",
+    "set_name": "Legendary Treasures",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Tangrowth",
+    "number": "2",
+    "rarity": "Rare",
+    "set_name": "Legendary Treasures",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Shuckle",
+    "number": "3",
+    "rarity": "Uncommon",
+    "set_name": "Legendary Treasures",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Cherubi",
+    "number": "4",
+    "rarity": "Uncommon",
+    "set_name": "Legendary Treasures",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Carnivine",
+    "number": "5",
+    "rarity": "Uncommon",
+    "set_name": "Legendary Treasures",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Snivy",
+    "number": "6",
+    "rarity": "Common",
+    "set_name": "Legendary Treasures",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Servine",
+    "number": "7",
+    "rarity": "Uncommon",
+    "set_name": "Legendary Treasures",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Serperior",
+    "number": "8",
+    "rarity": "Rare Holo",
+    "set_name": "Legendary Treasures",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Sewaddle",
+    "number": "9",
+    "rarity": "Common",
+    "set_name": "Legendary Treasures",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Sewaddle",
+    "number": "10",
+    "rarity": "Common",
+    "set_name": "Legendary Treasures",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Swadloon",
+    "number": "11",
+    "rarity": "Uncommon",
+    "set_name": "Legendary Treasures",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Leavanny",
+    "number": "12",
+    "rarity": "Rare Holo",
+    "set_name": "Legendary Treasures",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Dwebble",
+    "number": "13",
+    "rarity": "Common",
+    "set_name": "Legendary Treasures",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Crustle",
+    "number": "14",
+    "rarity": "Uncommon",
+    "set_name": "Legendary Treasures",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Virizion",
+    "number": "15",
+    "rarity": "Rare Holo",
+    "set_name": "Legendary Treasures",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Genesect",
+    "number": "16",
+    "rarity": "Rare Holo",
+    "set_name": "Legendary Treasures",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Charmander",
+    "number": "17",
+    "rarity": "Common",
+    "set_name": "Legendary Treasures",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Charmeleon",
+    "number": "18",
+    "rarity": "Uncommon",
+    "set_name": "Legendary Treasures",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Charizard",
+    "number": "19",
+    "rarity": "Rare Holo",
+    "set_name": "Legendary Treasures",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Vulpix",
+    "number": "20",
+    "rarity": "Common",
+    "set_name": "Legendary Treasures",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Ninetales",
+    "number": "21",
+    "rarity": "Rare",
+    "set_name": "Legendary Treasures",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Moltres",
+    "number": "22",
+    "rarity": "Rare Holo",
+    "set_name": "Legendary Treasures",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Victini",
+    "number": "23",
+    "rarity": "Rare Holo",
+    "set_name": "Legendary Treasures",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Victini-EX",
+    "number": "24",
+    "rarity": "Rare Holo EX",
+    "set_name": "Legendary Treasures",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Tepig",
+    "number": "25",
+    "rarity": "Common",
+    "set_name": "Legendary Treasures",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Pignite",
+    "number": "26",
+    "rarity": "Uncommon",
+    "set_name": "Legendary Treasures",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Emboar",
+    "number": "27",
+    "rarity": "Rare Holo",
+    "set_name": "Legendary Treasures",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Reshiram",
+    "number": "28",
+    "rarity": "Rare Holo",
+    "set_name": "Legendary Treasures",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Reshiram-EX",
+    "number": "29",
+    "rarity": "Rare Holo EX",
+    "set_name": "Legendary Treasures",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Magikarp",
+    "number": "30",
+    "rarity": "Common",
+    "set_name": "Legendary Treasures",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Gyarados",
+    "number": "31",
+    "rarity": "Rare",
+    "set_name": "Legendary Treasures",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Articuno",
+    "number": "32",
+    "rarity": "Rare Holo",
+    "set_name": "Legendary Treasures",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Piplup",
+    "number": "33",
+    "rarity": "Common",
+    "set_name": "Legendary Treasures",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Prinplup",
+    "number": "34",
+    "rarity": "Uncommon",
+    "set_name": "Legendary Treasures",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Empoleon",
+    "number": "35",
+    "rarity": "Rare",
+    "set_name": "Legendary Treasures",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Phione",
+    "number": "36",
+    "rarity": "Rare",
+    "set_name": "Legendary Treasures",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Oshawott",
+    "number": "37",
+    "rarity": "Common",
+    "set_name": "Legendary Treasures",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Dewott",
+    "number": "38",
+    "rarity": "Uncommon",
+    "set_name": "Legendary Treasures",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Samurott",
+    "number": "39",
+    "rarity": "Rare Holo",
+    "set_name": "Legendary Treasures",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Tympole",
+    "number": "40",
+    "rarity": "Common",
+    "set_name": "Legendary Treasures",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Palpitoad",
+    "number": "41",
+    "rarity": "Uncommon",
+    "set_name": "Legendary Treasures",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Seismitoad",
+    "number": "42",
+    "rarity": "Rare",
+    "set_name": "Legendary Treasures",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Kyurem",
+    "number": "43",
+    "rarity": "Rare Holo",
+    "set_name": "Legendary Treasures",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Kyurem-EX",
+    "number": "44",
+    "rarity": "Rare Holo EX",
+    "set_name": "Legendary Treasures",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Keldeo-EX",
+    "number": "45",
+    "rarity": "Rare Holo EX",
+    "set_name": "Legendary Treasures",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Zapdos",
+    "number": "46",
+    "rarity": "Rare Holo",
+    "set_name": "Legendary Treasures",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Plusle",
+    "number": "47",
+    "rarity": "Uncommon",
+    "set_name": "Legendary Treasures",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Minun",
+    "number": "48",
+    "rarity": "Uncommon",
+    "set_name": "Legendary Treasures",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Emolga",
+    "number": "49",
+    "rarity": "Uncommon",
+    "set_name": "Legendary Treasures",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Thundurus",
+    "number": "50",
+    "rarity": "Rare Holo",
+    "set_name": "Legendary Treasures",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Zekrom",
+    "number": "51",
+    "rarity": "Rare Holo",
+    "set_name": "Legendary Treasures",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Zekrom-EX",
+    "number": "52",
+    "rarity": "Rare Holo EX",
+    "set_name": "Legendary Treasures",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Mewtwo",
+    "number": "53",
+    "rarity": "Rare Holo",
+    "set_name": "Legendary Treasures",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Mewtwo-EX",
+    "number": "54",
+    "rarity": "Rare Holo EX",
+    "set_name": "Legendary Treasures",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Natu",
+    "number": "55",
+    "rarity": "Common",
+    "set_name": "Legendary Treasures",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Xatu",
+    "number": "56",
+    "rarity": "Rare",
+    "set_name": "Legendary Treasures",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Misdreavus",
+    "number": "57",
+    "rarity": "Common",
+    "set_name": "Legendary Treasures",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Mismagius",
+    "number": "58",
+    "rarity": "Rare",
+    "set_name": "Legendary Treasures",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Ralts",
+    "number": "59",
+    "rarity": "Common",
+    "set_name": "Legendary Treasures",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Kirlia",
+    "number": "60",
+    "rarity": "Uncommon",
+    "set_name": "Legendary Treasures",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Sableye",
+    "number": "61",
+    "rarity": "Uncommon",
+    "set_name": "Legendary Treasures",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Croagunk",
+    "number": "62",
+    "rarity": "Common",
+    "set_name": "Legendary Treasures",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Toxicroak",
+    "number": "63",
+    "rarity": "Rare",
+    "set_name": "Legendary Treasures",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Woobat",
+    "number": "64",
+    "rarity": "Common",
+    "set_name": "Legendary Treasures",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Swoobat",
+    "number": "65",
+    "rarity": "Uncommon",
+    "set_name": "Legendary Treasures",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Sigilyph",
+    "number": "66",
+    "rarity": "Rare Holo",
+    "set_name": "Legendary Treasures",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Trubbish",
+    "number": "67",
+    "rarity": "Common",
+    "set_name": "Legendary Treasures",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Garbodor",
+    "number": "68",
+    "rarity": "Rare Holo",
+    "set_name": "Legendary Treasures",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Gothita",
+    "number": "69",
+    "rarity": "Common",
+    "set_name": "Legendary Treasures",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Gothita",
+    "number": "70",
+    "rarity": "Common",
+    "set_name": "Legendary Treasures",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Gothorita",
+    "number": "71",
+    "rarity": "Uncommon",
+    "set_name": "Legendary Treasures",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Gothitelle",
+    "number": "72",
+    "rarity": "Rare Holo",
+    "set_name": "Legendary Treasures",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Solosis",
+    "number": "73",
+    "rarity": "Common",
+    "set_name": "Legendary Treasures",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Solosis",
+    "number": "74",
+    "rarity": "Common",
+    "set_name": "Legendary Treasures",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Duosion",
+    "number": "75",
+    "rarity": "Uncommon",
+    "set_name": "Legendary Treasures",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Reuniclus",
+    "number": "76",
+    "rarity": "Rare",
+    "set_name": "Legendary Treasures",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Chandelure-EX",
+    "number": "77",
+    "rarity": "Rare Holo EX",
+    "set_name": "Legendary Treasures",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Meloetta",
+    "number": "78",
+    "rarity": "Rare Holo",
+    "set_name": "Legendary Treasures",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Riolu",
+    "number": "79",
+    "rarity": "Uncommon",
+    "set_name": "Legendary Treasures",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Lucario",
+    "number": "80",
+    "rarity": "Rare Holo",
+    "set_name": "Legendary Treasures",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Gallade",
+    "number": "81",
+    "rarity": "Rare",
+    "set_name": "Legendary Treasures",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Excadrill-EX",
+    "number": "82",
+    "rarity": "Rare Holo EX",
+    "set_name": "Legendary Treasures",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Stunfisk",
+    "number": "83",
+    "rarity": "Uncommon",
+    "set_name": "Legendary Treasures",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Terrakion",
+    "number": "84",
+    "rarity": "Rare Holo",
+    "set_name": "Legendary Treasures",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Landorus",
+    "number": "85",
+    "rarity": "Rare Holo",
+    "set_name": "Legendary Treasures",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Meloetta",
+    "number": "86",
+    "rarity": "Rare",
+    "set_name": "Legendary Treasures",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Spiritomb",
+    "number": "87",
+    "rarity": "Uncommon",
+    "set_name": "Legendary Treasures",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Darkrai-EX",
+    "number": "88",
+    "rarity": "Rare Holo EX",
+    "set_name": "Legendary Treasures",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Zorua",
+    "number": "89",
+    "rarity": "Common",
+    "set_name": "Legendary Treasures",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Zoroark",
+    "number": "90",
+    "rarity": "Rare Holo",
+    "set_name": "Legendary Treasures",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Cobalion",
+    "number": "91",
+    "rarity": "Rare Holo",
+    "set_name": "Legendary Treasures",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Altaria",
+    "number": "92",
+    "rarity": "Uncommon",
+    "set_name": "Legendary Treasures",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Rayquaza",
+    "number": "93",
+    "rarity": "Rare Holo",
+    "set_name": "Legendary Treasures",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Gible",
+    "number": "94",
+    "rarity": "Common",
+    "set_name": "Legendary Treasures",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Gabite",
+    "number": "95",
+    "rarity": "Uncommon",
+    "set_name": "Legendary Treasures",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Garchomp",
+    "number": "96",
+    "rarity": "Rare Holo",
+    "set_name": "Legendary Treasures",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Deino",
+    "number": "97",
+    "rarity": "Common",
+    "set_name": "Legendary Treasures",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Zweilous",
+    "number": "98",
+    "rarity": "Uncommon",
+    "set_name": "Legendary Treasures",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Hydreigon",
+    "number": "99",
+    "rarity": "Rare Holo",
+    "set_name": "Legendary Treasures",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Black Kyurem-EX",
+    "number": "100",
+    "rarity": "Rare Holo EX",
+    "set_name": "Legendary Treasures",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "White Kyurem-EX",
+    "number": "101",
+    "rarity": "Rare Holo EX",
+    "set_name": "Legendary Treasures",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Lugia-EX",
+    "number": "102",
+    "rarity": "Rare Holo EX",
+    "set_name": "Legendary Treasures",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Swablu",
+    "number": "103",
+    "rarity": "Common",
+    "set_name": "Legendary Treasures",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Minccino",
+    "number": "104",
+    "rarity": "Common",
+    "set_name": "Legendary Treasures",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Cinccino",
+    "number": "105",
+    "rarity": "Rare Holo",
+    "set_name": "Legendary Treasures",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Druddigon",
+    "number": "106",
+    "rarity": "Uncommon",
+    "set_name": "Legendary Treasures",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Bouffalant",
+    "number": "107",
+    "rarity": "Uncommon",
+    "set_name": "Legendary Treasures",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Tornadus",
+    "number": "108",
+    "rarity": "Rare Holo",
+    "set_name": "Legendary Treasures",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Bianca",
+    "number": "109",
+    "rarity": "Uncommon",
+    "set_name": "Legendary Treasures",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Cedric Juniper",
+    "number": "110",
+    "rarity": "Uncommon",
+    "set_name": "Legendary Treasures",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Crushing Hammer",
+    "number": "111",
+    "rarity": "Uncommon",
+    "set_name": "Legendary Treasures",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Energy Switch",
+    "number": "112",
+    "rarity": "Uncommon",
+    "set_name": "Legendary Treasures",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Double Colorless Energy",
+    "number": "113",
+    "rarity": "Uncommon",
+    "set_name": "Legendary Treasures",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Reshiram",
+    "number": "114",
+    "rarity": "Rare Secret",
+    "set_name": "Legendary Treasures",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Zekrom",
+    "number": "115",
+    "rarity": "Rare Secret",
+    "set_name": "Legendary Treasures",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Snivy",
+    "number": "RC1",
+    "rarity": "Common",
+    "set_name": "Legendary Treasures",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Servine",
+    "number": "RC2",
+    "rarity": "Common",
+    "set_name": "Legendary Treasures",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Serperior",
+    "number": "RC3",
+    "rarity": "Uncommon",
+    "set_name": "Legendary Treasures",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Growlithe",
+    "number": "RC4",
+    "rarity": "Uncommon",
+    "set_name": "Legendary Treasures",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Torchic",
+    "number": "RC5",
+    "rarity": "Common",
+    "set_name": "Legendary Treasures",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Piplup",
+    "number": "RC6",
+    "rarity": "Uncommon",
+    "set_name": "Legendary Treasures",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Pikachu",
+    "number": "RC7",
+    "rarity": "Uncommon",
+    "set_name": "Legendary Treasures",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Ralts",
+    "number": "RC8",
+    "rarity": "Common",
+    "set_name": "Legendary Treasures",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Kirlia",
+    "number": "RC9",
+    "rarity": "Common",
+    "set_name": "Legendary Treasures",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Gardevoir",
+    "number": "RC10",
+    "rarity": "Uncommon",
+    "set_name": "Legendary Treasures",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Meloetta-EX",
+    "number": "RC11",
+    "rarity": "Rare",
+    "set_name": "Legendary Treasures",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Stunfisk",
+    "number": "RC12",
+    "rarity": "Uncommon",
+    "set_name": "Legendary Treasures",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Purrloin",
+    "number": "RC13",
+    "rarity": "Uncommon",
+    "set_name": "Legendary Treasures",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Eevee",
+    "number": "RC14",
+    "rarity": "Uncommon",
+    "set_name": "Legendary Treasures",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Teddiursa",
+    "number": "RC15",
+    "rarity": "Common",
+    "set_name": "Legendary Treasures",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Ursaring",
+    "number": "RC16",
+    "rarity": "Common",
+    "set_name": "Legendary Treasures",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Audino",
+    "number": "RC17",
+    "rarity": "Common",
+    "set_name": "Legendary Treasures",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Minccino",
+    "number": "RC18",
+    "rarity": "Common",
+    "set_name": "Legendary Treasures",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Cinccino",
+    "number": "RC19",
+    "rarity": "Uncommon",
+    "set_name": "Legendary Treasures",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Elesa",
+    "number": "RC20",
+    "rarity": "Common",
+    "set_name": "Legendary Treasures",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Shaymin-EX",
+    "number": "RC21",
+    "rarity": "Rare Ultra",
+    "set_name": "Legendary Treasures",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Reshiram",
+    "number": "RC22",
+    "rarity": "Rare Ultra",
+    "set_name": "Legendary Treasures",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Emolga",
+    "number": "RC23",
+    "rarity": "Rare Ultra",
+    "set_name": "Legendary Treasures",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Mew-EX",
+    "number": "RC24",
+    "rarity": "Rare Ultra",
+    "set_name": "Legendary Treasures",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Meloetta-EX",
+    "number": "RC25",
+    "rarity": "Rare Ultra",
+    "set_name": "Legendary Treasures",
+    "set_series": "Black & White"
+  }
+]

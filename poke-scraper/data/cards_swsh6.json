@@ -1,0 +1,1633 @@
+[
+  {
+    "name": "Weedle",
+    "number": "1",
+    "rarity": "Common",
+    "set_name": "Chilling Reign",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Kakuna",
+    "number": "2",
+    "rarity": "Uncommon",
+    "set_name": "Chilling Reign",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Beedrill",
+    "number": "3",
+    "rarity": "Rare Holo",
+    "set_name": "Chilling Reign",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Ledyba",
+    "number": "4",
+    "rarity": "Common",
+    "set_name": "Chilling Reign",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Ledian",
+    "number": "5",
+    "rarity": "Uncommon",
+    "set_name": "Chilling Reign",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Heracross",
+    "number": "6",
+    "rarity": "Common",
+    "set_name": "Chilling Reign",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Celebi V",
+    "number": "7",
+    "rarity": "Rare Holo V",
+    "set_name": "Chilling Reign",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Celebi VMAX",
+    "number": "8",
+    "rarity": "Rare Holo VMAX",
+    "set_name": "Chilling Reign",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Snover",
+    "number": "9",
+    "rarity": "Common",
+    "set_name": "Chilling Reign",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Abomasnow",
+    "number": "10",
+    "rarity": "Rare",
+    "set_name": "Chilling Reign",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Deerling",
+    "number": "11",
+    "rarity": "Common",
+    "set_name": "Chilling Reign",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Sawsbuck",
+    "number": "12",
+    "rarity": "Rare",
+    "set_name": "Chilling Reign",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Bounsweet",
+    "number": "13",
+    "rarity": "Common",
+    "set_name": "Chilling Reign",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Steenee",
+    "number": "14",
+    "rarity": "Uncommon",
+    "set_name": "Chilling Reign",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Tsareena",
+    "number": "15",
+    "rarity": "Rare",
+    "set_name": "Chilling Reign",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Grookey",
+    "number": "16",
+    "rarity": "Common",
+    "set_name": "Chilling Reign",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Thwackey",
+    "number": "17",
+    "rarity": "Uncommon",
+    "set_name": "Chilling Reign",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Rillaboom",
+    "number": "18",
+    "rarity": "Rare Holo",
+    "set_name": "Chilling Reign",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Zarude",
+    "number": "19",
+    "rarity": "Rare Holo",
+    "set_name": "Chilling Reign",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Blaziken V",
+    "number": "20",
+    "rarity": "Rare Holo V",
+    "set_name": "Chilling Reign",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Blaziken VMAX",
+    "number": "21",
+    "rarity": "Rare Holo VMAX",
+    "set_name": "Chilling Reign",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Castform Sunny Form",
+    "number": "22",
+    "rarity": "Common",
+    "set_name": "Chilling Reign",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Larvesta",
+    "number": "23",
+    "rarity": "Common",
+    "set_name": "Chilling Reign",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Volcarona",
+    "number": "24",
+    "rarity": "Rare",
+    "set_name": "Chilling Reign",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Volcanion V",
+    "number": "25",
+    "rarity": "Rare Holo V",
+    "set_name": "Chilling Reign",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Scorbunny",
+    "number": "26",
+    "rarity": "Common",
+    "set_name": "Chilling Reign",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Raboot",
+    "number": "27",
+    "rarity": "Uncommon",
+    "set_name": "Chilling Reign",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Cinderace",
+    "number": "28",
+    "rarity": "Rare Holo",
+    "set_name": "Chilling Reign",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Lapras",
+    "number": "29",
+    "rarity": "Common",
+    "set_name": "Chilling Reign",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Sneasel",
+    "number": "30",
+    "rarity": "Common",
+    "set_name": "Chilling Reign",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Weavile",
+    "number": "31",
+    "rarity": "Rare Holo",
+    "set_name": "Chilling Reign",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Delibird",
+    "number": "32",
+    "rarity": "Common",
+    "set_name": "Chilling Reign",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Castform Rainy Form",
+    "number": "33",
+    "rarity": "Common",
+    "set_name": "Chilling Reign",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Castform Snowy Form",
+    "number": "34",
+    "rarity": "Common",
+    "set_name": "Chilling Reign",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Snorunt",
+    "number": "35",
+    "rarity": "Common",
+    "set_name": "Chilling Reign",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Froslass",
+    "number": "36",
+    "rarity": "Rare Holo",
+    "set_name": "Chilling Reign",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Spheal",
+    "number": "37",
+    "rarity": "Common",
+    "set_name": "Chilling Reign",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Sealeo",
+    "number": "38",
+    "rarity": "Uncommon",
+    "set_name": "Chilling Reign",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Walrein",
+    "number": "39",
+    "rarity": "Rare",
+    "set_name": "Chilling Reign",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Tapu Fini",
+    "number": "40",
+    "rarity": "Rare Holo",
+    "set_name": "Chilling Reign",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Sobble",
+    "number": "41",
+    "rarity": "Common",
+    "set_name": "Chilling Reign",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Drizzile",
+    "number": "42",
+    "rarity": "Uncommon",
+    "set_name": "Chilling Reign",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Inteleon",
+    "number": "43",
+    "rarity": "Rare Holo",
+    "set_name": "Chilling Reign",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Rapid Strike Urshifu",
+    "number": "44",
+    "rarity": "Rare Holo",
+    "set_name": "Chilling Reign",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Ice Rider Calyrex V",
+    "number": "45",
+    "rarity": "Rare Holo V",
+    "set_name": "Chilling Reign",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Ice Rider Calyrex VMAX",
+    "number": "46",
+    "rarity": "Rare Holo VMAX",
+    "set_name": "Chilling Reign",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Mareep",
+    "number": "47",
+    "rarity": "Common",
+    "set_name": "Chilling Reign",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Flaaffy",
+    "number": "48",
+    "rarity": "Uncommon",
+    "set_name": "Chilling Reign",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Ampharos",
+    "number": "49",
+    "rarity": "Rare",
+    "set_name": "Chilling Reign",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Blitzle",
+    "number": "50",
+    "rarity": "Common",
+    "set_name": "Chilling Reign",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Zebstrika",
+    "number": "51",
+    "rarity": "Rare",
+    "set_name": "Chilling Reign",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Thundurus",
+    "number": "52",
+    "rarity": "Rare Holo",
+    "set_name": "Chilling Reign",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Zeraora V",
+    "number": "53",
+    "rarity": "Rare Holo V",
+    "set_name": "Chilling Reign",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Galarian Slowpoke",
+    "number": "54",
+    "rarity": "Common",
+    "set_name": "Chilling Reign",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Gastly",
+    "number": "55",
+    "rarity": "Common",
+    "set_name": "Chilling Reign",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Haunter",
+    "number": "56",
+    "rarity": "Uncommon",
+    "set_name": "Chilling Reign",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Gengar",
+    "number": "57",
+    "rarity": "Rare Holo",
+    "set_name": "Chilling Reign",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Galarian Articuno V",
+    "number": "58",
+    "rarity": "Rare Holo V",
+    "set_name": "Chilling Reign",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Ralts",
+    "number": "59",
+    "rarity": "Common",
+    "set_name": "Chilling Reign",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Kirlia",
+    "number": "60",
+    "rarity": "Uncommon",
+    "set_name": "Chilling Reign",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Gardevoir",
+    "number": "61",
+    "rarity": "Rare Holo",
+    "set_name": "Chilling Reign",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Shuppet",
+    "number": "62",
+    "rarity": "Common",
+    "set_name": "Chilling Reign",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Banette",
+    "number": "63",
+    "rarity": "Rare",
+    "set_name": "Chilling Reign",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Cresselia",
+    "number": "64",
+    "rarity": "Rare Holo",
+    "set_name": "Chilling Reign",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Golett",
+    "number": "65",
+    "rarity": "Common",
+    "set_name": "Chilling Reign",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Golurk",
+    "number": "66",
+    "rarity": "Rare",
+    "set_name": "Chilling Reign",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Swirlix",
+    "number": "67",
+    "rarity": "Common",
+    "set_name": "Chilling Reign",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Slurpuff",
+    "number": "68",
+    "rarity": "Rare",
+    "set_name": "Chilling Reign",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Inkay",
+    "number": "69",
+    "rarity": "Common",
+    "set_name": "Chilling Reign",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Malamar",
+    "number": "70",
+    "rarity": "Rare",
+    "set_name": "Chilling Reign",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Hatenna",
+    "number": "71",
+    "rarity": "Common",
+    "set_name": "Chilling Reign",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Hattrem",
+    "number": "72",
+    "rarity": "Uncommon",
+    "set_name": "Chilling Reign",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Hatterene",
+    "number": "73",
+    "rarity": "Rare Holo",
+    "set_name": "Chilling Reign",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Shadow Rider Calyrex V",
+    "number": "74",
+    "rarity": "Rare Holo V",
+    "set_name": "Chilling Reign",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Shadow Rider Calyrex VMAX",
+    "number": "75",
+    "rarity": "Rare Holo VMAX",
+    "set_name": "Chilling Reign",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Diglett",
+    "number": "76",
+    "rarity": "Common",
+    "set_name": "Chilling Reign",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Dugtrio",
+    "number": "77",
+    "rarity": "Rare",
+    "set_name": "Chilling Reign",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Galarian Farfetch'd",
+    "number": "78",
+    "rarity": "Common",
+    "set_name": "Chilling Reign",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Galarian Sirfetch'd",
+    "number": "79",
+    "rarity": "Rare",
+    "set_name": "Chilling Reign",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Galarian Zapdos V",
+    "number": "80",
+    "rarity": "Rare Holo V",
+    "set_name": "Chilling Reign",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Gallade",
+    "number": "81",
+    "rarity": "Rare",
+    "set_name": "Chilling Reign",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Galarian Yamask",
+    "number": "82",
+    "rarity": "Common",
+    "set_name": "Chilling Reign",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Galarian Runerigus",
+    "number": "83",
+    "rarity": "Rare Holo",
+    "set_name": "Chilling Reign",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Crabrawler",
+    "number": "84",
+    "rarity": "Common",
+    "set_name": "Chilling Reign",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Crabominable",
+    "number": "85",
+    "rarity": "Uncommon",
+    "set_name": "Chilling Reign",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Rockruff",
+    "number": "86",
+    "rarity": "Common",
+    "set_name": "Chilling Reign",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Lycanroc",
+    "number": "87",
+    "rarity": "Rare Holo",
+    "set_name": "Chilling Reign",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Passimian",
+    "number": "88",
+    "rarity": "Rare",
+    "set_name": "Chilling Reign",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Sandaconda V",
+    "number": "89",
+    "rarity": "Rare Holo V",
+    "set_name": "Chilling Reign",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Sandaconda VMAX",
+    "number": "90",
+    "rarity": "Rare Holo VMAX",
+    "set_name": "Chilling Reign",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Clobbopus",
+    "number": "91",
+    "rarity": "Common",
+    "set_name": "Chilling Reign",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Grapploct",
+    "number": "92",
+    "rarity": "Rare Holo",
+    "set_name": "Chilling Reign",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Kubfu",
+    "number": "93",
+    "rarity": "Common",
+    "set_name": "Chilling Reign",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Koffing",
+    "number": "94",
+    "rarity": "Common",
+    "set_name": "Chilling Reign",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Weezing",
+    "number": "95",
+    "rarity": "Rare",
+    "set_name": "Chilling Reign",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Galarian Weezing",
+    "number": "96",
+    "rarity": "Rare",
+    "set_name": "Chilling Reign",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Galarian Moltres V",
+    "number": "97",
+    "rarity": "Rare Holo V",
+    "set_name": "Chilling Reign",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Galarian Slowking",
+    "number": "98",
+    "rarity": "Rare Holo",
+    "set_name": "Chilling Reign",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Galarian Slowking V",
+    "number": "99",
+    "rarity": "Rare Holo V",
+    "set_name": "Chilling Reign",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Galarian Slowking VMAX",
+    "number": "100",
+    "rarity": "Rare Holo VMAX",
+    "set_name": "Chilling Reign",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Qwilfish",
+    "number": "101",
+    "rarity": "Common",
+    "set_name": "Chilling Reign",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Seviper",
+    "number": "102",
+    "rarity": "Rare",
+    "set_name": "Chilling Reign",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Spiritomb",
+    "number": "103",
+    "rarity": "Rare",
+    "set_name": "Chilling Reign",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Liepard V",
+    "number": "104",
+    "rarity": "Rare Holo V",
+    "set_name": "Chilling Reign",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Venipede",
+    "number": "105",
+    "rarity": "Common",
+    "set_name": "Chilling Reign",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Whirlipede",
+    "number": "106",
+    "rarity": "Uncommon",
+    "set_name": "Chilling Reign",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Scolipede",
+    "number": "107",
+    "rarity": "Rare",
+    "set_name": "Chilling Reign",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Single Strike Urshifu",
+    "number": "108",
+    "rarity": "Rare Holo",
+    "set_name": "Chilling Reign",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Aron",
+    "number": "109",
+    "rarity": "Common",
+    "set_name": "Chilling Reign",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Lairon",
+    "number": "110",
+    "rarity": "Uncommon",
+    "set_name": "Chilling Reign",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Aggron",
+    "number": "111",
+    "rarity": "Rare",
+    "set_name": "Chilling Reign",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Metagross V",
+    "number": "112",
+    "rarity": "Rare Holo V",
+    "set_name": "Chilling Reign",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Metagross VMAX",
+    "number": "113",
+    "rarity": "Rare Holo VMAX",
+    "set_name": "Chilling Reign",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Cobalion",
+    "number": "114",
+    "rarity": "Rare Holo",
+    "set_name": "Chilling Reign",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Tauros",
+    "number": "115",
+    "rarity": "Rare Holo",
+    "set_name": "Chilling Reign",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Porygon",
+    "number": "116",
+    "rarity": "Common",
+    "set_name": "Chilling Reign",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Porygon2",
+    "number": "117",
+    "rarity": "Uncommon",
+    "set_name": "Chilling Reign",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Porygon-Z",
+    "number": "118",
+    "rarity": "Rare Holo",
+    "set_name": "Chilling Reign",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Blissey V",
+    "number": "119",
+    "rarity": "Rare Holo V",
+    "set_name": "Chilling Reign",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Zangoose",
+    "number": "120",
+    "rarity": "Rare",
+    "set_name": "Chilling Reign",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Castform",
+    "number": "121",
+    "rarity": "Common",
+    "set_name": "Chilling Reign",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Kecleon",
+    "number": "122",
+    "rarity": "Rare",
+    "set_name": "Chilling Reign",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Shaymin",
+    "number": "123",
+    "rarity": "Rare Holo",
+    "set_name": "Chilling Reign",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Tornadus V",
+    "number": "124",
+    "rarity": "Rare Holo V",
+    "set_name": "Chilling Reign",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Tornadus VMAX",
+    "number": "125",
+    "rarity": "Rare Holo VMAX",
+    "set_name": "Chilling Reign",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Furfrou",
+    "number": "126",
+    "rarity": "Common",
+    "set_name": "Chilling Reign",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Skwovet",
+    "number": "127",
+    "rarity": "Common",
+    "set_name": "Chilling Reign",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Greedent",
+    "number": "128",
+    "rarity": "Rare Holo",
+    "set_name": "Chilling Reign",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Agatha",
+    "number": "129",
+    "rarity": "Uncommon",
+    "set_name": "Chilling Reign",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Avery",
+    "number": "130",
+    "rarity": "Uncommon",
+    "set_name": "Chilling Reign",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Brawly",
+    "number": "131",
+    "rarity": "Uncommon",
+    "set_name": "Chilling Reign",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Caitlin",
+    "number": "132",
+    "rarity": "Uncommon",
+    "set_name": "Chilling Reign",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Crushing Gloves",
+    "number": "133",
+    "rarity": "Uncommon",
+    "set_name": "Chilling Reign",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Doctor",
+    "number": "134",
+    "rarity": "Uncommon",
+    "set_name": "Chilling Reign",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Dyna Tree Hill",
+    "number": "135",
+    "rarity": "Uncommon",
+    "set_name": "Chilling Reign",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Echoing Horn",
+    "number": "136",
+    "rarity": "Uncommon",
+    "set_name": "Chilling Reign",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Expedition Uniform",
+    "number": "137",
+    "rarity": "Uncommon",
+    "set_name": "Chilling Reign",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Fire-Resistant Gloves",
+    "number": "138",
+    "rarity": "Uncommon",
+    "set_name": "Chilling Reign",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Flannery",
+    "number": "139",
+    "rarity": "Uncommon",
+    "set_name": "Chilling Reign",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Fog Crystal",
+    "number": "140",
+    "rarity": "Uncommon",
+    "set_name": "Chilling Reign",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Galarian Chestplate",
+    "number": "141",
+    "rarity": "Uncommon",
+    "set_name": "Chilling Reign",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Honey",
+    "number": "142",
+    "rarity": "Uncommon",
+    "set_name": "Chilling Reign",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Justified Gloves",
+    "number": "143",
+    "rarity": "Uncommon",
+    "set_name": "Chilling Reign",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Karen's Conviction",
+    "number": "144",
+    "rarity": "Uncommon",
+    "set_name": "Chilling Reign",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Klara",
+    "number": "145",
+    "rarity": "Uncommon",
+    "set_name": "Chilling Reign",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Melony",
+    "number": "146",
+    "rarity": "Uncommon",
+    "set_name": "Chilling Reign",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Old Cemetery",
+    "number": "147",
+    "rarity": "Uncommon",
+    "set_name": "Chilling Reign",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Path to the Peak",
+    "number": "148",
+    "rarity": "Uncommon",
+    "set_name": "Chilling Reign",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Peonia",
+    "number": "149",
+    "rarity": "Uncommon",
+    "set_name": "Chilling Reign",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Peony",
+    "number": "150",
+    "rarity": "Uncommon",
+    "set_name": "Chilling Reign",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Rapid Strike Scroll of the Skies",
+    "number": "151",
+    "rarity": "Uncommon",
+    "set_name": "Chilling Reign",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Rugged Helmet",
+    "number": "152",
+    "rarity": "Uncommon",
+    "set_name": "Chilling Reign",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Siebold",
+    "number": "153",
+    "rarity": "Uncommon",
+    "set_name": "Chilling Reign",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Single Strike Scroll of Piercing",
+    "number": "154",
+    "rarity": "Uncommon",
+    "set_name": "Chilling Reign",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Weeding Gloves",
+    "number": "155",
+    "rarity": "Uncommon",
+    "set_name": "Chilling Reign",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Welcoming Lantern",
+    "number": "156",
+    "rarity": "Uncommon",
+    "set_name": "Chilling Reign",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Impact Energy",
+    "number": "157",
+    "rarity": "Uncommon",
+    "set_name": "Chilling Reign",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Lucky Energy",
+    "number": "158",
+    "rarity": "Uncommon",
+    "set_name": "Chilling Reign",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Spiral Energy",
+    "number": "159",
+    "rarity": "Uncommon",
+    "set_name": "Chilling Reign",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Celebi V",
+    "number": "160",
+    "rarity": "Rare Ultra",
+    "set_name": "Chilling Reign",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Blaziken V",
+    "number": "161",
+    "rarity": "Rare Ultra",
+    "set_name": "Chilling Reign",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Volcanion V",
+    "number": "162",
+    "rarity": "Rare Ultra",
+    "set_name": "Chilling Reign",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Ice Rider Calyrex V",
+    "number": "163",
+    "rarity": "Rare Ultra",
+    "set_name": "Chilling Reign",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Ice Rider Calyrex V",
+    "number": "164",
+    "rarity": "Rare Ultra",
+    "set_name": "Chilling Reign",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Zeraora V",
+    "number": "165",
+    "rarity": "Rare Ultra",
+    "set_name": "Chilling Reign",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Zeraora V",
+    "number": "166",
+    "rarity": "Rare Ultra",
+    "set_name": "Chilling Reign",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Galarian Rapidash V",
+    "number": "167",
+    "rarity": "Rare Ultra",
+    "set_name": "Chilling Reign",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Galarian Rapidash V",
+    "number": "168",
+    "rarity": "Rare Ultra",
+    "set_name": "Chilling Reign",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Galarian Articuno V",
+    "number": "169",
+    "rarity": "Rare Ultra",
+    "set_name": "Chilling Reign",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Galarian Articuno V",
+    "number": "170",
+    "rarity": "Rare Ultra",
+    "set_name": "Chilling Reign",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Shadow Rider Calyrex V",
+    "number": "171",
+    "rarity": "Rare Ultra",
+    "set_name": "Chilling Reign",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Shadow Rider Calyrex V",
+    "number": "172",
+    "rarity": "Rare Ultra",
+    "set_name": "Chilling Reign",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Galarian Zapdos V",
+    "number": "173",
+    "rarity": "Rare Ultra",
+    "set_name": "Chilling Reign",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Galarian Zapdos V",
+    "number": "174",
+    "rarity": "Rare Ultra",
+    "set_name": "Chilling Reign",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Sandaconda V",
+    "number": "175",
+    "rarity": "Rare Ultra",
+    "set_name": "Chilling Reign",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Galarian Moltres V",
+    "number": "176",
+    "rarity": "Rare Ultra",
+    "set_name": "Chilling Reign",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Galarian Moltres V",
+    "number": "177",
+    "rarity": "Rare Ultra",
+    "set_name": "Chilling Reign",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Galarian Slowking V",
+    "number": "178",
+    "rarity": "Rare Ultra",
+    "set_name": "Chilling Reign",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Galarian Slowking V",
+    "number": "179",
+    "rarity": "Rare Ultra",
+    "set_name": "Chilling Reign",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Liepard V",
+    "number": "180",
+    "rarity": "Rare Ultra",
+    "set_name": "Chilling Reign",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Metagross V",
+    "number": "181",
+    "rarity": "Rare Ultra",
+    "set_name": "Chilling Reign",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Blissey V",
+    "number": "182",
+    "rarity": "Rare Ultra",
+    "set_name": "Chilling Reign",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Blissey V",
+    "number": "183",
+    "rarity": "Rare Ultra",
+    "set_name": "Chilling Reign",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Tornadus V",
+    "number": "184",
+    "rarity": "Rare Ultra",
+    "set_name": "Chilling Reign",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Tornadus V",
+    "number": "185",
+    "rarity": "Rare Ultra",
+    "set_name": "Chilling Reign",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Agatha",
+    "number": "186",
+    "rarity": "Rare Ultra",
+    "set_name": "Chilling Reign",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Avery",
+    "number": "187",
+    "rarity": "Rare Ultra",
+    "set_name": "Chilling Reign",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Brawly",
+    "number": "188",
+    "rarity": "Rare Ultra",
+    "set_name": "Chilling Reign",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Caitlin",
+    "number": "189",
+    "rarity": "Rare Ultra",
+    "set_name": "Chilling Reign",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Doctor",
+    "number": "190",
+    "rarity": "Rare Ultra",
+    "set_name": "Chilling Reign",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Flannery",
+    "number": "191",
+    "rarity": "Rare Ultra",
+    "set_name": "Chilling Reign",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Honey",
+    "number": "192",
+    "rarity": "Rare Ultra",
+    "set_name": "Chilling Reign",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Karen's Conviction",
+    "number": "193",
+    "rarity": "Rare Ultra",
+    "set_name": "Chilling Reign",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Klara",
+    "number": "194",
+    "rarity": "Rare Ultra",
+    "set_name": "Chilling Reign",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Melony",
+    "number": "195",
+    "rarity": "Rare Ultra",
+    "set_name": "Chilling Reign",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Peonia",
+    "number": "196",
+    "rarity": "Rare Ultra",
+    "set_name": "Chilling Reign",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Peony",
+    "number": "197",
+    "rarity": "Rare Ultra",
+    "set_name": "Chilling Reign",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Siebold",
+    "number": "198",
+    "rarity": "Rare Ultra",
+    "set_name": "Chilling Reign",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Celebi VMAX",
+    "number": "199",
+    "rarity": "Rare Rainbow",
+    "set_name": "Chilling Reign",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Blaziken VMAX",
+    "number": "200",
+    "rarity": "Rare Rainbow",
+    "set_name": "Chilling Reign",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Blaziken VMAX",
+    "number": "201",
+    "rarity": "Rare Rainbow",
+    "set_name": "Chilling Reign",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Ice Rider Calyrex VMAX",
+    "number": "202",
+    "rarity": "Rare Rainbow",
+    "set_name": "Chilling Reign",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Ice Rider Calyrex VMAX",
+    "number": "203",
+    "rarity": "Rare Rainbow",
+    "set_name": "Chilling Reign",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Shadow Rider Calyrex VMAX",
+    "number": "204",
+    "rarity": "Rare Rainbow",
+    "set_name": "Chilling Reign",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Shadow Rider Calyrex VMAX",
+    "number": "205",
+    "rarity": "Rare Rainbow",
+    "set_name": "Chilling Reign",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Sandaconda VMAX",
+    "number": "206",
+    "rarity": "Rare Rainbow",
+    "set_name": "Chilling Reign",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Galarian Slowking VMAX",
+    "number": "207",
+    "rarity": "Rare Rainbow",
+    "set_name": "Chilling Reign",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Metagross VMAX",
+    "number": "208",
+    "rarity": "Rare Rainbow",
+    "set_name": "Chilling Reign",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Tornadus VMAX",
+    "number": "209",
+    "rarity": "Rare Rainbow",
+    "set_name": "Chilling Reign",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Agatha",
+    "number": "210",
+    "rarity": "Rare Rainbow",
+    "set_name": "Chilling Reign",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Avery",
+    "number": "211",
+    "rarity": "Rare Rainbow",
+    "set_name": "Chilling Reign",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Brawly",
+    "number": "212",
+    "rarity": "Rare Rainbow",
+    "set_name": "Chilling Reign",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Caitlin",
+    "number": "213",
+    "rarity": "Rare Rainbow",
+    "set_name": "Chilling Reign",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Doctor",
+    "number": "214",
+    "rarity": "Rare Rainbow",
+    "set_name": "Chilling Reign",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Flannery",
+    "number": "215",
+    "rarity": "Rare Rainbow",
+    "set_name": "Chilling Reign",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Karen's Conviction",
+    "number": "216",
+    "rarity": "Rare Rainbow",
+    "set_name": "Chilling Reign",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Klara",
+    "number": "217",
+    "rarity": "Rare Rainbow",
+    "set_name": "Chilling Reign",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Melony",
+    "number": "218",
+    "rarity": "Rare Rainbow",
+    "set_name": "Chilling Reign",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Peonia",
+    "number": "219",
+    "rarity": "Rare Rainbow",
+    "set_name": "Chilling Reign",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Peony",
+    "number": "220",
+    "rarity": "Rare Rainbow",
+    "set_name": "Chilling Reign",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Siebold",
+    "number": "221",
+    "rarity": "Rare Rainbow",
+    "set_name": "Chilling Reign",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Electrode",
+    "number": "222",
+    "rarity": "Rare Secret",
+    "set_name": "Chilling Reign",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Bronzong",
+    "number": "223",
+    "rarity": "Rare Secret",
+    "set_name": "Chilling Reign",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Snorlax",
+    "number": "224",
+    "rarity": "Rare Secret",
+    "set_name": "Chilling Reign",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Echoing Horn",
+    "number": "225",
+    "rarity": "Rare Secret",
+    "set_name": "Chilling Reign",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Fan of Waves",
+    "number": "226",
+    "rarity": "Rare Secret",
+    "set_name": "Chilling Reign",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Fog Crystal",
+    "number": "227",
+    "rarity": "Rare Secret",
+    "set_name": "Chilling Reign",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Rugged Helmet",
+    "number": "228",
+    "rarity": "Rare Secret",
+    "set_name": "Chilling Reign",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Urn of Vitality",
+    "number": "229",
+    "rarity": "Rare Secret",
+    "set_name": "Chilling Reign",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Welcoming Lantern",
+    "number": "230",
+    "rarity": "Rare Secret",
+    "set_name": "Chilling Reign",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Water Energy",
+    "number": "231",
+    "rarity": "Rare Secret",
+    "set_name": "Chilling Reign",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Psychic Energy",
+    "number": "232",
+    "rarity": "Rare Secret",
+    "set_name": "Chilling Reign",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Fighting Energy",
+    "number": "233",
+    "rarity": "Rare Secret",
+    "set_name": "Chilling Reign",
+    "set_series": "Sword & Shield"
+  }
+]

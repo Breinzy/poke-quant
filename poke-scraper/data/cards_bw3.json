@@ -1,0 +1,716 @@
+[
+  {
+    "name": "Sewaddle",
+    "number": "1",
+    "rarity": "Common",
+    "set_name": "Noble Victories",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Swadloon",
+    "number": "2",
+    "rarity": "Uncommon",
+    "set_name": "Noble Victories",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Leavanny",
+    "number": "3",
+    "rarity": "Rare Holo",
+    "set_name": "Noble Victories",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Petilil",
+    "number": "4",
+    "rarity": "Common",
+    "set_name": "Noble Victories",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Lilligant",
+    "number": "5",
+    "rarity": "Rare",
+    "set_name": "Noble Victories",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Dwebble",
+    "number": "6",
+    "rarity": "Common",
+    "set_name": "Noble Victories",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Crustle",
+    "number": "7",
+    "rarity": "Uncommon",
+    "set_name": "Noble Victories",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Karrablast",
+    "number": "8",
+    "rarity": "Common",
+    "set_name": "Noble Victories",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Foongus",
+    "number": "9",
+    "rarity": "Common",
+    "set_name": "Noble Victories",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Amoonguss",
+    "number": "10",
+    "rarity": "Uncommon",
+    "set_name": "Noble Victories",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Shelmet",
+    "number": "11",
+    "rarity": "Common",
+    "set_name": "Noble Victories",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Accelgor",
+    "number": "12",
+    "rarity": "Rare",
+    "set_name": "Noble Victories",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Virizion",
+    "number": "13",
+    "rarity": "Rare Holo",
+    "set_name": "Noble Victories",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Victini",
+    "number": "14",
+    "rarity": "Rare Holo",
+    "set_name": "Noble Victories",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Victini",
+    "number": "15",
+    "rarity": "Rare Holo",
+    "set_name": "Noble Victories",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Pansear",
+    "number": "16",
+    "rarity": "Common",
+    "set_name": "Noble Victories",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Simisear",
+    "number": "17",
+    "rarity": "Uncommon",
+    "set_name": "Noble Victories",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Heatmor",
+    "number": "18",
+    "rarity": "Uncommon",
+    "set_name": "Noble Victories",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Larvesta",
+    "number": "19",
+    "rarity": "Common",
+    "set_name": "Noble Victories",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Larvesta",
+    "number": "20",
+    "rarity": "Common",
+    "set_name": "Noble Victories",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Volcarona",
+    "number": "21",
+    "rarity": "Rare",
+    "set_name": "Noble Victories",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Tympole",
+    "number": "22",
+    "rarity": "Common",
+    "set_name": "Noble Victories",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Palpitoad",
+    "number": "23",
+    "rarity": "Uncommon",
+    "set_name": "Noble Victories",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Seismitoad",
+    "number": "24",
+    "rarity": "Rare",
+    "set_name": "Noble Victories",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Tirtouga",
+    "number": "25",
+    "rarity": "Uncommon",
+    "set_name": "Noble Victories",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Carracosta",
+    "number": "26",
+    "rarity": "Rare",
+    "set_name": "Noble Victories",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Vanillite",
+    "number": "27",
+    "rarity": "Common",
+    "set_name": "Noble Victories",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Vanillish",
+    "number": "28",
+    "rarity": "Uncommon",
+    "set_name": "Noble Victories",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Vanilluxe",
+    "number": "29",
+    "rarity": "Rare",
+    "set_name": "Noble Victories",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Frillish",
+    "number": "30",
+    "rarity": "Common",
+    "set_name": "Noble Victories",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Jellicent",
+    "number": "31",
+    "rarity": "Rare",
+    "set_name": "Noble Victories",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Cryogonal",
+    "number": "32",
+    "rarity": "Uncommon",
+    "set_name": "Noble Victories",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Cryogonal",
+    "number": "33",
+    "rarity": "Rare",
+    "set_name": "Noble Victories",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Kyurem",
+    "number": "34",
+    "rarity": "Rare Holo",
+    "set_name": "Noble Victories",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Blitzle",
+    "number": "35",
+    "rarity": "Common",
+    "set_name": "Noble Victories",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Zebstrika",
+    "number": "36",
+    "rarity": "Rare",
+    "set_name": "Noble Victories",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Emolga",
+    "number": "37",
+    "rarity": "Uncommon",
+    "set_name": "Noble Victories",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Tynamo",
+    "number": "38",
+    "rarity": "Common",
+    "set_name": "Noble Victories",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Tynamo",
+    "number": "39",
+    "rarity": "Common",
+    "set_name": "Noble Victories",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Eelektrik",
+    "number": "40",
+    "rarity": "Uncommon",
+    "set_name": "Noble Victories",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Eelektross",
+    "number": "41",
+    "rarity": "Rare Holo",
+    "set_name": "Noble Victories",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Stunfisk",
+    "number": "42",
+    "rarity": "Common",
+    "set_name": "Noble Victories",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Victini",
+    "number": "43",
+    "rarity": "Rare",
+    "set_name": "Noble Victories",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Yamask",
+    "number": "44",
+    "rarity": "Common",
+    "set_name": "Noble Victories",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Yamask",
+    "number": "45",
+    "rarity": "Common",
+    "set_name": "Noble Victories",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Cofagrigus",
+    "number": "46",
+    "rarity": "Rare",
+    "set_name": "Noble Victories",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Cofagrigus",
+    "number": "47",
+    "rarity": "Rare",
+    "set_name": "Noble Victories",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Trubbish",
+    "number": "48",
+    "rarity": "Common",
+    "set_name": "Noble Victories",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Garbodor",
+    "number": "49",
+    "rarity": "Uncommon",
+    "set_name": "Noble Victories",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Solosis",
+    "number": "50",
+    "rarity": "Common",
+    "set_name": "Noble Victories",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Duosion",
+    "number": "51",
+    "rarity": "Uncommon",
+    "set_name": "Noble Victories",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Reuniclus",
+    "number": "52",
+    "rarity": "Rare",
+    "set_name": "Noble Victories",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Reuniclus",
+    "number": "53",
+    "rarity": "Rare",
+    "set_name": "Noble Victories",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Elgyem",
+    "number": "54",
+    "rarity": "Common",
+    "set_name": "Noble Victories",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Elgyem",
+    "number": "55",
+    "rarity": "Common",
+    "set_name": "Noble Victories",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Beheeyem",
+    "number": "56",
+    "rarity": "Rare",
+    "set_name": "Noble Victories",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Litwick",
+    "number": "57",
+    "rarity": "Common",
+    "set_name": "Noble Victories",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Litwick",
+    "number": "58",
+    "rarity": "Common",
+    "set_name": "Noble Victories",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Lampent",
+    "number": "59",
+    "rarity": "Uncommon",
+    "set_name": "Noble Victories",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Chandelure",
+    "number": "60",
+    "rarity": "Rare",
+    "set_name": "Noble Victories",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Gigalith",
+    "number": "61",
+    "rarity": "Rare",
+    "set_name": "Noble Victories",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Timburr",
+    "number": "62",
+    "rarity": "Common",
+    "set_name": "Noble Victories",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Gurdurr",
+    "number": "63",
+    "rarity": "Uncommon",
+    "set_name": "Noble Victories",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Conkeldurr",
+    "number": "64",
+    "rarity": "Rare Holo",
+    "set_name": "Noble Victories",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Conkeldurr",
+    "number": "65",
+    "rarity": "Rare",
+    "set_name": "Noble Victories",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Archen",
+    "number": "66",
+    "rarity": "Uncommon",
+    "set_name": "Noble Victories",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Archeops",
+    "number": "67",
+    "rarity": "Rare",
+    "set_name": "Noble Victories",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Stunfisk",
+    "number": "68",
+    "rarity": "Uncommon",
+    "set_name": "Noble Victories",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Mienfoo",
+    "number": "69",
+    "rarity": "Common",
+    "set_name": "Noble Victories",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Mienshao",
+    "number": "70",
+    "rarity": "Uncommon",
+    "set_name": "Noble Victories",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Golett",
+    "number": "71",
+    "rarity": "Common",
+    "set_name": "Noble Victories",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Golurk",
+    "number": "72",
+    "rarity": "Rare",
+    "set_name": "Noble Victories",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Terrakion",
+    "number": "73",
+    "rarity": "Rare Holo",
+    "set_name": "Noble Victories",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Landorus",
+    "number": "74",
+    "rarity": "Rare Holo",
+    "set_name": "Noble Victories",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Pawniard",
+    "number": "75",
+    "rarity": "Common",
+    "set_name": "Noble Victories",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Bisharp",
+    "number": "76",
+    "rarity": "Uncommon",
+    "set_name": "Noble Victories",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Deino",
+    "number": "77",
+    "rarity": "Common",
+    "set_name": "Noble Victories",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Zweilous",
+    "number": "78",
+    "rarity": "Uncommon",
+    "set_name": "Noble Victories",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Hydreigon",
+    "number": "79",
+    "rarity": "Rare Holo",
+    "set_name": "Noble Victories",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Escavalier",
+    "number": "80",
+    "rarity": "Rare",
+    "set_name": "Noble Victories",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Pawniard",
+    "number": "81",
+    "rarity": "Common",
+    "set_name": "Noble Victories",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Bisharp",
+    "number": "82",
+    "rarity": "Rare Holo",
+    "set_name": "Noble Victories",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Durant",
+    "number": "83",
+    "rarity": "Uncommon",
+    "set_name": "Noble Victories",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Cobalion",
+    "number": "84",
+    "rarity": "Rare Holo",
+    "set_name": "Noble Victories",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Audino",
+    "number": "85",
+    "rarity": "Uncommon",
+    "set_name": "Noble Victories",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Axew",
+    "number": "86",
+    "rarity": "Common",
+    "set_name": "Noble Victories",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Fraxure",
+    "number": "87",
+    "rarity": "Uncommon",
+    "set_name": "Noble Victories",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Haxorus",
+    "number": "88",
+    "rarity": "Rare Holo",
+    "set_name": "Noble Victories",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Druddigon",
+    "number": "89",
+    "rarity": "Rare",
+    "set_name": "Noble Victories",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Cover Fossil",
+    "number": "90",
+    "rarity": "Uncommon",
+    "set_name": "Noble Victories",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Eviolite",
+    "number": "91",
+    "rarity": "Uncommon",
+    "set_name": "Noble Victories",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "N",
+    "number": "92",
+    "rarity": "Uncommon",
+    "set_name": "Noble Victories",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Plume Fossil",
+    "number": "93",
+    "rarity": "Uncommon",
+    "set_name": "Noble Victories",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Rocky Helmet",
+    "number": "94",
+    "rarity": "Uncommon",
+    "set_name": "Noble Victories",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Super Rod",
+    "number": "95",
+    "rarity": "Uncommon",
+    "set_name": "Noble Victories",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Xtransceiver",
+    "number": "96",
+    "rarity": "Uncommon",
+    "set_name": "Noble Victories",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Virizion",
+    "number": "97",
+    "rarity": "Rare Ultra",
+    "set_name": "Noble Victories",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Victini",
+    "number": "98",
+    "rarity": "Rare Ultra",
+    "set_name": "Noble Victories",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Terrakion",
+    "number": "99",
+    "rarity": "Rare Ultra",
+    "set_name": "Noble Victories",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Cobalion",
+    "number": "100",
+    "rarity": "Rare Ultra",
+    "set_name": "Noble Victories",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "N",
+    "number": "101",
+    "rarity": "Rare Ultra",
+    "set_name": "Noble Victories",
+    "set_series": "Black & White"
+  },
+  {
+    "name": "Meowth",
+    "number": "102",
+    "rarity": "Rare Secret",
+    "set_name": "Noble Victories",
+    "set_series": "Black & White"
+  }
+]

@@ -1,0 +1,1514 @@
+[
+  {
+    "name": "Celebi V",
+    "number": "1",
+    "rarity": "Rare Holo V",
+    "set_name": "Sword & Shield",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Roselia",
+    "number": "2",
+    "rarity": "Common",
+    "set_name": "Sword & Shield",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Roselia",
+    "number": "3",
+    "rarity": "Common",
+    "set_name": "Sword & Shield",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Roserade",
+    "number": "4",
+    "rarity": "Rare",
+    "set_name": "Sword & Shield",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Cottonee",
+    "number": "5",
+    "rarity": "Common",
+    "set_name": "Sword & Shield",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Whimsicott",
+    "number": "6",
+    "rarity": "Rare",
+    "set_name": "Sword & Shield",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Maractus",
+    "number": "7",
+    "rarity": "Common",
+    "set_name": "Sword & Shield",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Durant",
+    "number": "8",
+    "rarity": "Rare",
+    "set_name": "Sword & Shield",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Dhelmise V",
+    "number": "9",
+    "rarity": "Rare Holo V",
+    "set_name": "Sword & Shield",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Grookey",
+    "number": "10",
+    "rarity": "Common",
+    "set_name": "Sword & Shield",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Grookey",
+    "number": "11",
+    "rarity": "Common",
+    "set_name": "Sword & Shield",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Thwackey",
+    "number": "12",
+    "rarity": "Uncommon",
+    "set_name": "Sword & Shield",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Thwackey",
+    "number": "13",
+    "rarity": "Uncommon",
+    "set_name": "Sword & Shield",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Rillaboom",
+    "number": "14",
+    "rarity": "Rare Holo",
+    "set_name": "Sword & Shield",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Rillaboom",
+    "number": "15",
+    "rarity": "Rare",
+    "set_name": "Sword & Shield",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Blipbug",
+    "number": "16",
+    "rarity": "Common",
+    "set_name": "Sword & Shield",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Blipbug",
+    "number": "17",
+    "rarity": "Common",
+    "set_name": "Sword & Shield",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Dottler",
+    "number": "18",
+    "rarity": "Uncommon",
+    "set_name": "Sword & Shield",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Orbeetle",
+    "number": "19",
+    "rarity": "Rare",
+    "set_name": "Sword & Shield",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Gossifleur",
+    "number": "20",
+    "rarity": "Common",
+    "set_name": "Sword & Shield",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Eldegoss",
+    "number": "21",
+    "rarity": "Uncommon",
+    "set_name": "Sword & Shield",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Vulpix",
+    "number": "22",
+    "rarity": "Common",
+    "set_name": "Sword & Shield",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Ninetales",
+    "number": "23",
+    "rarity": "Rare",
+    "set_name": "Sword & Shield",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Torkoal V",
+    "number": "24",
+    "rarity": "Rare Holo V",
+    "set_name": "Sword & Shield",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Victini V",
+    "number": "25",
+    "rarity": "Rare Holo V",
+    "set_name": "Sword & Shield",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Heatmor",
+    "number": "26",
+    "rarity": "Uncommon",
+    "set_name": "Sword & Shield",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Salandit",
+    "number": "27",
+    "rarity": "Common",
+    "set_name": "Sword & Shield",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Salazzle",
+    "number": "28",
+    "rarity": "Uncommon",
+    "set_name": "Sword & Shield",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Turtonator",
+    "number": "29",
+    "rarity": "Rare",
+    "set_name": "Sword & Shield",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Scorbunny",
+    "number": "30",
+    "rarity": "Common",
+    "set_name": "Sword & Shield",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Scorbunny",
+    "number": "31",
+    "rarity": "Common",
+    "set_name": "Sword & Shield",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Raboot",
+    "number": "32",
+    "rarity": "Uncommon",
+    "set_name": "Sword & Shield",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Raboot",
+    "number": "33",
+    "rarity": "Uncommon",
+    "set_name": "Sword & Shield",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Cinderace",
+    "number": "34",
+    "rarity": "Rare Holo",
+    "set_name": "Sword & Shield",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Cinderace",
+    "number": "35",
+    "rarity": "Rare Holo",
+    "set_name": "Sword & Shield",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Cinderace",
+    "number": "36",
+    "rarity": "Rare",
+    "set_name": "Sword & Shield",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Sizzlipede",
+    "number": "37",
+    "rarity": "Common",
+    "set_name": "Sword & Shield",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Sizzlipede",
+    "number": "38",
+    "rarity": "Common",
+    "set_name": "Sword & Shield",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Centiskorch",
+    "number": "39",
+    "rarity": "Rare",
+    "set_name": "Sword & Shield",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Shellder",
+    "number": "40",
+    "rarity": "Common",
+    "set_name": "Sword & Shield",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Cloyster",
+    "number": "41",
+    "rarity": "Rare",
+    "set_name": "Sword & Shield",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Krabby",
+    "number": "42",
+    "rarity": "Common",
+    "set_name": "Sword & Shield",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Krabby",
+    "number": "43",
+    "rarity": "Common",
+    "set_name": "Sword & Shield",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Kingler",
+    "number": "44",
+    "rarity": "Uncommon",
+    "set_name": "Sword & Shield",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Goldeen",
+    "number": "45",
+    "rarity": "Common",
+    "set_name": "Sword & Shield",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Goldeen",
+    "number": "46",
+    "rarity": "Common",
+    "set_name": "Sword & Shield",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Seaking",
+    "number": "47",
+    "rarity": "Uncommon",
+    "set_name": "Sword & Shield",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Lapras",
+    "number": "48",
+    "rarity": "Rare",
+    "set_name": "Sword & Shield",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Lapras V",
+    "number": "49",
+    "rarity": "Rare Holo V",
+    "set_name": "Sword & Shield",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Lapras VMAX",
+    "number": "50",
+    "rarity": "Rare Holo VMAX",
+    "set_name": "Sword & Shield",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Qwilfish",
+    "number": "51",
+    "rarity": "Uncommon",
+    "set_name": "Sword & Shield",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Mantine",
+    "number": "52",
+    "rarity": "Uncommon",
+    "set_name": "Sword & Shield",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Keldeo V",
+    "number": "53",
+    "rarity": "Rare Holo V",
+    "set_name": "Sword & Shield",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Sobble",
+    "number": "54",
+    "rarity": "Common",
+    "set_name": "Sword & Shield",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Sobble",
+    "number": "55",
+    "rarity": "Common",
+    "set_name": "Sword & Shield",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Drizzile",
+    "number": "56",
+    "rarity": "Uncommon",
+    "set_name": "Sword & Shield",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Drizzile",
+    "number": "57",
+    "rarity": "Uncommon",
+    "set_name": "Sword & Shield",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Inteleon",
+    "number": "58",
+    "rarity": "Rare Holo",
+    "set_name": "Sword & Shield",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Inteleon",
+    "number": "59",
+    "rarity": "Rare",
+    "set_name": "Sword & Shield",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Chewtle",
+    "number": "60",
+    "rarity": "Common",
+    "set_name": "Sword & Shield",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Drednaw",
+    "number": "61",
+    "rarity": "Rare",
+    "set_name": "Sword & Shield",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Cramorant",
+    "number": "62",
+    "rarity": "Rare",
+    "set_name": "Sword & Shield",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Snom",
+    "number": "63",
+    "rarity": "Common",
+    "set_name": "Sword & Shield",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Frosmoth",
+    "number": "64",
+    "rarity": "Rare Holo",
+    "set_name": "Sword & Shield",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Pikachu",
+    "number": "65",
+    "rarity": "Common",
+    "set_name": "Sword & Shield",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Raichu",
+    "number": "66",
+    "rarity": "Rare",
+    "set_name": "Sword & Shield",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Chinchou",
+    "number": "67",
+    "rarity": "Common",
+    "set_name": "Sword & Shield",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Chinchou",
+    "number": "68",
+    "rarity": "Common",
+    "set_name": "Sword & Shield",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Lanturn",
+    "number": "69",
+    "rarity": "Rare",
+    "set_name": "Sword & Shield",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Joltik",
+    "number": "70",
+    "rarity": "Common",
+    "set_name": "Sword & Shield",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Galvantula",
+    "number": "71",
+    "rarity": "Uncommon",
+    "set_name": "Sword & Shield",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Tapu Koko V",
+    "number": "72",
+    "rarity": "Rare Holo V",
+    "set_name": "Sword & Shield",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Yamper",
+    "number": "73",
+    "rarity": "Common",
+    "set_name": "Sword & Shield",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Yamper",
+    "number": "74",
+    "rarity": "Common",
+    "set_name": "Sword & Shield",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Boltund",
+    "number": "75",
+    "rarity": "Rare Holo",
+    "set_name": "Sword & Shield",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Boltund",
+    "number": "76",
+    "rarity": "Rare Holo",
+    "set_name": "Sword & Shield",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Pincurchin",
+    "number": "77",
+    "rarity": "Common",
+    "set_name": "Sword & Shield",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Morpeko",
+    "number": "78",
+    "rarity": "Rare",
+    "set_name": "Sword & Shield",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Morpeko V",
+    "number": "79",
+    "rarity": "Rare Holo V",
+    "set_name": "Sword & Shield",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Morpeko VMAX",
+    "number": "80",
+    "rarity": "Rare Holo VMAX",
+    "set_name": "Sword & Shield",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Galarian Ponyta",
+    "number": "81",
+    "rarity": "Common",
+    "set_name": "Sword & Shield",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Galarian Rapidash",
+    "number": "82",
+    "rarity": "Rare",
+    "set_name": "Sword & Shield",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Gastly",
+    "number": "83",
+    "rarity": "Common",
+    "set_name": "Sword & Shield",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Haunter",
+    "number": "84",
+    "rarity": "Uncommon",
+    "set_name": "Sword & Shield",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Gengar",
+    "number": "85",
+    "rarity": "Rare Holo",
+    "set_name": "Sword & Shield",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Wobbuffet V",
+    "number": "86",
+    "rarity": "Rare Holo V",
+    "set_name": "Sword & Shield",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Munna",
+    "number": "87",
+    "rarity": "Common",
+    "set_name": "Sword & Shield",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Musharna",
+    "number": "88",
+    "rarity": "Rare",
+    "set_name": "Sword & Shield",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Sinistea",
+    "number": "89",
+    "rarity": "Common",
+    "set_name": "Sword & Shield",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Polteageist",
+    "number": "90",
+    "rarity": "Rare",
+    "set_name": "Sword & Shield",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Indeedee V",
+    "number": "91",
+    "rarity": "Rare Holo V",
+    "set_name": "Sword & Shield",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Diglett",
+    "number": "92",
+    "rarity": "Common",
+    "set_name": "Sword & Shield",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Dugtrio",
+    "number": "93",
+    "rarity": "Uncommon",
+    "set_name": "Sword & Shield",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Hitmonlee",
+    "number": "94",
+    "rarity": "Uncommon",
+    "set_name": "Sword & Shield",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Hitmonchan",
+    "number": "95",
+    "rarity": "Uncommon",
+    "set_name": "Sword & Shield",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Rhyhorn",
+    "number": "96",
+    "rarity": "Common",
+    "set_name": "Sword & Shield",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Rhyhorn",
+    "number": "97",
+    "rarity": "Common",
+    "set_name": "Sword & Shield",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Rhydon",
+    "number": "98",
+    "rarity": "Uncommon",
+    "set_name": "Sword & Shield",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Rhyperior",
+    "number": "99",
+    "rarity": "Rare Holo",
+    "set_name": "Sword & Shield",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Sudowoodo",
+    "number": "100",
+    "rarity": "Uncommon",
+    "set_name": "Sword & Shield",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Baltoy",
+    "number": "101",
+    "rarity": "Common",
+    "set_name": "Sword & Shield",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Baltoy",
+    "number": "102",
+    "rarity": "Common",
+    "set_name": "Sword & Shield",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Claydol",
+    "number": "103",
+    "rarity": "Rare",
+    "set_name": "Sword & Shield",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Regirock V",
+    "number": "104",
+    "rarity": "Rare Holo V",
+    "set_name": "Sword & Shield",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Mudbray",
+    "number": "105",
+    "rarity": "Common",
+    "set_name": "Sword & Shield",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Mudsdale",
+    "number": "106",
+    "rarity": "Rare",
+    "set_name": "Sword & Shield",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Silicobra",
+    "number": "107",
+    "rarity": "Common",
+    "set_name": "Sword & Shield",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Silicobra",
+    "number": "108",
+    "rarity": "Common",
+    "set_name": "Sword & Shield",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Sandaconda",
+    "number": "109",
+    "rarity": "Rare",
+    "set_name": "Sword & Shield",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Sandaconda",
+    "number": "110",
+    "rarity": "Rare Holo",
+    "set_name": "Sword & Shield",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Clobbopus",
+    "number": "111",
+    "rarity": "Common",
+    "set_name": "Sword & Shield",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Clobbopus",
+    "number": "112",
+    "rarity": "Common",
+    "set_name": "Sword & Shield",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Grapploct",
+    "number": "113",
+    "rarity": "Rare",
+    "set_name": "Sword & Shield",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Stonjourner",
+    "number": "114",
+    "rarity": "Rare",
+    "set_name": "Sword & Shield",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Stonjourner V",
+    "number": "115",
+    "rarity": "Rare Holo V",
+    "set_name": "Sword & Shield",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Stonjourner VMAX",
+    "number": "116",
+    "rarity": "Rare Holo VMAX",
+    "set_name": "Sword & Shield",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Galarian Zigzagoon",
+    "number": "117",
+    "rarity": "Common",
+    "set_name": "Sword & Shield",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Galarian Linoone",
+    "number": "118",
+    "rarity": "Uncommon",
+    "set_name": "Sword & Shield",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Galarian Obstagoon",
+    "number": "119",
+    "rarity": "Rare Holo",
+    "set_name": "Sword & Shield",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Sableye V",
+    "number": "120",
+    "rarity": "Rare Holo V",
+    "set_name": "Sword & Shield",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Skorupi",
+    "number": "121",
+    "rarity": "Common",
+    "set_name": "Sword & Shield",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Drapion",
+    "number": "122",
+    "rarity": "Rare",
+    "set_name": "Sword & Shield",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Croagunk",
+    "number": "123",
+    "rarity": "Common",
+    "set_name": "Sword & Shield",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Toxicroak",
+    "number": "124",
+    "rarity": "Rare Holo",
+    "set_name": "Sword & Shield",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Nickit",
+    "number": "125",
+    "rarity": "Common",
+    "set_name": "Sword & Shield",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Thievul",
+    "number": "126",
+    "rarity": "Rare",
+    "set_name": "Sword & Shield",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Galarian Meowth",
+    "number": "127",
+    "rarity": "Common",
+    "set_name": "Sword & Shield",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Galarian Perrserker",
+    "number": "128",
+    "rarity": "Rare Holo",
+    "set_name": "Sword & Shield",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Mawile",
+    "number": "129",
+    "rarity": "Common",
+    "set_name": "Sword & Shield",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Ferroseed",
+    "number": "130",
+    "rarity": "Common",
+    "set_name": "Sword & Shield",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Ferrothorn",
+    "number": "131",
+    "rarity": "Uncommon",
+    "set_name": "Sword & Shield",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Galarian Stunfisk",
+    "number": "132",
+    "rarity": "Uncommon",
+    "set_name": "Sword & Shield",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Pawniard",
+    "number": "133",
+    "rarity": "Common",
+    "set_name": "Sword & Shield",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Bisharp",
+    "number": "134",
+    "rarity": "Uncommon",
+    "set_name": "Sword & Shield",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Corviknight",
+    "number": "135",
+    "rarity": "Rare",
+    "set_name": "Sword & Shield",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Cufant",
+    "number": "136",
+    "rarity": "Common",
+    "set_name": "Sword & Shield",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Copperajah",
+    "number": "137",
+    "rarity": "Rare Holo",
+    "set_name": "Sword & Shield",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Zacian V",
+    "number": "138",
+    "rarity": "Rare Holo V",
+    "set_name": "Sword & Shield",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Zamazenta V",
+    "number": "139",
+    "rarity": "Rare Holo V",
+    "set_name": "Sword & Shield",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Snorlax",
+    "number": "140",
+    "rarity": "Rare",
+    "set_name": "Sword & Shield",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Snorlax V",
+    "number": "141",
+    "rarity": "Rare Holo V",
+    "set_name": "Sword & Shield",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Snorlax VMAX",
+    "number": "142",
+    "rarity": "Rare Holo VMAX",
+    "set_name": "Sword & Shield",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Hoothoot",
+    "number": "143",
+    "rarity": "Common",
+    "set_name": "Sword & Shield",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Noctowl",
+    "number": "144",
+    "rarity": "Rare",
+    "set_name": "Sword & Shield",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Minccino",
+    "number": "145",
+    "rarity": "Common",
+    "set_name": "Sword & Shield",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Minccino",
+    "number": "146",
+    "rarity": "Common",
+    "set_name": "Sword & Shield",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Cinccino",
+    "number": "147",
+    "rarity": "Rare",
+    "set_name": "Sword & Shield",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Oranguru",
+    "number": "148",
+    "rarity": "Rare Holo",
+    "set_name": "Sword & Shield",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Drampa",
+    "number": "149",
+    "rarity": "Rare",
+    "set_name": "Sword & Shield",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Rookidee",
+    "number": "150",
+    "rarity": "Common",
+    "set_name": "Sword & Shield",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Corvisquire",
+    "number": "151",
+    "rarity": "Uncommon",
+    "set_name": "Sword & Shield",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Wooloo",
+    "number": "152",
+    "rarity": "Common",
+    "set_name": "Sword & Shield",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Wooloo",
+    "number": "153",
+    "rarity": "Common",
+    "set_name": "Sword & Shield",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Dubwool",
+    "number": "154",
+    "rarity": "Uncommon",
+    "set_name": "Sword & Shield",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Cramorant V",
+    "number": "155",
+    "rarity": "Rare Holo V",
+    "set_name": "Sword & Shield",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Air Balloon",
+    "number": "156",
+    "rarity": "Uncommon",
+    "set_name": "Sword & Shield",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Bede",
+    "number": "157",
+    "rarity": "Uncommon",
+    "set_name": "Sword & Shield",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Big Charm",
+    "number": "158",
+    "rarity": "Uncommon",
+    "set_name": "Sword & Shield",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Crushing Hammer",
+    "number": "159",
+    "rarity": "Uncommon",
+    "set_name": "Sword & Shield",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Energy Retrieval",
+    "number": "160",
+    "rarity": "Uncommon",
+    "set_name": "Sword & Shield",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Energy Search",
+    "number": "161",
+    "rarity": "Uncommon",
+    "set_name": "Sword & Shield",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Energy Switch",
+    "number": "162",
+    "rarity": "Uncommon",
+    "set_name": "Sword & Shield",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Evolution Incense",
+    "number": "163",
+    "rarity": "Uncommon",
+    "set_name": "Sword & Shield",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Great Ball",
+    "number": "164",
+    "rarity": "Uncommon",
+    "set_name": "Sword & Shield",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Hop",
+    "number": "165",
+    "rarity": "Uncommon",
+    "set_name": "Sword & Shield",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Hyper Potion",
+    "number": "166",
+    "rarity": "Uncommon",
+    "set_name": "Sword & Shield",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Lucky Egg",
+    "number": "167",
+    "rarity": "Uncommon",
+    "set_name": "Sword & Shield",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Lum Berry",
+    "number": "168",
+    "rarity": "Uncommon",
+    "set_name": "Sword & Shield",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Marnie",
+    "number": "169",
+    "rarity": "Rare Holo",
+    "set_name": "Sword & Shield",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Metal Saucer",
+    "number": "170",
+    "rarity": "Uncommon",
+    "set_name": "Sword & Shield",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Ordinary Rod",
+    "number": "171",
+    "rarity": "Uncommon",
+    "set_name": "Sword & Shield",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Pal Pad",
+    "number": "172",
+    "rarity": "Uncommon",
+    "set_name": "Sword & Shield",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Pok\u00e9 Kid",
+    "number": "173",
+    "rarity": "Uncommon",
+    "set_name": "Sword & Shield",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Pok\u00e9gear 3.0",
+    "number": "174",
+    "rarity": "Uncommon",
+    "set_name": "Sword & Shield",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Pok\u00e9mon Catcher",
+    "number": "175",
+    "rarity": "Uncommon",
+    "set_name": "Sword & Shield",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Pok\u00e9mon Center Lady",
+    "number": "176",
+    "rarity": "Uncommon",
+    "set_name": "Sword & Shield",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Potion",
+    "number": "177",
+    "rarity": "Uncommon",
+    "set_name": "Sword & Shield",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Professor's Research (Professor Magnolia)",
+    "number": "178",
+    "rarity": "Rare Holo",
+    "set_name": "Sword & Shield",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Quick Ball",
+    "number": "179",
+    "rarity": "Uncommon",
+    "set_name": "Sword & Shield",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Rare Candy",
+    "number": "180",
+    "rarity": "Uncommon",
+    "set_name": "Sword & Shield",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Rotom Bike",
+    "number": "181",
+    "rarity": "Uncommon",
+    "set_name": "Sword & Shield",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Sitrus Berry",
+    "number": "182",
+    "rarity": "Uncommon",
+    "set_name": "Sword & Shield",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Switch",
+    "number": "183",
+    "rarity": "Uncommon",
+    "set_name": "Sword & Shield",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Team Yell Grunt",
+    "number": "184",
+    "rarity": "Uncommon",
+    "set_name": "Sword & Shield",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Vitality Band",
+    "number": "185",
+    "rarity": "Uncommon",
+    "set_name": "Sword & Shield",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Aurora Energy",
+    "number": "186",
+    "rarity": "Uncommon",
+    "set_name": "Sword & Shield",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Dhelmise V",
+    "number": "187",
+    "rarity": "Rare Ultra",
+    "set_name": "Sword & Shield",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Torkoal V",
+    "number": "188",
+    "rarity": "Rare Ultra",
+    "set_name": "Sword & Shield",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Lapras V",
+    "number": "189",
+    "rarity": "Rare Ultra",
+    "set_name": "Sword & Shield",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Morpeko V",
+    "number": "190",
+    "rarity": "Rare Ultra",
+    "set_name": "Sword & Shield",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Wobbuffet V",
+    "number": "191",
+    "rarity": "Rare Ultra",
+    "set_name": "Sword & Shield",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Indeedee V",
+    "number": "192",
+    "rarity": "Rare Ultra",
+    "set_name": "Sword & Shield",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Stonjourner V",
+    "number": "193",
+    "rarity": "Rare Ultra",
+    "set_name": "Sword & Shield",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Sableye V",
+    "number": "194",
+    "rarity": "Rare Ultra",
+    "set_name": "Sword & Shield",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Zacian V",
+    "number": "195",
+    "rarity": "Rare Ultra",
+    "set_name": "Sword & Shield",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Zamazenta V",
+    "number": "196",
+    "rarity": "Rare Ultra",
+    "set_name": "Sword & Shield",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Snorlax V",
+    "number": "197",
+    "rarity": "Rare Ultra",
+    "set_name": "Sword & Shield",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Cramorant V",
+    "number": "198",
+    "rarity": "Rare Ultra",
+    "set_name": "Sword & Shield",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Bede",
+    "number": "199",
+    "rarity": "Rare Ultra",
+    "set_name": "Sword & Shield",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Marnie",
+    "number": "200",
+    "rarity": "Rare Ultra",
+    "set_name": "Sword & Shield",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Professor's Research (Professor Magnolia)",
+    "number": "201",
+    "rarity": "Rare Ultra",
+    "set_name": "Sword & Shield",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Team Yell Grunt",
+    "number": "202",
+    "rarity": "Rare Ultra",
+    "set_name": "Sword & Shield",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Lapras VMAX",
+    "number": "203",
+    "rarity": "Rare Rainbow",
+    "set_name": "Sword & Shield",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Morpeko VMAX",
+    "number": "204",
+    "rarity": "Rare Rainbow",
+    "set_name": "Sword & Shield",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Stonjourner VMAX",
+    "number": "205",
+    "rarity": "Rare Rainbow",
+    "set_name": "Sword & Shield",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Snorlax VMAX",
+    "number": "206",
+    "rarity": "Rare Rainbow",
+    "set_name": "Sword & Shield",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Bede",
+    "number": "207",
+    "rarity": "Rare Rainbow",
+    "set_name": "Sword & Shield",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Marnie",
+    "number": "208",
+    "rarity": "Rare Rainbow",
+    "set_name": "Sword & Shield",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Professor's Research (Professor Magnolia)",
+    "number": "209",
+    "rarity": "Rare Rainbow",
+    "set_name": "Sword & Shield",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Team Yell Grunt",
+    "number": "210",
+    "rarity": "Rare Rainbow",
+    "set_name": "Sword & Shield",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Zacian V",
+    "number": "211",
+    "rarity": "Rare Secret",
+    "set_name": "Sword & Shield",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Zamazenta V",
+    "number": "212",
+    "rarity": "Rare Secret",
+    "set_name": "Sword & Shield",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Air Balloon",
+    "number": "213",
+    "rarity": "Rare Secret",
+    "set_name": "Sword & Shield",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Metal Saucer",
+    "number": "214",
+    "rarity": "Rare Secret",
+    "set_name": "Sword & Shield",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Ordinary Rod",
+    "number": "215",
+    "rarity": "Rare Secret",
+    "set_name": "Sword & Shield",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Quick Ball",
+    "number": "216",
+    "rarity": "Rare Secret",
+    "set_name": "Sword & Shield",
+    "set_series": "Sword & Shield"
+  }
+]

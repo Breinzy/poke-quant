@@ -1,0 +1,1423 @@
+[
+  {
+    "name": "Weedle",
+    "number": "1",
+    "rarity": "Common",
+    "set_name": "Vivid Voltage",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Kakuna",
+    "number": "2",
+    "rarity": "Uncommon",
+    "set_name": "Vivid Voltage",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Beedrill",
+    "number": "3",
+    "rarity": "Rare",
+    "set_name": "Vivid Voltage",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Exeggcute",
+    "number": "4",
+    "rarity": "Common",
+    "set_name": "Vivid Voltage",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Exeggutor",
+    "number": "5",
+    "rarity": "Rare",
+    "set_name": "Vivid Voltage",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Yanma",
+    "number": "6",
+    "rarity": "Common",
+    "set_name": "Vivid Voltage",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Yanmega",
+    "number": "7",
+    "rarity": "Rare",
+    "set_name": "Vivid Voltage",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Pineco",
+    "number": "8",
+    "rarity": "Common",
+    "set_name": "Vivid Voltage",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Celebi",
+    "number": "9",
+    "rarity": "Amazing Rare",
+    "set_name": "Vivid Voltage",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Seedot",
+    "number": "10",
+    "rarity": "Common",
+    "set_name": "Vivid Voltage",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Nuzleaf",
+    "number": "11",
+    "rarity": "Uncommon",
+    "set_name": "Vivid Voltage",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Shiftry",
+    "number": "12",
+    "rarity": "Rare",
+    "set_name": "Vivid Voltage",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Nincada",
+    "number": "13",
+    "rarity": "Common",
+    "set_name": "Vivid Voltage",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Ninjask",
+    "number": "14",
+    "rarity": "Rare",
+    "set_name": "Vivid Voltage",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Shaymin",
+    "number": "15",
+    "rarity": "Rare Holo",
+    "set_name": "Vivid Voltage",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Genesect",
+    "number": "16",
+    "rarity": "Rare Holo",
+    "set_name": "Vivid Voltage",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Skiddo",
+    "number": "17",
+    "rarity": "Common",
+    "set_name": "Vivid Voltage",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Gogoat",
+    "number": "18",
+    "rarity": "Uncommon",
+    "set_name": "Vivid Voltage",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Dhelmise",
+    "number": "19",
+    "rarity": "Uncommon",
+    "set_name": "Vivid Voltage",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Orbeetle V",
+    "number": "20",
+    "rarity": "Rare Holo V",
+    "set_name": "Vivid Voltage",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Orbeetle VMAX",
+    "number": "21",
+    "rarity": "Rare Holo VMAX",
+    "set_name": "Vivid Voltage",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Zarude V",
+    "number": "22",
+    "rarity": "Rare Holo V",
+    "set_name": "Vivid Voltage",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Charmander",
+    "number": "23",
+    "rarity": "Common",
+    "set_name": "Vivid Voltage",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Charmeleon",
+    "number": "24",
+    "rarity": "Uncommon",
+    "set_name": "Vivid Voltage",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Charizard",
+    "number": "25",
+    "rarity": "Rare",
+    "set_name": "Vivid Voltage",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Flareon",
+    "number": "26",
+    "rarity": "Rare",
+    "set_name": "Vivid Voltage",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Slugma",
+    "number": "27",
+    "rarity": "Common",
+    "set_name": "Vivid Voltage",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Magcargo",
+    "number": "28",
+    "rarity": "Uncommon",
+    "set_name": "Vivid Voltage",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Talonflame V",
+    "number": "29",
+    "rarity": "Rare Holo V",
+    "set_name": "Vivid Voltage",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Vaporeon",
+    "number": "30",
+    "rarity": "Rare",
+    "set_name": "Vivid Voltage",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Wailmer",
+    "number": "31",
+    "rarity": "Common",
+    "set_name": "Vivid Voltage",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Wailord",
+    "number": "32",
+    "rarity": "Rare Holo",
+    "set_name": "Vivid Voltage",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Oshawott",
+    "number": "33",
+    "rarity": "Common",
+    "set_name": "Vivid Voltage",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Dewott",
+    "number": "34",
+    "rarity": "Uncommon",
+    "set_name": "Vivid Voltage",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Samurott",
+    "number": "35",
+    "rarity": "Rare",
+    "set_name": "Vivid Voltage",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Galarian Darmanitan V",
+    "number": "36",
+    "rarity": "Rare Holo V",
+    "set_name": "Vivid Voltage",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Galarian Darmanitan VMAX",
+    "number": "37",
+    "rarity": "Rare Holo VMAX",
+    "set_name": "Vivid Voltage",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Chewtle",
+    "number": "38",
+    "rarity": "Common",
+    "set_name": "Vivid Voltage",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Drednaw",
+    "number": "39",
+    "rarity": "Rare",
+    "set_name": "Vivid Voltage",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Cramorant",
+    "number": "40",
+    "rarity": "Uncommon",
+    "set_name": "Vivid Voltage",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Arrokuda",
+    "number": "41",
+    "rarity": "Common",
+    "set_name": "Vivid Voltage",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Barraskewda",
+    "number": "42",
+    "rarity": "Rare",
+    "set_name": "Vivid Voltage",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Pikachu V",
+    "number": "43",
+    "rarity": "Rare Holo V",
+    "set_name": "Vivid Voltage",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Pikachu VMAX",
+    "number": "44",
+    "rarity": "Rare Holo VMAX",
+    "set_name": "Vivid Voltage",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Voltorb",
+    "number": "45",
+    "rarity": "Common",
+    "set_name": "Vivid Voltage",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Electrode",
+    "number": "46",
+    "rarity": "Rare Holo",
+    "set_name": "Vivid Voltage",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Jolteon",
+    "number": "47",
+    "rarity": "Rare",
+    "set_name": "Vivid Voltage",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Zapdos",
+    "number": "48",
+    "rarity": "Rare Holo",
+    "set_name": "Vivid Voltage",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Ampharos V",
+    "number": "49",
+    "rarity": "Rare Holo V",
+    "set_name": "Vivid Voltage",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Raikou",
+    "number": "50",
+    "rarity": "Amazing Rare",
+    "set_name": "Vivid Voltage",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Electrike",
+    "number": "51",
+    "rarity": "Common",
+    "set_name": "Vivid Voltage",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Manectric",
+    "number": "52",
+    "rarity": "Rare",
+    "set_name": "Vivid Voltage",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Blitzle",
+    "number": "53",
+    "rarity": "Common",
+    "set_name": "Vivid Voltage",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Zebstrika",
+    "number": "54",
+    "rarity": "Uncommon",
+    "set_name": "Vivid Voltage",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Joltik",
+    "number": "55",
+    "rarity": "Common",
+    "set_name": "Vivid Voltage",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Galvantula",
+    "number": "56",
+    "rarity": "Uncommon",
+    "set_name": "Vivid Voltage",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Tynamo",
+    "number": "57",
+    "rarity": "Common",
+    "set_name": "Vivid Voltage",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Eelektrik",
+    "number": "58",
+    "rarity": "Uncommon",
+    "set_name": "Vivid Voltage",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Eelektross",
+    "number": "59",
+    "rarity": "Rare",
+    "set_name": "Vivid Voltage",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Zekrom",
+    "number": "60",
+    "rarity": "Rare Holo",
+    "set_name": "Vivid Voltage",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Zeraora",
+    "number": "61",
+    "rarity": "Rare Holo",
+    "set_name": "Vivid Voltage",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Pincurchin",
+    "number": "62",
+    "rarity": "Uncommon",
+    "set_name": "Vivid Voltage",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Clefairy",
+    "number": "63",
+    "rarity": "Common",
+    "set_name": "Vivid Voltage",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Clefable",
+    "number": "64",
+    "rarity": "Rare",
+    "set_name": "Vivid Voltage",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Girafarig",
+    "number": "65",
+    "rarity": "Uncommon",
+    "set_name": "Vivid Voltage",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Shedinja",
+    "number": "66",
+    "rarity": "Rare",
+    "set_name": "Vivid Voltage",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Shuppet",
+    "number": "67",
+    "rarity": "Common",
+    "set_name": "Vivid Voltage",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Banette",
+    "number": "68",
+    "rarity": "Rare",
+    "set_name": "Vivid Voltage",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Duskull",
+    "number": "69",
+    "rarity": "Common",
+    "set_name": "Vivid Voltage",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Dusclops",
+    "number": "70",
+    "rarity": "Uncommon",
+    "set_name": "Vivid Voltage",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Dusknoir",
+    "number": "71",
+    "rarity": "Rare Holo",
+    "set_name": "Vivid Voltage",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Chimecho",
+    "number": "72",
+    "rarity": "Common",
+    "set_name": "Vivid Voltage",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Woobat",
+    "number": "73",
+    "rarity": "Common",
+    "set_name": "Vivid Voltage",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Swoobat",
+    "number": "74",
+    "rarity": "Uncommon",
+    "set_name": "Vivid Voltage",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Cottonee",
+    "number": "75",
+    "rarity": "Common",
+    "set_name": "Vivid Voltage",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Whimsicott",
+    "number": "76",
+    "rarity": "Rare",
+    "set_name": "Vivid Voltage",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Dedenne",
+    "number": "77",
+    "rarity": "Common",
+    "set_name": "Vivid Voltage",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Xerneas",
+    "number": "78",
+    "rarity": "Rare Holo",
+    "set_name": "Vivid Voltage",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Diancie",
+    "number": "79",
+    "rarity": "Rare Holo",
+    "set_name": "Vivid Voltage",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Milcery",
+    "number": "80",
+    "rarity": "Common",
+    "set_name": "Vivid Voltage",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Alcremie",
+    "number": "81",
+    "rarity": "Rare",
+    "set_name": "Vivid Voltage",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Zacian",
+    "number": "82",
+    "rarity": "Amazing Rare",
+    "set_name": "Vivid Voltage",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Wooper",
+    "number": "83",
+    "rarity": "Common",
+    "set_name": "Vivid Voltage",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Quagsire",
+    "number": "84",
+    "rarity": "Rare",
+    "set_name": "Vivid Voltage",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Shuckle",
+    "number": "85",
+    "rarity": "Uncommon",
+    "set_name": "Vivid Voltage",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Phanpy",
+    "number": "86",
+    "rarity": "Common",
+    "set_name": "Vivid Voltage",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Donphan",
+    "number": "87",
+    "rarity": "Rare",
+    "set_name": "Vivid Voltage",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Hitmontop",
+    "number": "88",
+    "rarity": "Uncommon",
+    "set_name": "Vivid Voltage",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Regirock",
+    "number": "89",
+    "rarity": "Rare Holo",
+    "set_name": "Vivid Voltage",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Riolu",
+    "number": "90",
+    "rarity": "Common",
+    "set_name": "Vivid Voltage",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Drilbur",
+    "number": "91",
+    "rarity": "Common",
+    "set_name": "Vivid Voltage",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Terrakion",
+    "number": "92",
+    "rarity": "Rare",
+    "set_name": "Vivid Voltage",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Zygarde",
+    "number": "93",
+    "rarity": "Rare Holo",
+    "set_name": "Vivid Voltage",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Rockruff",
+    "number": "94",
+    "rarity": "Common",
+    "set_name": "Vivid Voltage",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Lycanroc",
+    "number": "95",
+    "rarity": "Rare",
+    "set_name": "Vivid Voltage",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Mudbray",
+    "number": "96",
+    "rarity": "Common",
+    "set_name": "Vivid Voltage",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Mudsdale",
+    "number": "97",
+    "rarity": "Rare",
+    "set_name": "Vivid Voltage",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Coalossal V",
+    "number": "98",
+    "rarity": "Rare Holo V",
+    "set_name": "Vivid Voltage",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Coalossal VMAX",
+    "number": "99",
+    "rarity": "Rare Holo VMAX",
+    "set_name": "Vivid Voltage",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Clobbopus",
+    "number": "100",
+    "rarity": "Common",
+    "set_name": "Vivid Voltage",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Grapploct",
+    "number": "101",
+    "rarity": "Rare",
+    "set_name": "Vivid Voltage",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Zamazenta",
+    "number": "102",
+    "rarity": "Amazing Rare",
+    "set_name": "Vivid Voltage",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Poochyena",
+    "number": "103",
+    "rarity": "Common",
+    "set_name": "Vivid Voltage",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Mightyena",
+    "number": "104",
+    "rarity": "Uncommon",
+    "set_name": "Vivid Voltage",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Sableye",
+    "number": "105",
+    "rarity": "Uncommon",
+    "set_name": "Vivid Voltage",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Drapion V",
+    "number": "106",
+    "rarity": "Rare Holo V",
+    "set_name": "Vivid Voltage",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Sandile",
+    "number": "107",
+    "rarity": "Common",
+    "set_name": "Vivid Voltage",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Krokorok",
+    "number": "108",
+    "rarity": "Uncommon",
+    "set_name": "Vivid Voltage",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Krookodile",
+    "number": "109",
+    "rarity": "Rare",
+    "set_name": "Vivid Voltage",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Trubbish",
+    "number": "110",
+    "rarity": "Common",
+    "set_name": "Vivid Voltage",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Garbodor",
+    "number": "111",
+    "rarity": "Rare",
+    "set_name": "Vivid Voltage",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Galarian Meowth",
+    "number": "112",
+    "rarity": "Common",
+    "set_name": "Vivid Voltage",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Galarian Perrserker",
+    "number": "113",
+    "rarity": "Rare",
+    "set_name": "Vivid Voltage",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Forretress",
+    "number": "114",
+    "rarity": "Rare",
+    "set_name": "Vivid Voltage",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Steelix V",
+    "number": "115",
+    "rarity": "Rare Holo V",
+    "set_name": "Vivid Voltage",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Beldum",
+    "number": "116",
+    "rarity": "Common",
+    "set_name": "Vivid Voltage",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Metang",
+    "number": "117",
+    "rarity": "Uncommon",
+    "set_name": "Vivid Voltage",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Metagross",
+    "number": "118",
+    "rarity": "Rare",
+    "set_name": "Vivid Voltage",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Jirachi",
+    "number": "119",
+    "rarity": "Amazing Rare",
+    "set_name": "Vivid Voltage",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Lucario",
+    "number": "120",
+    "rarity": "Rare",
+    "set_name": "Vivid Voltage",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Dialga",
+    "number": "121",
+    "rarity": "Rare Holo",
+    "set_name": "Vivid Voltage",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Excadrill",
+    "number": "122",
+    "rarity": "Uncommon",
+    "set_name": "Vivid Voltage",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Ferroseed",
+    "number": "123",
+    "rarity": "Common",
+    "set_name": "Vivid Voltage",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Ferrothorn",
+    "number": "124",
+    "rarity": "Uncommon",
+    "set_name": "Vivid Voltage",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Galarian Stunfisk",
+    "number": "125",
+    "rarity": "Uncommon",
+    "set_name": "Vivid Voltage",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Aegislash V",
+    "number": "126",
+    "rarity": "Rare Holo V",
+    "set_name": "Vivid Voltage",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Aegislash VMAX",
+    "number": "127",
+    "rarity": "Rare Holo VMAX",
+    "set_name": "Vivid Voltage",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Magearna",
+    "number": "128",
+    "rarity": "Rare Holo",
+    "set_name": "Vivid Voltage",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Duraludon",
+    "number": "129",
+    "rarity": "Rare Holo",
+    "set_name": "Vivid Voltage",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Eevee",
+    "number": "130",
+    "rarity": "Common",
+    "set_name": "Vivid Voltage",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Snorlax",
+    "number": "131",
+    "rarity": "Rare Holo",
+    "set_name": "Vivid Voltage",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Lugia",
+    "number": "132",
+    "rarity": "Rare Holo",
+    "set_name": "Vivid Voltage",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Taillow",
+    "number": "133",
+    "rarity": "Common",
+    "set_name": "Vivid Voltage",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Swellow",
+    "number": "134",
+    "rarity": "Uncommon",
+    "set_name": "Vivid Voltage",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Whismur",
+    "number": "135",
+    "rarity": "Common",
+    "set_name": "Vivid Voltage",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Loudred",
+    "number": "136",
+    "rarity": "Uncommon",
+    "set_name": "Vivid Voltage",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Exploud",
+    "number": "137",
+    "rarity": "Rare",
+    "set_name": "Vivid Voltage",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Rayquaza",
+    "number": "138",
+    "rarity": "Amazing Rare",
+    "set_name": "Vivid Voltage",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Chatot",
+    "number": "139",
+    "rarity": "Common",
+    "set_name": "Vivid Voltage",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Togekiss V",
+    "number": "140",
+    "rarity": "Rare Holo V",
+    "set_name": "Vivid Voltage",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Togekiss VMAX",
+    "number": "141",
+    "rarity": "Rare Holo VMAX",
+    "set_name": "Vivid Voltage",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Tornadus",
+    "number": "142",
+    "rarity": "Rare Holo",
+    "set_name": "Vivid Voltage",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Pikipek",
+    "number": "143",
+    "rarity": "Common",
+    "set_name": "Vivid Voltage",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Trumbeak",
+    "number": "144",
+    "rarity": "Uncommon",
+    "set_name": "Vivid Voltage",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Toucannon",
+    "number": "145",
+    "rarity": "Rare",
+    "set_name": "Vivid Voltage",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Allister",
+    "number": "146",
+    "rarity": "Uncommon",
+    "set_name": "Vivid Voltage",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Bea",
+    "number": "147",
+    "rarity": "Uncommon",
+    "set_name": "Vivid Voltage",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Beauty",
+    "number": "148",
+    "rarity": "Uncommon",
+    "set_name": "Vivid Voltage",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Cara Liss",
+    "number": "149",
+    "rarity": "Uncommon",
+    "set_name": "Vivid Voltage",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Circhester Bath",
+    "number": "150",
+    "rarity": "Uncommon",
+    "set_name": "Vivid Voltage",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Drone Rotom",
+    "number": "151",
+    "rarity": "Uncommon",
+    "set_name": "Vivid Voltage",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Hero's Medal",
+    "number": "152",
+    "rarity": "Uncommon",
+    "set_name": "Vivid Voltage",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "League Staff",
+    "number": "153",
+    "rarity": "Uncommon",
+    "set_name": "Vivid Voltage",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Leon",
+    "number": "154",
+    "rarity": "Rare Holo",
+    "set_name": "Vivid Voltage",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Memory Capsule",
+    "number": "155",
+    "rarity": "Uncommon",
+    "set_name": "Vivid Voltage",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Moomoo Cheese",
+    "number": "156",
+    "rarity": "Uncommon",
+    "set_name": "Vivid Voltage",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Nessa",
+    "number": "157",
+    "rarity": "Uncommon",
+    "set_name": "Vivid Voltage",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Opal",
+    "number": "158",
+    "rarity": "Uncommon",
+    "set_name": "Vivid Voltage",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Rocky Helmet",
+    "number": "159",
+    "rarity": "Uncommon",
+    "set_name": "Vivid Voltage",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Telescopic Sight",
+    "number": "160",
+    "rarity": "Uncommon",
+    "set_name": "Vivid Voltage",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Wyndon Stadium",
+    "number": "161",
+    "rarity": "Uncommon",
+    "set_name": "Vivid Voltage",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Aromatic Grass Energy",
+    "number": "162",
+    "rarity": "Uncommon",
+    "set_name": "Vivid Voltage",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Coating Metal Energy",
+    "number": "163",
+    "rarity": "Uncommon",
+    "set_name": "Vivid Voltage",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Stone Fighting Energy",
+    "number": "164",
+    "rarity": "Uncommon",
+    "set_name": "Vivid Voltage",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Wash Water Energy",
+    "number": "165",
+    "rarity": "Uncommon",
+    "set_name": "Vivid Voltage",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Orbeetle V",
+    "number": "166",
+    "rarity": "Rare Ultra",
+    "set_name": "Vivid Voltage",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Zarude V",
+    "number": "167",
+    "rarity": "Rare Ultra",
+    "set_name": "Vivid Voltage",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Talonflame V",
+    "number": "168",
+    "rarity": "Rare Ultra",
+    "set_name": "Vivid Voltage",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Galarian Darmanitan V",
+    "number": "169",
+    "rarity": "Rare Ultra",
+    "set_name": "Vivid Voltage",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Pikachu V",
+    "number": "170",
+    "rarity": "Rare Ultra",
+    "set_name": "Vivid Voltage",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Ampharos V",
+    "number": "171",
+    "rarity": "Rare Ultra",
+    "set_name": "Vivid Voltage",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Alakazam V",
+    "number": "172",
+    "rarity": "Rare Ultra",
+    "set_name": "Vivid Voltage",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Coalossal V",
+    "number": "173",
+    "rarity": "Rare Ultra",
+    "set_name": "Vivid Voltage",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Galarian Sirfetch'd V",
+    "number": "174",
+    "rarity": "Rare Ultra",
+    "set_name": "Vivid Voltage",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Drapion V",
+    "number": "175",
+    "rarity": "Rare Ultra",
+    "set_name": "Vivid Voltage",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Steelix V",
+    "number": "176",
+    "rarity": "Rare Ultra",
+    "set_name": "Vivid Voltage",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Aegislash V",
+    "number": "177",
+    "rarity": "Rare Ultra",
+    "set_name": "Vivid Voltage",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Togekiss V",
+    "number": "178",
+    "rarity": "Rare Ultra",
+    "set_name": "Vivid Voltage",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Allister",
+    "number": "179",
+    "rarity": "Rare Ultra",
+    "set_name": "Vivid Voltage",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Bea",
+    "number": "180",
+    "rarity": "Rare Ultra",
+    "set_name": "Vivid Voltage",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Beauty",
+    "number": "181",
+    "rarity": "Rare Ultra",
+    "set_name": "Vivid Voltage",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Leon",
+    "number": "182",
+    "rarity": "Rare Ultra",
+    "set_name": "Vivid Voltage",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Nessa",
+    "number": "183",
+    "rarity": "Rare Ultra",
+    "set_name": "Vivid Voltage",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Opal",
+    "number": "184",
+    "rarity": "Rare Ultra",
+    "set_name": "Vivid Voltage",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Pok\u00e9mon Center Lady",
+    "number": "185",
+    "rarity": "Rare Ultra",
+    "set_name": "Vivid Voltage",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Orbeetle VMAX",
+    "number": "186",
+    "rarity": "Rare Rainbow",
+    "set_name": "Vivid Voltage",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Galarian Darmanitan VMAX",
+    "number": "187",
+    "rarity": "Rare Rainbow",
+    "set_name": "Vivid Voltage",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Pikachu VMAX",
+    "number": "188",
+    "rarity": "Rare Rainbow",
+    "set_name": "Vivid Voltage",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Coalossal VMAX",
+    "number": "189",
+    "rarity": "Rare Rainbow",
+    "set_name": "Vivid Voltage",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Aegislash VMAX",
+    "number": "190",
+    "rarity": "Rare Rainbow",
+    "set_name": "Vivid Voltage",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Togekiss VMAX",
+    "number": "191",
+    "rarity": "Rare Rainbow",
+    "set_name": "Vivid Voltage",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Allister",
+    "number": "192",
+    "rarity": "Rare Rainbow",
+    "set_name": "Vivid Voltage",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Bea",
+    "number": "193",
+    "rarity": "Rare Rainbow",
+    "set_name": "Vivid Voltage",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Beauty",
+    "number": "194",
+    "rarity": "Rare Rainbow",
+    "set_name": "Vivid Voltage",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Leon",
+    "number": "195",
+    "rarity": "Rare Rainbow",
+    "set_name": "Vivid Voltage",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Nessa",
+    "number": "196",
+    "rarity": "Rare Rainbow",
+    "set_name": "Vivid Voltage",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Opal",
+    "number": "197",
+    "rarity": "Rare Rainbow",
+    "set_name": "Vivid Voltage",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Galarian Obstagoon",
+    "number": "198",
+    "rarity": "Rare Secret",
+    "set_name": "Vivid Voltage",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Oranguru",
+    "number": "199",
+    "rarity": "Rare Secret",
+    "set_name": "Vivid Voltage",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Cape of Toughness",
+    "number": "200",
+    "rarity": "Rare Secret",
+    "set_name": "Vivid Voltage",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Hero's Medal",
+    "number": "201",
+    "rarity": "Rare Secret",
+    "set_name": "Vivid Voltage",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Memory Capsule",
+    "number": "202",
+    "rarity": "Rare Secret",
+    "set_name": "Vivid Voltage",
+    "set_series": "Sword & Shield"
+  },
+  {
+    "name": "Telescopic Sight",
+    "number": "203",
+    "rarity": "Rare Secret",
+    "set_name": "Vivid Voltage",
+    "set_series": "Sword & Shield"
+  }
+]

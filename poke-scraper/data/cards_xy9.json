@@ -1,0 +1,884 @@
+[
+  {
+    "name": "Chikorita",
+    "number": "1",
+    "rarity": "Common",
+    "set_name": "BREAKpoint",
+    "set_series": "XY"
+  },
+  {
+    "name": "Bayleef",
+    "number": "2",
+    "rarity": "Uncommon",
+    "set_name": "BREAKpoint",
+    "set_series": "XY"
+  },
+  {
+    "name": "Meganium",
+    "number": "3",
+    "rarity": "Rare Holo",
+    "set_name": "BREAKpoint",
+    "set_series": "XY"
+  },
+  {
+    "name": "Seedot",
+    "number": "4",
+    "rarity": "Common",
+    "set_name": "BREAKpoint",
+    "set_series": "XY"
+  },
+  {
+    "name": "Kricketot",
+    "number": "5",
+    "rarity": "Common",
+    "set_name": "BREAKpoint",
+    "set_series": "XY"
+  },
+  {
+    "name": "Kricketune",
+    "number": "6",
+    "rarity": "Uncommon",
+    "set_name": "BREAKpoint",
+    "set_series": "XY"
+  },
+  {
+    "name": "Petilil",
+    "number": "7",
+    "rarity": "Common",
+    "set_name": "BREAKpoint",
+    "set_series": "XY"
+  },
+  {
+    "name": "Lilligant",
+    "number": "8",
+    "rarity": "Rare",
+    "set_name": "BREAKpoint",
+    "set_series": "XY"
+  },
+  {
+    "name": "Durant",
+    "number": "9",
+    "rarity": "Uncommon",
+    "set_name": "BREAKpoint",
+    "set_series": "XY"
+  },
+  {
+    "name": "Growlithe",
+    "number": "10",
+    "rarity": "Common",
+    "set_name": "BREAKpoint",
+    "set_series": "XY"
+  },
+  {
+    "name": "Arcanine",
+    "number": "11",
+    "rarity": "Uncommon",
+    "set_name": "BREAKpoint",
+    "set_series": "XY"
+  },
+  {
+    "name": "Numel",
+    "number": "12",
+    "rarity": "Common",
+    "set_name": "BREAKpoint",
+    "set_series": "XY"
+  },
+  {
+    "name": "Camerupt",
+    "number": "13",
+    "rarity": "Rare",
+    "set_name": "BREAKpoint",
+    "set_series": "XY"
+  },
+  {
+    "name": "Emboar-EX",
+    "number": "14",
+    "rarity": "Rare Holo EX",
+    "set_name": "BREAKpoint",
+    "set_series": "XY"
+  },
+  {
+    "name": "Heatmor",
+    "number": "15",
+    "rarity": "Uncommon",
+    "set_name": "BREAKpoint",
+    "set_series": "XY"
+  },
+  {
+    "name": "Psyduck",
+    "number": "16",
+    "rarity": "Common",
+    "set_name": "BREAKpoint",
+    "set_series": "XY"
+  },
+  {
+    "name": "Golduck",
+    "number": "17",
+    "rarity": "Rare",
+    "set_name": "BREAKpoint",
+    "set_series": "XY"
+  },
+  {
+    "name": "Golduck BREAK",
+    "number": "18",
+    "rarity": "Rare BREAK",
+    "set_name": "BREAKpoint",
+    "set_series": "XY"
+  },
+  {
+    "name": "Slowpoke",
+    "number": "19",
+    "rarity": "Common",
+    "set_name": "BREAKpoint",
+    "set_series": "XY"
+  },
+  {
+    "name": "Slowbro",
+    "number": "20",
+    "rarity": "Uncommon",
+    "set_name": "BREAKpoint",
+    "set_series": "XY"
+  },
+  {
+    "name": "Slowking",
+    "number": "21",
+    "rarity": "Rare Holo",
+    "set_name": "BREAKpoint",
+    "set_series": "XY"
+  },
+  {
+    "name": "Shellder",
+    "number": "22",
+    "rarity": "Common",
+    "set_name": "BREAKpoint",
+    "set_series": "XY"
+  },
+  {
+    "name": "Shellder",
+    "number": "23",
+    "rarity": "Common",
+    "set_name": "BREAKpoint",
+    "set_series": "XY"
+  },
+  {
+    "name": "Cloyster",
+    "number": "24",
+    "rarity": "Uncommon",
+    "set_name": "BREAKpoint",
+    "set_series": "XY"
+  },
+  {
+    "name": "Staryu",
+    "number": "25",
+    "rarity": "Common",
+    "set_name": "BREAKpoint",
+    "set_series": "XY"
+  },
+  {
+    "name": "Gyarados-EX",
+    "number": "26",
+    "rarity": "Rare Holo EX",
+    "set_name": "BREAKpoint",
+    "set_series": "XY"
+  },
+  {
+    "name": "M Gyarados-EX",
+    "number": "27",
+    "rarity": "Rare Holo EX",
+    "set_name": "BREAKpoint",
+    "set_series": "XY"
+  },
+  {
+    "name": "Lapras",
+    "number": "28",
+    "rarity": "Uncommon",
+    "set_name": "BREAKpoint",
+    "set_series": "XY"
+  },
+  {
+    "name": "Corsola",
+    "number": "29",
+    "rarity": "Common",
+    "set_name": "BREAKpoint",
+    "set_series": "XY"
+  },
+  {
+    "name": "Suicune",
+    "number": "30",
+    "rarity": "Rare Holo",
+    "set_name": "BREAKpoint",
+    "set_series": "XY"
+  },
+  {
+    "name": "Palkia-EX",
+    "number": "31",
+    "rarity": "Rare Holo EX",
+    "set_name": "BREAKpoint",
+    "set_series": "XY"
+  },
+  {
+    "name": "Manaphy-EX",
+    "number": "32",
+    "rarity": "Rare Holo EX",
+    "set_name": "BREAKpoint",
+    "set_series": "XY"
+  },
+  {
+    "name": "Tympole",
+    "number": "33",
+    "rarity": "Common",
+    "set_name": "BREAKpoint",
+    "set_series": "XY"
+  },
+  {
+    "name": "Palpitoad",
+    "number": "34",
+    "rarity": "Uncommon",
+    "set_name": "BREAKpoint",
+    "set_series": "XY"
+  },
+  {
+    "name": "Seismitoad",
+    "number": "35",
+    "rarity": "Rare",
+    "set_name": "BREAKpoint",
+    "set_series": "XY"
+  },
+  {
+    "name": "Ducklett",
+    "number": "36",
+    "rarity": "Common",
+    "set_name": "BREAKpoint",
+    "set_series": "XY"
+  },
+  {
+    "name": "Swanna",
+    "number": "37",
+    "rarity": "Uncommon",
+    "set_name": "BREAKpoint",
+    "set_series": "XY"
+  },
+  {
+    "name": "Froakie",
+    "number": "38",
+    "rarity": "Common",
+    "set_name": "BREAKpoint",
+    "set_series": "XY"
+  },
+  {
+    "name": "Frogadier",
+    "number": "39",
+    "rarity": "Uncommon",
+    "set_name": "BREAKpoint",
+    "set_series": "XY"
+  },
+  {
+    "name": "Greninja",
+    "number": "40",
+    "rarity": "Rare",
+    "set_name": "BREAKpoint",
+    "set_series": "XY"
+  },
+  {
+    "name": "Greninja BREAK",
+    "number": "41",
+    "rarity": "Rare BREAK",
+    "set_name": "BREAKpoint",
+    "set_series": "XY"
+  },
+  {
+    "name": "Electabuzz",
+    "number": "42",
+    "rarity": "Common",
+    "set_name": "BREAKpoint",
+    "set_series": "XY"
+  },
+  {
+    "name": "Electivire",
+    "number": "43",
+    "rarity": "Uncommon",
+    "set_name": "BREAKpoint",
+    "set_series": "XY"
+  },
+  {
+    "name": "Shinx",
+    "number": "44",
+    "rarity": "Common",
+    "set_name": "BREAKpoint",
+    "set_series": "XY"
+  },
+  {
+    "name": "Luxio",
+    "number": "45",
+    "rarity": "Uncommon",
+    "set_name": "BREAKpoint",
+    "set_series": "XY"
+  },
+  {
+    "name": "Luxray",
+    "number": "46",
+    "rarity": "Rare",
+    "set_name": "BREAKpoint",
+    "set_series": "XY"
+  },
+  {
+    "name": "Luxray BREAK",
+    "number": "47",
+    "rarity": "Rare BREAK",
+    "set_name": "BREAKpoint",
+    "set_series": "XY"
+  },
+  {
+    "name": "Blitzle",
+    "number": "48",
+    "rarity": "Common",
+    "set_name": "BREAKpoint",
+    "set_series": "XY"
+  },
+  {
+    "name": "Zebstrika",
+    "number": "49",
+    "rarity": "Rare",
+    "set_name": "BREAKpoint",
+    "set_series": "XY"
+  },
+  {
+    "name": "Drowzee",
+    "number": "50",
+    "rarity": "Common",
+    "set_name": "BREAKpoint",
+    "set_series": "XY"
+  },
+  {
+    "name": "Hypno",
+    "number": "51",
+    "rarity": "Rare",
+    "set_name": "BREAKpoint",
+    "set_series": "XY"
+  },
+  {
+    "name": "Espeon-EX",
+    "number": "52",
+    "rarity": "Rare Holo EX",
+    "set_name": "BREAKpoint",
+    "set_series": "XY"
+  },
+  {
+    "name": "Skorupi",
+    "number": "53",
+    "rarity": "Common",
+    "set_name": "BREAKpoint",
+    "set_series": "XY"
+  },
+  {
+    "name": "Drapion",
+    "number": "54",
+    "rarity": "Rare",
+    "set_name": "BREAKpoint",
+    "set_series": "XY"
+  },
+  {
+    "name": "Sigilyph",
+    "number": "55",
+    "rarity": "Uncommon",
+    "set_name": "BREAKpoint",
+    "set_series": "XY"
+  },
+  {
+    "name": "Trubbish",
+    "number": "56",
+    "rarity": "Common",
+    "set_name": "BREAKpoint",
+    "set_series": "XY"
+  },
+  {
+    "name": "Garbodor",
+    "number": "57",
+    "rarity": "Rare Holo",
+    "set_name": "BREAKpoint",
+    "set_series": "XY"
+  },
+  {
+    "name": "Espurr",
+    "number": "58",
+    "rarity": "Common",
+    "set_name": "BREAKpoint",
+    "set_series": "XY"
+  },
+  {
+    "name": "Meowstic",
+    "number": "59",
+    "rarity": "Rare",
+    "set_name": "BREAKpoint",
+    "set_series": "XY"
+  },
+  {
+    "name": "Honedge",
+    "number": "60",
+    "rarity": "Common",
+    "set_name": "BREAKpoint",
+    "set_series": "XY"
+  },
+  {
+    "name": "Doublade",
+    "number": "61",
+    "rarity": "Uncommon",
+    "set_name": "BREAKpoint",
+    "set_series": "XY"
+  },
+  {
+    "name": "Aegislash",
+    "number": "62",
+    "rarity": "Rare Holo",
+    "set_name": "BREAKpoint",
+    "set_series": "XY"
+  },
+  {
+    "name": "Skrelp",
+    "number": "63",
+    "rarity": "Common",
+    "set_name": "BREAKpoint",
+    "set_series": "XY"
+  },
+  {
+    "name": "Phantump",
+    "number": "64",
+    "rarity": "Common",
+    "set_name": "BREAKpoint",
+    "set_series": "XY"
+  },
+  {
+    "name": "Trevenant",
+    "number": "65",
+    "rarity": "Rare",
+    "set_name": "BREAKpoint",
+    "set_series": "XY"
+  },
+  {
+    "name": "Trevenant BREAK",
+    "number": "66",
+    "rarity": "Rare BREAK",
+    "set_name": "BREAKpoint",
+    "set_series": "XY"
+  },
+  {
+    "name": "Sudowoodo",
+    "number": "67",
+    "rarity": "Uncommon",
+    "set_name": "BREAKpoint",
+    "set_series": "XY"
+  },
+  {
+    "name": "Gible",
+    "number": "68",
+    "rarity": "Common",
+    "set_name": "BREAKpoint",
+    "set_series": "XY"
+  },
+  {
+    "name": "Gabite",
+    "number": "69",
+    "rarity": "Uncommon",
+    "set_name": "BREAKpoint",
+    "set_series": "XY"
+  },
+  {
+    "name": "Garchomp",
+    "number": "70",
+    "rarity": "Rare Holo",
+    "set_name": "BREAKpoint",
+    "set_series": "XY"
+  },
+  {
+    "name": "Pancham",
+    "number": "71",
+    "rarity": "Common",
+    "set_name": "BREAKpoint",
+    "set_series": "XY"
+  },
+  {
+    "name": "Nuzleaf",
+    "number": "72",
+    "rarity": "Uncommon",
+    "set_name": "BREAKpoint",
+    "set_series": "XY"
+  },
+  {
+    "name": "Shiftry",
+    "number": "73",
+    "rarity": "Rare",
+    "set_name": "BREAKpoint",
+    "set_series": "XY"
+  },
+  {
+    "name": "Darkrai-EX",
+    "number": "74",
+    "rarity": "Rare Holo EX",
+    "set_name": "BREAKpoint",
+    "set_series": "XY"
+  },
+  {
+    "name": "Pangoro",
+    "number": "75",
+    "rarity": "Rare",
+    "set_name": "BREAKpoint",
+    "set_series": "XY"
+  },
+  {
+    "name": "Scizor-EX",
+    "number": "76",
+    "rarity": "Rare Holo EX",
+    "set_name": "BREAKpoint",
+    "set_series": "XY"
+  },
+  {
+    "name": "M Scizor-EX",
+    "number": "77",
+    "rarity": "Rare Holo EX",
+    "set_name": "BREAKpoint",
+    "set_series": "XY"
+  },
+  {
+    "name": "Mawile",
+    "number": "78",
+    "rarity": "Uncommon",
+    "set_name": "BREAKpoint",
+    "set_series": "XY"
+  },
+  {
+    "name": "Ferroseed",
+    "number": "79",
+    "rarity": "Common",
+    "set_name": "BREAKpoint",
+    "set_series": "XY"
+  },
+  {
+    "name": "Ferrothorn",
+    "number": "80",
+    "rarity": "Rare",
+    "set_name": "BREAKpoint",
+    "set_series": "XY"
+  },
+  {
+    "name": "Clefairy",
+    "number": "81",
+    "rarity": "Common",
+    "set_name": "BREAKpoint",
+    "set_series": "XY"
+  },
+  {
+    "name": "Clefable",
+    "number": "82",
+    "rarity": "Rare",
+    "set_name": "BREAKpoint",
+    "set_series": "XY"
+  },
+  {
+    "name": "Togekiss-EX",
+    "number": "83",
+    "rarity": "Rare Holo EX",
+    "set_name": "BREAKpoint",
+    "set_series": "XY"
+  },
+  {
+    "name": "Spritzee",
+    "number": "84",
+    "rarity": "Common",
+    "set_name": "BREAKpoint",
+    "set_series": "XY"
+  },
+  {
+    "name": "Aromatisse",
+    "number": "85",
+    "rarity": "Uncommon",
+    "set_name": "BREAKpoint",
+    "set_series": "XY"
+  },
+  {
+    "name": "Dragalge",
+    "number": "86",
+    "rarity": "Rare Holo",
+    "set_name": "BREAKpoint",
+    "set_series": "XY"
+  },
+  {
+    "name": "Rattata",
+    "number": "87",
+    "rarity": "Common",
+    "set_name": "BREAKpoint",
+    "set_series": "XY"
+  },
+  {
+    "name": "Raticate",
+    "number": "88",
+    "rarity": "Rare",
+    "set_name": "BREAKpoint",
+    "set_series": "XY"
+  },
+  {
+    "name": "Raticate BREAK",
+    "number": "89",
+    "rarity": "Rare BREAK",
+    "set_name": "BREAKpoint",
+    "set_series": "XY"
+  },
+  {
+    "name": "Dunsparce",
+    "number": "90",
+    "rarity": "Uncommon",
+    "set_name": "BREAKpoint",
+    "set_series": "XY"
+  },
+  {
+    "name": "Stantler",
+    "number": "91",
+    "rarity": "Uncommon",
+    "set_name": "BREAKpoint",
+    "set_series": "XY"
+  },
+  {
+    "name": "Ho-Oh-EX",
+    "number": "92",
+    "rarity": "Rare Holo EX",
+    "set_name": "BREAKpoint",
+    "set_series": "XY"
+  },
+  {
+    "name": "Glameow",
+    "number": "93",
+    "rarity": "Common",
+    "set_name": "BREAKpoint",
+    "set_series": "XY"
+  },
+  {
+    "name": "Purugly",
+    "number": "94",
+    "rarity": "Uncommon",
+    "set_name": "BREAKpoint",
+    "set_series": "XY"
+  },
+  {
+    "name": "Furfrou",
+    "number": "95",
+    "rarity": "Common",
+    "set_name": "BREAKpoint",
+    "set_series": "XY"
+  },
+  {
+    "name": "All-Night Party",
+    "number": "96",
+    "rarity": "Uncommon",
+    "set_name": "BREAKpoint",
+    "set_series": "XY"
+  },
+  {
+    "name": "Bursting Balloon",
+    "number": "97",
+    "rarity": "Uncommon",
+    "set_name": "BREAKpoint",
+    "set_series": "XY"
+  },
+  {
+    "name": "Delinquent",
+    "number": "98",
+    "rarity": "Uncommon",
+    "set_name": "BREAKpoint",
+    "set_series": "XY"
+  },
+  {
+    "name": "Delinquent",
+    "number": "98a",
+    "rarity": "Uncommon",
+    "set_name": "BREAKpoint",
+    "set_series": "XY"
+  },
+  {
+    "name": "Delinquent",
+    "number": "98b",
+    "rarity": "Rare Ultra",
+    "set_name": "BREAKpoint",
+    "set_series": "XY"
+  },
+  {
+    "name": "Fighting Fury Belt",
+    "number": "99",
+    "rarity": "Uncommon",
+    "set_name": "BREAKpoint",
+    "set_series": "XY"
+  },
+  {
+    "name": "Great Ball",
+    "number": "100",
+    "rarity": "Uncommon",
+    "set_name": "BREAKpoint",
+    "set_series": "XY"
+  },
+  {
+    "name": "Gyarados Spirit Link",
+    "number": "101",
+    "rarity": "Uncommon",
+    "set_name": "BREAKpoint",
+    "set_series": "XY"
+  },
+  {
+    "name": "Max Elixir",
+    "number": "102",
+    "rarity": "Uncommon",
+    "set_name": "BREAKpoint",
+    "set_series": "XY"
+  },
+  {
+    "name": "Max Potion",
+    "number": "103",
+    "rarity": "Uncommon",
+    "set_name": "BREAKpoint",
+    "set_series": "XY"
+  },
+  {
+    "name": "Misty's Determination",
+    "number": "104",
+    "rarity": "Uncommon",
+    "set_name": "BREAKpoint",
+    "set_series": "XY"
+  },
+  {
+    "name": "Pok\u00e9mon Catcher",
+    "number": "105",
+    "rarity": "Uncommon",
+    "set_name": "BREAKpoint",
+    "set_series": "XY"
+  },
+  {
+    "name": "Potion",
+    "number": "106",
+    "rarity": "Uncommon",
+    "set_name": "BREAKpoint",
+    "set_series": "XY"
+  },
+  {
+    "name": "Professor Sycamore",
+    "number": "107",
+    "rarity": "Uncommon",
+    "set_name": "BREAKpoint",
+    "set_series": "XY"
+  },
+  {
+    "name": "Professor Sycamore",
+    "number": "107a",
+    "rarity": "Uncommon",
+    "set_name": "BREAKpoint",
+    "set_series": "XY"
+  },
+  {
+    "name": "Psychic's Third Eye",
+    "number": "108",
+    "rarity": "Uncommon",
+    "set_name": "BREAKpoint",
+    "set_series": "XY"
+  },
+  {
+    "name": "Puzzle of Time",
+    "number": "109",
+    "rarity": "Uncommon",
+    "set_name": "BREAKpoint",
+    "set_series": "XY"
+  },
+  {
+    "name": "Reverse Valley",
+    "number": "110",
+    "rarity": "Uncommon",
+    "set_name": "BREAKpoint",
+    "set_series": "XY"
+  },
+  {
+    "name": "Scizor Spirit Link",
+    "number": "111",
+    "rarity": "Uncommon",
+    "set_name": "BREAKpoint",
+    "set_series": "XY"
+  },
+  {
+    "name": "Tierno",
+    "number": "112",
+    "rarity": "Uncommon",
+    "set_name": "BREAKpoint",
+    "set_series": "XY"
+  },
+  {
+    "name": "Splash Energy",
+    "number": "113",
+    "rarity": "Uncommon",
+    "set_name": "BREAKpoint",
+    "set_series": "XY"
+  },
+  {
+    "name": "Gyarados-EX",
+    "number": "114",
+    "rarity": "Rare Ultra",
+    "set_name": "BREAKpoint",
+    "set_series": "XY"
+  },
+  {
+    "name": "M Gyarados-EX",
+    "number": "115",
+    "rarity": "Rare Ultra",
+    "set_name": "BREAKpoint",
+    "set_series": "XY"
+  },
+  {
+    "name": "Manaphy-EX",
+    "number": "116",
+    "rarity": "Rare Ultra",
+    "set_name": "BREAKpoint",
+    "set_series": "XY"
+  },
+  {
+    "name": "Espeon-EX",
+    "number": "117",
+    "rarity": "Rare Ultra",
+    "set_name": "BREAKpoint",
+    "set_series": "XY"
+  },
+  {
+    "name": "Darkrai-EX",
+    "number": "118",
+    "rarity": "Rare Ultra",
+    "set_name": "BREAKpoint",
+    "set_series": "XY"
+  },
+  {
+    "name": "Scizor-EX",
+    "number": "119",
+    "rarity": "Rare Ultra",
+    "set_name": "BREAKpoint",
+    "set_series": "XY"
+  },
+  {
+    "name": "M Scizor-EX",
+    "number": "120",
+    "rarity": "Rare Ultra",
+    "set_name": "BREAKpoint",
+    "set_series": "XY"
+  },
+  {
+    "name": "Ho-Oh-EX",
+    "number": "121",
+    "rarity": "Rare Ultra",
+    "set_name": "BREAKpoint",
+    "set_series": "XY"
+  },
+  {
+    "name": "Skyla",
+    "number": "122",
+    "rarity": "Rare Ultra",
+    "set_name": "BREAKpoint",
+    "set_series": "XY"
+  },
+  {
+    "name": "Gyarados-EX",
+    "number": "123",
+    "rarity": "Rare Secret",
+    "set_name": "BREAKpoint",
+    "set_series": "XY"
+  }
+]

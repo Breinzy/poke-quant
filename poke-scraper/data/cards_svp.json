@@ -1,0 +1,1402 @@
+[
+  {
+    "name": "Sprigatito",
+    "number": "1",
+    "rarity": "Promo",
+    "set_name": "Scarlet & Violet Black Star Promos",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Fuecoco",
+    "number": "2",
+    "rarity": "Promo",
+    "set_name": "Scarlet & Violet Black Star Promos",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Pawmot",
+    "number": "6",
+    "rarity": "Promo",
+    "set_name": "Scarlet & Violet Black Star Promos",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Espathra",
+    "number": "10",
+    "rarity": "Promo",
+    "set_name": "Scarlet & Violet Black Star Promos",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Hawlucha",
+    "number": "7",
+    "rarity": "Promo",
+    "set_name": "Scarlet & Violet Black Star Promos",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Miraidon",
+    "number": "13",
+    "rarity": "Promo",
+    "set_name": "Scarlet & Violet Black Star Promos",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Revavroom",
+    "number": "8",
+    "rarity": "Promo",
+    "set_name": "Scarlet & Violet Black Star Promos",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Spidops",
+    "number": "9",
+    "rarity": "Promo",
+    "set_name": "Scarlet & Violet Black Star Promos",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Arcanine",
+    "number": "11",
+    "rarity": "Promo",
+    "set_name": "Scarlet & Violet Black Star Promos",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Quaxly",
+    "number": "3",
+    "rarity": "Promo",
+    "set_name": "Scarlet & Violet Black Star Promos",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Quaquaval",
+    "number": "5",
+    "rarity": "Promo",
+    "set_name": "Scarlet & Violet Black Star Promos",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Mimikyu ex",
+    "number": "4",
+    "rarity": "Promo",
+    "set_name": "Scarlet & Violet Black Star Promos",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Koraidon",
+    "number": "14",
+    "rarity": "Promo",
+    "set_name": "Scarlet & Violet Black Star Promos",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Dondozo",
+    "number": "12",
+    "rarity": "Promo",
+    "set_name": "Scarlet & Violet Black Star Promos",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Flaaffy",
+    "number": "15",
+    "rarity": "Promo",
+    "set_name": "Scarlet & Violet Black Star Promos",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Lucario ex",
+    "number": "17",
+    "rarity": "Promo",
+    "set_name": "Scarlet & Violet Black Star Promos",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Ampharos ex",
+    "number": "16",
+    "rarity": "Promo",
+    "set_name": "Scarlet & Violet Black Star Promos",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Cyclizar ex",
+    "number": "18",
+    "rarity": "Promo",
+    "set_name": "Scarlet & Violet Black Star Promos",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Pelipper",
+    "number": "22",
+    "rarity": "Promo",
+    "set_name": "Scarlet & Violet Black Star Promos",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Baxcalibur",
+    "number": "19",
+    "rarity": "Promo",
+    "set_name": "Scarlet & Violet Black Star Promos",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Tinkaton",
+    "number": "20",
+    "rarity": "Promo",
+    "set_name": "Scarlet & Violet Black Star Promos",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Murkrow",
+    "number": "21",
+    "rarity": "Promo",
+    "set_name": "Scarlet & Violet Black Star Promos",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Smoliv",
+    "number": "23",
+    "rarity": "Promo",
+    "set_name": "Scarlet & Violet Black Star Promos",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Tinkatink",
+    "number": "25",
+    "rarity": "Promo",
+    "set_name": "Scarlet & Violet Black Star Promos",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Pikachu",
+    "number": "27",
+    "rarity": "Promo",
+    "set_name": "Scarlet & Violet Black Star Promos",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Koraidon ex",
+    "number": "29",
+    "rarity": "Promo",
+    "set_name": "Scarlet & Violet Black Star Promos",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Growlithe",
+    "number": "24",
+    "rarity": "Promo",
+    "set_name": "Scarlet & Violet Black Star Promos",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Varoom",
+    "number": "26",
+    "rarity": "Promo",
+    "set_name": "Scarlet & Violet Black Star Promos",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Miraidon ex",
+    "number": "28",
+    "rarity": "Promo",
+    "set_name": "Scarlet & Violet Black Star Promos",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Chien-Pao ex",
+    "number": "30",
+    "rarity": "Promo",
+    "set_name": "Scarlet & Violet Black Star Promos",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Tinkaton ex",
+    "number": "31",
+    "rarity": "Promo",
+    "set_name": "Scarlet & Violet Black Star Promos",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Annihilape ex",
+    "number": "32",
+    "rarity": "Promo",
+    "set_name": "Scarlet & Violet Black Star Promos",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Palafin",
+    "number": "36",
+    "rarity": "Promo",
+    "set_name": "Scarlet & Violet Black Star Promos",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Cleffa",
+    "number": "37",
+    "rarity": "Promo",
+    "set_name": "Scarlet & Violet Black Star Promos",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Togekiss",
+    "number": "38",
+    "rarity": "Promo",
+    "set_name": "Scarlet & Violet Black Star Promos",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Mawile",
+    "number": "39",
+    "rarity": "Promo",
+    "set_name": "Scarlet & Violet Black Star Promos",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Pawmi",
+    "number": "40",
+    "rarity": "Promo",
+    "set_name": "Scarlet & Violet Black Star Promos",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Paldean Wooper",
+    "number": "41",
+    "rarity": "Promo",
+    "set_name": "Scarlet & Violet Black Star Promos",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Houndstone",
+    "number": "42",
+    "rarity": "Promo",
+    "set_name": "Scarlet & Violet Black Star Promos",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Eevee",
+    "number": "43",
+    "rarity": "Promo",
+    "set_name": "Scarlet & Violet Black Star Promos",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Charmander",
+    "number": "44",
+    "rarity": "Promo",
+    "set_name": "Scarlet & Violet Black Star Promos",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Paradise Resort",
+    "number": "45",
+    "rarity": "Promo",
+    "set_name": "Scarlet & Violet Black Star Promos",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Meowscarada ex",
+    "number": "33",
+    "rarity": "Promo",
+    "set_name": "Scarlet & Violet Black Star Promos",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Skeledirge ex",
+    "number": "34",
+    "rarity": "Promo",
+    "set_name": "Scarlet & Violet Black Star Promos",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Bulbasaur",
+    "number": "46",
+    "rarity": "Promo",
+    "set_name": "Scarlet & Violet Black Star Promos",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Charmander",
+    "number": "47",
+    "rarity": "Promo",
+    "set_name": "Scarlet & Violet Black Star Promos",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Mewtwo",
+    "number": "52",
+    "rarity": "Promo",
+    "set_name": "Scarlet & Violet Black Star Promos",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Squirtle",
+    "number": "48",
+    "rarity": "Promo",
+    "set_name": "Scarlet & Violet Black Star Promos",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Mew ex",
+    "number": "53",
+    "rarity": "Promo",
+    "set_name": "Scarlet & Violet Black Star Promos",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Greninja ex",
+    "number": "54",
+    "rarity": "Promo",
+    "set_name": "Scarlet & Violet Black Star Promos",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Pikachu",
+    "number": "101",
+    "rarity": "Promo",
+    "set_name": "Scarlet & Violet Black Star Promos",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Quaquaval ex",
+    "number": "35",
+    "rarity": "Promo",
+    "set_name": "Scarlet & Violet Black Star Promos",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Alakazam ex",
+    "number": "50",
+    "rarity": "Promo",
+    "set_name": "Scarlet & Violet Black Star Promos",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Kangaskhan ex",
+    "number": "55",
+    "rarity": "Promo",
+    "set_name": "Scarlet & Violet Black Star Promos",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Zapdos ex",
+    "number": "49",
+    "rarity": "Promo",
+    "set_name": "Scarlet & Violet Black Star Promos",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Snorlax",
+    "number": "51",
+    "rarity": "Promo",
+    "set_name": "Scarlet & Violet Black Star Promos",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Chi-Yu",
+    "number": "57",
+    "rarity": "Promo",
+    "set_name": "Scarlet & Violet Black Star Promos",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Pineco",
+    "number": "61",
+    "rarity": "Promo",
+    "set_name": "Scarlet & Violet Black Star Promos",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Xatu",
+    "number": "59",
+    "rarity": "Promo",
+    "set_name": "Scarlet & Violet Black Star Promos",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Sinistea",
+    "number": "62",
+    "rarity": "Promo",
+    "set_name": "Scarlet & Violet Black Star Promos",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Charizard ex",
+    "number": "56",
+    "rarity": "Promo",
+    "set_name": "Scarlet & Violet Black Star Promos",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Iron Bundle",
+    "number": "58",
+    "rarity": "Promo",
+    "set_name": "Scarlet & Violet Black Star Promos",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Aegislash",
+    "number": "60",
+    "rarity": "Promo",
+    "set_name": "Scarlet & Violet Black Star Promos",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Cetitan",
+    "number": "63",
+    "rarity": "Promo",
+    "set_name": "Scarlet & Violet Black Star Promos",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Greavard",
+    "number": "70",
+    "rarity": "Promo",
+    "set_name": "Scarlet & Violet Black Star Promos",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Scream Tail",
+    "number": "65",
+    "rarity": "Promo",
+    "set_name": "Scarlet & Violet Black Star Promos",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Mimikyu",
+    "number": "75",
+    "rarity": "Promo",
+    "set_name": "Scarlet & Violet Black Star Promos",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Roaring Moon ex",
+    "number": "67",
+    "rarity": "Promo",
+    "set_name": "Scarlet & Violet Black Star Promos",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Arctibax",
+    "number": "64",
+    "rarity": "Promo",
+    "set_name": "Scarlet & Violet Black Star Promos",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Iron Valiant ex",
+    "number": "68",
+    "rarity": "Promo",
+    "set_name": "Scarlet & Violet Black Star Promos",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Iron Bundle",
+    "number": "66",
+    "rarity": "Promo",
+    "set_name": "Scarlet & Violet Black Star Promos",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Fidough",
+    "number": "69",
+    "rarity": "Promo",
+    "set_name": "Scarlet & Violet Black Star Promos",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Maschiff",
+    "number": "71",
+    "rarity": "Promo",
+    "set_name": "Scarlet & Violet Black Star Promos",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Pikachu with Grey Felt Hat",
+    "number": "85",
+    "rarity": "Promo",
+    "set_name": "Scarlet & Violet Black Star Promos",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Oddish",
+    "number": "102",
+    "rarity": "Promo",
+    "set_name": "Scarlet & Violet Black Star Promos",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Sprigatito",
+    "number": "76",
+    "rarity": "Promo",
+    "set_name": "Scarlet & Violet Black Star Promos",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Floragato",
+    "number": "77",
+    "rarity": "Promo",
+    "set_name": "Scarlet & Violet Black Star Promos",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Meowscarada ex",
+    "number": "78",
+    "rarity": "Promo",
+    "set_name": "Scarlet & Violet Black Star Promos",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Fuecoco",
+    "number": "79",
+    "rarity": "Promo",
+    "set_name": "Scarlet & Violet Black Star Promos",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Crocalor",
+    "number": "80",
+    "rarity": "Promo",
+    "set_name": "Scarlet & Violet Black Star Promos",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Skeledirge ex",
+    "number": "81",
+    "rarity": "Promo",
+    "set_name": "Scarlet & Violet Black Star Promos",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Quaxly",
+    "number": "82",
+    "rarity": "Promo",
+    "set_name": "Scarlet & Violet Black Star Promos",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Quaxwell",
+    "number": "83",
+    "rarity": "Promo",
+    "set_name": "Scarlet & Violet Black Star Promos",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Quaquaval ex",
+    "number": "84",
+    "rarity": "Promo",
+    "set_name": "Scarlet & Violet Black Star Promos",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Mabosstiff ex",
+    "number": "86",
+    "rarity": "Promo",
+    "set_name": "Scarlet & Violet Black Star Promos",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Sprigatito ex",
+    "number": "87",
+    "rarity": "Promo",
+    "set_name": "Scarlet & Violet Black Star Promos",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Pikachu",
+    "number": "88",
+    "rarity": "Promo",
+    "set_name": "Scarlet & Violet Black Star Promos",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Feraligatr",
+    "number": "89",
+    "rarity": "Promo",
+    "set_name": "Scarlet & Violet Black Star Promos",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Metang",
+    "number": "90",
+    "rarity": "Promo",
+    "set_name": "Scarlet & Violet Black Star Promos",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Koraidon",
+    "number": "91",
+    "rarity": "Promo",
+    "set_name": "Scarlet & Violet Black Star Promos",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Miraidon",
+    "number": "92",
+    "rarity": "Promo",
+    "set_name": "Scarlet & Violet Black Star Promos",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Cyclizar",
+    "number": "96",
+    "rarity": "Promo",
+    "set_name": "Scarlet & Violet Black Star Promos",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Cleffa",
+    "number": "95",
+    "rarity": "Promo",
+    "set_name": "Scarlet & Violet Black Star Promos",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Carvanha",
+    "number": "93",
+    "rarity": "Promo",
+    "set_name": "Scarlet & Violet Black Star Promos",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Bellibolt",
+    "number": "94",
+    "rarity": "Promo",
+    "set_name": "Scarlet & Violet Black Star Promos",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Flutter Mane",
+    "number": "97",
+    "rarity": "Promo",
+    "set_name": "Scarlet & Violet Black Star Promos",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Iron Thorns",
+    "number": "98",
+    "rarity": "Promo",
+    "set_name": "Scarlet & Violet Black Star Promos",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Iono",
+    "number": "124",
+    "rarity": "Promo",
+    "set_name": "Scarlet & Violet Black Star Promos",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Great Tusk ex",
+    "number": "72",
+    "rarity": "Promo",
+    "set_name": "Scarlet & Violet Black Star Promos",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Iron Treads ex",
+    "number": "73",
+    "rarity": "Promo",
+    "set_name": "Scarlet & Violet Black Star Promos",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Charizard ex",
+    "number": "74",
+    "rarity": "Promo",
+    "set_name": "Scarlet & Violet Black Star Promos",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Shroodle",
+    "number": "99",
+    "rarity": "Promo",
+    "set_name": "Scarlet & Violet Black Star Promos",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Grafaiai ex",
+    "number": "100",
+    "rarity": "Promo",
+    "set_name": "Scarlet & Violet Black Star Promos",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Houndoom ex",
+    "number": "103",
+    "rarity": "Promo",
+    "set_name": "Scarlet & Violet Black Star Promos",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Melmetal ex",
+    "number": "104",
+    "rarity": "Promo",
+    "set_name": "Scarlet & Violet Black Star Promos",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Armarouge ex",
+    "number": "105",
+    "rarity": "Promo",
+    "set_name": "Scarlet & Violet Black Star Promos",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Pikachu ex",
+    "number": "106",
+    "rarity": "Promo",
+    "set_name": "Scarlet & Violet Black Star Promos",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Mareep",
+    "number": "107",
+    "rarity": "Promo",
+    "set_name": "Scarlet & Violet Black Star Promos",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Flaaffy",
+    "number": "108",
+    "rarity": "Promo",
+    "set_name": "Scarlet & Violet Black Star Promos",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Ampharos",
+    "number": "109",
+    "rarity": "Promo",
+    "set_name": "Scarlet & Violet Black Star Promos",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Darkrai ex",
+    "number": "110",
+    "rarity": "Promo",
+    "set_name": "Scarlet & Violet Black Star Promos",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Pawniard",
+    "number": "111",
+    "rarity": "Promo",
+    "set_name": "Scarlet & Violet Black Star Promos",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Bisharp",
+    "number": "112",
+    "rarity": "Promo",
+    "set_name": "Scarlet & Violet Black Star Promos",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Kingambit",
+    "number": "113",
+    "rarity": "Promo",
+    "set_name": "Scarlet & Violet Black Star Promos",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Picnicker",
+    "number": "114",
+    "rarity": "Promo",
+    "set_name": "Scarlet & Violet Black Star Promos",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Thwackey",
+    "number": "115",
+    "rarity": "Promo",
+    "set_name": "Scarlet & Violet Black Star Promos",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Infernape",
+    "number": "116",
+    "rarity": "Promo",
+    "set_name": "Scarlet & Violet Black Star Promos",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Froslass",
+    "number": "117",
+    "rarity": "Promo",
+    "set_name": "Scarlet & Violet Black Star Promos",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Tatsugiri",
+    "number": "118",
+    "rarity": "Promo",
+    "set_name": "Scarlet & Violet Black Star Promos",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Toxel",
+    "number": "119",
+    "rarity": "Promo",
+    "set_name": "Scarlet & Violet Black Star Promos",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Pupitar",
+    "number": "120",
+    "rarity": "Promo",
+    "set_name": "Scarlet & Violet Black Star Promos",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Revavroom",
+    "number": "121",
+    "rarity": "Promo",
+    "set_name": "Scarlet & Violet Black Star Promos",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Snorlax",
+    "number": "122",
+    "rarity": "Promo",
+    "set_name": "Scarlet & Violet Black Star Promos",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Teal Mask Ogerpon",
+    "number": "123",
+    "rarity": "Promo",
+    "set_name": "Scarlet & Violet Black Star Promos",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Armarouge ex",
+    "number": "125",
+    "rarity": "Promo",
+    "set_name": "Scarlet & Violet Black Star Promos",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Palafin ex",
+    "number": "126",
+    "rarity": "Promo",
+    "set_name": "Scarlet & Violet Black Star Promos",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Walking Wake ex",
+    "number": "127",
+    "rarity": "Promo",
+    "set_name": "Scarlet & Violet Black Star Promos",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Iron Leaves ex",
+    "number": "128",
+    "rarity": "Promo",
+    "set_name": "Scarlet & Violet Black Star Promos",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Miraidon",
+    "number": "148",
+    "rarity": "Promo",
+    "set_name": "Scarlet & Violet Black Star Promos",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Kingambit",
+    "number": "130",
+    "rarity": "Promo",
+    "set_name": "Scarlet & Violet Black Star Promos",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Kingdra ex",
+    "number": "131",
+    "rarity": "Promo",
+    "set_name": "Scarlet & Violet Black Star Promos",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Greninja ex",
+    "number": "132",
+    "rarity": "Promo",
+    "set_name": "Scarlet & Violet Black Star Promos",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Pecharunt",
+    "number": "129",
+    "rarity": "Promo",
+    "set_name": "Scarlet & Violet Black Star Promos",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Drifblim",
+    "number": "135",
+    "rarity": "Promo",
+    "set_name": "Scarlet & Violet Black Star Promos",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Crabominable",
+    "number": "134",
+    "rarity": "Promo",
+    "set_name": "Scarlet & Violet Black Star Promos",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Bouffalant",
+    "number": "136",
+    "rarity": "Promo",
+    "set_name": "Scarlet & Violet Black Star Promos",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Ledian",
+    "number": "133",
+    "rarity": "Promo",
+    "set_name": "Scarlet & Violet Black Star Promos",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Horsea",
+    "number": "137",
+    "rarity": "Promo",
+    "set_name": "Scarlet & Violet Black Star Promos",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Latias",
+    "number": "139",
+    "rarity": "Promo",
+    "set_name": "Scarlet & Violet Black Star Promos",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Victini ex",
+    "number": "142",
+    "rarity": "Promo",
+    "set_name": "Scarlet & Violet Black Star Promos",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Tinkaton",
+    "number": "140",
+    "rarity": "Promo",
+    "set_name": "Scarlet & Violet Black Star Promos",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Porygon2",
+    "number": "138",
+    "rarity": "Promo",
+    "set_name": "Scarlet & Violet Black Star Promos",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Noctowl",
+    "number": "141",
+    "rarity": "Promo",
+    "set_name": "Scarlet & Violet Black Star Promos",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Miraidon ex",
+    "number": "143",
+    "rarity": "Promo",
+    "set_name": "Scarlet & Violet Black Star Promos",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Gouging Fire ex",
+    "number": "144",
+    "rarity": "Promo",
+    "set_name": "Scarlet & Violet Black Star Promos",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Raging Bolt ex",
+    "number": "145",
+    "rarity": "Promo",
+    "set_name": "Scarlet & Violet Black Star Promos",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Iron Crown ex",
+    "number": "146",
+    "rarity": "Promo",
+    "set_name": "Scarlet & Violet Black Star Promos",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Iron Boulder ex",
+    "number": "147",
+    "rarity": "Promo",
+    "set_name": "Scarlet & Violet Black Star Promos",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Pecharunt",
+    "number": "149",
+    "rarity": "Promo",
+    "set_name": "Scarlet & Violet Black Star Promos",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Paradise Resort",
+    "number": "150",
+    "rarity": "Promo",
+    "set_name": "Scarlet & Violet Black Star Promos",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Gouging Fire",
+    "number": "151",
+    "rarity": "Promo",
+    "set_name": "Scarlet & Violet Black Star Promos",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Chien-Pao",
+    "number": "152",
+    "rarity": "Promo",
+    "set_name": "Scarlet & Violet Black Star Promos",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Magneton",
+    "number": "153",
+    "rarity": "Promo",
+    "set_name": "Scarlet & Violet Black Star Promos",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Indeedee",
+    "number": "154",
+    "rarity": "Promo",
+    "set_name": "Scarlet & Violet Black Star Promos",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Wooper",
+    "number": "155",
+    "rarity": "Promo",
+    "set_name": "Scarlet & Violet Black Star Promos",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Quagsire",
+    "number": "156",
+    "rarity": "Promo",
+    "set_name": "Scarlet & Violet Black Star Promos",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Zapdos",
+    "number": "157",
+    "rarity": "Promo",
+    "set_name": "Scarlet & Violet Black Star Promos",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Pachirisu",
+    "number": "158",
+    "rarity": "Promo",
+    "set_name": "Scarlet & Violet Black Star Promos",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Magneton",
+    "number": "159",
+    "rarity": "Promo",
+    "set_name": "Scarlet & Violet Black Star Promos",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Squawkabilly ex",
+    "number": "160",
+    "rarity": "Promo",
+    "set_name": "Scarlet & Violet Black Star Promos",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Charizard ex",
+    "number": "161",
+    "rarity": "Promo",
+    "set_name": "Scarlet & Violet Black Star Promos",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Houndstone ex",
+    "number": "162",
+    "rarity": "Promo",
+    "set_name": "Scarlet & Violet Black Star Promos",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Cinderace ex",
+    "number": "163",
+    "rarity": "Promo",
+    "set_name": "Scarlet & Violet Black Star Promos",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Lapras ex",
+    "number": "164",
+    "rarity": "Promo",
+    "set_name": "Scarlet & Violet Black Star Promos",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Terapagos ex",
+    "number": "165",
+    "rarity": "Promo",
+    "set_name": "Scarlet & Violet Black Star Promos",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Teal Mask Ogerpon ex",
+    "number": "166",
+    "rarity": "Promo",
+    "set_name": "Scarlet & Violet Promos",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Flareon",
+    "number": "167",
+    "rarity": "Promo",
+    "set_name": "Scarlet & Violet Promos",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Vaporeon",
+    "number": "168",
+    "rarity": "Promo",
+    "set_name": "Scarlet & Violet Promos",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Jolteon",
+    "number": "169",
+    "rarity": "Promo",
+    "set_name": "Scarlet & Violet Promos",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Leafeon",
+    "number": "170",
+    "rarity": "Promo",
+    "set_name": "Scarlet & Violet Promos",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Glaceon",
+    "number": "171",
+    "rarity": "Promo",
+    "set_name": "Scarlet & Violet Promos",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Sylveon",
+    "number": "172",
+    "rarity": "Promo",
+    "set_name": "Scarlet & Violet Promos",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Eevee",
+    "number": "173",
+    "rarity": "Promo",
+    "set_name": "Scarlet & Violet Promos",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Eevee ex",
+    "number": "174",
+    "rarity": "Promo",
+    "set_name": "Scarlet & Violet Promos",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Bloodmoon Ursaluna ex",
+    "number": "177",
+    "rarity": "Promo",
+    "set_name": "Scarlet & Violet Promos",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Kyogre ex",
+    "number": "178",
+    "rarity": "Promo",
+    "set_name": "Scarlet & Violet Promos",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Xerneas ex",
+    "number": "179",
+    "rarity": "Promo",
+    "set_name": "Scarlet & Violet Promos",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Dialga ex",
+    "number": "180",
+    "rarity": "Promo",
+    "set_name": "Scarlet & Violet Promos",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "N's Darmanitan",
+    "number": "181",
+    "rarity": "Promo",
+    "set_name": "Scarlet & Violet Promos",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Iono's Kilowattrel",
+    "number": "182",
+    "rarity": "Promo",
+    "set_name": "Scarlet & Violet Promos",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Lillie's Ribombee",
+    "number": "183",
+    "rarity": "Promo",
+    "set_name": "Scarlet & Violet Promos",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Hop's Snorlax",
+    "number": "184",
+    "rarity": "Promo",
+    "set_name": "Scarlet & Violet Promos",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Yanma",
+    "number": "185",
+    "rarity": "Promo",
+    "set_name": "Scarlet & Violet Promos",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Scraggy",
+    "number": "186",
+    "rarity": "Promo",
+    "set_name": "Scarlet & Violet Promos",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Yanmega",
+    "number": "187",
+    "rarity": "Promo",
+    "set_name": "Scarlet & Violet Promos",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Scrafty",
+    "number": "188",
+    "rarity": "Promo",
+    "set_name": "Scarlet & Violet Promos",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "N's Zorua",
+    "number": "189",
+    "rarity": "Promo",
+    "set_name": "Scarlet & Violet Promos",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Hop's Zacian ex",
+    "number": "193",
+    "rarity": "Promo",
+    "set_name": "Scarlet & Violet Promos",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Iono's Bellibolt ex",
+    "number": "194",
+    "rarity": "Promo",
+    "set_name": "Scarlet & Violet Promos",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Lillie's Clefairy ex",
+    "number": "195",
+    "rarity": "Promo",
+    "set_name": "Scarlet & Violet Promos",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Charizard ex",
+    "number": "196",
+    "rarity": "Promo",
+    "set_name": "Scarlet & Violet Promos",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Koraidon ex",
+    "number": "197",
+    "rarity": "Promo",
+    "set_name": "Scarlet & Violet Promos",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Zacian ex",
+    "number": "198",
+    "rarity": "Promo",
+    "set_name": "Scarlet & Violet Promos",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Zarude",
+    "number": "199",
+    "rarity": "Promo",
+    "set_name": "Scarlet & Violet Promos",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Eevee",
+    "number": "200",
+    "rarity": "Promo",
+    "set_name": "Scarlet & Violet Promos",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Zebstrika",
+    "number": "201",
+    "rarity": "Promo",
+    "set_name": "Scarlet & Violet Promos",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Kangaskhan",
+    "number": "202",
+    "rarity": "Promo",
+    "set_name": "Scarlet & Violet Promos",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Team Rocket's Wobbuffet",
+    "number": "203",
+    "rarity": "Promo",
+    "set_name": "Scarlet & Violet Promos",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Marnie's Morpeko",
+    "number": "206",
+    "rarity": "Promo",
+    "set_name": "Scarlet & Violet Promos",
+    "set_series": "Scarlet & Violet"
+  },
+  {
+    "name": "Steven's Beldum",
+    "number": "207",
+    "rarity": "Promo",
+    "set_name": "Scarlet & Violet Promos",
+    "set_series": "Scarlet & Violet"
+  }
+]
