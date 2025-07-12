@@ -1,0 +1,62 @@
+{
+  "strategy": "curated",
+  "total_items_selected": 1,
+  "test_mode": true,
+  "ebay_results": {
+    "total_searches_executed": 3,
+    "total_listings_found": 188,
+    "total_listings_uploaded": 188,
+    "item_results": [
+      {
+        "item_name": "Charizard V",
+        "item_type": "card",
+        "searches_executed": 3,
+        "listings_found": 188,
+        "listings_uploaded": 188,
+        "search_details": [
+          {
+            "search_terms": "Charizard V 154 Brilliant Stars near mint",
+            "listings_found": 68,
+            "pages_processed": 1
+          },
+          {
+            "search_terms": "Charizard V 154 Brilliant Stars nm",
+            "listings_found": 60,
+            "pages_processed": 1
+          },
+          {
+            "search_terms": "Charizard V 154 Brilliant Stars mint",
+            "listings_found": 60,
+            "pages_processed": 1
+          }
+        ]
+      }
+    ],
+    "failed_searches": [],
+    "parsing_issues": []
+  },
+  "pricecharting_search_plan": {
+    "platform": "pricecharting",
+    "total_items": 1,
+    "search_plans": [
+      {
+        "item_id": "de907721-7ad3-436d-996f-f66036bb5259",
+        "item_name": "Charizard V",
+        "item_type": "card",
+        "set_name": "Brilliant Stars",
+        "search_terms": [
+          "Charizard V 154",
+          "Charizard V Brilliant Stars 154"
+        ],
+        "term_count": 2,
+        "platform_strategy": "pricecharting",
+        "card_number": "154"
+      }
+    ],
+    "total_searches": 2,
+    "cards_count": 1,
+    "sealed_products_count": 0
+  },
+  "processing_time": 18.675801753997803,
+  "timestamp": "2025-06-29T10:24:14.739969"
+}

@@ -1,0 +1,30 @@
+{
+  "test_timestamp": "2025-06-29T10:13:08.192103",
+  "system_status": "fully_operational",
+  "components": {
+    "card_selector": {
+      "status": "working",
+      "details": {
+        "curated_cards": 13,
+        "sealed_products": 10,
+        "sample_cards": 3
+      }
+    },
+    "database": {
+      "status": "working",
+      "details": "Views and tables tested"
+    },
+    "uploader": {
+      "status": "working",
+      "details": "Upload methods tested"
+    },
+    "search": {
+      "status": "working",
+      "details": "Search generation tested"
+    },
+    "targeted_scraper": {
+      "status": "working",
+      "details": "Selection strategy tested"
+    }
+  }
+}

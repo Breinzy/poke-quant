@@ -1,0 +1,4914 @@
+{
+  "start_time": "2025-06-29T09:53:30.124068",
+  "cards_analyzed": 3,
+  "sealed_products_analyzed": 0,
+  "ebay_results": {
+    "selection_strategy": "curated",
+    "total_cards_selected": 3,
+    "total_cards_processed": 3,
+    "total_searches_executed": 9,
+    "total_listings_found": 0,
+    "total_listings_uploaded": 0,
+    "failed_cards": [
+      "de907721-7ad3-436d-996f-f66036bb5259",
+      "d597cc88-a5b5-4041-a59a-dc38f1c8af20",
+      "f60ee45a-43a0-431d-9ecd-70a92fcba8f0"
+    ],
+    "errors": [],
+    "batch_results": [
+      {
+        "batch_number": 1,
+        "cards_processed": 3,
+        "searches_executed": 9,
+        "listings_found": 0,
+        "listings_uploaded": 0,
+        "failed_cards": [
+          "de907721-7ad3-436d-996f-f66036bb5259",
+          "d597cc88-a5b5-4041-a59a-dc38f1c8af20",
+          "f60ee45a-43a0-431d-9ecd-70a92fcba8f0"
+        ],
+        "errors": []
+      }
+    ],
+    "processing_time": 50.929831743240356
+  },
+  "pricecharting_results": {
+    "cards": [
+      {
+        "card_id": "de907721-7ad3-436d-996f-f66036bb5259",
+        "card_name": "Charizard V",
+        "set_name": "Brilliant Stars",
+        "pricecharting_data": {
+          "url": "https://www.pricecharting.com/game/3188378",
+          "current_prices": {
+            "condition_1": 14.95,
+            "condition_2": 155.68,
+            "condition_3": 184.75,
+            "condition_4": 232.59,
+            "condition_5": 435.6,
+            "ungraded": 171.5,
+            "psa_10": 435.6
+          },
+          "chart_data": [
+            {
+              "timestamp": 1646118000000,
+              "date": "2022-03-01",
+              "price": 408.54,
+              "raw_price_cents": 40854
+            },
+            {
+              "timestamp": 1648792800000,
+              "date": "2022-04-01",
+              "price": 403.67,
+              "raw_price_cents": 40367
+            },
+            {
+              "timestamp": 1651384800000,
+              "date": "2022-05-01",
+              "price": 400.0,
+              "raw_price_cents": 40000
+            },
+            {
+              "timestamp": 1654063200000,
+              "date": "2022-06-01",
+              "price": 301.54,
+              "raw_price_cents": 30154
+            },
+            {
+              "timestamp": 1656655200000,
+              "date": "2022-07-01",
+              "price": 325.0,
+              "raw_price_cents": 32500
+            },
+            {
+              "timestamp": 1659333600000,
+              "date": "2022-08-01",
+              "price": 317.79,
+              "raw_price_cents": 31779
+            },
+            {
+              "timestamp": 1662012000000,
+              "date": "2022-09-01",
+              "price": 340.71,
+              "raw_price_cents": 34071
+            },
+            {
+              "timestamp": 1664604000000,
+              "date": "2022-10-01",
+              "price": 298.45,
+              "raw_price_cents": 29845
+            },
+            {
+              "timestamp": 1667282400000,
+              "date": "2022-11-01",
+              "price": 330.0,
+              "raw_price_cents": 33000
+            },
+            {
+              "timestamp": 1669878000000,
+              "date": "2022-12-01",
+              "price": 322.1,
+              "raw_price_cents": 32210
+            },
+            {
+              "timestamp": 1672556400000,
+              "date": "2023-01-01",
+              "price": 332.67,
+              "raw_price_cents": 33267
+            },
+            {
+              "timestamp": 1675234800000,
+              "date": "2023-02-01",
+              "price": 335.04,
+              "raw_price_cents": 33504
+            },
+            {
+              "timestamp": 1677654000000,
+              "date": "2023-03-01",
+              "price": 292.17,
+              "raw_price_cents": 29217
+            },
+            {
+              "timestamp": 1680328800000,
+              "date": "2023-04-01",
+              "price": 297.13,
+              "raw_price_cents": 29713
+            },
+            {
+              "timestamp": 1682920800000,
+              "date": "2023-05-01",
+              "price": 262.5,
+              "raw_price_cents": 26250
+            },
+            {
+              "timestamp": 1685599200000,
+              "date": "2023-06-01",
+              "price": 275.0,
+              "raw_price_cents": 27500
+            },
+            {
+              "timestamp": 1688191200000,
+              "date": "2023-07-01",
+              "price": 240.01,
+              "raw_price_cents": 24001
+            },
+            {
+              "timestamp": 1690869600000,
+              "date": "2023-08-01",
+              "price": 243.79,
+              "raw_price_cents": 24379
+            },
+            {
+              "timestamp": 1693548000000,
+              "date": "2023-09-01",
+              "price": 195.75,
+              "raw_price_cents": 19575
+            },
+            {
+              "timestamp": 1696140000000,
+              "date": "2023-10-01",
+              "price": 195.75,
+              "raw_price_cents": 19575
+            },
+            {
+              "timestamp": 1698818400000,
+              "date": "2023-11-01",
+              "price": 164.99,
+              "raw_price_cents": 16499
+            },
+            {
+              "timestamp": 1701414000000,
+              "date": "2023-12-01",
+              "price": 166.25,
+              "raw_price_cents": 16625
+            },
+            {
+              "timestamp": 1704092400000,
+              "date": "2024-01-01",
+              "price": 148.54,
+              "raw_price_cents": 14854
+            },
+            {
+              "timestamp": 1706770800000,
+              "date": "2024-02-01",
+              "price": 171.02,
+              "raw_price_cents": 17102
+            },
+            {
+              "timestamp": 1709276400000,
+              "date": "2024-03-01",
+              "price": 191.14,
+              "raw_price_cents": 19114
+            },
+            {
+              "timestamp": 1711951200000,
+              "date": "2024-04-01",
+              "price": 174.6,
+              "raw_price_cents": 17460
+            },
+            {
+              "timestamp": 1714543200000,
+              "date": "2024-05-01",
+              "price": 181.5,
+              "raw_price_cents": 18150
+            },
+            {
+              "timestamp": 1717221600000,
+              "date": "2024-06-01",
+              "price": 180.0,
+              "raw_price_cents": 18000
+            },
+            {
+              "timestamp": 1719813600000,
+              "date": "2024-07-01",
+              "price": 189.19,
+              "raw_price_cents": 18919
+            },
+            {
+              "timestamp": 1722492000000,
+              "date": "2024-08-01",
+              "price": 189.52,
+              "raw_price_cents": 18952
+            },
+            {
+              "timestamp": 1725170400000,
+              "date": "2024-09-01",
+              "price": 176.36,
+              "raw_price_cents": 17636
+            },
+            {
+              "timestamp": 1727762400000,
+              "date": "2024-10-01",
+              "price": 185.86,
+              "raw_price_cents": 18586
+            },
+            {
+              "timestamp": 1730440800000,
+              "date": "2024-11-01",
+              "price": 185.5,
+              "raw_price_cents": 18550
+            },
+            {
+              "timestamp": 1733036400000,
+              "date": "2024-12-01",
+              "price": 180.0,
+              "raw_price_cents": 18000
+            },
+            {
+              "timestamp": 1735714800000,
+              "date": "2025-01-01",
+              "price": 207.69,
+              "raw_price_cents": 20769
+            },
+            {
+              "timestamp": 1738393200000,
+              "date": "2025-02-01",
+              "price": 229.89,
+              "raw_price_cents": 22989
+            },
+            {
+              "timestamp": 1740812400000,
+              "date": "2025-03-01",
+              "price": 229.89,
+              "raw_price_cents": 22989
+            },
+            {
+              "timestamp": 1743487200000,
+              "date": "2025-04-01",
+              "price": 220.0,
+              "raw_price_cents": 22000
+            },
+            {
+              "timestamp": 1746079200000,
+              "date": "2025-05-01",
+              "price": 204.31,
+              "raw_price_cents": 20431
+            },
+            {
+              "timestamp": 1748757600000,
+              "date": "2025-06-01",
+              "price": 232.59,
+              "raw_price_cents": 23259
+            },
+            {
+              "timestamp": 1648792800000,
+              "date": "2022-04-01",
+              "price": 209.0,
+              "raw_price_cents": 20900
+            },
+            {
+              "timestamp": 1651384800000,
+              "date": "2022-05-01",
+              "price": 198.75,
+              "raw_price_cents": 19875
+            },
+            {
+              "timestamp": 1654063200000,
+              "date": "2022-06-01",
+              "price": 146.0,
+              "raw_price_cents": 14600
+            },
+            {
+              "timestamp": 1656655200000,
+              "date": "2022-07-01",
+              "price": 140.0,
+              "raw_price_cents": 14000
+            },
+            {
+              "timestamp": 1659333600000,
+              "date": "2022-08-01",
+              "price": 131.0,
+              "raw_price_cents": 13100
+            },
+            {
+              "timestamp": 1662012000000,
+              "date": "2022-09-01",
+              "price": 154.75,
+              "raw_price_cents": 15475
+            },
+            {
+              "timestamp": 1664604000000,
+              "date": "2022-10-01",
+              "price": 150.5,
+              "raw_price_cents": 15050
+            },
+            {
+              "timestamp": 1667282400000,
+              "date": "2022-11-01",
+              "price": 150.5,
+              "raw_price_cents": 15050
+            },
+            {
+              "timestamp": 1669878000000,
+              "date": "2022-12-01",
+              "price": 150.5,
+              "raw_price_cents": 15050
+            },
+            {
+              "timestamp": 1672556400000,
+              "date": "2023-01-01",
+              "price": 150.5,
+              "raw_price_cents": 15050
+            },
+            {
+              "timestamp": 1675234800000,
+              "date": "2023-02-01",
+              "price": 150.5,
+              "raw_price_cents": 15050
+            },
+            {
+              "timestamp": 1677654000000,
+              "date": "2023-03-01",
+              "price": 118.0,
+              "raw_price_cents": 11800
+            },
+            {
+              "timestamp": 1680328800000,
+              "date": "2023-04-01",
+              "price": 108.0,
+              "raw_price_cents": 10800
+            },
+            {
+              "timestamp": 1682920800000,
+              "date": "2023-05-01",
+              "price": 141.1,
+              "raw_price_cents": 14110
+            },
+            {
+              "timestamp": 1685599200000,
+              "date": "2023-06-01",
+              "price": 141.12,
+              "raw_price_cents": 14112
+            },
+            {
+              "timestamp": 1688191200000,
+              "date": "2023-07-01",
+              "price": 127.45,
+              "raw_price_cents": 12745
+            },
+            {
+              "timestamp": 1690869600000,
+              "date": "2023-08-01",
+              "price": 108.7,
+              "raw_price_cents": 10870
+            },
+            {
+              "timestamp": 1693548000000,
+              "date": "2023-09-01",
+              "price": 102.59,
+              "raw_price_cents": 10259
+            },
+            {
+              "timestamp": 1696140000000,
+              "date": "2023-10-01",
+              "price": 86.6,
+              "raw_price_cents": 8660
+            },
+            {
+              "timestamp": 1698818400000,
+              "date": "2023-11-01",
+              "price": 85.0,
+              "raw_price_cents": 8500
+            },
+            {
+              "timestamp": 1701414000000,
+              "date": "2023-12-01",
+              "price": 85.0,
+              "raw_price_cents": 8500
+            },
+            {
+              "timestamp": 1704092400000,
+              "date": "2024-01-01",
+              "price": 85.0,
+              "raw_price_cents": 8500
+            },
+            {
+              "timestamp": 1706770800000,
+              "date": "2024-02-01",
+              "price": 85.0,
+              "raw_price_cents": 8500
+            },
+            {
+              "timestamp": 1709276400000,
+              "date": "2024-03-01",
+              "price": 85.0,
+              "raw_price_cents": 8500
+            },
+            {
+              "timestamp": 1711951200000,
+              "date": "2024-04-01",
+              "price": 85.0,
+              "raw_price_cents": 8500
+            },
+            {
+              "timestamp": 1714543200000,
+              "date": "2024-05-01",
+              "price": 85.0,
+              "raw_price_cents": 8500
+            },
+            {
+              "timestamp": 1717221600000,
+              "date": "2024-06-01",
+              "price": 102.47,
+              "raw_price_cents": 10247
+            },
+            {
+              "timestamp": 1719813600000,
+              "date": "2024-07-01",
+              "price": 110.5,
+              "raw_price_cents": 11050
+            },
+            {
+              "timestamp": 1722492000000,
+              "date": "2024-08-01",
+              "price": 113.77,
+              "raw_price_cents": 11377
+            },
+            {
+              "timestamp": 1725170400000,
+              "date": "2024-09-01",
+              "price": 81.0,
+              "raw_price_cents": 8100
+            },
+            {
+              "timestamp": 1727762400000,
+              "date": "2024-10-01",
+              "price": 85.0,
+              "raw_price_cents": 8500
+            },
+            {
+              "timestamp": 1730440800000,
+              "date": "2024-11-01",
+              "price": 109.75,
+              "raw_price_cents": 10975
+            },
+            {
+              "timestamp": 1733036400000,
+              "date": "2024-12-01",
+              "price": 129.45,
+              "raw_price_cents": 12945
+            },
+            {
+              "timestamp": 1735714800000,
+              "date": "2025-01-01",
+              "price": 108.0,
+              "raw_price_cents": 10800
+            },
+            {
+              "timestamp": 1738393200000,
+              "date": "2025-02-01",
+              "price": 139.04,
+              "raw_price_cents": 13904
+            },
+            {
+              "timestamp": 1740812400000,
+              "date": "2025-03-01",
+              "price": 139.04,
+              "raw_price_cents": 13904
+            },
+            {
+              "timestamp": 1743487200000,
+              "date": "2025-04-01",
+              "price": 137.5,
+              "raw_price_cents": 13750
+            },
+            {
+              "timestamp": 1746079200000,
+              "date": "2025-05-01",
+              "price": 138.25,
+              "raw_price_cents": 13825
+            },
+            {
+              "timestamp": 1748757600000,
+              "date": "2025-06-01",
+              "price": 151.0,
+              "raw_price_cents": 15100
+            },
+            {
+              "timestamp": 1643698800000,
+              "date": "2022-02-01",
+              "price": 348.75,
+              "raw_price_cents": 34875
+            },
+            {
+              "timestamp": 1646118000000,
+              "date": "2022-03-01",
+              "price": 285.0,
+              "raw_price_cents": 28500
+            },
+            {
+              "timestamp": 1648792800000,
+              "date": "2022-04-01",
+              "price": 298.73,
+              "raw_price_cents": 29873
+            },
+            {
+              "timestamp": 1651384800000,
+              "date": "2022-05-01",
+              "price": 265.0,
+              "raw_price_cents": 26500
+            },
+            {
+              "timestamp": 1654063200000,
+              "date": "2022-06-01",
+              "price": 219.62,
+              "raw_price_cents": 21962
+            },
+            {
+              "timestamp": 1656655200000,
+              "date": "2022-07-01",
+              "price": 192.0,
+              "raw_price_cents": 19200
+            },
+            {
+              "timestamp": 1659333600000,
+              "date": "2022-08-01",
+              "price": 193.27,
+              "raw_price_cents": 19327
+            },
+            {
+              "timestamp": 1662012000000,
+              "date": "2022-09-01",
+              "price": 195.0,
+              "raw_price_cents": 19500
+            },
+            {
+              "timestamp": 1664604000000,
+              "date": "2022-10-01",
+              "price": 205.0,
+              "raw_price_cents": 20500
+            },
+            {
+              "timestamp": 1667282400000,
+              "date": "2022-11-01",
+              "price": 177.41,
+              "raw_price_cents": 17741
+            },
+            {
+              "timestamp": 1669878000000,
+              "date": "2022-12-01",
+              "price": 195.49,
+              "raw_price_cents": 19549
+            },
+            {
+              "timestamp": 1672556400000,
+              "date": "2023-01-01",
+              "price": 183.84,
+              "raw_price_cents": 18384
+            },
+            {
+              "timestamp": 1675234800000,
+              "date": "2023-02-01",
+              "price": 179.08,
+              "raw_price_cents": 17908
+            },
+            {
+              "timestamp": 1677654000000,
+              "date": "2023-03-01",
+              "price": 168.0,
+              "raw_price_cents": 16800
+            },
+            {
+              "timestamp": 1680328800000,
+              "date": "2023-04-01",
+              "price": 169.25,
+              "raw_price_cents": 16925
+            },
+            {
+              "timestamp": 1682920800000,
+              "date": "2023-05-01",
+              "price": 156.7,
+              "raw_price_cents": 15670
+            },
+            {
+              "timestamp": 1685599200000,
+              "date": "2023-06-01",
+              "price": 150.25,
+              "raw_price_cents": 15025
+            },
+            {
+              "timestamp": 1688191200000,
+              "date": "2023-07-01",
+              "price": 148.75,
+              "raw_price_cents": 14875
+            },
+            {
+              "timestamp": 1690869600000,
+              "date": "2023-08-01",
+              "price": 142.0,
+              "raw_price_cents": 14200
+            },
+            {
+              "timestamp": 1693548000000,
+              "date": "2023-09-01",
+              "price": 143.0,
+              "raw_price_cents": 14300
+            },
+            {
+              "timestamp": 1696140000000,
+              "date": "2023-10-01",
+              "price": 134.0,
+              "raw_price_cents": 13400
+            },
+            {
+              "timestamp": 1698818400000,
+              "date": "2023-11-01",
+              "price": 120.0,
+              "raw_price_cents": 12000
+            },
+            {
+              "timestamp": 1701414000000,
+              "date": "2023-12-01",
+              "price": 108.52,
+              "raw_price_cents": 10852
+            },
+            {
+              "timestamp": 1704092400000,
+              "date": "2024-01-01",
+              "price": 111.95,
+              "raw_price_cents": 11195
+            },
+            {
+              "timestamp": 1706770800000,
+              "date": "2024-02-01",
+              "price": 122.5,
+              "raw_price_cents": 12250
+            },
+            {
+              "timestamp": 1709276400000,
+              "date": "2024-03-01",
+              "price": 117.49,
+              "raw_price_cents": 11749
+            },
+            {
+              "timestamp": 1711951200000,
+              "date": "2024-04-01",
+              "price": 138.45,
+              "raw_price_cents": 13845
+            },
+            {
+              "timestamp": 1714543200000,
+              "date": "2024-05-01",
+              "price": 171.09,
+              "raw_price_cents": 17109
+            },
+            {
+              "timestamp": 1717221600000,
+              "date": "2024-06-01",
+              "price": 162.22,
+              "raw_price_cents": 16222
+            },
+            {
+              "timestamp": 1719813600000,
+              "date": "2024-07-01",
+              "price": 132.55,
+              "raw_price_cents": 13255
+            },
+            {
+              "timestamp": 1722492000000,
+              "date": "2024-08-01",
+              "price": 131.27,
+              "raw_price_cents": 13127
+            },
+            {
+              "timestamp": 1725170400000,
+              "date": "2024-09-01",
+              "price": 126.25,
+              "raw_price_cents": 12625
+            },
+            {
+              "timestamp": 1727762400000,
+              "date": "2024-10-01",
+              "price": 128.75,
+              "raw_price_cents": 12875
+            },
+            {
+              "timestamp": 1730440800000,
+              "date": "2024-11-01",
+              "price": 134.0,
+              "raw_price_cents": 13400
+            },
+            {
+              "timestamp": 1733036400000,
+              "date": "2024-12-01",
+              "price": 162.0,
+              "raw_price_cents": 16200
+            },
+            {
+              "timestamp": 1735714800000,
+              "date": "2025-01-01",
+              "price": 183.13,
+              "raw_price_cents": 18313
+            },
+            {
+              "timestamp": 1738393200000,
+              "date": "2025-02-01",
+              "price": 202.19,
+              "raw_price_cents": 20219
+            },
+            {
+              "timestamp": 1740812400000,
+              "date": "2025-03-01",
+              "price": 202.5,
+              "raw_price_cents": 20250
+            },
+            {
+              "timestamp": 1743487200000,
+              "date": "2025-04-01",
+              "price": 189.75,
+              "raw_price_cents": 18975
+            },
+            {
+              "timestamp": 1746079200000,
+              "date": "2025-05-01",
+              "price": 192.64,
+              "raw_price_cents": 19264
+            },
+            {
+              "timestamp": 1748757600000,
+              "date": "2025-06-01",
+              "price": 184.75,
+              "raw_price_cents": 18475
+            },
+            {
+              "timestamp": 1643698800000,
+              "date": "2022-02-01",
+              "price": 1353.27,
+              "raw_price_cents": 135327
+            },
+            {
+              "timestamp": 1646118000000,
+              "date": "2022-03-01",
+              "price": 630.28,
+              "raw_price_cents": 63028
+            },
+            {
+              "timestamp": 1648792800000,
+              "date": "2022-04-01",
+              "price": 594.67,
+              "raw_price_cents": 59467
+            },
+            {
+              "timestamp": 1651384800000,
+              "date": "2022-05-01",
+              "price": 506.22,
+              "raw_price_cents": 50622
+            },
+            {
+              "timestamp": 1654063200000,
+              "date": "2022-06-01",
+              "price": 497.72,
+              "raw_price_cents": 49772
+            },
+            {
+              "timestamp": 1656655200000,
+              "date": "2022-07-01",
+              "price": 442.5,
+              "raw_price_cents": 44250
+            },
+            {
+              "timestamp": 1659333600000,
+              "date": "2022-08-01",
+              "price": 450.47,
+              "raw_price_cents": 45047
+            },
+            {
+              "timestamp": 1662012000000,
+              "date": "2022-09-01",
+              "price": 454.65,
+              "raw_price_cents": 45465
+            },
+            {
+              "timestamp": 1664604000000,
+              "date": "2022-10-01",
+              "price": 482.0,
+              "raw_price_cents": 48200
+            },
+            {
+              "timestamp": 1667282400000,
+              "date": "2022-11-01",
+              "price": 407.0,
+              "raw_price_cents": 40700
+            },
+            {
+              "timestamp": 1669878000000,
+              "date": "2022-12-01",
+              "price": 407.0,
+              "raw_price_cents": 40700
+            },
+            {
+              "timestamp": 1672556400000,
+              "date": "2023-01-01",
+              "price": 400.0,
+              "raw_price_cents": 40000
+            },
+            {
+              "timestamp": 1675234800000,
+              "date": "2023-02-01",
+              "price": 396.43,
+              "raw_price_cents": 39643
+            },
+            {
+              "timestamp": 1677654000000,
+              "date": "2023-03-01",
+              "price": 368.0,
+              "raw_price_cents": 36800
+            },
+            {
+              "timestamp": 1680328800000,
+              "date": "2023-04-01",
+              "price": 337.46,
+              "raw_price_cents": 33746
+            },
+            {
+              "timestamp": 1682920800000,
+              "date": "2023-05-01",
+              "price": 325.0,
+              "raw_price_cents": 32500
+            },
+            {
+              "timestamp": 1685599200000,
+              "date": "2023-06-01",
+              "price": 305.0,
+              "raw_price_cents": 30500
+            },
+            {
+              "timestamp": 1688191200000,
+              "date": "2023-07-01",
+              "price": 303.19,
+              "raw_price_cents": 30319
+            },
+            {
+              "timestamp": 1690869600000,
+              "date": "2023-08-01",
+              "price": 283.12,
+              "raw_price_cents": 28312
+            },
+            {
+              "timestamp": 1693548000000,
+              "date": "2023-09-01",
+              "price": 246.19,
+              "raw_price_cents": 24619
+            },
+            {
+              "timestamp": 1696140000000,
+              "date": "2023-10-01",
+              "price": 225.88,
+              "raw_price_cents": 22588
+            },
+            {
+              "timestamp": 1698818400000,
+              "date": "2023-11-01",
+              "price": 220.0,
+              "raw_price_cents": 22000
+            },
+            {
+              "timestamp": 1701414000000,
+              "date": "2023-12-01",
+              "price": 219.38,
+              "raw_price_cents": 21938
+            },
+            {
+              "timestamp": 1704092400000,
+              "date": "2024-01-01",
+              "price": 233.73,
+              "raw_price_cents": 23373
+            },
+            {
+              "timestamp": 1706770800000,
+              "date": "2024-02-01",
+              "price": 242.5,
+              "raw_price_cents": 24250
+            },
+            {
+              "timestamp": 1709276400000,
+              "date": "2024-03-01",
+              "price": 224.06,
+              "raw_price_cents": 22406
+            },
+            {
+              "timestamp": 1711951200000,
+              "date": "2024-04-01",
+              "price": 270.5,
+              "raw_price_cents": 27050
+            },
+            {
+              "timestamp": 1714543200000,
+              "date": "2024-05-01",
+              "price": 340.46,
+              "raw_price_cents": 34046
+            },
+            {
+              "timestamp": 1717221600000,
+              "date": "2024-06-01",
+              "price": 294.14,
+              "raw_price_cents": 29414
+            },
+            {
+              "timestamp": 1719813600000,
+              "date": "2024-07-01",
+              "price": 291.42,
+              "raw_price_cents": 29142
+            },
+            {
+              "timestamp": 1722492000000,
+              "date": "2024-08-01",
+              "price": 270.0,
+              "raw_price_cents": 27000
+            },
+            {
+              "timestamp": 1725170400000,
+              "date": "2024-09-01",
+              "price": 256.0,
+              "raw_price_cents": 25600
+            },
+            {
+              "timestamp": 1727762400000,
+              "date": "2024-10-01",
+              "price": 294.5,
+              "raw_price_cents": 29450
+            },
+            {
+              "timestamp": 1730440800000,
+              "date": "2024-11-01",
+              "price": 324.61,
+              "raw_price_cents": 32461
+            },
+            {
+              "timestamp": 1733036400000,
+              "date": "2024-12-01",
+              "price": 369.09,
+              "raw_price_cents": 36909
+            },
+            {
+              "timestamp": 1735714800000,
+              "date": "2025-01-01",
+              "price": 454.42,
+              "raw_price_cents": 45442
+            },
+            {
+              "timestamp": 1738393200000,
+              "date": "2025-02-01",
+              "price": 477.22,
+              "raw_price_cents": 47722
+            },
+            {
+              "timestamp": 1740812400000,
+              "date": "2025-03-01",
+              "price": 463.0,
+              "raw_price_cents": 46300
+            },
+            {
+              "timestamp": 1743487200000,
+              "date": "2025-04-01",
+              "price": 435.0,
+              "raw_price_cents": 43500
+            },
+            {
+              "timestamp": 1746079200000,
+              "date": "2025-05-01",
+              "price": 440.0,
+              "raw_price_cents": 44000
+            },
+            {
+              "timestamp": 1748757600000,
+              "date": "2025-06-01",
+              "price": 435.6,
+              "raw_price_cents": 43560
+            },
+            {
+              "timestamp": 1648792800000,
+              "date": "2022-04-01",
+              "price": 219.5,
+              "raw_price_cents": 21950
+            },
+            {
+              "timestamp": 1651384800000,
+              "date": "2022-05-01",
+              "price": 208.25,
+              "raw_price_cents": 20825
+            },
+            {
+              "timestamp": 1654063200000,
+              "date": "2022-06-01",
+              "price": 182.5,
+              "raw_price_cents": 18250
+            },
+            {
+              "timestamp": 1656655200000,
+              "date": "2022-07-01",
+              "price": 174.62,
+              "raw_price_cents": 17462
+            },
+            {
+              "timestamp": 1659333600000,
+              "date": "2022-08-01",
+              "price": 163.76,
+              "raw_price_cents": 16376
+            },
+            {
+              "timestamp": 1662012000000,
+              "date": "2022-09-01",
+              "price": 170.5,
+              "raw_price_cents": 17050
+            },
+            {
+              "timestamp": 1664604000000,
+              "date": "2022-10-01",
+              "price": 172.84,
+              "raw_price_cents": 17284
+            },
+            {
+              "timestamp": 1667282400000,
+              "date": "2022-11-01",
+              "price": 170.0,
+              "raw_price_cents": 17000
+            },
+            {
+              "timestamp": 1669878000000,
+              "date": "2022-12-01",
+              "price": 163.8,
+              "raw_price_cents": 16380
+            },
+            {
+              "timestamp": 1672556400000,
+              "date": "2023-01-01",
+              "price": 162.22,
+              "raw_price_cents": 16222
+            },
+            {
+              "timestamp": 1675234800000,
+              "date": "2023-02-01",
+              "price": 158.04,
+              "raw_price_cents": 15804
+            },
+            {
+              "timestamp": 1677654000000,
+              "date": "2023-03-01",
+              "price": 147.58,
+              "raw_price_cents": 14758
+            },
+            {
+              "timestamp": 1680328800000,
+              "date": "2023-04-01",
+              "price": 135.08,
+              "raw_price_cents": 13508
+            },
+            {
+              "timestamp": 1682920800000,
+              "date": "2023-05-01",
+              "price": 145.47,
+              "raw_price_cents": 14547
+            },
+            {
+              "timestamp": 1685599200000,
+              "date": "2023-06-01",
+              "price": 142.5,
+              "raw_price_cents": 14250
+            },
+            {
+              "timestamp": 1688191200000,
+              "date": "2023-07-01",
+              "price": 129.52,
+              "raw_price_cents": 12952
+            },
+            {
+              "timestamp": 1690869600000,
+              "date": "2023-08-01",
+              "price": 128.76,
+              "raw_price_cents": 12876
+            },
+            {
+              "timestamp": 1693548000000,
+              "date": "2023-09-01",
+              "price": 130.0,
+              "raw_price_cents": 13000
+            },
+            {
+              "timestamp": 1696140000000,
+              "date": "2023-10-01",
+              "price": 121.79,
+              "raw_price_cents": 12179
+            },
+            {
+              "timestamp": 1698818400000,
+              "date": "2023-11-01",
+              "price": 109.41,
+              "raw_price_cents": 10941
+            },
+            {
+              "timestamp": 1701414000000,
+              "date": "2023-12-01",
+              "price": 93.95,
+              "raw_price_cents": 9395
+            },
+            {
+              "timestamp": 1704092400000,
+              "date": "2024-01-01",
+              "price": 94.0,
+              "raw_price_cents": 9400
+            },
+            {
+              "timestamp": 1706770800000,
+              "date": "2024-02-01",
+              "price": 96.15,
+              "raw_price_cents": 9615
+            },
+            {
+              "timestamp": 1709276400000,
+              "date": "2024-03-01",
+              "price": 97.5,
+              "raw_price_cents": 9750
+            },
+            {
+              "timestamp": 1711951200000,
+              "date": "2024-04-01",
+              "price": 118.0,
+              "raw_price_cents": 11800
+            },
+            {
+              "timestamp": 1714543200000,
+              "date": "2024-05-01",
+              "price": 152.5,
+              "raw_price_cents": 15250
+            },
+            {
+              "timestamp": 1717221600000,
+              "date": "2024-06-01",
+              "price": 125.26,
+              "raw_price_cents": 12526
+            },
+            {
+              "timestamp": 1719813600000,
+              "date": "2024-07-01",
+              "price": 125.0,
+              "raw_price_cents": 12500
+            },
+            {
+              "timestamp": 1722492000000,
+              "date": "2024-08-01",
+              "price": 116.75,
+              "raw_price_cents": 11675
+            },
+            {
+              "timestamp": 1725170400000,
+              "date": "2024-09-01",
+              "price": 101.75,
+              "raw_price_cents": 10175
+            },
+            {
+              "timestamp": 1727762400000,
+              "date": "2024-10-01",
+              "price": 106.04,
+              "raw_price_cents": 10604
+            },
+            {
+              "timestamp": 1730440800000,
+              "date": "2024-11-01",
+              "price": 109.82,
+              "raw_price_cents": 10982
+            },
+            {
+              "timestamp": 1733036400000,
+              "date": "2024-12-01",
+              "price": 135.0,
+              "raw_price_cents": 13500
+            },
+            {
+              "timestamp": 1735714800000,
+              "date": "2025-01-01",
+              "price": 135.04,
+              "raw_price_cents": 13504
+            },
+            {
+              "timestamp": 1738393200000,
+              "date": "2025-02-01",
+              "price": 146.68,
+              "raw_price_cents": 14668
+            },
+            {
+              "timestamp": 1740812400000,
+              "date": "2025-03-01",
+              "price": 157.5,
+              "raw_price_cents": 15750
+            },
+            {
+              "timestamp": 1743487200000,
+              "date": "2025-04-01",
+              "price": 156.58,
+              "raw_price_cents": 15658
+            },
+            {
+              "timestamp": 1746079200000,
+              "date": "2025-05-01",
+              "price": 157.5,
+              "raw_price_cents": 15750
+            },
+            {
+              "timestamp": 1748757600000,
+              "date": "2025-06-01",
+              "price": 155.68,
+              "raw_price_cents": 15568
+            },
+            {
+              "timestamp": 1643698800000,
+              "date": "2022-02-01",
+              "price": 255.0,
+              "raw_price_cents": 25500
+            },
+            {
+              "timestamp": 1646118000000,
+              "date": "2022-03-01",
+              "price": 203.33,
+              "raw_price_cents": 20333
+            },
+            {
+              "timestamp": 1648792800000,
+              "date": "2022-04-01",
+              "price": 207.5,
+              "raw_price_cents": 20750
+            },
+            {
+              "timestamp": 1651384800000,
+              "date": "2022-05-01",
+              "price": 186.5,
+              "raw_price_cents": 18650
+            },
+            {
+              "timestamp": 1654063200000,
+              "date": "2022-06-01",
+              "price": 166.3,
+              "raw_price_cents": 16630
+            },
+            {
+              "timestamp": 1656655200000,
+              "date": "2022-07-01",
+              "price": 157.55,
+              "raw_price_cents": 15755
+            },
+            {
+              "timestamp": 1659333600000,
+              "date": "2022-08-01",
+              "price": 161.07,
+              "raw_price_cents": 16107
+            },
+            {
+              "timestamp": 1662012000000,
+              "date": "2022-09-01",
+              "price": 181.99,
+              "raw_price_cents": 18199
+            },
+            {
+              "timestamp": 1664604000000,
+              "date": "2022-10-01",
+              "price": 192.93,
+              "raw_price_cents": 19293
+            },
+            {
+              "timestamp": 1667282400000,
+              "date": "2022-11-01",
+              "price": 179.75,
+              "raw_price_cents": 17975
+            },
+            {
+              "timestamp": 1669878000000,
+              "date": "2022-12-01",
+              "price": 158.73,
+              "raw_price_cents": 15873
+            },
+            {
+              "timestamp": 1672556400000,
+              "date": "2023-01-01",
+              "price": 152.64,
+              "raw_price_cents": 15264
+            },
+            {
+              "timestamp": 1675234800000,
+              "date": "2023-02-01",
+              "price": 153.08,
+              "raw_price_cents": 15308
+            },
+            {
+              "timestamp": 1677654000000,
+              "date": "2023-03-01",
+              "price": 139.25,
+              "raw_price_cents": 13925
+            },
+            {
+              "timestamp": 1680328800000,
+              "date": "2023-04-01",
+              "price": 135.42,
+              "raw_price_cents": 13542
+            },
+            {
+              "timestamp": 1682920800000,
+              "date": "2023-05-01",
+              "price": 122.86,
+              "raw_price_cents": 12286
+            },
+            {
+              "timestamp": 1685599200000,
+              "date": "2023-06-01",
+              "price": 130.2,
+              "raw_price_cents": 13020
+            },
+            {
+              "timestamp": 1688191200000,
+              "date": "2023-07-01",
+              "price": 124.0,
+              "raw_price_cents": 12400
+            },
+            {
+              "timestamp": 1690869600000,
+              "date": "2023-08-01",
+              "price": 117.35,
+              "raw_price_cents": 11735
+            },
+            {
+              "timestamp": 1693548000000,
+              "date": "2023-09-01",
+              "price": 112.5,
+              "raw_price_cents": 11250
+            },
+            {
+              "timestamp": 1696140000000,
+              "date": "2023-10-01",
+              "price": 101.06,
+              "raw_price_cents": 10106
+            },
+            {
+              "timestamp": 1698818400000,
+              "date": "2023-11-01",
+              "price": 100.41,
+              "raw_price_cents": 10041
+            },
+            {
+              "timestamp": 1701414000000,
+              "date": "2023-12-01",
+              "price": 100.7,
+              "raw_price_cents": 10070
+            },
+            {
+              "timestamp": 1704092400000,
+              "date": "2024-01-01",
+              "price": 96.98,
+              "raw_price_cents": 9698
+            },
+            {
+              "timestamp": 1706770800000,
+              "date": "2024-02-01",
+              "price": 102.73,
+              "raw_price_cents": 10273
+            },
+            {
+              "timestamp": 1709276400000,
+              "date": "2024-03-01",
+              "price": 105.0,
+              "raw_price_cents": 10500
+            },
+            {
+              "timestamp": 1711951200000,
+              "date": "2024-04-01",
+              "price": 122.38,
+              "raw_price_cents": 12238
+            },
+            {
+              "timestamp": 1714543200000,
+              "date": "2024-05-01",
+              "price": 172.48,
+              "raw_price_cents": 17248
+            },
+            {
+              "timestamp": 1717221600000,
+              "date": "2024-06-01",
+              "price": 144.57,
+              "raw_price_cents": 14457
+            },
+            {
+              "timestamp": 1719813600000,
+              "date": "2024-07-01",
+              "price": 136.22,
+              "raw_price_cents": 13622
+            },
+            {
+              "timestamp": 1722492000000,
+              "date": "2024-08-01",
+              "price": 110.85,
+              "raw_price_cents": 11085
+            },
+            {
+              "timestamp": 1725170400000,
+              "date": "2024-09-01",
+              "price": 121.44,
+              "raw_price_cents": 12144
+            },
+            {
+              "timestamp": 1727762400000,
+              "date": "2024-10-01",
+              "price": 131.25,
+              "raw_price_cents": 13125
+            },
+            {
+              "timestamp": 1730440800000,
+              "date": "2024-11-01",
+              "price": 143.75,
+              "raw_price_cents": 14375
+            },
+            {
+              "timestamp": 1733036400000,
+              "date": "2024-12-01",
+              "price": 170.38,
+              "raw_price_cents": 17038
+            },
+            {
+              "timestamp": 1735714800000,
+              "date": "2025-01-01",
+              "price": 178.24,
+              "raw_price_cents": 17824
+            },
+            {
+              "timestamp": 1738393200000,
+              "date": "2025-02-01",
+              "price": 180.9,
+              "raw_price_cents": 18090
+            },
+            {
+              "timestamp": 1740812400000,
+              "date": "2025-03-01",
+              "price": 172.5,
+              "raw_price_cents": 17250
+            },
+            {
+              "timestamp": 1743487200000,
+              "date": "2025-04-01",
+              "price": 179.99,
+              "raw_price_cents": 17999
+            },
+            {
+              "timestamp": 1746079200000,
+              "date": "2025-05-01",
+              "price": 179.09,
+              "raw_price_cents": 17909
+            },
+            {
+              "timestamp": 1748757600000,
+              "date": "2025-06-01",
+              "price": 171.5,
+              "raw_price_cents": 17150
+            }
+          ],
+          "product_info": {
+            "title": "Charizard V #154 \n        \n            Pokemon Brilliant Stars"
+          },
+          "scrape_timestamp": "2025-06-29T09:54:30.781723"
+        }
+      },
+      {
+        "card_id": "d597cc88-a5b5-4041-a59a-dc38f1c8af20",
+        "card_name": "Charizard VSTAR",
+        "set_name": "Brilliant Stars",
+        "pricecharting_data": {
+          "url": "https://www.pricecharting.com/game/3188243",
+          "current_prices": {
+            "condition_1": 5.81,
+            "condition_2": 15.56,
+            "condition_3": 19.0,
+            "condition_4": 22.76,
+            "condition_5": 56.6,
+            "ungraded": 6.7,
+            "psa_10": 56.6
+          },
+          "chart_data": [
+            {
+              "timestamp": 1651384800000,
+              "date": "2022-05-01",
+              "price": 86.0,
+              "raw_price_cents": 8600
+            },
+            {
+              "timestamp": 1654063200000,
+              "date": "2022-06-01",
+              "price": 60.0,
+              "raw_price_cents": 6000
+            },
+            {
+              "timestamp": 1656655200000,
+              "date": "2022-07-01",
+              "price": 67.19,
+              "raw_price_cents": 6719
+            },
+            {
+              "timestamp": 1659333600000,
+              "date": "2022-08-01",
+              "price": 67.19,
+              "raw_price_cents": 6719
+            },
+            {
+              "timestamp": 1662012000000,
+              "date": "2022-09-01",
+              "price": 67.16,
+              "raw_price_cents": 6716
+            },
+            {
+              "timestamp": 1664604000000,
+              "date": "2022-10-01",
+              "price": 66.33,
+              "raw_price_cents": 6633
+            },
+            {
+              "timestamp": 1667282400000,
+              "date": "2022-11-01",
+              "price": 46.37,
+              "raw_price_cents": 4637
+            },
+            {
+              "timestamp": 1669878000000,
+              "date": "2022-12-01",
+              "price": 46.37,
+              "raw_price_cents": 4637
+            },
+            {
+              "timestamp": 1672556400000,
+              "date": "2023-01-01",
+              "price": 69.38,
+              "raw_price_cents": 6938
+            },
+            {
+              "timestamp": 1675234800000,
+              "date": "2023-02-01",
+              "price": 62.0,
+              "raw_price_cents": 6200
+            },
+            {
+              "timestamp": 1677654000000,
+              "date": "2023-03-01",
+              "price": 46.46,
+              "raw_price_cents": 4646
+            },
+            {
+              "timestamp": 1680328800000,
+              "date": "2023-04-01",
+              "price": 51.11,
+              "raw_price_cents": 5111
+            },
+            {
+              "timestamp": 1682920800000,
+              "date": "2023-05-01",
+              "price": 53.0,
+              "raw_price_cents": 5300
+            },
+            {
+              "timestamp": 1685599200000,
+              "date": "2023-06-01",
+              "price": 49.0,
+              "raw_price_cents": 4900
+            },
+            {
+              "timestamp": 1688191200000,
+              "date": "2023-07-01",
+              "price": 48.0,
+              "raw_price_cents": 4800
+            },
+            {
+              "timestamp": 1690869600000,
+              "date": "2023-08-01",
+              "price": 44.0,
+              "raw_price_cents": 4400
+            },
+            {
+              "timestamp": 1693548000000,
+              "date": "2023-09-01",
+              "price": 40.0,
+              "raw_price_cents": 4000
+            },
+            {
+              "timestamp": 1696140000000,
+              "date": "2023-10-01",
+              "price": 41.0,
+              "raw_price_cents": 4100
+            },
+            {
+              "timestamp": 1698818400000,
+              "date": "2023-11-01",
+              "price": 45.0,
+              "raw_price_cents": 4500
+            },
+            {
+              "timestamp": 1701414000000,
+              "date": "2023-12-01",
+              "price": 44.0,
+              "raw_price_cents": 4400
+            },
+            {
+              "timestamp": 1704092400000,
+              "date": "2024-01-01",
+              "price": 41.0,
+              "raw_price_cents": 4100
+            },
+            {
+              "timestamp": 1706770800000,
+              "date": "2024-02-01",
+              "price": 37.71,
+              "raw_price_cents": 3771
+            },
+            {
+              "timestamp": 1709276400000,
+              "date": "2024-03-01",
+              "price": 38.25,
+              "raw_price_cents": 3825
+            },
+            {
+              "timestamp": 1711951200000,
+              "date": "2024-04-01",
+              "price": 24.5,
+              "raw_price_cents": 2450
+            },
+            {
+              "timestamp": 1714543200000,
+              "date": "2024-05-01",
+              "price": 24.5,
+              "raw_price_cents": 2450
+            },
+            {
+              "timestamp": 1717221600000,
+              "date": "2024-06-01",
+              "price": 19.0,
+              "raw_price_cents": 1900
+            },
+            {
+              "timestamp": 1719813600000,
+              "date": "2024-07-01",
+              "price": 19.0,
+              "raw_price_cents": 1900
+            },
+            {
+              "timestamp": 1722492000000,
+              "date": "2024-08-01",
+              "price": 22.0,
+              "raw_price_cents": 2200
+            },
+            {
+              "timestamp": 1725170400000,
+              "date": "2024-09-01",
+              "price": 17.74,
+              "raw_price_cents": 1774
+            },
+            {
+              "timestamp": 1727762400000,
+              "date": "2024-10-01",
+              "price": 19.0,
+              "raw_price_cents": 1900
+            },
+            {
+              "timestamp": 1730440800000,
+              "date": "2024-11-01",
+              "price": 19.51,
+              "raw_price_cents": 1951
+            },
+            {
+              "timestamp": 1733036400000,
+              "date": "2024-12-01",
+              "price": 27.0,
+              "raw_price_cents": 2700
+            },
+            {
+              "timestamp": 1735714800000,
+              "date": "2025-01-01",
+              "price": 23.0,
+              "raw_price_cents": 2300
+            },
+            {
+              "timestamp": 1738393200000,
+              "date": "2025-02-01",
+              "price": 23.7,
+              "raw_price_cents": 2370
+            },
+            {
+              "timestamp": 1740812400000,
+              "date": "2025-03-01",
+              "price": 23.27,
+              "raw_price_cents": 2327
+            },
+            {
+              "timestamp": 1743487200000,
+              "date": "2025-04-01",
+              "price": 23.12,
+              "raw_price_cents": 2312
+            },
+            {
+              "timestamp": 1746079200000,
+              "date": "2025-05-01",
+              "price": 22.83,
+              "raw_price_cents": 2283
+            },
+            {
+              "timestamp": 1748757600000,
+              "date": "2025-06-01",
+              "price": 22.76,
+              "raw_price_cents": 2276
+            },
+            {
+              "timestamp": 1651384800000,
+              "date": "2022-05-01",
+              "price": 35.75,
+              "raw_price_cents": 3575
+            },
+            {
+              "timestamp": 1654063200000,
+              "date": "2022-06-01",
+              "price": 37.49,
+              "raw_price_cents": 3749
+            },
+            {
+              "timestamp": 1656655200000,
+              "date": "2022-07-01",
+              "price": 29.95,
+              "raw_price_cents": 2995
+            },
+            {
+              "timestamp": 1659333600000,
+              "date": "2022-08-01",
+              "price": 32.55,
+              "raw_price_cents": 3255
+            },
+            {
+              "timestamp": 1662012000000,
+              "date": "2022-09-01",
+              "price": 29.95,
+              "raw_price_cents": 2995
+            },
+            {
+              "timestamp": 1664604000000,
+              "date": "2022-10-01",
+              "price": 29.95,
+              "raw_price_cents": 2995
+            },
+            {
+              "timestamp": 1667282400000,
+              "date": "2022-11-01",
+              "price": 29.95,
+              "raw_price_cents": 2995
+            },
+            {
+              "timestamp": 1669878000000,
+              "date": "2022-12-01",
+              "price": 21.0,
+              "raw_price_cents": 2100
+            },
+            {
+              "timestamp": 1672556400000,
+              "date": "2023-01-01",
+              "price": 17.01,
+              "raw_price_cents": 1701
+            },
+            {
+              "timestamp": 1675234800000,
+              "date": "2023-02-01",
+              "price": 16.26,
+              "raw_price_cents": 1626
+            },
+            {
+              "timestamp": 1677654000000,
+              "date": "2023-03-01",
+              "price": 16.0,
+              "raw_price_cents": 1600
+            },
+            {
+              "timestamp": 1680328800000,
+              "date": "2023-04-01",
+              "price": 15.0,
+              "raw_price_cents": 1500
+            },
+            {
+              "timestamp": 1682920800000,
+              "date": "2023-05-01",
+              "price": 16.03,
+              "raw_price_cents": 1603
+            },
+            {
+              "timestamp": 1685599200000,
+              "date": "2023-06-01",
+              "price": 17.0,
+              "raw_price_cents": 1700
+            },
+            {
+              "timestamp": 1688191200000,
+              "date": "2023-07-01",
+              "price": 14.18,
+              "raw_price_cents": 1418
+            },
+            {
+              "timestamp": 1690869600000,
+              "date": "2023-08-01",
+              "price": 14.45,
+              "raw_price_cents": 1445
+            },
+            {
+              "timestamp": 1693548000000,
+              "date": "2023-09-01",
+              "price": 14.18,
+              "raw_price_cents": 1418
+            },
+            {
+              "timestamp": 1696140000000,
+              "date": "2023-10-01",
+              "price": 14.18,
+              "raw_price_cents": 1418
+            },
+            {
+              "timestamp": 1698818400000,
+              "date": "2023-11-01",
+              "price": 12.0,
+              "raw_price_cents": 1200
+            },
+            {
+              "timestamp": 1701414000000,
+              "date": "2023-12-01",
+              "price": 13.0,
+              "raw_price_cents": 1300
+            },
+            {
+              "timestamp": 1704092400000,
+              "date": "2024-01-01",
+              "price": 13.0,
+              "raw_price_cents": 1300
+            },
+            {
+              "timestamp": 1706770800000,
+              "date": "2024-02-01",
+              "price": 12.0,
+              "raw_price_cents": 1200
+            },
+            {
+              "timestamp": 1709276400000,
+              "date": "2024-03-01",
+              "price": 12.0,
+              "raw_price_cents": 1200
+            },
+            {
+              "timestamp": 1711951200000,
+              "date": "2024-04-01",
+              "price": 11.0,
+              "raw_price_cents": 1100
+            },
+            {
+              "timestamp": 1714543200000,
+              "date": "2024-05-01",
+              "price": 9.0,
+              "raw_price_cents": 900
+            },
+            {
+              "timestamp": 1717221600000,
+              "date": "2024-06-01",
+              "price": 9.0,
+              "raw_price_cents": 900
+            },
+            {
+              "timestamp": 1719813600000,
+              "date": "2024-07-01",
+              "price": 9.0,
+              "raw_price_cents": 900
+            },
+            {
+              "timestamp": 1722492000000,
+              "date": "2024-08-01",
+              "price": 10.0,
+              "raw_price_cents": 1000
+            },
+            {
+              "timestamp": 1725170400000,
+              "date": "2024-09-01",
+              "price": 12.0,
+              "raw_price_cents": 1200
+            },
+            {
+              "timestamp": 1727762400000,
+              "date": "2024-10-01",
+              "price": 13.97,
+              "raw_price_cents": 1397
+            },
+            {
+              "timestamp": 1730440800000,
+              "date": "2024-11-01",
+              "price": 13.97,
+              "raw_price_cents": 1397
+            },
+            {
+              "timestamp": 1733036400000,
+              "date": "2024-12-01",
+              "price": 14.17,
+              "raw_price_cents": 1417
+            },
+            {
+              "timestamp": 1735714800000,
+              "date": "2025-01-01",
+              "price": 14.18,
+              "raw_price_cents": 1418
+            },
+            {
+              "timestamp": 1738393200000,
+              "date": "2025-02-01",
+              "price": 10.0,
+              "raw_price_cents": 1000
+            },
+            {
+              "timestamp": 1740812400000,
+              "date": "2025-03-01",
+              "price": 13.32,
+              "raw_price_cents": 1332
+            },
+            {
+              "timestamp": 1743487200000,
+              "date": "2025-04-01",
+              "price": 12.96,
+              "raw_price_cents": 1296
+            },
+            {
+              "timestamp": 1746079200000,
+              "date": "2025-05-01",
+              "price": 13.05,
+              "raw_price_cents": 1305
+            },
+            {
+              "timestamp": 1748757600000,
+              "date": "2025-06-01",
+              "price": 13.07,
+              "raw_price_cents": 1307
+            },
+            {
+              "timestamp": 1643698800000,
+              "date": "2022-02-01",
+              "price": 109.83,
+              "raw_price_cents": 10983
+            },
+            {
+              "timestamp": 1646118000000,
+              "date": "2022-03-01",
+              "price": 33.36,
+              "raw_price_cents": 3336
+            },
+            {
+              "timestamp": 1648792800000,
+              "date": "2022-04-01",
+              "price": 66.0,
+              "raw_price_cents": 6600
+            },
+            {
+              "timestamp": 1651384800000,
+              "date": "2022-05-01",
+              "price": 78.5,
+              "raw_price_cents": 7850
+            },
+            {
+              "timestamp": 1654063200000,
+              "date": "2022-06-01",
+              "price": 59.74,
+              "raw_price_cents": 5974
+            },
+            {
+              "timestamp": 1656655200000,
+              "date": "2022-07-01",
+              "price": 43.81,
+              "raw_price_cents": 4381
+            },
+            {
+              "timestamp": 1659333600000,
+              "date": "2022-08-01",
+              "price": 41.57,
+              "raw_price_cents": 4157
+            },
+            {
+              "timestamp": 1662012000000,
+              "date": "2022-09-01",
+              "price": 43.01,
+              "raw_price_cents": 4301
+            },
+            {
+              "timestamp": 1664604000000,
+              "date": "2022-10-01",
+              "price": 39.01,
+              "raw_price_cents": 3901
+            },
+            {
+              "timestamp": 1667282400000,
+              "date": "2022-11-01",
+              "price": 35.0,
+              "raw_price_cents": 3500
+            },
+            {
+              "timestamp": 1669878000000,
+              "date": "2022-12-01",
+              "price": 34.52,
+              "raw_price_cents": 3452
+            },
+            {
+              "timestamp": 1672556400000,
+              "date": "2023-01-01",
+              "price": 32.33,
+              "raw_price_cents": 3233
+            },
+            {
+              "timestamp": 1675234800000,
+              "date": "2023-02-01",
+              "price": 25.51,
+              "raw_price_cents": 2551
+            },
+            {
+              "timestamp": 1677654000000,
+              "date": "2023-03-01",
+              "price": 23.49,
+              "raw_price_cents": 2349
+            },
+            {
+              "timestamp": 1680328800000,
+              "date": "2023-04-01",
+              "price": 24.23,
+              "raw_price_cents": 2423
+            },
+            {
+              "timestamp": 1682920800000,
+              "date": "2023-05-01",
+              "price": 21.77,
+              "raw_price_cents": 2177
+            },
+            {
+              "timestamp": 1685599200000,
+              "date": "2023-06-01",
+              "price": 25.0,
+              "raw_price_cents": 2500
+            },
+            {
+              "timestamp": 1688191200000,
+              "date": "2023-07-01",
+              "price": 22.0,
+              "raw_price_cents": 2200
+            },
+            {
+              "timestamp": 1690869600000,
+              "date": "2023-08-01",
+              "price": 19.06,
+              "raw_price_cents": 1906
+            },
+            {
+              "timestamp": 1693548000000,
+              "date": "2023-09-01",
+              "price": 19.05,
+              "raw_price_cents": 1905
+            },
+            {
+              "timestamp": 1696140000000,
+              "date": "2023-10-01",
+              "price": 20.61,
+              "raw_price_cents": 2061
+            },
+            {
+              "timestamp": 1698818400000,
+              "date": "2023-11-01",
+              "price": 21.6,
+              "raw_price_cents": 2160
+            },
+            {
+              "timestamp": 1701414000000,
+              "date": "2023-12-01",
+              "price": 21.05,
+              "raw_price_cents": 2105
+            },
+            {
+              "timestamp": 1704092400000,
+              "date": "2024-01-01",
+              "price": 21.43,
+              "raw_price_cents": 2143
+            },
+            {
+              "timestamp": 1706770800000,
+              "date": "2024-02-01",
+              "price": 19.6,
+              "raw_price_cents": 1960
+            },
+            {
+              "timestamp": 1709276400000,
+              "date": "2024-03-01",
+              "price": 19.44,
+              "raw_price_cents": 1944
+            },
+            {
+              "timestamp": 1711951200000,
+              "date": "2024-04-01",
+              "price": 16.0,
+              "raw_price_cents": 1600
+            },
+            {
+              "timestamp": 1714543200000,
+              "date": "2024-05-01",
+              "price": 15.41,
+              "raw_price_cents": 1541
+            },
+            {
+              "timestamp": 1717221600000,
+              "date": "2024-06-01",
+              "price": 16.91,
+              "raw_price_cents": 1691
+            },
+            {
+              "timestamp": 1719813600000,
+              "date": "2024-07-01",
+              "price": 17.45,
+              "raw_price_cents": 1745
+            },
+            {
+              "timestamp": 1722492000000,
+              "date": "2024-08-01",
+              "price": 19.99,
+              "raw_price_cents": 1999
+            },
+            {
+              "timestamp": 1725170400000,
+              "date": "2024-09-01",
+              "price": 17.08,
+              "raw_price_cents": 1708
+            },
+            {
+              "timestamp": 1727762400000,
+              "date": "2024-10-01",
+              "price": 17.0,
+              "raw_price_cents": 1700
+            },
+            {
+              "timestamp": 1730440800000,
+              "date": "2024-11-01",
+              "price": 17.61,
+              "raw_price_cents": 1761
+            },
+            {
+              "timestamp": 1733036400000,
+              "date": "2024-12-01",
+              "price": 24.99,
+              "raw_price_cents": 2499
+            },
+            {
+              "timestamp": 1735714800000,
+              "date": "2025-01-01",
+              "price": 20.86,
+              "raw_price_cents": 2086
+            },
+            {
+              "timestamp": 1738393200000,
+              "date": "2025-02-01",
+              "price": 23.2,
+              "raw_price_cents": 2320
+            },
+            {
+              "timestamp": 1740812400000,
+              "date": "2025-03-01",
+              "price": 21.95,
+              "raw_price_cents": 2195
+            },
+            {
+              "timestamp": 1743487200000,
+              "date": "2025-04-01",
+              "price": 17.5,
+              "raw_price_cents": 1750
+            },
+            {
+              "timestamp": 1746079200000,
+              "date": "2025-05-01",
+              "price": 20.49,
+              "raw_price_cents": 2049
+            },
+            {
+              "timestamp": 1748757600000,
+              "date": "2025-06-01",
+              "price": 19.0,
+              "raw_price_cents": 1900
+            },
+            {
+              "timestamp": 1643698800000,
+              "date": "2022-02-01",
+              "price": 420.03,
+              "raw_price_cents": 42003
+            },
+            {
+              "timestamp": 1646118000000,
+              "date": "2022-03-01",
+              "price": 188.77,
+              "raw_price_cents": 18877
+            },
+            {
+              "timestamp": 1648792800000,
+              "date": "2022-04-01",
+              "price": 179.0,
+              "raw_price_cents": 17900
+            },
+            {
+              "timestamp": 1651384800000,
+              "date": "2022-05-01",
+              "price": 152.25,
+              "raw_price_cents": 15225
+            },
+            {
+              "timestamp": 1654063200000,
+              "date": "2022-06-01",
+              "price": 143.0,
+              "raw_price_cents": 14300
+            },
+            {
+              "timestamp": 1656655200000,
+              "date": "2022-07-01",
+              "price": 101.25,
+              "raw_price_cents": 10125
+            },
+            {
+              "timestamp": 1659333600000,
+              "date": "2022-08-01",
+              "price": 109.95,
+              "raw_price_cents": 10995
+            },
+            {
+              "timestamp": 1662012000000,
+              "date": "2022-09-01",
+              "price": 99.54,
+              "raw_price_cents": 9954
+            },
+            {
+              "timestamp": 1664604000000,
+              "date": "2022-10-01",
+              "price": 99.0,
+              "raw_price_cents": 9900
+            },
+            {
+              "timestamp": 1667282400000,
+              "date": "2022-11-01",
+              "price": 74.07,
+              "raw_price_cents": 7407
+            },
+            {
+              "timestamp": 1669878000000,
+              "date": "2022-12-01",
+              "price": 75.5,
+              "raw_price_cents": 7550
+            },
+            {
+              "timestamp": 1672556400000,
+              "date": "2023-01-01",
+              "price": 71.42,
+              "raw_price_cents": 7142
+            },
+            {
+              "timestamp": 1675234800000,
+              "date": "2023-02-01",
+              "price": 63.63,
+              "raw_price_cents": 6363
+            },
+            {
+              "timestamp": 1677654000000,
+              "date": "2023-03-01",
+              "price": 59.98,
+              "raw_price_cents": 5998
+            },
+            {
+              "timestamp": 1680328800000,
+              "date": "2023-04-01",
+              "price": 56.89,
+              "raw_price_cents": 5689
+            },
+            {
+              "timestamp": 1682920800000,
+              "date": "2023-05-01",
+              "price": 55.25,
+              "raw_price_cents": 5525
+            },
+            {
+              "timestamp": 1685599200000,
+              "date": "2023-06-01",
+              "price": 49.85,
+              "raw_price_cents": 4985
+            },
+            {
+              "timestamp": 1688191200000,
+              "date": "2023-07-01",
+              "price": 49.02,
+              "raw_price_cents": 4902
+            },
+            {
+              "timestamp": 1690869600000,
+              "date": "2023-08-01",
+              "price": 45.24,
+              "raw_price_cents": 4524
+            },
+            {
+              "timestamp": 1693548000000,
+              "date": "2023-09-01",
+              "price": 40.5,
+              "raw_price_cents": 4050
+            },
+            {
+              "timestamp": 1696140000000,
+              "date": "2023-10-01",
+              "price": 41.69,
+              "raw_price_cents": 4169
+            },
+            {
+              "timestamp": 1698818400000,
+              "date": "2023-11-01",
+              "price": 45.52,
+              "raw_price_cents": 4552
+            },
+            {
+              "timestamp": 1701414000000,
+              "date": "2023-12-01",
+              "price": 44.9,
+              "raw_price_cents": 4490
+            },
+            {
+              "timestamp": 1704092400000,
+              "date": "2024-01-01",
+              "price": 42.01,
+              "raw_price_cents": 4201
+            },
+            {
+              "timestamp": 1706770800000,
+              "date": "2024-02-01",
+              "price": 40.21,
+              "raw_price_cents": 4021
+            },
+            {
+              "timestamp": 1709276400000,
+              "date": "2024-03-01",
+              "price": 42.56,
+              "raw_price_cents": 4256
+            },
+            {
+              "timestamp": 1711951200000,
+              "date": "2024-04-01",
+              "price": 35.13,
+              "raw_price_cents": 3513
+            },
+            {
+              "timestamp": 1714543200000,
+              "date": "2024-05-01",
+              "price": 39.0,
+              "raw_price_cents": 3900
+            },
+            {
+              "timestamp": 1717221600000,
+              "date": "2024-06-01",
+              "price": 36.0,
+              "raw_price_cents": 3600
+            },
+            {
+              "timestamp": 1719813600000,
+              "date": "2024-07-01",
+              "price": 35.49,
+              "raw_price_cents": 3549
+            },
+            {
+              "timestamp": 1722492000000,
+              "date": "2024-08-01",
+              "price": 40.25,
+              "raw_price_cents": 4025
+            },
+            {
+              "timestamp": 1725170400000,
+              "date": "2024-09-01",
+              "price": 37.0,
+              "raw_price_cents": 3700
+            },
+            {
+              "timestamp": 1727762400000,
+              "date": "2024-10-01",
+              "price": 43.22,
+              "raw_price_cents": 4322
+            },
+            {
+              "timestamp": 1730440800000,
+              "date": "2024-11-01",
+              "price": 40.0,
+              "raw_price_cents": 4000
+            },
+            {
+              "timestamp": 1733036400000,
+              "date": "2024-12-01",
+              "price": 47.0,
+              "raw_price_cents": 4700
+            },
+            {
+              "timestamp": 1735714800000,
+              "date": "2025-01-01",
+              "price": 57.2,
+              "raw_price_cents": 5720
+            },
+            {
+              "timestamp": 1738393200000,
+              "date": "2025-02-01",
+              "price": 53.5,
+              "raw_price_cents": 5350
+            },
+            {
+              "timestamp": 1740812400000,
+              "date": "2025-03-01",
+              "price": 59.14,
+              "raw_price_cents": 5914
+            },
+            {
+              "timestamp": 1743487200000,
+              "date": "2025-04-01",
+              "price": 50.99,
+              "raw_price_cents": 5099
+            },
+            {
+              "timestamp": 1746079200000,
+              "date": "2025-05-01",
+              "price": 52.5,
+              "raw_price_cents": 5250
+            },
+            {
+              "timestamp": 1748757600000,
+              "date": "2025-06-01",
+              "price": 56.6,
+              "raw_price_cents": 5660
+            },
+            {
+              "timestamp": 1648792800000,
+              "date": "2022-04-01",
+              "price": 34.02,
+              "raw_price_cents": 3402
+            },
+            {
+              "timestamp": 1651384800000,
+              "date": "2022-05-01",
+              "price": 42.0,
+              "raw_price_cents": 4200
+            },
+            {
+              "timestamp": 1654063200000,
+              "date": "2022-06-01",
+              "price": 38.14,
+              "raw_price_cents": 3814
+            },
+            {
+              "timestamp": 1656655200000,
+              "date": "2022-07-01",
+              "price": 34.52,
+              "raw_price_cents": 3452
+            },
+            {
+              "timestamp": 1659333600000,
+              "date": "2022-08-01",
+              "price": 34.36,
+              "raw_price_cents": 3436
+            },
+            {
+              "timestamp": 1662012000000,
+              "date": "2022-09-01",
+              "price": 31.49,
+              "raw_price_cents": 3149
+            },
+            {
+              "timestamp": 1664604000000,
+              "date": "2022-10-01",
+              "price": 31.27,
+              "raw_price_cents": 3127
+            },
+            {
+              "timestamp": 1667282400000,
+              "date": "2022-11-01",
+              "price": 32.0,
+              "raw_price_cents": 3200
+            },
+            {
+              "timestamp": 1669878000000,
+              "date": "2022-12-01",
+              "price": 26.0,
+              "raw_price_cents": 2600
+            },
+            {
+              "timestamp": 1672556400000,
+              "date": "2023-01-01",
+              "price": 27.92,
+              "raw_price_cents": 2792
+            },
+            {
+              "timestamp": 1675234800000,
+              "date": "2023-02-01",
+              "price": 21.56,
+              "raw_price_cents": 2156
+            },
+            {
+              "timestamp": 1677654000000,
+              "date": "2023-03-01",
+              "price": 19.74,
+              "raw_price_cents": 1974
+            },
+            {
+              "timestamp": 1680328800000,
+              "date": "2023-04-01",
+              "price": 18.52,
+              "raw_price_cents": 1852
+            },
+            {
+              "timestamp": 1682920800000,
+              "date": "2023-05-01",
+              "price": 17.88,
+              "raw_price_cents": 1788
+            },
+            {
+              "timestamp": 1685599200000,
+              "date": "2023-06-01",
+              "price": 22.81,
+              "raw_price_cents": 2281
+            },
+            {
+              "timestamp": 1688191200000,
+              "date": "2023-07-01",
+              "price": 19.69,
+              "raw_price_cents": 1969
+            },
+            {
+              "timestamp": 1690869600000,
+              "date": "2023-08-01",
+              "price": 15.5,
+              "raw_price_cents": 1550
+            },
+            {
+              "timestamp": 1693548000000,
+              "date": "2023-09-01",
+              "price": 15.25,
+              "raw_price_cents": 1525
+            },
+            {
+              "timestamp": 1696140000000,
+              "date": "2023-10-01",
+              "price": 15.0,
+              "raw_price_cents": 1500
+            },
+            {
+              "timestamp": 1698818400000,
+              "date": "2023-11-01",
+              "price": 15.5,
+              "raw_price_cents": 1550
+            },
+            {
+              "timestamp": 1701414000000,
+              "date": "2023-12-01",
+              "price": 16.04,
+              "raw_price_cents": 1604
+            },
+            {
+              "timestamp": 1704092400000,
+              "date": "2024-01-01",
+              "price": 16.06,
+              "raw_price_cents": 1606
+            },
+            {
+              "timestamp": 1706770800000,
+              "date": "2024-02-01",
+              "price": 15.14,
+              "raw_price_cents": 1514
+            },
+            {
+              "timestamp": 1709276400000,
+              "date": "2024-03-01",
+              "price": 15.25,
+              "raw_price_cents": 1525
+            },
+            {
+              "timestamp": 1711951200000,
+              "date": "2024-04-01",
+              "price": 14.33,
+              "raw_price_cents": 1433
+            },
+            {
+              "timestamp": 1714543200000,
+              "date": "2024-05-01",
+              "price": 11.25,
+              "raw_price_cents": 1125
+            },
+            {
+              "timestamp": 1717221600000,
+              "date": "2024-06-01",
+              "price": 11.05,
+              "raw_price_cents": 1105
+            },
+            {
+              "timestamp": 1719813600000,
+              "date": "2024-07-01",
+              "price": 10.86,
+              "raw_price_cents": 1086
+            },
+            {
+              "timestamp": 1722492000000,
+              "date": "2024-08-01",
+              "price": 12.89,
+              "raw_price_cents": 1289
+            },
+            {
+              "timestamp": 1725170400000,
+              "date": "2024-09-01",
+              "price": 15.0,
+              "raw_price_cents": 1500
+            },
+            {
+              "timestamp": 1727762400000,
+              "date": "2024-10-01",
+              "price": 15.0,
+              "raw_price_cents": 1500
+            },
+            {
+              "timestamp": 1730440800000,
+              "date": "2024-11-01",
+              "price": 15.0,
+              "raw_price_cents": 1500
+            },
+            {
+              "timestamp": 1733036400000,
+              "date": "2024-12-01",
+              "price": 14.41,
+              "raw_price_cents": 1441
+            },
+            {
+              "timestamp": 1735714800000,
+              "date": "2025-01-01",
+              "price": 14.71,
+              "raw_price_cents": 1471
+            },
+            {
+              "timestamp": 1738393200000,
+              "date": "2025-02-01",
+              "price": 15.78,
+              "raw_price_cents": 1578
+            },
+            {
+              "timestamp": 1740812400000,
+              "date": "2025-03-01",
+              "price": 16.67,
+              "raw_price_cents": 1667
+            },
+            {
+              "timestamp": 1743487200000,
+              "date": "2025-04-01",
+              "price": 14.64,
+              "raw_price_cents": 1464
+            },
+            {
+              "timestamp": 1746079200000,
+              "date": "2025-05-01",
+              "price": 16.47,
+              "raw_price_cents": 1647
+            },
+            {
+              "timestamp": 1748757600000,
+              "date": "2025-06-01",
+              "price": 15.56,
+              "raw_price_cents": 1556
+            },
+            {
+              "timestamp": 1643698800000,
+              "date": "2022-02-01",
+              "price": 71.69,
+              "raw_price_cents": 7169
+            },
+            {
+              "timestamp": 1646118000000,
+              "date": "2022-03-01",
+              "price": 17.99,
+              "raw_price_cents": 1799
+            },
+            {
+              "timestamp": 1648792800000,
+              "date": "2022-04-01",
+              "price": 18.92,
+              "raw_price_cents": 1892
+            },
+            {
+              "timestamp": 1651384800000,
+              "date": "2022-05-01",
+              "price": 15.73,
+              "raw_price_cents": 1573
+            },
+            {
+              "timestamp": 1654063200000,
+              "date": "2022-06-01",
+              "price": 17.5,
+              "raw_price_cents": 1750
+            },
+            {
+              "timestamp": 1656655200000,
+              "date": "2022-07-01",
+              "price": 12.79,
+              "raw_price_cents": 1279
+            },
+            {
+              "timestamp": 1659333600000,
+              "date": "2022-08-01",
+              "price": 14.6,
+              "raw_price_cents": 1460
+            },
+            {
+              "timestamp": 1662012000000,
+              "date": "2022-09-01",
+              "price": 14.06,
+              "raw_price_cents": 1406
+            },
+            {
+              "timestamp": 1664604000000,
+              "date": "2022-10-01",
+              "price": 17.09,
+              "raw_price_cents": 1709
+            },
+            {
+              "timestamp": 1667282400000,
+              "date": "2022-11-01",
+              "price": 11.67,
+              "raw_price_cents": 1167
+            },
+            {
+              "timestamp": 1669878000000,
+              "date": "2022-12-01",
+              "price": 15.93,
+              "raw_price_cents": 1593
+            },
+            {
+              "timestamp": 1672556400000,
+              "date": "2023-01-01",
+              "price": 11.91,
+              "raw_price_cents": 1191
+            },
+            {
+              "timestamp": 1675234800000,
+              "date": "2023-02-01",
+              "price": 10.0,
+              "raw_price_cents": 1000
+            },
+            {
+              "timestamp": 1677654000000,
+              "date": "2023-03-01",
+              "price": 10.76,
+              "raw_price_cents": 1076
+            },
+            {
+              "timestamp": 1680328800000,
+              "date": "2023-04-01",
+              "price": 10.75,
+              "raw_price_cents": 1075
+            },
+            {
+              "timestamp": 1682920800000,
+              "date": "2023-05-01",
+              "price": 8.53,
+              "raw_price_cents": 853
+            },
+            {
+              "timestamp": 1685599200000,
+              "date": "2023-06-01",
+              "price": 6.75,
+              "raw_price_cents": 675
+            },
+            {
+              "timestamp": 1688191200000,
+              "date": "2023-07-01",
+              "price": 5.5,
+              "raw_price_cents": 550
+            },
+            {
+              "timestamp": 1690869600000,
+              "date": "2023-08-01",
+              "price": 6.28,
+              "raw_price_cents": 628
+            },
+            {
+              "timestamp": 1693548000000,
+              "date": "2023-09-01",
+              "price": 5.37,
+              "raw_price_cents": 537
+            },
+            {
+              "timestamp": 1696140000000,
+              "date": "2023-10-01",
+              "price": 5.0,
+              "raw_price_cents": 500
+            },
+            {
+              "timestamp": 1698818400000,
+              "date": "2023-11-01",
+              "price": 7.43,
+              "raw_price_cents": 743
+            },
+            {
+              "timestamp": 1701414000000,
+              "date": "2023-12-01",
+              "price": 6.99,
+              "raw_price_cents": 699
+            },
+            {
+              "timestamp": 1704092400000,
+              "date": "2024-01-01",
+              "price": 5.47,
+              "raw_price_cents": 547
+            },
+            {
+              "timestamp": 1706770800000,
+              "date": "2024-02-01",
+              "price": 5.75,
+              "raw_price_cents": 575
+            },
+            {
+              "timestamp": 1709276400000,
+              "date": "2024-03-01",
+              "price": 5.96,
+              "raw_price_cents": 596
+            },
+            {
+              "timestamp": 1711951200000,
+              "date": "2024-04-01",
+              "price": 5.19,
+              "raw_price_cents": 519
+            },
+            {
+              "timestamp": 1714543200000,
+              "date": "2024-05-01",
+              "price": 7.1,
+              "raw_price_cents": 710
+            },
+            {
+              "timestamp": 1717221600000,
+              "date": "2024-06-01",
+              "price": 5.99,
+              "raw_price_cents": 599
+            },
+            {
+              "timestamp": 1719813600000,
+              "date": "2024-07-01",
+              "price": 7.92,
+              "raw_price_cents": 792
+            },
+            {
+              "timestamp": 1722492000000,
+              "date": "2024-08-01",
+              "price": 5.99,
+              "raw_price_cents": 599
+            },
+            {
+              "timestamp": 1725170400000,
+              "date": "2024-09-01",
+              "price": 5.0,
+              "raw_price_cents": 500
+            },
+            {
+              "timestamp": 1727762400000,
+              "date": "2024-10-01",
+              "price": 5.99,
+              "raw_price_cents": 599
+            },
+            {
+              "timestamp": 1730440800000,
+              "date": "2024-11-01",
+              "price": 5.75,
+              "raw_price_cents": 575
+            },
+            {
+              "timestamp": 1733036400000,
+              "date": "2024-12-01",
+              "price": 6.38,
+              "raw_price_cents": 638
+            },
+            {
+              "timestamp": 1735714800000,
+              "date": "2025-01-01",
+              "price": 6.78,
+              "raw_price_cents": 678
+            },
+            {
+              "timestamp": 1738393200000,
+              "date": "2025-02-01",
+              "price": 9.47,
+              "raw_price_cents": 947
+            },
+            {
+              "timestamp": 1740812400000,
+              "date": "2025-03-01",
+              "price": 8.91,
+              "raw_price_cents": 891
+            },
+            {
+              "timestamp": 1743487200000,
+              "date": "2025-04-01",
+              "price": 7.5,
+              "raw_price_cents": 750
+            },
+            {
+              "timestamp": 1746079200000,
+              "date": "2025-05-01",
+              "price": 6.57,
+              "raw_price_cents": 657
+            },
+            {
+              "timestamp": 1748757600000,
+              "date": "2025-06-01",
+              "price": 6.7,
+              "raw_price_cents": 670
+            }
+          ],
+          "product_info": {
+            "title": "Charizard VSTAR #18 \n        \n            Pokemon Brilliant Stars"
+          },
+          "scrape_timestamp": "2025-06-29T09:54:40.259758"
+        }
+      },
+      {
+        "card_id": "f60ee45a-43a0-431d-9ecd-70a92fcba8f0",
+        "card_name": "Charizard",
+        "set_name": "Base Set 2",
+        "pricecharting_data": {
+          "url": "https://www.pricecharting.com/game/715593",
+          "current_prices": {
+            "condition_1": 8.5,
+            "condition_2": 11.0,
+            "condition_3": 22.0,
+            "condition_4": 25.0,
+            "condition_5": 260.0,
+            "psa_10": 260.0
+          },
+          "chart_data": [
+            {
+              "timestamp": 1612162800000,
+              "date": "2021-02-01",
+              "price": 35794.5,
+              "raw_price_cents": 3579450
+            },
+            {
+              "timestamp": 1614582000000,
+              "date": "2021-03-01",
+              "price": 57789.0,
+              "raw_price_cents": 5778900
+            },
+            {
+              "timestamp": 1617256800000,
+              "date": "2021-04-01",
+              "price": 57789.0,
+              "raw_price_cents": 5778900
+            },
+            {
+              "timestamp": 1619848800000,
+              "date": "2021-05-01",
+              "price": 57789.0,
+              "raw_price_cents": 5778900
+            },
+            {
+              "timestamp": 1622527200000,
+              "date": "2021-06-01",
+              "price": 57789.0,
+              "raw_price_cents": 5778900
+            },
+            {
+              "timestamp": 1625119200000,
+              "date": "2021-07-01",
+              "price": 19042.0,
+              "raw_price_cents": 1904200
+            },
+            {
+              "timestamp": 1627797600000,
+              "date": "2021-08-01",
+              "price": 26675.0,
+              "raw_price_cents": 2667500
+            },
+            {
+              "timestamp": 1630476000000,
+              "date": "2021-09-01",
+              "price": 32583.0,
+              "raw_price_cents": 3258300
+            },
+            {
+              "timestamp": 1633068000000,
+              "date": "2021-10-01",
+              "price": 26564.0,
+              "raw_price_cents": 2656400
+            },
+            {
+              "timestamp": 1635746400000,
+              "date": "2021-11-01",
+              "price": 20106.0,
+              "raw_price_cents": 2010600
+            },
+            {
+              "timestamp": 1638342000000,
+              "date": "2021-12-01",
+              "price": 64815.26,
+              "raw_price_cents": 6481526
+            },
+            {
+              "timestamp": 1641020400000,
+              "date": "2022-01-01",
+              "price": 66735.52,
+              "raw_price_cents": 6673552
+            },
+            {
+              "timestamp": 1643698800000,
+              "date": "2022-02-01",
+              "price": 66765.52,
+              "raw_price_cents": 6676552
+            },
+            {
+              "timestamp": 1646118000000,
+              "date": "2022-03-01",
+              "price": 66765.52,
+              "raw_price_cents": 6676552
+            },
+            {
+              "timestamp": 1648792800000,
+              "date": "2022-04-01",
+              "price": 66765.52,
+              "raw_price_cents": 6676552
+            },
+            {
+              "timestamp": 1651384800000,
+              "date": "2022-05-01",
+              "price": 66765.52,
+              "raw_price_cents": 6676552
+            },
+            {
+              "timestamp": 1654063200000,
+              "date": "2022-06-01",
+              "price": 62675.59,
+              "raw_price_cents": 6267559
+            },
+            {
+              "timestamp": 1656655200000,
+              "date": "2022-07-01",
+              "price": 62675.59,
+              "raw_price_cents": 6267559
+            },
+            {
+              "timestamp": 1659333600000,
+              "date": "2022-08-01",
+              "price": 62675.59,
+              "raw_price_cents": 6267559
+            },
+            {
+              "timestamp": 1662012000000,
+              "date": "2022-09-01",
+              "price": 62675.59,
+              "raw_price_cents": 6267559
+            },
+            {
+              "timestamp": 1664604000000,
+              "date": "2022-10-01",
+              "price": 62585.62,
+              "raw_price_cents": 6258562
+            },
+            {
+              "timestamp": 1667282400000,
+              "date": "2022-11-01",
+              "price": 62571.85,
+              "raw_price_cents": 6257185
+            },
+            {
+              "timestamp": 1669878000000,
+              "date": "2022-12-01",
+              "price": 62559.26,
+              "raw_price_cents": 6255926
+            },
+            {
+              "timestamp": 1672556400000,
+              "date": "2023-01-01",
+              "price": 62547.71,
+              "raw_price_cents": 6254771
+            },
+            {
+              "timestamp": 1675234800000,
+              "date": "2023-02-01",
+              "price": 62537.06,
+              "raw_price_cents": 6253706
+            },
+            {
+              "timestamp": 1677654000000,
+              "date": "2023-03-01",
+              "price": 45831.0,
+              "raw_price_cents": 4583100
+            },
+            {
+              "timestamp": 1680328800000,
+              "date": "2023-04-01",
+              "price": 36031.0,
+              "raw_price_cents": 3603100
+            },
+            {
+              "timestamp": 1682920800000,
+              "date": "2023-05-01",
+              "price": 36031.0,
+              "raw_price_cents": 3603100
+            },
+            {
+              "timestamp": 1685599200000,
+              "date": "2023-06-01",
+              "price": 36031.0,
+              "raw_price_cents": 3603100
+            },
+            {
+              "timestamp": 1688191200000,
+              "date": "2023-07-01",
+              "price": 36031.0,
+              "raw_price_cents": 3603100
+            },
+            {
+              "timestamp": 1690869600000,
+              "date": "2023-08-01",
+              "price": 36031.0,
+              "raw_price_cents": 3603100
+            },
+            {
+              "timestamp": 1693548000000,
+              "date": "2023-09-01",
+              "price": 36031.0,
+              "raw_price_cents": 3603100
+            },
+            {
+              "timestamp": 1696140000000,
+              "date": "2023-10-01",
+              "price": 36031.0,
+              "raw_price_cents": 3603100
+            },
+            {
+              "timestamp": 1698818400000,
+              "date": "2023-11-01",
+              "price": 33050.9,
+              "raw_price_cents": 3305090
+            },
+            {
+              "timestamp": 1701414000000,
+              "date": "2023-12-01",
+              "price": 32600.45,
+              "raw_price_cents": 3260045
+            },
+            {
+              "timestamp": 1704092400000,
+              "date": "2024-01-01",
+              "price": 33155.29,
+              "raw_price_cents": 3315529
+            },
+            {
+              "timestamp": 1706770800000,
+              "date": "2024-02-01",
+              "price": 33649.81,
+              "raw_price_cents": 3364981
+            },
+            {
+              "timestamp": 1709276400000,
+              "date": "2024-03-01",
+              "price": 55538.75,
+              "raw_price_cents": 5553875
+            },
+            {
+              "timestamp": 1711951200000,
+              "date": "2024-04-01",
+              "price": 55538.75,
+              "raw_price_cents": 5553875
+            },
+            {
+              "timestamp": 1714543200000,
+              "date": "2024-05-01",
+              "price": 55538.75,
+              "raw_price_cents": 5553875
+            },
+            {
+              "timestamp": 1717221600000,
+              "date": "2024-06-01",
+              "price": 55538.75,
+              "raw_price_cents": 5553875
+            },
+            {
+              "timestamp": 1719813600000,
+              "date": "2024-07-01",
+              "price": 55473.15,
+              "raw_price_cents": 5547315
+            },
+            {
+              "timestamp": 1722492000000,
+              "date": "2024-08-01",
+              "price": 24500.0,
+              "raw_price_cents": 2450000
+            },
+            {
+              "timestamp": 1725170400000,
+              "date": "2024-09-01",
+              "price": 24500.0,
+              "raw_price_cents": 2450000
+            },
+            {
+              "timestamp": 1727762400000,
+              "date": "2024-10-01",
+              "price": 22300.0,
+              "raw_price_cents": 2230000
+            },
+            {
+              "timestamp": 1730440800000,
+              "date": "2024-11-01",
+              "price": 22862.15,
+              "raw_price_cents": 2286215
+            },
+            {
+              "timestamp": 1733036400000,
+              "date": "2024-12-01",
+              "price": 26900.0,
+              "raw_price_cents": 2690000
+            },
+            {
+              "timestamp": 1735714800000,
+              "date": "2025-01-01",
+              "price": 36900.32,
+              "raw_price_cents": 3690032
+            },
+            {
+              "timestamp": 1738393200000,
+              "date": "2025-02-01",
+              "price": 27764.84,
+              "raw_price_cents": 2776484
+            },
+            {
+              "timestamp": 1740812400000,
+              "date": "2025-03-01",
+              "price": 26900.0,
+              "raw_price_cents": 2690000
+            },
+            {
+              "timestamp": 1743487200000,
+              "date": "2025-04-01",
+              "price": 26900.0,
+              "raw_price_cents": 2690000
+            },
+            {
+              "timestamp": 1746079200000,
+              "date": "2025-05-01",
+              "price": 25498.0,
+              "raw_price_cents": 2549800
+            },
+            {
+              "timestamp": 1748757600000,
+              "date": "2025-06-01",
+              "price": 25488.88,
+              "raw_price_cents": 2548888
+            },
+            {
+              "timestamp": 1609484400000,
+              "date": "2021-01-01",
+              "price": 11254.85,
+              "raw_price_cents": 1125485
+            },
+            {
+              "timestamp": 1612162800000,
+              "date": "2021-02-01",
+              "price": 11688.0,
+              "raw_price_cents": 1168800
+            },
+            {
+              "timestamp": 1614582000000,
+              "date": "2021-03-01",
+              "price": 10650.5,
+              "raw_price_cents": 1065050
+            },
+            {
+              "timestamp": 1617256800000,
+              "date": "2021-04-01",
+              "price": 10223.5,
+              "raw_price_cents": 1022350
+            },
+            {
+              "timestamp": 1619848800000,
+              "date": "2021-05-01",
+              "price": 10537.77,
+              "raw_price_cents": 1053777
+            },
+            {
+              "timestamp": 1622527200000,
+              "date": "2021-06-01",
+              "price": 9427.03,
+              "raw_price_cents": 942703
+            },
+            {
+              "timestamp": 1625119200000,
+              "date": "2021-07-01",
+              "price": 9354.38,
+              "raw_price_cents": 935438
+            },
+            {
+              "timestamp": 1627797600000,
+              "date": "2021-08-01",
+              "price": 7227.0,
+              "raw_price_cents": 722700
+            },
+            {
+              "timestamp": 1630476000000,
+              "date": "2021-09-01",
+              "price": 7264.37,
+              "raw_price_cents": 726437
+            },
+            {
+              "timestamp": 1633068000000,
+              "date": "2021-10-01",
+              "price": 8000.0,
+              "raw_price_cents": 800000
+            },
+            {
+              "timestamp": 1635746400000,
+              "date": "2021-11-01",
+              "price": 8670.61,
+              "raw_price_cents": 867061
+            },
+            {
+              "timestamp": 1638342000000,
+              "date": "2021-12-01",
+              "price": 8607.84,
+              "raw_price_cents": 860784
+            },
+            {
+              "timestamp": 1641020400000,
+              "date": "2022-01-01",
+              "price": 8500.0,
+              "raw_price_cents": 850000
+            },
+            {
+              "timestamp": 1643698800000,
+              "date": "2022-02-01",
+              "price": 6594.0,
+              "raw_price_cents": 659400
+            },
+            {
+              "timestamp": 1646118000000,
+              "date": "2022-03-01",
+              "price": 7800.0,
+              "raw_price_cents": 780000
+            },
+            {
+              "timestamp": 1648792800000,
+              "date": "2022-04-01",
+              "price": 6034.38,
+              "raw_price_cents": 603438
+            },
+            {
+              "timestamp": 1651384800000,
+              "date": "2022-05-01",
+              "price": 7295.53,
+              "raw_price_cents": 729553
+            },
+            {
+              "timestamp": 1654063200000,
+              "date": "2022-06-01",
+              "price": 7100.0,
+              "raw_price_cents": 710000
+            },
+            {
+              "timestamp": 1656655200000,
+              "date": "2022-07-01",
+              "price": 7522.0,
+              "raw_price_cents": 752200
+            },
+            {
+              "timestamp": 1659333600000,
+              "date": "2022-08-01",
+              "price": 8000.0,
+              "raw_price_cents": 800000
+            },
+            {
+              "timestamp": 1662012000000,
+              "date": "2022-09-01",
+              "price": 8201.11,
+              "raw_price_cents": 820111
+            },
+            {
+              "timestamp": 1664604000000,
+              "date": "2022-10-01",
+              "price": 7450.0,
+              "raw_price_cents": 745000
+            },
+            {
+              "timestamp": 1667282400000,
+              "date": "2022-11-01",
+              "price": 6800.0,
+              "raw_price_cents": 680000
+            },
+            {
+              "timestamp": 1669878000000,
+              "date": "2022-12-01",
+              "price": 7000.0,
+              "raw_price_cents": 700000
+            },
+            {
+              "timestamp": 1672556400000,
+              "date": "2023-01-01",
+              "price": 6500.0,
+              "raw_price_cents": 650000
+            },
+            {
+              "timestamp": 1675234800000,
+              "date": "2023-02-01",
+              "price": 6550.0,
+              "raw_price_cents": 655000
+            },
+            {
+              "timestamp": 1677654000000,
+              "date": "2023-03-01",
+              "price": 6250.0,
+              "raw_price_cents": 625000
+            },
+            {
+              "timestamp": 1680328800000,
+              "date": "2023-04-01",
+              "price": 7000.0,
+              "raw_price_cents": 700000
+            },
+            {
+              "timestamp": 1682920800000,
+              "date": "2023-05-01",
+              "price": 7000.0,
+              "raw_price_cents": 700000
+            },
+            {
+              "timestamp": 1685599200000,
+              "date": "2023-06-01",
+              "price": 7599.99,
+              "raw_price_cents": 759999
+            },
+            {
+              "timestamp": 1688191200000,
+              "date": "2023-07-01",
+              "price": 6756.25,
+              "raw_price_cents": 675625
+            },
+            {
+              "timestamp": 1690869600000,
+              "date": "2023-08-01",
+              "price": 7495.0,
+              "raw_price_cents": 749500
+            },
+            {
+              "timestamp": 1693548000000,
+              "date": "2023-09-01",
+              "price": 7511.1,
+              "raw_price_cents": 751110
+            },
+            {
+              "timestamp": 1696140000000,
+              "date": "2023-10-01",
+              "price": 6963.57,
+              "raw_price_cents": 696357
+            },
+            {
+              "timestamp": 1698818400000,
+              "date": "2023-11-01",
+              "price": 7322.3,
+              "raw_price_cents": 732230
+            },
+            {
+              "timestamp": 1701414000000,
+              "date": "2023-12-01",
+              "price": 6855.55,
+              "raw_price_cents": 685555
+            },
+            {
+              "timestamp": 1704092400000,
+              "date": "2024-01-01",
+              "price": 7000.0,
+              "raw_price_cents": 700000
+            },
+            {
+              "timestamp": 1706770800000,
+              "date": "2024-02-01",
+              "price": 7354.0,
+              "raw_price_cents": 735400
+            },
+            {
+              "timestamp": 1709276400000,
+              "date": "2024-03-01",
+              "price": 6474.49,
+              "raw_price_cents": 647449
+            },
+            {
+              "timestamp": 1711951200000,
+              "date": "2024-04-01",
+              "price": 6500.0,
+              "raw_price_cents": 650000
+            },
+            {
+              "timestamp": 1714543200000,
+              "date": "2024-05-01",
+              "price": 5157.0,
+              "raw_price_cents": 515700
+            },
+            {
+              "timestamp": 1717221600000,
+              "date": "2024-06-01",
+              "price": 7125.0,
+              "raw_price_cents": 712500
+            },
+            {
+              "timestamp": 1719813600000,
+              "date": "2024-07-01",
+              "price": 7000.0,
+              "raw_price_cents": 700000
+            },
+            {
+              "timestamp": 1722492000000,
+              "date": "2024-08-01",
+              "price": 7250.5,
+              "raw_price_cents": 725050
+            },
+            {
+              "timestamp": 1725170400000,
+              "date": "2024-09-01",
+              "price": 7481.78,
+              "raw_price_cents": 748178
+            },
+            {
+              "timestamp": 1727762400000,
+              "date": "2024-10-01",
+              "price": 7989.41,
+              "raw_price_cents": 798941
+            },
+            {
+              "timestamp": 1730440800000,
+              "date": "2024-11-01",
+              "price": 7909.22,
+              "raw_price_cents": 790922
+            },
+            {
+              "timestamp": 1733036400000,
+              "date": "2024-12-01",
+              "price": 7393.0,
+              "raw_price_cents": 739300
+            },
+            {
+              "timestamp": 1735714800000,
+              "date": "2025-01-01",
+              "price": 7575.8,
+              "raw_price_cents": 757580
+            },
+            {
+              "timestamp": 1738393200000,
+              "date": "2025-02-01",
+              "price": 7450.0,
+              "raw_price_cents": 745000
+            },
+            {
+              "timestamp": 1740812400000,
+              "date": "2025-03-01",
+              "price": 7902.24,
+              "raw_price_cents": 790224
+            },
+            {
+              "timestamp": 1743487200000,
+              "date": "2025-04-01",
+              "price": 7776.5,
+              "raw_price_cents": 777650
+            },
+            {
+              "timestamp": 1746079200000,
+              "date": "2025-05-01",
+              "price": 7993.72,
+              "raw_price_cents": 799372
+            },
+            {
+              "timestamp": 1748757600000,
+              "date": "2025-06-01",
+              "price": 8214.66,
+              "raw_price_cents": 821466
+            },
+            {
+              "timestamp": 1612162800000,
+              "date": "2021-02-01",
+              "price": 34869.63,
+              "raw_price_cents": 3486963
+            },
+            {
+              "timestamp": 1614582000000,
+              "date": "2021-03-01",
+              "price": 30600.0,
+              "raw_price_cents": 3060000
+            },
+            {
+              "timestamp": 1617256800000,
+              "date": "2021-04-01",
+              "price": 30950.0,
+              "raw_price_cents": 3095000
+            },
+            {
+              "timestamp": 1619848800000,
+              "date": "2021-05-01",
+              "price": 25600.0,
+              "raw_price_cents": 2560000
+            },
+            {
+              "timestamp": 1622527200000,
+              "date": "2021-06-01",
+              "price": 25800.0,
+              "raw_price_cents": 2580000
+            },
+            {
+              "timestamp": 1625119200000,
+              "date": "2021-07-01",
+              "price": 17310.71,
+              "raw_price_cents": 1731071
+            },
+            {
+              "timestamp": 1627797600000,
+              "date": "2021-08-01",
+              "price": 24249.57,
+              "raw_price_cents": 2424957
+            },
+            {
+              "timestamp": 1630476000000,
+              "date": "2021-09-01",
+              "price": 29620.74,
+              "raw_price_cents": 2962074
+            },
+            {
+              "timestamp": 1633068000000,
+              "date": "2021-10-01",
+              "price": 24149.5,
+              "raw_price_cents": 2414950
+            },
+            {
+              "timestamp": 1635746400000,
+              "date": "2021-11-01",
+              "price": 18277.91,
+              "raw_price_cents": 1827791
+            },
+            {
+              "timestamp": 1638342000000,
+              "date": "2021-12-01",
+              "price": 24743.84,
+              "raw_price_cents": 2474384
+            },
+            {
+              "timestamp": 1641020400000,
+              "date": "2022-01-01",
+              "price": 22200.0,
+              "raw_price_cents": 2220000
+            },
+            {
+              "timestamp": 1643698800000,
+              "date": "2022-02-01",
+              "price": 23198.59,
+              "raw_price_cents": 2319859
+            },
+            {
+              "timestamp": 1646118000000,
+              "date": "2022-03-01",
+              "price": 24111.18,
+              "raw_price_cents": 2411118
+            },
+            {
+              "timestamp": 1648792800000,
+              "date": "2022-04-01",
+              "price": 22321.52,
+              "raw_price_cents": 2232152
+            },
+            {
+              "timestamp": 1651384800000,
+              "date": "2022-05-01",
+              "price": 21877.32,
+              "raw_price_cents": 2187732
+            },
+            {
+              "timestamp": 1654063200000,
+              "date": "2022-06-01",
+              "price": 23150.0,
+              "raw_price_cents": 2315000
+            },
+            {
+              "timestamp": 1656655200000,
+              "date": "2022-07-01",
+              "price": 23880.44,
+              "raw_price_cents": 2388044
+            },
+            {
+              "timestamp": 1659333600000,
+              "date": "2022-08-01",
+              "price": 20075.0,
+              "raw_price_cents": 2007500
+            },
+            {
+              "timestamp": 1662012000000,
+              "date": "2022-09-01",
+              "price": 20100.0,
+              "raw_price_cents": 2010000
+            },
+            {
+              "timestamp": 1664604000000,
+              "date": "2022-10-01",
+              "price": 23624.01,
+              "raw_price_cents": 2362401
+            },
+            {
+              "timestamp": 1667282400000,
+              "date": "2022-11-01",
+              "price": 23695.0,
+              "raw_price_cents": 2369500
+            },
+            {
+              "timestamp": 1669878000000,
+              "date": "2022-12-01",
+              "price": 21946.8,
+              "raw_price_cents": 2194680
+            },
+            {
+              "timestamp": 1672556400000,
+              "date": "2023-01-01",
+              "price": 17182.63,
+              "raw_price_cents": 1718263
+            },
+            {
+              "timestamp": 1675234800000,
+              "date": "2023-02-01",
+              "price": 17469.43,
+              "raw_price_cents": 1746943
+            },
+            {
+              "timestamp": 1677654000000,
+              "date": "2023-03-01",
+              "price": 16900.0,
+              "raw_price_cents": 1690000
+            },
+            {
+              "timestamp": 1680328800000,
+              "date": "2023-04-01",
+              "price": 15965.3,
+              "raw_price_cents": 1596530
+            },
+            {
+              "timestamp": 1682920800000,
+              "date": "2023-05-01",
+              "price": 18756.21,
+              "raw_price_cents": 1875621
+            },
+            {
+              "timestamp": 1685599200000,
+              "date": "2023-06-01",
+              "price": 19000.0,
+              "raw_price_cents": 1900000
+            },
+            {
+              "timestamp": 1688191200000,
+              "date": "2023-07-01",
+              "price": 19538.82,
+              "raw_price_cents": 1953882
+            },
+            {
+              "timestamp": 1690869600000,
+              "date": "2023-08-01",
+              "price": 18534.0,
+              "raw_price_cents": 1853400
+            },
+            {
+              "timestamp": 1693548000000,
+              "date": "2023-09-01",
+              "price": 19191.63,
+              "raw_price_cents": 1919163
+            },
+            {
+              "timestamp": 1696140000000,
+              "date": "2023-10-01",
+              "price": 17674.5,
+              "raw_price_cents": 1767450
+            },
+            {
+              "timestamp": 1698818400000,
+              "date": "2023-11-01",
+              "price": 15777.74,
+              "raw_price_cents": 1577774
+            },
+            {
+              "timestamp": 1701414000000,
+              "date": "2023-12-01",
+              "price": 14981.39,
+              "raw_price_cents": 1498139
+            },
+            {
+              "timestamp": 1704092400000,
+              "date": "2024-01-01",
+              "price": 13700.0,
+              "raw_price_cents": 1370000
+            },
+            {
+              "timestamp": 1706770800000,
+              "date": "2024-02-01",
+              "price": 13314.13,
+              "raw_price_cents": 1331413
+            },
+            {
+              "timestamp": 1709276400000,
+              "date": "2024-03-01",
+              "price": 17049.5,
+              "raw_price_cents": 1704950
+            },
+            {
+              "timestamp": 1711951200000,
+              "date": "2024-04-01",
+              "price": 16749.29,
+              "raw_price_cents": 1674929
+            },
+            {
+              "timestamp": 1714543200000,
+              "date": "2024-05-01",
+              "price": 15372.86,
+              "raw_price_cents": 1537286
+            },
+            {
+              "timestamp": 1717221600000,
+              "date": "2024-06-01",
+              "price": 20077.54,
+              "raw_price_cents": 2007754
+            },
+            {
+              "timestamp": 1719813600000,
+              "date": "2024-07-01",
+              "price": 20855.5,
+              "raw_price_cents": 2085550
+            },
+            {
+              "timestamp": 1722492000000,
+              "date": "2024-08-01",
+              "price": 19632.99,
+              "raw_price_cents": 1963299
+            },
+            {
+              "timestamp": 1725170400000,
+              "date": "2024-09-01",
+              "price": 18456.09,
+              "raw_price_cents": 1845609
+            },
+            {
+              "timestamp": 1727762400000,
+              "date": "2024-10-01",
+              "price": 19646.25,
+              "raw_price_cents": 1964625
+            },
+            {
+              "timestamp": 1730440800000,
+              "date": "2024-11-01",
+              "price": 19545.0,
+              "raw_price_cents": 1954500
+            },
+            {
+              "timestamp": 1733036400000,
+              "date": "2024-12-01",
+              "price": 19545.0,
+              "raw_price_cents": 1954500
+            },
+            {
+              "timestamp": 1735714800000,
+              "date": "2025-01-01",
+              "price": 19973.93,
+              "raw_price_cents": 1997393
+            },
+            {
+              "timestamp": 1738393200000,
+              "date": "2025-02-01",
+              "price": 26253.75,
+              "raw_price_cents": 2625375
+            },
+            {
+              "timestamp": 1740812400000,
+              "date": "2025-03-01",
+              "price": 25328.5,
+              "raw_price_cents": 2532850
+            },
+            {
+              "timestamp": 1743487200000,
+              "date": "2025-04-01",
+              "price": 22927.25,
+              "raw_price_cents": 2292725
+            },
+            {
+              "timestamp": 1746079200000,
+              "date": "2025-05-01",
+              "price": 23179.92,
+              "raw_price_cents": 2317992
+            },
+            {
+              "timestamp": 1748757600000,
+              "date": "2025-06-01",
+              "price": 22500.0,
+              "raw_price_cents": 2250000
+            },
+            {
+              "timestamp": 1612162800000,
+              "date": "2021-02-01",
+              "price": 295300.0,
+              "raw_price_cents": 29530000
+            },
+            {
+              "timestamp": 1614582000000,
+              "date": "2021-03-01",
+              "price": 311800.0,
+              "raw_price_cents": 31180000
+            },
+            {
+              "timestamp": 1617256800000,
+              "date": "2021-04-01",
+              "price": 311800.0,
+              "raw_price_cents": 31180000
+            },
+            {
+              "timestamp": 1619848800000,
+              "date": "2021-05-01",
+              "price": 349995.0,
+              "raw_price_cents": 34999500
+            },
+            {
+              "timestamp": 1622527200000,
+              "date": "2021-06-01",
+              "price": 349995.0,
+              "raw_price_cents": 34999500
+            },
+            {
+              "timestamp": 1625119200000,
+              "date": "2021-07-01",
+              "price": 349995.0,
+              "raw_price_cents": 34999500
+            },
+            {
+              "timestamp": 1627797600000,
+              "date": "2021-08-01",
+              "price": 499999.0,
+              "raw_price_cents": 49999900
+            },
+            {
+              "timestamp": 1630476000000,
+              "date": "2021-09-01",
+              "price": 139251.28,
+              "raw_price_cents": 13925128
+            },
+            {
+              "timestamp": 1633068000000,
+              "date": "2021-10-01",
+              "price": 106816.99,
+              "raw_price_cents": 10681699
+            },
+            {
+              "timestamp": 1635746400000,
+              "date": "2021-11-01",
+              "price": 64681.09,
+              "raw_price_cents": 6468109
+            },
+            {
+              "timestamp": 1638342000000,
+              "date": "2021-12-01",
+              "price": 331126.97,
+              "raw_price_cents": 33112697
+            },
+            {
+              "timestamp": 1641020400000,
+              "date": "2022-01-01",
+              "price": 326682.57,
+              "raw_price_cents": 32668257
+            },
+            {
+              "timestamp": 1643698800000,
+              "date": "2022-02-01",
+              "price": 312555.39,
+              "raw_price_cents": 31255539
+            },
+            {
+              "timestamp": 1646118000000,
+              "date": "2022-03-01",
+              "price": 311811.81,
+              "raw_price_cents": 31181181
+            },
+            {
+              "timestamp": 1648792800000,
+              "date": "2022-04-01",
+              "price": 316548.06,
+              "raw_price_cents": 31654806
+            },
+            {
+              "timestamp": 1651384800000,
+              "date": "2022-05-01",
+              "price": 314832.36,
+              "raw_price_cents": 31483236
+            },
+            {
+              "timestamp": 1654063200000,
+              "date": "2022-06-01",
+              "price": 66663.37,
+              "raw_price_cents": 6666337
+            },
+            {
+              "timestamp": 1656655200000,
+              "date": "2022-07-01",
+              "price": 66663.37,
+              "raw_price_cents": 6666337
+            },
+            {
+              "timestamp": 1659333600000,
+              "date": "2022-08-01",
+              "price": 73079.87,
+              "raw_price_cents": 7307987
+            },
+            {
+              "timestamp": 1662012000000,
+              "date": "2022-09-01",
+              "price": 74018.78,
+              "raw_price_cents": 7401878
+            },
+            {
+              "timestamp": 1664604000000,
+              "date": "2022-10-01",
+              "price": 82092.02,
+              "raw_price_cents": 8209202
+            },
+            {
+              "timestamp": 1667282400000,
+              "date": "2022-11-01",
+              "price": 304006.07,
+              "raw_price_cents": 30400607
+            },
+            {
+              "timestamp": 1669878000000,
+              "date": "2022-12-01",
+              "price": 306246.08,
+              "raw_price_cents": 30624608
+            },
+            {
+              "timestamp": 1672556400000,
+              "date": "2023-01-01",
+              "price": 305553.89,
+              "raw_price_cents": 30555389
+            },
+            {
+              "timestamp": 1675234800000,
+              "date": "2023-02-01",
+              "price": 304965.88,
+              "raw_price_cents": 30496588
+            },
+            {
+              "timestamp": 1677654000000,
+              "date": "2023-03-01",
+              "price": 46766.5,
+              "raw_price_cents": 4676650
+            },
+            {
+              "timestamp": 1680328800000,
+              "date": "2023-04-01",
+              "price": 36766.0,
+              "raw_price_cents": 3676600
+            },
+            {
+              "timestamp": 1682920800000,
+              "date": "2023-05-01",
+              "price": 36766.0,
+              "raw_price_cents": 3676600
+            },
+            {
+              "timestamp": 1685599200000,
+              "date": "2023-06-01",
+              "price": 36766.0,
+              "raw_price_cents": 3676600
+            },
+            {
+              "timestamp": 1688191200000,
+              "date": "2023-07-01",
+              "price": 36766.0,
+              "raw_price_cents": 3676600
+            },
+            {
+              "timestamp": 1690869600000,
+              "date": "2023-08-01",
+              "price": 36766.0,
+              "raw_price_cents": 3676600
+            },
+            {
+              "timestamp": 1693548000000,
+              "date": "2023-09-01",
+              "price": 36766.0,
+              "raw_price_cents": 3676600
+            },
+            {
+              "timestamp": 1696140000000,
+              "date": "2023-10-01",
+              "price": 36766.0,
+              "raw_price_cents": 3676600
+            },
+            {
+              "timestamp": 1698818400000,
+              "date": "2023-11-01",
+              "price": 36766.0,
+              "raw_price_cents": 3676600
+            },
+            {
+              "timestamp": 1701414000000,
+              "date": "2023-12-01",
+              "price": 174350.25,
+              "raw_price_cents": 17435025
+            },
+            {
+              "timestamp": 1704092400000,
+              "date": "2024-01-01",
+              "price": 288801.0,
+              "raw_price_cents": 28880100
+            },
+            {
+              "timestamp": 1706770800000,
+              "date": "2024-02-01",
+              "price": 288801.0,
+              "raw_price_cents": 28880100
+            },
+            {
+              "timestamp": 1709276400000,
+              "date": "2024-03-01",
+              "price": 329336.8,
+              "raw_price_cents": 32933680
+            },
+            {
+              "timestamp": 1711951200000,
+              "date": "2024-04-01",
+              "price": 320432.05,
+              "raw_price_cents": 32043205
+            },
+            {
+              "timestamp": 1714543200000,
+              "date": "2024-05-01",
+              "price": 319999.0,
+              "raw_price_cents": 31999900
+            },
+            {
+              "timestamp": 1717221600000,
+              "date": "2024-06-01",
+              "price": 236923.37,
+              "raw_price_cents": 23692337
+            },
+            {
+              "timestamp": 1719813600000,
+              "date": "2024-07-01",
+              "price": 188745.7,
+              "raw_price_cents": 18874570
+            },
+            {
+              "timestamp": 1722492000000,
+              "date": "2024-08-01",
+              "price": 194650.0,
+              "raw_price_cents": 19465000
+            },
+            {
+              "timestamp": 1725170400000,
+              "date": "2024-09-01",
+              "price": 224418.02,
+              "raw_price_cents": 22441802
+            },
+            {
+              "timestamp": 1727762400000,
+              "date": "2024-10-01",
+              "price": 221468.04,
+              "raw_price_cents": 22146804
+            },
+            {
+              "timestamp": 1730440800000,
+              "date": "2024-11-01",
+              "price": 220803.53,
+              "raw_price_cents": 22080353
+            },
+            {
+              "timestamp": 1733036400000,
+              "date": "2024-12-01",
+              "price": 251338.24,
+              "raw_price_cents": 25133824
+            },
+            {
+              "timestamp": 1735714800000,
+              "date": "2025-01-01",
+              "price": 268908.08,
+              "raw_price_cents": 26890808
+            },
+            {
+              "timestamp": 1738393200000,
+              "date": "2025-02-01",
+              "price": 270858.95,
+              "raw_price_cents": 27085895
+            },
+            {
+              "timestamp": 1740812400000,
+              "date": "2025-03-01",
+              "price": 258294.18,
+              "raw_price_cents": 25829418
+            },
+            {
+              "timestamp": 1743487200000,
+              "date": "2025-04-01",
+              "price": 258568.13,
+              "raw_price_cents": 25856813
+            },
+            {
+              "timestamp": 1746079200000,
+              "date": "2025-05-01",
+              "price": 259510.08,
+              "raw_price_cents": 25951008
+            },
+            {
+              "timestamp": 1748757600000,
+              "date": "2025-06-01",
+              "price": 260323.99,
+              "raw_price_cents": 26032399
+            },
+            {
+              "timestamp": 1609484400000,
+              "date": "2021-01-01",
+              "price": 19500.5,
+              "raw_price_cents": 1950050
+            },
+            {
+              "timestamp": 1612162800000,
+              "date": "2021-02-01",
+              "price": 20634.71,
+              "raw_price_cents": 2063471
+            },
+            {
+              "timestamp": 1614582000000,
+              "date": "2021-03-01",
+              "price": 16964.59,
+              "raw_price_cents": 1696459
+            },
+            {
+              "timestamp": 1617256800000,
+              "date": "2021-04-01",
+              "price": 17872.67,
+              "raw_price_cents": 1787267
+            },
+            {
+              "timestamp": 1619848800000,
+              "date": "2021-05-01",
+              "price": 15100.0,
+              "raw_price_cents": 1510000
+            },
+            {
+              "timestamp": 1622527200000,
+              "date": "2021-06-01",
+              "price": 12277.5,
+              "raw_price_cents": 1227750
+            },
+            {
+              "timestamp": 1625119200000,
+              "date": "2021-07-01",
+              "price": 10097.75,
+              "raw_price_cents": 1009775
+            },
+            {
+              "timestamp": 1627797600000,
+              "date": "2021-08-01",
+              "price": 10926.89,
+              "raw_price_cents": 1092689
+            },
+            {
+              "timestamp": 1630476000000,
+              "date": "2021-09-01",
+              "price": 10100.0,
+              "raw_price_cents": 1010000
+            },
+            {
+              "timestamp": 1633068000000,
+              "date": "2021-10-01",
+              "price": 9650.0,
+              "raw_price_cents": 965000
+            },
+            {
+              "timestamp": 1635746400000,
+              "date": "2021-11-01",
+              "price": 11507.13,
+              "raw_price_cents": 1150713
+            },
+            {
+              "timestamp": 1638342000000,
+              "date": "2021-12-01",
+              "price": 11499.98,
+              "raw_price_cents": 1149998
+            },
+            {
+              "timestamp": 1641020400000,
+              "date": "2022-01-01",
+              "price": 9950.0,
+              "raw_price_cents": 995000
+            },
+            {
+              "timestamp": 1643698800000,
+              "date": "2022-02-01",
+              "price": 8242.86,
+              "raw_price_cents": 824286
+            },
+            {
+              "timestamp": 1646118000000,
+              "date": "2022-03-01",
+              "price": 9500.0,
+              "raw_price_cents": 950000
+            },
+            {
+              "timestamp": 1648792800000,
+              "date": "2022-04-01",
+              "price": 11175.0,
+              "raw_price_cents": 1117500
+            },
+            {
+              "timestamp": 1651384800000,
+              "date": "2022-05-01",
+              "price": 11750.0,
+              "raw_price_cents": 1175000
+            },
+            {
+              "timestamp": 1654063200000,
+              "date": "2022-06-01",
+              "price": 10167.01,
+              "raw_price_cents": 1016701
+            },
+            {
+              "timestamp": 1656655200000,
+              "date": "2022-07-01",
+              "price": 10201.63,
+              "raw_price_cents": 1020163
+            },
+            {
+              "timestamp": 1659333600000,
+              "date": "2022-08-01",
+              "price": 8999.99,
+              "raw_price_cents": 899999
+            },
+            {
+              "timestamp": 1662012000000,
+              "date": "2022-09-01",
+              "price": 10094.43,
+              "raw_price_cents": 1009443
+            },
+            {
+              "timestamp": 1664604000000,
+              "date": "2022-10-01",
+              "price": 11003.09,
+              "raw_price_cents": 1100309
+            },
+            {
+              "timestamp": 1667282400000,
+              "date": "2022-11-01",
+              "price": 11428.13,
+              "raw_price_cents": 1142813
+            },
+            {
+              "timestamp": 1669878000000,
+              "date": "2022-12-01",
+              "price": 11170.42,
+              "raw_price_cents": 1117042
+            },
+            {
+              "timestamp": 1672556400000,
+              "date": "2023-01-01",
+              "price": 11800.0,
+              "raw_price_cents": 1180000
+            },
+            {
+              "timestamp": 1675234800000,
+              "date": "2023-02-01",
+              "price": 9000.0,
+              "raw_price_cents": 900000
+            },
+            {
+              "timestamp": 1677654000000,
+              "date": "2023-03-01",
+              "price": 9000.0,
+              "raw_price_cents": 900000
+            },
+            {
+              "timestamp": 1680328800000,
+              "date": "2023-04-01",
+              "price": 10125.0,
+              "raw_price_cents": 1012500
+            },
+            {
+              "timestamp": 1682920800000,
+              "date": "2023-05-01",
+              "price": 9000.0,
+              "raw_price_cents": 900000
+            },
+            {
+              "timestamp": 1685599200000,
+              "date": "2023-06-01",
+              "price": 9100.0,
+              "raw_price_cents": 910000
+            },
+            {
+              "timestamp": 1688191200000,
+              "date": "2023-07-01",
+              "price": 11132.27,
+              "raw_price_cents": 1113227
+            },
+            {
+              "timestamp": 1690869600000,
+              "date": "2023-08-01",
+              "price": 11100.0,
+              "raw_price_cents": 1110000
+            },
+            {
+              "timestamp": 1693548000000,
+              "date": "2023-09-01",
+              "price": 10062.25,
+              "raw_price_cents": 1006225
+            },
+            {
+              "timestamp": 1696140000000,
+              "date": "2023-10-01",
+              "price": 9807.22,
+              "raw_price_cents": 980722
+            },
+            {
+              "timestamp": 1698818400000,
+              "date": "2023-11-01",
+              "price": 8115.56,
+              "raw_price_cents": 811556
+            },
+            {
+              "timestamp": 1701414000000,
+              "date": "2023-12-01",
+              "price": 8034.34,
+              "raw_price_cents": 803434
+            },
+            {
+              "timestamp": 1704092400000,
+              "date": "2024-01-01",
+              "price": 7482.64,
+              "raw_price_cents": 748264
+            },
+            {
+              "timestamp": 1706770800000,
+              "date": "2024-02-01",
+              "price": 8300.0,
+              "raw_price_cents": 830000
+            },
+            {
+              "timestamp": 1709276400000,
+              "date": "2024-03-01",
+              "price": 9348.35,
+              "raw_price_cents": 934835
+            },
+            {
+              "timestamp": 1711951200000,
+              "date": "2024-04-01",
+              "price": 9500.0,
+              "raw_price_cents": 950000
+            },
+            {
+              "timestamp": 1714543200000,
+              "date": "2024-05-01",
+              "price": 6446.28,
+              "raw_price_cents": 644628
+            },
+            {
+              "timestamp": 1717221600000,
+              "date": "2024-06-01",
+              "price": 8225.0,
+              "raw_price_cents": 822500
+            },
+            {
+              "timestamp": 1719813600000,
+              "date": "2024-07-01",
+              "price": 9426.95,
+              "raw_price_cents": 942695
+            },
+            {
+              "timestamp": 1722492000000,
+              "date": "2024-08-01",
+              "price": 8250.0,
+              "raw_price_cents": 825000
+            },
+            {
+              "timestamp": 1725170400000,
+              "date": "2024-09-01",
+              "price": 7950.0,
+              "raw_price_cents": 795000
+            },
+            {
+              "timestamp": 1727762400000,
+              "date": "2024-10-01",
+              "price": 8996.5,
+              "raw_price_cents": 899650
+            },
+            {
+              "timestamp": 1730440800000,
+              "date": "2024-11-01",
+              "price": 10755.05,
+              "raw_price_cents": 1075505
+            },
+            {
+              "timestamp": 1733036400000,
+              "date": "2024-12-01",
+              "price": 11200.0,
+              "raw_price_cents": 1120000
+            },
+            {
+              "timestamp": 1735714800000,
+              "date": "2025-01-01",
+              "price": 11419.21,
+              "raw_price_cents": 1141921
+            },
+            {
+              "timestamp": 1738393200000,
+              "date": "2025-02-01",
+              "price": 11361.6,
+              "raw_price_cents": 1136160
+            },
+            {
+              "timestamp": 1740812400000,
+              "date": "2025-03-01",
+              "price": 10898.33,
+              "raw_price_cents": 1089833
+            },
+            {
+              "timestamp": 1743487200000,
+              "date": "2025-04-01",
+              "price": 9868.74,
+              "raw_price_cents": 986874
+            },
+            {
+              "timestamp": 1746079200000,
+              "date": "2025-05-01",
+              "price": 10747.5,
+              "raw_price_cents": 1074750
+            },
+            {
+              "timestamp": 1748757600000,
+              "date": "2025-06-01",
+              "price": 11000.0,
+              "raw_price_cents": 1100000
+            },
+            {
+              "timestamp": 1609484400000,
+              "date": "2021-01-01",
+              "price": 872.13,
+              "raw_price_cents": 87213
+            },
+            {
+              "timestamp": 1612162800000,
+              "date": "2021-02-01",
+              "price": 352.94,
+              "raw_price_cents": 35294
+            },
+            {
+              "timestamp": 1614582000000,
+              "date": "2021-03-01",
+              "price": 4977.46,
+              "raw_price_cents": 497746
+            },
+            {
+              "timestamp": 1617256800000,
+              "date": "2021-04-01",
+              "price": 3700.0,
+              "raw_price_cents": 370000
+            },
+            {
+              "timestamp": 1619848800000,
+              "date": "2021-05-01",
+              "price": 3850.0,
+              "raw_price_cents": 385000
+            },
+            {
+              "timestamp": 1622527200000,
+              "date": "2021-06-01",
+              "price": 4183.0,
+              "raw_price_cents": 418300
+            },
+            {
+              "timestamp": 1625119200000,
+              "date": "2021-07-01",
+              "price": 4688.0,
+              "raw_price_cents": 468800
+            },
+            {
+              "timestamp": 1627797600000,
+              "date": "2021-08-01",
+              "price": 4525.0,
+              "raw_price_cents": 452500
+            },
+            {
+              "timestamp": 1630476000000,
+              "date": "2021-09-01",
+              "price": 3323.25,
+              "raw_price_cents": 332325
+            },
+            {
+              "timestamp": 1633068000000,
+              "date": "2021-10-01",
+              "price": 3959.5,
+              "raw_price_cents": 395950
+            },
+            {
+              "timestamp": 1635746400000,
+              "date": "2021-11-01",
+              "price": 3213.86,
+              "raw_price_cents": 321386
+            },
+            {
+              "timestamp": 1638342000000,
+              "date": "2021-12-01",
+              "price": 2828.12,
+              "raw_price_cents": 282812
+            },
+            {
+              "timestamp": 1641020400000,
+              "date": "2022-01-01",
+              "price": 2994.17,
+              "raw_price_cents": 299417
+            },
+            {
+              "timestamp": 1643698800000,
+              "date": "2022-02-01",
+              "price": 3713.0,
+              "raw_price_cents": 371300
+            },
+            {
+              "timestamp": 1646118000000,
+              "date": "2022-03-01",
+              "price": 3640.76,
+              "raw_price_cents": 364076
+            },
+            {
+              "timestamp": 1648792800000,
+              "date": "2022-04-01",
+              "price": 3698.89,
+              "raw_price_cents": 369889
+            },
+            {
+              "timestamp": 1651384800000,
+              "date": "2022-05-01",
+              "price": 4164.15,
+              "raw_price_cents": 416415
+            },
+            {
+              "timestamp": 1654063200000,
+              "date": "2022-06-01",
+              "price": 3737.31,
+              "raw_price_cents": 373731
+            },
+            {
+              "timestamp": 1656655200000,
+              "date": "2022-07-01",
+              "price": 4268.99,
+              "raw_price_cents": 426899
+            },
+            {
+              "timestamp": 1659333600000,
+              "date": "2022-08-01",
+              "price": 4026.0,
+              "raw_price_cents": 402600
+            },
+            {
+              "timestamp": 1662012000000,
+              "date": "2022-09-01",
+              "price": 3425.0,
+              "raw_price_cents": 342500
+            },
+            {
+              "timestamp": 1664604000000,
+              "date": "2022-10-01",
+              "price": 4006.95,
+              "raw_price_cents": 400695
+            },
+            {
+              "timestamp": 1667282400000,
+              "date": "2022-11-01",
+              "price": 4053.28,
+              "raw_price_cents": 405328
+            },
+            {
+              "timestamp": 1669878000000,
+              "date": "2022-12-01",
+              "price": 2566.75,
+              "raw_price_cents": 256675
+            },
+            {
+              "timestamp": 1672556400000,
+              "date": "2023-01-01",
+              "price": 3203.8,
+              "raw_price_cents": 320380
+            },
+            {
+              "timestamp": 1675234800000,
+              "date": "2023-02-01",
+              "price": 2875.0,
+              "raw_price_cents": 287500
+            },
+            {
+              "timestamp": 1677654000000,
+              "date": "2023-03-01",
+              "price": 2156.15,
+              "raw_price_cents": 215615
+            },
+            {
+              "timestamp": 1680328800000,
+              "date": "2023-04-01",
+              "price": 1791.3,
+              "raw_price_cents": 179130
+            },
+            {
+              "timestamp": 1682920800000,
+              "date": "2023-05-01",
+              "price": 1370.55,
+              "raw_price_cents": 137055
+            },
+            {
+              "timestamp": 1685599200000,
+              "date": "2023-06-01",
+              "price": 1346.99,
+              "raw_price_cents": 134699
+            },
+            {
+              "timestamp": 1688191200000,
+              "date": "2023-07-01",
+              "price": 1497.33,
+              "raw_price_cents": 149733
+            },
+            {
+              "timestamp": 1690869600000,
+              "date": "2023-08-01",
+              "price": 2050.0,
+              "raw_price_cents": 205000
+            },
+            {
+              "timestamp": 1693548000000,
+              "date": "2023-09-01",
+              "price": 1835.33,
+              "raw_price_cents": 183533
+            },
+            {
+              "timestamp": 1696140000000,
+              "date": "2023-10-01",
+              "price": 2177.8,
+              "raw_price_cents": 217780
+            },
+            {
+              "timestamp": 1698818400000,
+              "date": "2023-11-01",
+              "price": 1336.21,
+              "raw_price_cents": 133621
+            },
+            {
+              "timestamp": 1701414000000,
+              "date": "2023-12-01",
+              "price": 1765.04,
+              "raw_price_cents": 176504
+            },
+            {
+              "timestamp": 1704092400000,
+              "date": "2024-01-01",
+              "price": 1800.0,
+              "raw_price_cents": 180000
+            },
+            {
+              "timestamp": 1706770800000,
+              "date": "2024-02-01",
+              "price": 1231.72,
+              "raw_price_cents": 123172
+            },
+            {
+              "timestamp": 1709276400000,
+              "date": "2024-03-01",
+              "price": 1000.0,
+              "raw_price_cents": 100000
+            },
+            {
+              "timestamp": 1711951200000,
+              "date": "2024-04-01",
+              "price": 1200.0,
+              "raw_price_cents": 120000
+            },
+            {
+              "timestamp": 1714543200000,
+              "date": "2024-05-01",
+              "price": 1696.57,
+              "raw_price_cents": 169657
+            },
+            {
+              "timestamp": 1717221600000,
+              "date": "2024-06-01",
+              "price": 1750.0,
+              "raw_price_cents": 175000
+            },
+            {
+              "timestamp": 1719813600000,
+              "date": "2024-07-01",
+              "price": 2386.01,
+              "raw_price_cents": 238601
+            },
+            {
+              "timestamp": 1722492000000,
+              "date": "2024-08-01",
+              "price": 3375.0,
+              "raw_price_cents": 337500
+            },
+            {
+              "timestamp": 1725170400000,
+              "date": "2024-09-01",
+              "price": 3118.89,
+              "raw_price_cents": 311889
+            },
+            {
+              "timestamp": 1727762400000,
+              "date": "2024-10-01",
+              "price": 3925.0,
+              "raw_price_cents": 392500
+            },
+            {
+              "timestamp": 1730440800000,
+              "date": "2024-11-01",
+              "price": 3935.61,
+              "raw_price_cents": 393561
+            },
+            {
+              "timestamp": 1733036400000,
+              "date": "2024-12-01",
+              "price": 3655.2,
+              "raw_price_cents": 365520
+            },
+            {
+              "timestamp": 1735714800000,
+              "date": "2025-01-01",
+              "price": 3555.28,
+              "raw_price_cents": 355528
+            },
+            {
+              "timestamp": 1738393200000,
+              "date": "2025-02-01",
+              "price": 4175.0,
+              "raw_price_cents": 417500
+            },
+            {
+              "timestamp": 1740812400000,
+              "date": "2025-03-01",
+              "price": 3900.0,
+              "raw_price_cents": 390000
+            },
+            {
+              "timestamp": 1743487200000,
+              "date": "2025-04-01",
+              "price": 5312.93,
+              "raw_price_cents": 531293
+            },
+            {
+              "timestamp": 1746079200000,
+              "date": "2025-05-01",
+              "price": 5125.46,
+              "raw_price_cents": 512546
+            },
+            {
+              "timestamp": 1748757600000,
+              "date": "2025-06-01",
+              "price": 5396.01,
+              "raw_price_cents": 539601
+            }
+          ],
+          "product_info": {
+            "title": "Charizard [1st Edition] #4 \n        \n            Pokemon Base Set"
+          },
+          "scrape_timestamp": "2025-06-29T09:54:50.562096"
+        }
+      }
+    ],
+    "sealed_products": [],
+    "total_items_processed": 3,
+    "successful_scrapes": 3,
+    "failed_scrapes": 0,
+    "errors": []
+  },
+  "processing_time": 82.73075890541077,
+  "status": "completed"
+}

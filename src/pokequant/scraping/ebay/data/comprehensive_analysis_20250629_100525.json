@@ -1,0 +1,30 @@
+{
+  "start_time": "2025-06-29T10:04:45.784215",
+  "cards_analyzed": 2,
+  "sealed_products_analyzed": 0,
+  "ebay_results": {
+    "selection_strategy": "curated",
+    "total_cards_selected": 2,
+    "total_cards_processed": 2,
+    "total_searches_executed": 6,
+    "total_listings_found": 370,
+    "total_listings_uploaded": 370,
+    "failed_cards": [],
+    "errors": [],
+    "batch_results": [
+      {
+        "batch_number": 1,
+        "cards_processed": 2,
+        "searches_executed": 6,
+        "listings_found": 370,
+        "listings_uploaded": 370,
+        "failed_cards": [],
+        "errors": []
+      }
+    ],
+    "processing_time": 39.56649088859558
+  },
+  "pricecharting_results": {},
+  "processing_time": 42.23727250099182,
+  "status": "completed"
+}
